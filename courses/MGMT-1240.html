@@ -12,7 +12,9 @@
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -97,7 +99,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>
@@ -129,7 +131,7 @@
                     <li>Graham C. Knowles</li>
                   </ul>
                   <span class="course-capacity">
-                    Seats Taken: 0/93
+                    Seats Taken: 0/70
                   </span>
                 </div>
               </td>

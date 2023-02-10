@@ -5,14 +5,16 @@
       MANE-4290 - Radiation Transport Methods
     </title>
     <meta property="og:title" content="MANE-4290 - Radiation Transport Methods">
-    <meta property="og:description" content="This course will present the foundations of numerical (deterministic) and Monte Carlo methods that are widely used in the modeling and analysis of nuclear reactor design, radiation dosimetry, and radiation shielding. Emphasis will be placed on the three fundamental aspects of computation methods: (i) discretization methods for the transport and diffusion equations; (ii) iterative methods for solving the system of discretized equations; and (iii) Monte Carlo methods for solving general fixed-source and eigenvalue problems.">
+    <meta property="og:description" content="This course will present the foundations of numerical (deterministic) and Monte Carlo methods that are widely used in the modeling and analysis of nuclear reactor design, radiation dosimetry, and radiation shielding.Â Emphasis will be placed on the three fundamental aspects of computation methods: (i) discretization methods for the transport and diffusion equations; (ii) iterative methods for solving the system of discretized equations; and (iii) Monte Carlo methods for solving general fixed-source and eigenvalue problems.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           MANE-4290
         </h2>
         <p>
-          This course will present the foundations of numerical (deterministic) and Monte Carlo methods that are widely used in the modeling and analysis of nuclear reactor design, radiation dosimetry, and radiation shielding. Emphasis will be placed on the three fundamental aspects of computation methods: (i) discretization methods for the transport and diffusion equations; (ii) iterative methods for solving the system of discretized equations; and (iii) Monte Carlo methods for solving general fixed-source and eigenvalue problems.
+          This course will present the foundations of numerical (deterministic) and Monte Carlo methods that are widely used in the modeling and analysis of nuclear reactor design, radiation dosimetry, and radiation shielding.Â Emphasis will be placed on the three fundamental aspects of computation methods: (i) discretization methods for the transport and diffusion equations; (ii) iterative methods for solving the system of discretized equations; and (iii) Monte Carlo methods for solving general fixed-source and eigenvalue problems.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

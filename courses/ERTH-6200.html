@@ -5,14 +5,16 @@
       ERTH-6200 - Advanced Applied Micropaleontology
     </title>
     <meta property="og:title" content="ERTH-6200 - Advanced Applied Micropaleontology">
-    <meta property="og:description" content="This course will encompass marine, freshwater, and terrestrial microfossils (with emphasis on foraminifera), including taxonomy, evolutionary history, ecology and paleoenvironments, and a broad spectrum of micropaleontological applications, such as sea-level and climate reconstructions, geochemical analyses, oil industry research and production, and forensic geology. This course will also cover concepts of biostratigraphy and micropaleontological applications to stratigraphic correlation and time scale construction. Extensive hands-on microscope and lab work will be required.">
+    <meta property="og:description" content="This course will encompass marine, freshwater, and terrestrial microfossils (with emphasis on foraminifera), including taxonomy, evolutionary history, ecology and paleoenvironments, and a broad spectrum of micropaleontological applications, such as sea-level and climate reconstructions, geochemical analyses, oil industry research and production, and forensic geology. This course will also cover concepts of biostratigraphy and micropaleontological applications to stratigraphic correlation and time scale construction. Extensive hands-on microscope and lab work will be required. Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           ERTH-6200
         </h2>
         <p>
-          This course will encompass marine, freshwater, and terrestrial microfossils (with emphasis on foraminifera), including taxonomy, evolutionary history, ecology and paleoenvironments, and a broad spectrum of micropaleontological applications, such as sea-level and climate reconstructions, geochemical analyses, oil industry research and production, and forensic geology. This course will also cover concepts of biostratigraphy and micropaleontological applications to stratigraphic correlation and time scale construction. Extensive hands-on microscope and lab work will be required.
+          This course will encompass marine, freshwater, and terrestrial microfossils (with emphasis on foraminifera), including taxonomy, evolutionary history, ecology and paleoenvironments, and a broad spectrum of micropaleontological applications, such as sea-level and climate reconstructions, geochemical analyses, oil industry research and production, and forensic geology. This course will also cover concepts of biostratigraphy and micropaleontological applications to stratigraphic correlation and time scale construction. Extensive hands-on microscope and lab work will be required. Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -99,7 +101,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

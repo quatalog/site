@@ -5,14 +5,16 @@
       BIOL-4220 - Machine Learning for Environmental Biology
     </title>
     <meta property="og:title" content="BIOL-4220 - Machine Learning for Environmental Biology">
-    <meta property="og:description" content="This course is designed to create an applied learning environment to introduce students to large scale datasets in the environmental field and learn advanced techniques for analyzing them. Students will learn multivariate data exploration techniques, evaluate the quality of large datasets, and analyze the data using machine learning techniques. Specifically students will propose, develop, and finalize projects where they will apply machine learning approaches to datasets to understand complex environmental biology processes. Along with these topics, students will learn to critically read current scientific literature relevant to their projects.">
+    <meta property="og:description" content="This course is designed to create an applied learning environment to introduce students to large scale datasets in the environmental field and learn advanced techniques for analyzing them. Students will learn multivariate data exploration techniques, evaluate the quality of large datasets, and analyze the data using machine learning techniques. Specifically students will propose, develop, and finalize projects where they will apply machine learning approaches to datasets to understand complex environmental biology processes. Along with these topics, students will learn to critically read current scientific literature relevant to their projects.Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           BIOL-4220
         </h2>
         <p>
-          This course is designed to create an applied learning environment to introduce students to large scale datasets in the environmental field and learn advanced techniques for analyzing them. Students will learn multivariate data exploration techniques, evaluate the quality of large datasets, and analyze the data using machine learning techniques. Specifically students will propose, develop, and finalize projects where they will apply machine learning approaches to datasets to understand complex environmental biology processes. Along with these topics, students will learn to critically read current scientific literature relevant to their projects.
+          This course is designed to create an applied learning environment to introduce students to large scale datasets in the environmental field and learn advanced techniques for analyzing them. Students will learn multivariate data exploration techniques, evaluate the quality of large datasets, and analyze the data using machine learning techniques. Specifically students will propose, develop, and finalize projects where they will apply machine learning approaches to datasets to understand complex environmental biology processes. Along with these topics, students will learn to critically read current scientific literature relevant to their projects.Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -89,7 +91,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

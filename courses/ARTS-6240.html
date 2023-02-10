@@ -5,14 +5,16 @@
       ARTS-6240 - Eco Chic: Living Art
     </title>
     <meta property="og:title" content="ARTS-6240 - Eco Chic: Living Art">
-    <meta property="og:description" content="Eco Chic: Living Art is an upper level production and theory class about art, biology, and the study of life covering topics such as environmentalism, land art, food art, sustainable practices with art, body art, bio-art. Part lecture, part hands-on workshop, Eco Chic encourages students to redefine and experimentally express their relationships with the varied aspects of everyday living systems and manipulating life.">
+    <meta property="og:description" content="Eco Chic: Living Art is an upper level production and theory class about art, biology, and the study of life covering topics such as environmentalism, land art, food art, sustainable practices with art, body art, bio-art.Â Part lecture, part hands-on workshop, Eco Chic encourages students to redefine and experimentally express their relationships with the varied aspects of everyday living systems and manipulating life.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           ARTS-6240
         </h2>
         <p>
-          Eco Chic: Living Art is an upper level production and theory class about art, biology, and the study of life covering topics such as environmentalism, land art, food art, sustainable practices with art, body art, bio-art. Part lecture, part hands-on workshop, Eco Chic encourages students to redefine and experimentally express their relationships with the varied aspects of everyday living systems and manipulating life.
+          Eco Chic: Living Art is an upper level production and theory class about art, biology, and the study of life covering topics such as environmentalism, land art, food art, sustainable practices with art, body art, bio-art.Â Part lecture, part hands-on workshop, Eco Chic encourages students to redefine and experimentally express their relationships with the varied aspects of everyday living systems and manipulating life.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

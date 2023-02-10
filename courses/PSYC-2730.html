@@ -5,14 +5,16 @@
       PSYC-2730 - Social Psychology
     </title>
     <meta property="og:title" content="PSYC-2730 - Social Psychology">
-    <meta property="og:description" content="This is a survey course covering theories, methods, and empirical research on personal and situational factors influencing social behavior. Topics covered include social perception, the construction of social reality, decision making, group influences on behavior, and attitudes.">
+    <meta property="og:description" content="This is a survey course covering theories, methods, and empirical research on personal and situational factors influencing social behavior. Topics covered include social perception, the construction of social reality, decision making, group influences on behavior, and attitudes.Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           PSYC-2730
         </h2>
         <p>
-          This is a survey course covering theories, methods, and empirical research on personal and situational factors influencing social behavior. Topics covered include social perception, the construction of social reality, decision making, group influences on behavior, and attitudes.
+          This is a survey course covering theories, methods, and empirical research on personal and situational factors influencing social behavior. Topics covered include social perception, the construction of social reality, decision making, group influences on behavior, and attitudes.Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -92,7 +94,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

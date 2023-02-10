@@ -5,14 +5,16 @@
       BIOL-6520 - Biology Core Course II
     </title>
     <meta property="og:title" content="BIOL-6520 - Biology Core Course II">
-    <meta property="og:description" content="An intensive course designed to provide instruction and stimulate discussion on important topics relevant to biological research. It is loosely divided into three sections: 1) overview of major areas of faculty research; 2) professional development topics such as hypothesis testing and design of experiments, responsible use of statistics, and scientific funding; and 3) scientific writing. This course is required of and limited to first year students in the Biology and Biochemistry/Biophysics Ph.D. programs.">
+    <meta property="og:description" content="An intensive course designed to provide instruction and stimulate discussion on important topics relevant to biological research.Â It is loosely divided into three sections: 1) overview of major areas of faculty research; 2) professional development topics such as hypothesis testing and design of experiments, responsible use of statistics, and scientific funding; and 3) scientific writing. This course is required of and limited to first year students in the Biology and Biochemistry/Biophysics Ph.D. programs.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           BIOL-6520
         </h2>
         <p>
-          An intensive course designed to provide instruction and stimulate discussion on important topics relevant to biological research. It is loosely divided into three sections: 1) overview of major areas of faculty research; 2) professional development topics such as hypothesis testing and design of experiments, responsible use of statistics, and scientific funding; and 3) scientific writing. This course is required of and limited to first year students in the Biology and Biochemistry/Biophysics Ph.D. programs.
+          An intensive course designed to provide instruction and stimulate discussion on important topics relevant to biological research.Â It is loosely divided into three sections: 1) overview of major areas of faculty research; 2) professional development topics such as hypothesis testing and design of experiments, responsible use of statistics, and scientific funding; and 3) scientific writing. This course is required of and limited to first year students in the Biology and Biochemistry/Biophysics Ph.D. programs.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

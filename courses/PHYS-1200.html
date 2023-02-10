@@ -5,14 +5,16 @@
       PHYS-1200 - Physics II
     </title>
     <meta property="og:title" content="PHYS-1200 - Physics II">
-    <meta property="og:description" content="The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss's Law, dc and ac circuits, Ampere's Law and Faraday's Law, electromagnetic radiation, physical optics, and quantum physics.">
+    <meta property="og:description" content="The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss's Law,Â dc and ac circuits, Ampere's Law and Faraday's Law, electromagnetic radiation, physical optics, and quantum physics.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           PHYS-1200
         </h2>
         <p>
-          The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss's Law, dc and ac circuits, Ampere's Law and Faraday's Law, electromagnetic radiation, physical optics, and quantum physics.
+          The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss's Law,Â dc and ac circuits, Ampere's Law and Faraday's Law, electromagnetic radiation, physical optics, and quantum physics.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -101,7 +103,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

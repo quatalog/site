@@ -5,14 +5,16 @@
       CHEM-4710 - Chemical Biology
     </title>
     <meta property="og:title" content="CHEM-4710 - Chemical Biology">
-    <meta property="og:description" content="This course introduces the fundamentals of protein structure and function with an emphasis on chemical concepts as applied to biological problems. It provides an introduction to enzymatic reaction mechanisms and includes interactive hands-on computer-aided visualization exercises. The goal is to equip students with an understanding and appreciation for the diversity and versatility of protein function. This course is intended for upper-level undergraduate students in the School of Science and Engineering. Students cannot get credit for both this course and CHEM 6710 .">
+    <meta property="og:description" content="This course introduces the fundamentals of protein structure and function with an emphasis on chemical concepts as applied to biological problems. It provides an introduction to enzymatic reaction mechanisms and includes interactive hands-on computer-aided visualization exercises. The goal is to equip students with an understanding and appreciation for the diversity and versatility of protein function. This course is intended for upper-level undergraduate students in the School of Science and Engineering. Students cannot get credit for both this course and CHEM 6710 . Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           CHEM-4710
         </h2>
         <p>
-          This course introduces the fundamentals of protein structure and function with an emphasis on chemical concepts as applied to biological problems. It provides an introduction to enzymatic reaction mechanisms and includes interactive hands-on computer-aided visualization exercises. The goal is to equip students with an understanding and appreciation for the diversity and versatility of protein function. This course is intended for upper-level undergraduate students in the School of Science and Engineering. Students cannot get credit for both this course and CHEM 6710 .
+          This course introduces the fundamentals of protein structure and function with an emphasis on chemical concepts as applied to biological problems. It provides an introduction to enzymatic reaction mechanisms and includes interactive hands-on computer-aided visualization exercises. The goal is to equip students with an understanding and appreciation for the diversity and versatility of protein function. This course is intended for upper-level undergraduate students in the School of Science and Engineering. Students cannot get credit for both this course and CHEM 6710 . Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

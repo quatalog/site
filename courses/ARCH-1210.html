@@ -5,14 +5,16 @@
       ARCH-1210 - Advanced Architecture Career Discovery Program
     </title>
     <meta property="og:title" content="ARCH-1210 - Advanced Architecture Career Discovery Program">
-    <meta property="og:description" content="Similar structure as the Beginners program. The Advanced program will continue to cultivate design foundations explored in the Beginners course. Dates: TBA. 9:00 am - 4:00 pm.">
+    <meta property="og:description" content="Similar structure as the Beginners program.Â The Advanced program will continue to cultivate design foundations explored in the Beginners course.Â Dates: TBA. 9:00 am - 4:00 pm.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           ARCH-1210
         </h2>
         <p>
-          Similar structure as the Beginners program. The Advanced program will continue to cultivate design foundations explored in the Beginners course. Dates: TBA. 9:00 am - 4:00 pm.
+          Similar structure as the Beginners program.Â The Advanced program will continue to cultivate design foundations explored in the Beginners course.Â Dates: TBA. 9:00 am - 4:00 pm.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

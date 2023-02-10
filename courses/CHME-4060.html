@@ -5,14 +5,16 @@
       CHME-4060 - Chemical Process Design: Applications
     </title>
     <meta property="og:title" content="CHME-4060 - Chemical Process Design: Applications">
-    <meta property="og:description" content="A continuation of CHME 4050 . Topics include chemical plant design including full economic analysis, implementation of safety protocols, plant layout design, and complete feasibility study. Projects can be chosen from a wide variety of chemical and bioprocesses to study different aspects of chemical industry.">
+    <meta property="og:description" content="A continuation of CHME 4050 Â . Topics include chemical plant design including full economic analysis, implementation of safety protocols, plant layout design, and complete feasibility study. Projects can be chosen from a wide variety of chemical and bioprocesses to study different aspects of chemical industry.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           CHME-4060
         </h2>
         <p>
-          A continuation of CHME 4050 . Topics include chemical plant design including full economic analysis, implementation of safety protocols, plant layout design, and complete feasibility study. Projects can be chosen from a wide variety of chemical and bioprocesses to study different aspects of chemical industry.
+          A continuation of CHME 4050 Â . Topics include chemical plant design including full economic analysis, implementation of safety protocols, plant layout design, and complete feasibility study. Projects can be chosen from a wide variety of chemical and bioprocesses to study different aspects of chemical industry.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

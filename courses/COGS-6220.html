@@ -5,14 +5,16 @@
       COGS-6220 - Cognitive Modeling II
     </title>
     <meta property="og:title" content="COGS-6220 - Cognitive Modeling II">
-    <meta property="og:description" content="This is a graduate level course that extends the objectives of Cognitive Modeling I to additional cognitive architectures. The first part of the course is a survey of cognitive modeling paradigms. The second part will be a more in-depth coverage of two or three architectures and will be done by teams of students. Each team will study one architecture including the development of a model.">
+    <meta property="og:description" content="This is a graduate level course that extends the objectives of Cognitive Modeling I to additional cognitive architectures. The first part of the course is a survey of cognitive modeling paradigms. The second part will be a more in-depth coverage ofÂ two or three architectures and will be done by teams of students. Each team will study one architecture including the development of a model.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           COGS-6220
         </h2>
         <p>
-          This is a graduate level course that extends the objectives of Cognitive Modeling I to additional cognitive architectures. The first part of the course is a survey of cognitive modeling paradigms. The second part will be a more in-depth coverage of two or three architectures and will be done by teams of students. Each team will study one architecture including the development of a model.
+          This is a graduate level course that extends the objectives of Cognitive Modeling I to additional cognitive architectures. The first part of the course is a survey of cognitive modeling paradigms. The second part will be a more in-depth coverage ofÂ two or three architectures and will be done by teams of students. Each team will study one architecture including the development of a model.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

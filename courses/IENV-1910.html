@@ -5,14 +5,16 @@
       IENV-1910 - Environmental Seminar
     </title>
     <meta property="og:title" content="IENV-1910 - Environmental Seminar">
-    <meta property="og:description" content="Topical issues in environmental sciences covered in a seminar and discussion format, with field trips. Seminar includes guest speakers from academics, industry, non-profits, and government who are experts in an array of environment-related fields. Each class includes weekly reading and short writing assignments. A short, final research paper is required (~10 pgs.).">
+    <meta property="og:description" content="Topical issues in environmental sciences covered in a seminar and discussion format, with field trips.Â Seminar includes guest speakers from academics, industry, non-profits, and government who are experts in an array of environment-related fields. Each class includes weekly reading and short writing assignments. A short, final research paper is required (~10 pgs.).">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           IENV-1910
         </h2>
         <p>
-          Topical issues in environmental sciences covered in a seminar and discussion format, with field trips. Seminar includes guest speakers from academics, industry, non-profits, and government who are experts in an array of environment-related fields. Each class includes weekly reading and short writing assignments. A short, final research paper is required (~10 pgs.).
+          Topical issues in environmental sciences covered in a seminar and discussion format, with field trips.Â Seminar includes guest speakers from academics, industry, non-profits, and government who are experts in an array of environment-related fields. Each class includes weekly reading and short writing assignments. A short, final research paper is required (~10 pgs.).
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -94,7 +96,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

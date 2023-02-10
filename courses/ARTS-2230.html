@@ -5,14 +5,16 @@
       ARTS-2230 - 3D Digital Modeling
     </title>
     <meta property="og:title" content="ARTS-2230 - 3D Digital Modeling">
-    <meta property="og:description" content="A foundational course in concepts and techniques in digital 3D, for animation, games, and digital art. This course focuses on methods and aesthetics in creating digital 3D objects, spaces, and characters, including modeling, texturing, and lighting, as preparation for further courses in the 3D Animation curriculum.">
+    <meta property="og:description" content="A foundational course in concepts and techniques in digital 3D, for animation, games, and digital art. This course focuses on methods and aesthetics in creating digital 3D objects, spaces, and characters, including modeling, texturing, and lighting, as preparation for further courses in the 3D Animation curriculum. Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           ARTS-2230
         </h2>
         <p>
-          A foundational course in concepts and techniques in digital 3D, for animation, games, and digital art. This course focuses on methods and aesthetics in creating digital 3D objects, spaces, and characters, including modeling, texturing, and lighting, as preparation for further courses in the 3D Animation curriculum.
+          A foundational course in concepts and techniques in digital 3D, for animation, games, and digital art. This course focuses on methods and aesthetics in creating digital 3D objects, spaces, and characters, including modeling, texturing, and lighting, as preparation for further courses in the 3D Animation curriculum. Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

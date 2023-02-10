@@ -5,14 +5,16 @@
       CHEM-4200 - Industrial Chemistry
     </title>
     <meta property="og:title" content="CHEM-4200 - Industrial Chemistry">
-    <meta property="og:description" content="This course is designed for students in chemistry and chemical engineering to provide an understanding of the economics and various driving forces for large scale production of chemicals. Students will learn about processes from the refining of raw materials to the manufacturing of common chemicals, polymers, metallurgy, and some pharmaceuticals. In addition, students will be exposed to the patenting process, environmental and safety regulations, project management, ISO9000 and other quality management methodologies.">
+    <meta property="og:description" content="This course is designed for students in chemistry and chemical engineering to provide an understanding of the economics and various driving forces for large scale production of chemicals.Â Students will learn about processes from the refining of raw materials to the manufacturing of common chemicals, polymers, metallurgy, and some pharmaceuticals.Â In addition, students will be exposed to the patenting process, environmental and safety regulations, project management, ISO9000 and other quality management methodologies. Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           CHEM-4200
         </h2>
         <p>
-          This course is designed for students in chemistry and chemical engineering to provide an understanding of the economics and various driving forces for large scale production of chemicals. Students will learn about processes from the refining of raw materials to the manufacturing of common chemicals, polymers, metallurgy, and some pharmaceuticals. In addition, students will be exposed to the patenting process, environmental and safety regulations, project management, ISO9000 and other quality management methodologies.
+          This course is designed for students in chemistry and chemical engineering to provide an understanding of the economics and various driving forces for large scale production of chemicals.Â Students will learn about processes from the refining of raw materials to the manufacturing of common chemicals, polymers, metallurgy, and some pharmaceuticals.Â In addition, students will be exposed to the patenting process, environmental and safety regulations, project management, ISO9000 and other quality management methodologies. Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -89,7 +91,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

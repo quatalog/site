@@ -5,14 +5,16 @@
       ARCH-4010 - Seminar in Sensory Culture
     </title>
     <meta property="og:title" content="ARCH-4010 - Seminar in Sensory Culture">
-    <meta property="og:description" content="This seminar examines human perception from a designer's perspective. It draws on perspectives from the sciences, arts, and humanities in order to build an understanding of how people perceive and interact with the environments they create. One cannot only read about perception; the seminar will augment reading with a range of direct experiences as source material for discussion.">
+    <meta property="og:description" content="This seminar examines human perception from a designer's perspective. It draws on perspectives from the sciences, arts, and humanities in order to build an understanding of how people perceive and interact with the environments they create. One cannot only read about perception;Â the seminar will augment reading with a range of direct experiences as source material for discussion. Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           ARCH-4010
         </h2>
         <p>
-          This seminar examines human perception from a designer's perspective. It draws on perspectives from the sciences, arts, and humanities in order to build an understanding of how people perceive and interact with the environments they create. One cannot only read about perception; the seminar will augment reading with a range of direct experiences as source material for discussion.
+          This seminar examines human perception from a designer's perspective. It draws on perspectives from the sciences, arts, and humanities in order to build an understanding of how people perceive and interact with the environments they create. One cannot only read about perception;Â the seminar will augment reading with a range of direct experiences as source material for discussion. Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

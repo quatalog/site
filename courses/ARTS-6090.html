@@ -5,14 +5,16 @@
       ARTS-6090 - Art and Code and Interactivity
     </title>
     <meta property="og:title" content="ARTS-6090 - Art and Code and Interactivity">
-    <meta property="og:description" content="This course is primarily concerned with learning how to build any interactive experience or artwork from concept to completion. It will introduce open-source, cross-platform programming libraries and tools used by artists and programmers to create interactive experiences and artworks for museum installations, festivals, VJ-ing, projection mapping, interactive experiences/artworks, and more. Then, the course starts to address the questions: Is code an art form? What is interactive art? Is software art?">
+    <meta property="og:description" content="This course is primarily concerned with learning how to build any interactive experience or artwork from concept to completion. It will introduce open-source, cross-platform programming libraries and tools used by artists and programmers to create interactive experiences and artworks for museum installations, festivals, VJ-ing, projection mapping, interactive experiences/artworks, and more. Then, the courseÂ starts to address the questions: Is code an art form? What is interactive art? Is software art?">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           ARTS-6090
         </h2>
         <p>
-          This course is primarily concerned with learning how to build any interactive experience or artwork from concept to completion. It will introduce open-source, cross-platform programming libraries and tools used by artists and programmers to create interactive experiences and artworks for museum installations, festivals, VJ-ing, projection mapping, interactive experiences/artworks, and more. Then, the course starts to address the questions: Is code an art form? What is interactive art? Is software art?
+          This course is primarily concerned with learning how to build any interactive experience or artwork from concept to completion. It will introduce open-source, cross-platform programming libraries and tools used by artists and programmers to create interactive experiences and artworks for museum installations, festivals, VJ-ing, projection mapping, interactive experiences/artworks, and more. Then, the courseÂ starts to address the questions: Is code an art form? What is interactive art? Is software art?
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -99,7 +101,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

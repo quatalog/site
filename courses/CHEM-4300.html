@@ -5,14 +5,16 @@
       CHEM-4300 - Medicinal Chemistry
     </title>
     <meta property="og:title" content="CHEM-4300 - Medicinal Chemistry">
-    <meta property="og:description" content="This course explores the fundamental principles that define the relationship between chemical structure and the biological action of drug molecules. A major focus of the course is the application of these chemical principles to molecular-targeted drug discovery, molecular mechanisms of pharmacological activity, and the biopharmaceutical properties of drugs. The relationships between drug structure, therapeutic properties, and physicochemical characteristics will be discussed. Structure activity relationships (SAR), structure-property relationships (SPR) and ADME (absorption, distribution, metabolism, and excretion) will be explored and presented through case studies. The roles of computational chemistry, molecular modeling, and biophysical methods in the understanding of the relationship between structure and biological activity will also be studied. Although an emphasis will be placed on orally bioavailable small molecules, alternative drug modalities will also be discussed.">
+    <meta property="og:description" content="This course explores the fundamental principles that define the relationship between chemical structure and the biological action of drug molecules.Â A major focus of the course is the application of these chemical principles to molecular-targeted drug discovery, molecular mechanisms of pharmacological activity, and the biopharmaceutical properties of drugs.Â The relationships between drug structure, therapeutic properties, and physicochemical characteristics will be discussed. Structure activity relationships (SAR), structure-property relationships (SPR) and ADME (absorption, distribution, metabolism, and excretion) will be explored and presented through case studies.Â The roles of computational chemistry, molecular modeling, and biophysical methods in the understanding of the relationship between structure and biological activity will also be studied. Although an emphasis will be placed on orally bioavailable small molecules, alternative drug modalities will also be discussed.Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           CHEM-4300
         </h2>
         <p>
-          This course explores the fundamental principles that define the relationship between chemical structure and the biological action of drug molecules. A major focus of the course is the application of these chemical principles to molecular-targeted drug discovery, molecular mechanisms of pharmacological activity, and the biopharmaceutical properties of drugs. The relationships between drug structure, therapeutic properties, and physicochemical characteristics will be discussed. Structure activity relationships (SAR), structure-property relationships (SPR) and ADME (absorption, distribution, metabolism, and excretion) will be explored and presented through case studies. The roles of computational chemistry, molecular modeling, and biophysical methods in the understanding of the relationship between structure and biological activity will also be studied. Although an emphasis will be placed on orally bioavailable small molecules, alternative drug modalities will also be discussed.
+          This course explores the fundamental principles that define the relationship between chemical structure and the biological action of drug molecules.Â A major focus of the course is the application of these chemical principles to molecular-targeted drug discovery, molecular mechanisms of pharmacological activity, and the biopharmaceutical properties of drugs.Â The relationships between drug structure, therapeutic properties, and physicochemical characteristics will be discussed. Structure activity relationships (SAR), structure-property relationships (SPR) and ADME (absorption, distribution, metabolism, and excretion) will be explored and presented through case studies.Â The roles of computational chemistry, molecular modeling, and biophysical methods in the understanding of the relationship between structure and biological activity will also be studied. Although an emphasis will be placed on orally bioavailable small molecules, alternative drug modalities will also be discussed.Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -97,7 +99,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

@@ -5,14 +5,16 @@
       ARCH-1200 - Beginners Architecture Career Discovery Program
     </title>
     <meta property="og:title" content="ARCH-1200 - Beginners Architecture Career Discovery Program">
-    <meta property="og:description" content="Two-week introduction to architecture for rising high school juniors and seniors includes morning programs and introductory lectures in history and theory of architecture, computing and simulation, freehand and extreme drawing, building ecologies, building conservation, and construction systems. There will be field trips and career counseling. Afternoons will have individually critiqued (tutored) design studios, group and individual projects, reviews, and public presentation. Acts as an opportunity for career discovery to decide whether a design education in architecture is appropriate. Summer term annually. Dates TBA. 9:00 am - 4:00 pm.">
+    <meta property="og:description" content="Two-week introduction to architecture for rising high school juniors and seniors includes morning programs and introductory lectures in history and theory of architecture, computing and simulation, freehand and extreme drawing, building ecologies, building conservation, and construction systems.Â There will be field trips and career counseling.Â Afternoons will have individually critiqued (tutored) design studios, group and individual projects, reviews, and public presentation.Â Acts as an opportunity for career discovery to decide whether a design education in architecture is appropriate.Â Summer term annually.Â Dates TBA. 9:00 am - 4:00 pm.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           ARCH-1200
         </h2>
         <p>
-          Two-week introduction to architecture for rising high school juniors and seniors includes morning programs and introductory lectures in history and theory of architecture, computing and simulation, freehand and extreme drawing, building ecologies, building conservation, and construction systems. There will be field trips and career counseling. Afternoons will have individually critiqued (tutored) design studios, group and individual projects, reviews, and public presentation. Acts as an opportunity for career discovery to decide whether a design education in architecture is appropriate. Summer term annually. Dates TBA. 9:00 am - 4:00 pm.
+          Two-week introduction to architecture for rising high school juniors and seniors includes morning programs and introductory lectures in history and theory of architecture, computing and simulation, freehand and extreme drawing, building ecologies, building conservation, and construction systems.Â There will be field trips and career counseling.Â Afternoons will have individually critiqued (tutored) design studios, group and individual projects, reviews, and public presentation.Â Acts as an opportunity for career discovery to decide whether a design education in architecture is appropriate.Â Summer term annually.Â Dates TBA. 9:00 am - 4:00 pm.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

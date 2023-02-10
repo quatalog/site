@@ -5,14 +5,16 @@
       ARTS-2380 - Music and Sound I
     </title>
     <meta property="og:title" content="ARTS-2380 - Music and Sound I">
-    <meta property="og:description" content="The first in a two-course sequence combining music theory, musicianship, and engaged listening practices applicable to a broad range of traditional and contemporary musical styles, with an emphasis on creative practice. This course covers the fundamentals of tonal harmony including scales, chord symbols and figured bass notation, diatonic chord progressions, and counterpoint. Musicianship includes aural identification of intervals, scales, and chords, rhythm and exercises in sight-singing, dictation, and improvisation. Engaged listening practices include responsive listening, reading, and written exercises as well as in-class discussion. Weekly assignments include composition, analysis, and performance.">
+    <meta property="og:description" content="The first in a two-course sequence combining music theory, musicianship, and engaged listening practices applicable to a broad range of traditional and contemporary musical styles, with an emphasis on creative practice. This course covers the fundamentals of tonal harmony including scales, chord symbols and figured bass notation, diatonic chord progressions, and counterpoint. Musicianship includes aural identification of intervals, scales, and chords, rhythm and exercises in sight-singing, dictation, and improvisation. Engaged listening practices include responsive listening, reading, and written exercises as well as in-class discussion. Weekly assignments include composition, analysis, and performance. Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           ARTS-2380
         </h2>
         <p>
-          The first in a two-course sequence combining music theory, musicianship, and engaged listening practices applicable to a broad range of traditional and contemporary musical styles, with an emphasis on creative practice. This course covers the fundamentals of tonal harmony including scales, chord symbols and figured bass notation, diatonic chord progressions, and counterpoint. Musicianship includes aural identification of intervals, scales, and chords, rhythm and exercises in sight-singing, dictation, and improvisation. Engaged listening practices include responsive listening, reading, and written exercises as well as in-class discussion. Weekly assignments include composition, analysis, and performance.
+          The first in a two-course sequence combining music theory, musicianship, and engaged listening practices applicable to a broad range of traditional and contemporary musical styles, with an emphasis on creative practice. This course covers the fundamentals of tonal harmony including scales, chord symbols and figured bass notation, diatonic chord progressions, and counterpoint. Musicianship includes aural identification of intervals, scales, and chords, rhythm and exercises in sight-singing, dictation, and improvisation. Engaged listening practices include responsive listening, reading, and written exercises as well as in-class discussion. Weekly assignments include composition, analysis, and performance. Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -89,7 +91,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

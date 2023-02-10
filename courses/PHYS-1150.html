@@ -5,14 +5,16 @@
       PHYS-1150 - Introductory Classical Dynamics
     </title>
     <meta property="og:title" content="PHYS-1150 - Introductory Classical Dynamics">
-    <meta property="og:description" content="Introductory physics for students seeking a more intensive experience. Newton's laws are introduced using differential calculus, with solutions based on integral calculus. Material on fluids and thermodynamics is included. Laboratory exercises are carried out emphasizing measurement uncertainty and clear, concise reporting. Recommended for students intending to major in physics.">
+    <meta property="og:description" content="Introductory physics for students seeking a more intensive experience. Newton's laws are introduced using differential calculus,Â with solutions based on integral calculus. Material on fluids andÂ thermodynamicsÂ isÂ included. Laboratory exercises are carried out emphasizing measurement uncertainty and clear, concise reporting. Recommended for students intending to major in physics.Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           PHYS-1150
         </h2>
         <p>
-          Introductory physics for students seeking a more intensive experience. Newton's laws are introduced using differential calculus, with solutions based on integral calculus. Material on fluids and thermodynamics is included. Laboratory exercises are carried out emphasizing measurement uncertainty and clear, concise reporting. Recommended for students intending to major in physics.
+          Introductory physics for students seeking a more intensive experience. Newton's laws are introduced using differential calculus,Â with solutions based on integral calculus. Material on fluids andÂ thermodynamicsÂ isÂ included. Laboratory exercises are carried out emphasizing measurement uncertainty and clear, concise reporting. Recommended for students intending to major in physics.Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -92,7 +94,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

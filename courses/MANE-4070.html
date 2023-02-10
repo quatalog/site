@@ -5,14 +5,16 @@
       MANE-4070 - Aerodynamics
     </title>
     <meta property="og:title" content="MANE-4070 - Aerodynamics">
-    <meta property="og:description" content="Introduction to fixed-wing flight mechanics. Lift generation, thin-airfoil, and wing theories. Boundary layers and applications to wings. One and two-dimensional compressible flow and applications to aircraft and rocket engines.">
+    <meta property="og:description" content="Introduction to fixed-wing flight mechanics.Â Lift generation, thin-airfoil, and wing theories.Â Boundary layers and applications to wings.Â One and two-dimensional compressible flow and applications to aircraft and rocket engines.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           MANE-4070
         </h2>
         <p>
-          Introduction to fixed-wing flight mechanics. Lift generation, thin-airfoil, and wing theories. Boundary layers and applications to wings. One and two-dimensional compressible flow and applications to aircraft and rocket engines.
+          Introduction to fixed-wing flight mechanics.Â Lift generation, thin-airfoil, and wing theories.Â Boundary layers and applications to wings.Â One and two-dimensional compressible flow and applications to aircraft and rocket engines.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

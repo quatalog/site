@@ -5,14 +5,16 @@
       COGS-6880 - Language-Endowed Intelligent Agents
     </title>
     <meta property="og:title" content="COGS-6880 - Language-Endowed Intelligent Agents">
-    <meta property="og:description" content="This course will concentrate on the knowledge-based modeling of intelligent agents, with a special emphasis on semantically-oriented language processing. Theoretical and conceptual discussions will be balanced by practical work within the implemented OntoAgent cognitive architecture. The course will cover the modeling of decision-making, the various aspects of natural-language processing, and the art of knowledge engineering.">
+    <meta property="og:description" content="This course will concentrate on the knowledge-based modeling of intelligent agents, with a special emphasis on semantically-oriented language processing. Theoretical and conceptual discussions will be balanced by practical work within the implemented OntoAgent cognitive architecture. The course will cover the modeling of decision-making, the various aspects of natural-language processing, and the art of knowledge engineering.Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           COGS-6880
         </h2>
         <p>
-          This course will concentrate on the knowledge-based modeling of intelligent agents, with a special emphasis on semantically-oriented language processing. Theoretical and conceptual discussions will be balanced by practical work within the implemented OntoAgent cognitive architecture. The course will cover the modeling of decision-making, the various aspects of natural-language processing, and the art of knowledge engineering.
+          This course will concentrate on the knowledge-based modeling of intelligent agents, with a special emphasis on semantically-oriented language processing. Theoretical and conceptual discussions will be balanced by practical work within the implemented OntoAgent cognitive architecture. The course will cover the modeling of decision-making, the various aspects of natural-language processing, and the art of knowledge engineering.Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -99,7 +101,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

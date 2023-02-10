@@ -5,14 +5,16 @@
       CSCI-4700 - Technical Writing and Communication in Computer Science
     </title>
     <meta property="og:title" content="CSCI-4700 - Technical Writing and Communication in Computer Science">
-    <meta property="og:description" content="The course is intended to provide a computational perspective on one or more topics chosen from theory and algorithms; systems and software; artificial intelligence and data; or vision, graphics, robotics, and games. Students will read classic and recent research results in the field, write critical reviews of these publications, engage in in-class presentations and discussions, and/or write a publication-quality report on an innovative final project of their choice.">
+    <meta property="og:description" content="The course is intended to provide a computational perspective on one or more topics chosen from theory and algorithms; systems and software; artificial intelligence and data; or vision, graphics, robotics, and games.Â Students will read classic and recent research results in the field, write critical reviews of these publications, engage in in-class presentations and discussions, and/or write a publication-quality report on an innovative final project of their choice.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           CSCI-4700
         </h2>
         <p>
-          The course is intended to provide a computational perspective on one or more topics chosen from theory and algorithms; systems and software; artificial intelligence and data; or vision, graphics, robotics, and games. Students will read classic and recent research results in the field, write critical reviews of these publications, engage in in-class presentations and discussions, and/or write a publication-quality report on an innovative final project of their choice.
+          The course is intended to provide a computational perspective on one or more topics chosen from theory and algorithms; systems and software; artificial intelligence and data; or vision, graphics, robotics, and games.Â Students will read classic and recent research results in the field, write critical reviews of these publications, engage in in-class presentations and discussions, and/or write a publication-quality report on an innovative final project of their choice.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

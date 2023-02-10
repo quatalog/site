@@ -5,14 +5,16 @@
       COMM-4930 - Pro-Seminar in Communication, Media, and Design
     </title>
     <meta property="og:title" content="COMM-4930 - Pro-Seminar in Communication, Media, and Design">
-    <meta property="og:description" content="Designed for first-semester senior Communication, Media, and Design majors, Pro-Seminar is the capstone course for the development of the Senior Project. Students will create a professional portfolio piece that showcases their work in the diverse disciplines of communication and media">
+    <meta property="og:description" content="Designed for first-semester senior Communication, Media, and Design majors, Pro-Seminar is the capstone course for the development of the Senior Project.Â Students will create a professional portfolio piece that showcases their work in the diverse disciplines of communication and media Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           COMM-4930
         </h2>
         <p>
-          Designed for first-semester senior Communication, Media, and Design majors, Pro-Seminar is the capstone course for the development of the Senior Project. Students will create a professional portfolio piece that showcases their work in the diverse disciplines of communication and media
+          Designed for first-semester senior Communication, Media, and Design majors, Pro-Seminar is the capstone course for the development of the Senior Project.Â Students will create a professional portfolio piece that showcases their work in the diverse disciplines of communication and media Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>
