@@ -114,7 +114,7 @@ p a:hover, p a:hover svg {
     margin-left: 2vmin;
 }
 
-#header-search {
+.header-search {
     position: relative;
     right: 1vmin;
     width: 12rem;
