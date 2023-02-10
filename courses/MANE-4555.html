@@ -5,14 +5,16 @@
       MANE-4555 - Wind Energy Engineering
     </title>
     <meta property="og:title" content="MANE-4555 - Wind Energy Engineering">
-    <meta property="og:description" content="Topics Covered: Climatology, Solar vs. Wind Energy, Earth's rotational and Coriolis effects, Wind Speed Statistics: Histograms, Weibull, Available Energy, Aerodynamics, Wake effects, Thrust and Power with objects in Wind flow, Betz Limit, Wind Shear and Ground Effects; Blade aero/structural design, and manufacture; OEM Wind Turbine Designs/Architectures, and capturing Wind Energy via Direct Drive-Generators/Gearbox-driven; Pitch/Yaw Controls, Tower designs. The back-end interface with the Grid, Wind Farm development and Supervisory Controls; Cost of Energy: Wind vs. Fossil Fuel technologies.">
+    <meta property="og:description" content="Topics Covered: Climatology, Solar vs. Wind Energy, Earth's rotational and Coriolis effects, Wind Speed Statistics: Histograms, Weibull, Available Energy, Aerodynamics, Wake effects, Thrust and Power with objects in Wind flow, Betz Limit, Wind Shear and Ground Effects; Blade aero/structural design, and manufacture; OEM Wind Turbine Designs/Architectures, and capturing Wind Energy via Direct Drive-Generators/Gearbox-driven; Pitch/Yaw Controls, Tower designs.Â The back-end interface with the Grid, Wind Farm development and Supervisory Controls; Cost of Energy: Wind vs. Fossil Fuel technologies.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           MANE-4555
         </h2>
         <p>
-          Topics Covered: Climatology, Solar vs. Wind Energy, Earth's rotational and Coriolis effects, Wind Speed Statistics: Histograms, Weibull, Available Energy, Aerodynamics, Wake effects, Thrust and Power with objects in Wind flow, Betz Limit, Wind Shear and Ground Effects; Blade aero/structural design, and manufacture; OEM Wind Turbine Designs/Architectures, and capturing Wind Energy via Direct Drive-Generators/Gearbox-driven; Pitch/Yaw Controls, Tower designs. The back-end interface with the Grid, Wind Farm development and Supervisory Controls; Cost of Energy: Wind vs. Fossil Fuel technologies.
+          Topics Covered: Climatology, Solar vs. Wind Energy, Earth's rotational and Coriolis effects, Wind Speed Statistics: Histograms, Weibull, Available Energy, Aerodynamics, Wake effects, Thrust and Power with objects in Wind flow, Betz Limit, Wind Shear and Ground Effects; Blade aero/structural design, and manufacture; OEM Wind Turbine Designs/Architectures, and capturing Wind Energy via Direct Drive-Generators/Gearbox-driven; Pitch/Yaw Controls, Tower designs.Â The back-end interface with the Grid, Wind Farm development and Supervisory Controls; Cost of Energy: Wind vs. Fossil Fuel technologies.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

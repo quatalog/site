@@ -5,14 +5,16 @@
       MATH-6990 - Master's Thesis
     </title>
     <meta property="og:title" content="MATH-6990 - Master's Thesis">
-    <meta property="og:description" content="Active participation in research, under the supervision of a faculty adviser, leading to a master's thesis. Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.">
+    <meta property="og:description" content="Active participation in research, under the supervision of a faculty adviser, leading to a master's thesis. Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library. Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           MATH-6990
         </h2>
         <p>
-          Active participation in research, under the supervision of a faculty adviser, leading to a master's thesis. Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.
+          Active participation in research, under the supervision of a faculty adviser, leading to a master's thesis. Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library. Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

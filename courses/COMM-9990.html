@@ -5,14 +5,16 @@
       COMM-9990 - Dissertation
     </title>
     <meta property="og:title" content="COMM-9990 - Dissertation">
-    <meta property="og:description" content="Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.">
+    <meta property="og:description" content="Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation.Â Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester.Â Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library. Â Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           COMM-9990
         </h2>
         <p>
-          Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.
+          Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation.Â Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester.Â Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library. Â Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

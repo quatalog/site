@@ -5,14 +5,16 @@
       MANE-4510 - Control Systems Laboratory
     </title>
     <meta property="og:title" content="MANE-4510 - Control Systems Laboratory">
-    <meta property="og:description" content="Laboratory introduction to the design, analysis and interpretation of key components of an intelligent physical system: sensing, communication, computation, simulation, programming, and control. Modeling and simulation of physical phenomena. Design of control algorithms (e.g., PID, state feedback) applied to a variety of physical systems. Modeling systems from data. Analysis of data, algorithm development, and implementation in hardware, including nonlinear and hardware effects of discretization, delays, saturation, and sampling. Extensive use of METLAB and Simulink.">
+    <meta property="og:description" content="Laboratory introduction to the design, analysis and interpretation of key components of an intelligent physical system: sensing, communication, computation, simulation, programming, and control. Modeling and simulation of physical phenomena. Design of control algorithms (e.g., PID, state feedback) applied to a variety of physical systems. Modeling systems from data. Analysis of data, algorithm development, and implementation in hardware, including nonlinear and hardware effects of discretization, delays, saturation, and sampling. Extensive use of METLAB and Simulink.Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           MANE-4510
         </h2>
         <p>
-          Laboratory introduction to the design, analysis and interpretation of key components of an intelligent physical system: sensing, communication, computation, simulation, programming, and control. Modeling and simulation of physical phenomena. Design of control algorithms (e.g., PID, state feedback) applied to a variety of physical systems. Modeling systems from data. Analysis of data, algorithm development, and implementation in hardware, including nonlinear and hardware effects of discretization, delays, saturation, and sampling. Extensive use of METLAB and Simulink.
+          Laboratory introduction to the design, analysis and interpretation of key components of an intelligent physical system: sensing, communication, computation, simulation, programming, and control. Modeling and simulation of physical phenomena. Design of control algorithms (e.g., PID, state feedback) applied to a variety of physical systems. Modeling systems from data. Analysis of data, algorithm development, and implementation in hardware, including nonlinear and hardware effects of discretization, delays, saturation, and sampling. Extensive use of METLAB and Simulink.Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -89,7 +91,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

@@ -5,14 +5,16 @@
       BMED-2300 - Bioimaging and Bioinstrumentation
     </title>
     <meta property="og:title" content="BMED-2300 - Bioimaging and Bioinstrumentation">
-    <meta property="og:description" content="This course serves as an introduction to biomedical instrumentation and imaging with focus on the acquisition and monitoring of vital signals. Basic principles for the selection and appropriate use of instruments for solving bioengineering and medical problems such as microscopy, magnetic resonance imaging, and ultrasounds, among others are addressed.">
+    <meta property="og:description" content="This course serves as an introduction to biomedical instrumentation and imaging with focus on the acquisition and monitoring of vital signals.Â Basic principles for the selection and appropriate use of instruments for solving bioengineering and medical problems such as microscopy, magnetic resonance imaging, and ultrasounds, among others are addressed.Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           BMED-2300
         </h2>
         <p>
-          This course serves as an introduction to biomedical instrumentation and imaging with focus on the acquisition and monitoring of vital signals. Basic principles for the selection and appropriate use of instruments for solving bioengineering and medical problems such as microscopy, magnetic resonance imaging, and ultrasounds, among others are addressed.
+          This course serves as an introduction to biomedical instrumentation and imaging with focus on the acquisition and monitoring of vital signals.Â Basic principles for the selection and appropriate use of instruments for solving bioengineering and medical problems such as microscopy, magnetic resonance imaging, and ultrasounds, among others are addressed.Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -89,7 +91,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

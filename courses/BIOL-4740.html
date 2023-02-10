@@ -5,14 +5,16 @@
       BIOL-4740 - Advanced Cell Biology Laboratory
     </title>
     <meta property="og:title" content="BIOL-4740 - Advanced Cell Biology Laboratory">
-    <meta property="og:description" content="Students will learn a variety of modern cell biology techniques such as cell culture, genetic analysis, immunocytochemistry, fluorescence microscopy, and live cell imaging. Using these techniques, students will investigate the function of genetically manipulated proteins in cells. In the last third of the semester, students will develop independent experimental research plans to address questions of interest to the student. This is a communication-intensive course.">
+    <meta property="og:description" content="Students will learn a variety of modern cell biology techniques such as cell culture, genetic analysis, immunocytochemistry, fluorescence microscopy, and live cell imaging.Â Using these techniques, students will investigate the function of genetically manipulated proteins in cells.Â In the last third of the semester, students will develop independent experimental research plans to address questions of interest to the student. This is a communication-intensive course.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           BIOL-4740
         </h2>
         <p>
-          Students will learn a variety of modern cell biology techniques such as cell culture, genetic analysis, immunocytochemistry, fluorescence microscopy, and live cell imaging. Using these techniques, students will investigate the function of genetically manipulated proteins in cells. In the last third of the semester, students will develop independent experimental research plans to address questions of interest to the student. This is a communication-intensive course.
+          Students will learn a variety of modern cell biology techniques such as cell culture, genetic analysis, immunocytochemistry, fluorescence microscopy, and live cell imaging.Â Using these techniques, students will investigate the function of genetically manipulated proteins in cells.Â In the last third of the semester, students will develop independent experimental research plans to address questions of interest to the student. This is a communication-intensive course.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -94,7 +96,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

@@ -5,14 +5,16 @@
       COGS-4220 - Animal Cognition and Interaction with Humans
     </title>
     <meta property="og:title" content="COGS-4220 - Animal Cognition and Interaction with Humans">
-    <meta property="og:description" content="In this course, students will deepen their understanding of research principles and experimental practices in cognitive and behavioral science, and they will gain experience in applying concepts often discussed in human-oriented contexts (e.g., learning, theory of mind) to the animal world. In addition, they will be prepared to participate in revolutionizing our treatment of both the animals and the people with whom we share our lives.">
+    <meta property="og:description" content="In this course, students will deepen their understanding of research principles and experimental practices in cognitive and behavioral science, and they will gain experience in applying concepts often discussed in human-oriented contexts (e.g., learning, theory of mind) to the animal world. In addition, they will be prepared to participate in revolutionizing our treatment of both the animals and the people with whom we share our lives. Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           COGS-4220
         </h2>
         <p>
-          In this course, students will deepen their understanding of research principles and experimental practices in cognitive and behavioral science, and they will gain experience in applying concepts often discussed in human-oriented contexts (e.g., learning, theory of mind) to the animal world. In addition, they will be prepared to participate in revolutionizing our treatment of both the animals and the people with whom we share our lives.
+          In this course, students will deepen their understanding of research principles and experimental practices in cognitive and behavioral science, and they will gain experience in applying concepts often discussed in human-oriented contexts (e.g., learning, theory of mind) to the animal world. In addition, they will be prepared to participate in revolutionizing our treatment of both the animals and the people with whom we share our lives. Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -100,7 +102,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

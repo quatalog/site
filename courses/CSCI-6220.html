@@ -5,14 +5,16 @@
       CSCI-6220 - Randomized Algorithms
     </title>
     <meta property="og:title" content="CSCI-6220 - Randomized Algorithms">
-    <meta property="og:description" content="State-of-the-art in contemporary algorithm design, randomized algorithms are algorithms that use randomness as part of their functioning. They are typically simple, often easy to analyze, and work well in practice. They have numerous applications in many fields of computer science and mathematics. Randomized algorithms represent an active and vibrant research area with many exciting new results contributed every year. Students cannot receive credit for both CSCI 4030 and CSCI 6220.">
+    <meta property="og:description" content="State-of-the-art in contemporary algorithm design, randomized algorithms are algorithms that use randomness as part of their functioning. They are typically simple, often easy to analyze, and work well in practice. They have numerous applications in many fields of computer science and mathematics. Randomized algorithms represent an active and vibrant research area with many exciting new results contributed every year. Students cannot receive credit for both CSCI 4030 Â and CSCI 6220.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           CSCI-6220
         </h2>
         <p>
-          State-of-the-art in contemporary algorithm design, randomized algorithms are algorithms that use randomness as part of their functioning. They are typically simple, often easy to analyze, and work well in practice. They have numerous applications in many fields of computer science and mathematics. Randomized algorithms represent an active and vibrant research area with many exciting new results contributed every year. Students cannot receive credit for both CSCI 4030 and CSCI 6220.
+          State-of-the-art in contemporary algorithm design, randomized algorithms are algorithms that use randomness as part of their functioning. They are typically simple, often easy to analyze, and work well in practice. They have numerous applications in many fields of computer science and mathematics. Randomized algorithms represent an active and vibrant research area with many exciting new results contributed every year. Students cannot receive credit for both CSCI 4030 Â and CSCI 6220.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -99,7 +101,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

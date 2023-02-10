@@ -5,14 +5,16 @@
       ARTS-6900 - Arts Graduate Colloquium
     </title>
     <meta property="og:title" content="ARTS-6900 - Arts Graduate Colloquium">
-    <meta property="og:description" content="This course provides a forum for interdisciplinary graduate discourse and community at Rensselaer. Students will curate a series of presentations by guest speakers, faculty, and graduate students. Related readings and writing assignments will be based on colloquium presentations. Arts Ph.D. students are required to take the colloquium each semester until the semester they take their qualifying examination and enroll for dissertation credits.">
+    <meta property="og:description" content="This course provides a forum for interdisciplinary graduate discourse and community at Rensselaer. Students will curate a series of presentations by guest speakers, faculty, and graduate students.Â Related readings and writing assignments will be based on colloquium presentations. Arts Ph.D. students are required to take the colloquium each semester until the semester they take their qualifying examination and enrollÂ for dissertation credits.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           ARTS-6900
         </h2>
         <p>
-          This course provides a forum for interdisciplinary graduate discourse and community at Rensselaer. Students will curate a series of presentations by guest speakers, faculty, and graduate students. Related readings and writing assignments will be based on colloquium presentations. Arts Ph.D. students are required to take the colloquium each semester until the semester they take their qualifying examination and enroll for dissertation credits.
+          This course provides a forum for interdisciplinary graduate discourse and community at Rensselaer. Students will curate a series of presentations by guest speakers, faculty, and graduate students.Â Related readings and writing assignments will be based on colloquium presentations. Arts Ph.D. students are required to take the colloquium each semester until the semester they take their qualifying examination and enrollÂ for dissertation credits.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

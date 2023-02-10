@@ -5,14 +5,16 @@
       BIOL-6150 - Cellular Neuroscience
     </title>
     <meta property="og:title" content="BIOL-6150 - Cellular Neuroscience">
-    <meta property="og:description" content="Neurons are uniquely organized to facilitate signal transmission and information processing in the brain. This course will examine the mechanisms that develop and maintain neurons, the unusual cell-biological problems these cells solve, and the experimental tools that drive modern neuroscience research. Students will read current scientific literature, evaluate it critically, and develop a research project.">
+    <meta property="og:description" content="Neurons are uniquely organized to facilitate signal transmission and information processing in the brain. This course will examine the mechanisms that develop and maintain neurons, the unusual cell-biological problems these cells solve, and the experimental tools that drive modern neuroscience research. Students will read current scientific literature, evaluate it critically, and develop a research project.Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           BIOL-6150
         </h2>
         <p>
-          Neurons are uniquely organized to facilitate signal transmission and information processing in the brain. This course will examine the mechanisms that develop and maintain neurons, the unusual cell-biological problems these cells solve, and the experimental tools that drive modern neuroscience research. Students will read current scientific literature, evaluate it critically, and develop a research project.
+          Neurons are uniquely organized to facilitate signal transmission and information processing in the brain. This course will examine the mechanisms that develop and maintain neurons, the unusual cell-biological problems these cells solve, and the experimental tools that drive modern neuroscience research. Students will read current scientific literature, evaluate it critically, and develop a research project.Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -97,7 +99,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

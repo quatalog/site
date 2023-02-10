@@ -5,14 +5,16 @@
       COMM-4470 - Information Design
     </title>
     <meta property="og:title" content="COMM-4470 - Information Design">
-    <meta property="og:description" content="This course examines the design of technical information systems and their output in useful and well-designed documents and interfaces. The course includes the history of data visualization, visual rhetoric, and information systems such as DITA.">
+    <meta property="og:description" content="This course examines the design of technical information systems and their output in useful and well-designed documents and interfaces. The course includes the history of data visualization, visual rhetoric, and information systems such as DITA. Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           COMM-4470
         </h2>
         <p>
-          This course examines the design of technical information systems and their output in useful and well-designed documents and interfaces. The course includes the history of data visualization, visual rhetoric, and information systems such as DITA.
+          This course examines the design of technical information systems and their output in useful and well-designed documents and interfaces. The course includes the history of data visualization, visual rhetoric, and information systems such as DITA. Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -97,7 +99,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

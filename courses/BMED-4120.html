@@ -5,14 +5,16 @@
       BMED-4120 - Investigative Medicine II
     </title>
     <meta property="og:title" content="BMED-4120 - Investigative Medicine II">
-    <meta property="og:description" content="Students will be exposed to several clinical experiences at a level typically found in college graduates/post graduates who are entering medical school.">
+    <meta property="og:description" content="Students will be exposed to several clinical experiences at a level typically found in collegeÂ graduates/post graduates who are entering medical school.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           BMED-4120
         </h2>
         <p>
-          Students will be exposed to several clinical experiences at a level typically found in college graduates/post graduates who are entering medical school.
+          Students will be exposed to several clinical experiences at a level typically found in collegeÂ graduates/post graduates who are entering medical school.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -105,7 +107,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

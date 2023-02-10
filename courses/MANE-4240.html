@@ -5,14 +5,16 @@
       MANE-4240 - Introduction to Finite Elements
     </title>
     <meta property="og:title" content="MANE-4240 - Introduction to Finite Elements">
-    <meta property="og:description" content="An introductory course in the use of finite element methods for the solution of practical problems in engineering. The course focuses on the concepts of model generation, finite element discretization, numerical integration, computational solution, and verification. Students will be exposed to the use of commercial finite element software.">
+    <meta property="og:description" content="An introductory course in the use of finite element methods for the solution of practical problems in engineering.Â The course focuses on the concepts of model generation, finite element discretization, numerical integration, computational solution, and verification.Â Students will be exposed to the use of commercial finite element software.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           MANE-4240
         </h2>
         <p>
-          An introductory course in the use of finite element methods for the solution of practical problems in engineering. The course focuses on the concepts of model generation, finite element discretization, numerical integration, computational solution, and verification. Students will be exposed to the use of commercial finite element software.
+          An introductory course in the use of finite element methods for the solution of practical problems in engineering.Â The course focuses on the concepts of model generation, finite element discretization, numerical integration, computational solution, and verification.Â Students will be exposed to the use of commercial finite element software.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -97,7 +99,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

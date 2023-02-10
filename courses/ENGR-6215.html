@@ -5,14 +5,16 @@
       ENGR-6215 - Business Intelligence Analysis
     </title>
     <meta property="og:title" content="ENGR-6215 - Business Intelligence Analysis">
-    <meta property="og:description" content="Students use visualization and cluster analysis tools to gain deeper insights into complex business relationships. Students apply data analytic process to real-world business problems and questions, including pricing decisions, customer analysis, competitive analysis, financial forecasts, customer decision models, organizational performance dashboards. Students tune models to represent current-state and adjust models as underlying assumptions change. Students cannot receive credit for both this course and ENGR 6205 or ENGR 6210 .">
+    <meta property="og:description" content="Students use visualization and cluster analysis tools to gain deeper insights into complex business relationships. Students apply data analytic process to real-world business problems and questions, including pricing decisions, customer analysis, competitive analysis, financial forecasts, customer decision models, organizational performance dashboards. Students tune models to represent current-state and adjust models as underlying assumptions change. Students cannot receive credit for both this course and ENGR 6205 Â or ENGR 6210 .">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           ENGR-6215
         </h2>
         <p>
-          Students use visualization and cluster analysis tools to gain deeper insights into complex business relationships. Students apply data analytic process to real-world business problems and questions, including pricing decisions, customer analysis, competitive analysis, financial forecasts, customer decision models, organizational performance dashboards. Students tune models to represent current-state and adjust models as underlying assumptions change. Students cannot receive credit for both this course and ENGR 6205 or ENGR 6210 .
+          Students use visualization and cluster analysis tools to gain deeper insights into complex business relationships. Students apply data analytic process to real-world business problems and questions, including pricing decisions, customer analysis, competitive analysis, financial forecasts, customer decision models, organizational performance dashboards. Students tune models to represent current-state and adjust models as underlying assumptions change. Students cannot receive credit for both this course and ENGR 6205 Â or ENGR 6210 .
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -89,7 +91,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

@@ -5,14 +5,16 @@
       MATH-4400 - Ordinary Differential Equations and Dynamical Systems
     </title>
     <meta property="og:title" content="MATH-4400 - Ordinary Differential Equations and Dynamical Systems">
-    <meta property="og:description" content="An intermediate course emphasizing a modern geometric approach and applications in science and engineering. Topics include first-order equations, linear systems, phase plane, linearization and stability, calculus of variations, Lagrangian and Hamiltonian mechanics, oscillations, basic bifurcation theory, chaotic dynamics, and existence and uniqueness.">
+    <meta property="og:description" content="An intermediate course emphasizing a modernÂ geometric approachÂ and applications in science and engineering. Topics includeÂ first-order equations, linearÂ systems, phase plane, linearization and stability,Â calculus of variations, Lagrangian and Hamiltonian mechanics, oscillations, basic bifurcation theory, chaotic dynamics, and existenceÂ and uniqueness.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           MATH-4400
         </h2>
         <p>
-          An intermediate course emphasizing a modern geometric approach and applications in science and engineering. Topics include first-order equations, linear systems, phase plane, linearization and stability, calculus of variations, Lagrangian and Hamiltonian mechanics, oscillations, basic bifurcation theory, chaotic dynamics, and existence and uniqueness.
+          An intermediate course emphasizing a modernÂ geometric approachÂ and applications in science and engineering. Topics includeÂ first-order equations, linearÂ systems, phase plane, linearization and stability,Â calculus of variations, Lagrangian and Hamiltonian mechanics, oscillations, basic bifurcation theory, chaotic dynamics, and existenceÂ and uniqueness.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -100,7 +102,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

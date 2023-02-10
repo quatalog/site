@@ -5,14 +5,16 @@
       ARTS-6400 - Experimental Game Design
     </title>
     <meta property="og:title" content="ARTS-6400 - Experimental Game Design">
-    <meta property="og:description" content="Experimental Game Design is an upper level studio arts course focusing on the creation of innovative, workable game prototypes using a variety of interactive media. Games are considered as a new genre and are analyzed as cultural artifacts. The aesthetics of game design including character development, level design, game play experience, and delivery systems are covered. Flow, game theory, and game play gestalt are considered. Alternate gaming paradigms and emerging forms are encouraged.">
+    <meta property="og:description" content="Experimental Game Design is an upper level studio arts course focusing on the creation of innovative, workable game prototypes using a variety of interactive media.Â Games are considered as a new genre and are analyzed as cultural artifacts.Â The aesthetics of game design including character development, level design, game play experience, and delivery systems are covered.Â Flow, game theory, and game play gestalt are considered.Â Alternate gaming paradigms and emerging forms are encouraged.Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           ARTS-6400
         </h2>
         <p>
-          Experimental Game Design is an upper level studio arts course focusing on the creation of innovative, workable game prototypes using a variety of interactive media. Games are considered as a new genre and are analyzed as cultural artifacts. The aesthetics of game design including character development, level design, game play experience, and delivery systems are covered. Flow, game theory, and game play gestalt are considered. Alternate gaming paradigms and emerging forms are encouraged.
+          Experimental Game Design is an upper level studio arts course focusing on the creation of innovative, workable game prototypes using a variety of interactive media.Â Games are considered as a new genre and are analyzed as cultural artifacts.Â The aesthetics of game design including character development, level design, game play experience, and delivery systems are covered.Â Flow, game theory, and game play gestalt are considered.Â Alternate gaming paradigms and emerging forms are encouraged.Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

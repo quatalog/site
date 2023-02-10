@@ -5,14 +5,16 @@
       GSAS-4990 - GSAS Capstone
     </title>
     <meta property="og:title" content="GSAS-4990 - GSAS Capstone">
-    <meta property="og:description" content="Senior capstone project course for GSAS majors. Students work individually or in teams, supervised by a faculty member, to complete a self-directed project in games that is innovative, experimental, or artistically engaged. The course emphasizes the complete development cycle, through continual iteration and critique towards completion and public release.">
+    <meta property="og:description" content="Senior capstone project course for GSAS majors. Students work individually or in teams, supervised by a faculty member, to complete a self-directed project in games that is innovative, experimental, or artistically engaged. The course emphasizes the complete development cycle, through continual iteration and critique towards completion and public release. Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           GSAS-4990
         </h2>
         <p>
-          Senior capstone project course for GSAS majors. Students work individually or in teams, supervised by a faculty member, to complete a self-directed project in games that is innovative, experimental, or artistically engaged. The course emphasizes the complete development cycle, through continual iteration and critique towards completion and public release.
+          Senior capstone project course for GSAS majors. Students work individually or in teams, supervised by a faculty member, to complete a self-directed project in games that is innovative, experimental, or artistically engaged. The course emphasizes the complete development cycle, through continual iteration and critique towards completion and public release. Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -89,7 +91,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

@@ -5,14 +5,16 @@
       BCBP-4550 - Molecular Modeling
     </title>
     <meta property="og:title" content="BCBP-4550 - Molecular Modeling">
-    <meta property="og:description" content="This course covers the theory and practice of the structural modeling of proteins and other biomolecules using informatics-driven and energy-based approaches. Topics include template-based comparative modeling, secondary structure prediction, tertiary structure prediction, protein classification, sidechain rotamers, docking, protein design, energy minimization, electrostatics, molecular dynamics, and molecular surfaces. Molecular modeling software will be provided. Laptop computers are required. BIOL 4550 , BIOL 6420 , BCBP 4550, and BCBP 6420 meet jointly; only one of these courses can be taken for credit.">
+    <meta property="og:description" content="This course covers the theory and practice of the structural modeling of proteins and other biomolecules using informatics-driven and energy-based approaches. Topics include template-based comparative modeling, secondary structure prediction, tertiary structure prediction, protein classification, sidechain rotamers, docking, protein design, energy minimization, electrostatics, molecular dynamics, and molecular surfaces. Molecular modeling software will be provided. Laptop computers are required. BIOL 4550 , BIOL 6420 , BCBP 4550, and BCBP 6420 Â meet jointly; only one of these courses can be taken for credit.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           BCBP-4550
         </h2>
         <p>
-          This course covers the theory and practice of the structural modeling of proteins and other biomolecules using informatics-driven and energy-based approaches. Topics include template-based comparative modeling, secondary structure prediction, tertiary structure prediction, protein classification, sidechain rotamers, docking, protein design, energy minimization, electrostatics, molecular dynamics, and molecular surfaces. Molecular modeling software will be provided. Laptop computers are required. BIOL 4550 , BIOL 6420 , BCBP 4550, and BCBP 6420 meet jointly; only one of these courses can be taken for credit.
+          This course covers the theory and practice of the structural modeling of proteins and other biomolecules using informatics-driven and energy-based approaches. Topics include template-based comparative modeling, secondary structure prediction, tertiary structure prediction, protein classification, sidechain rotamers, docking, protein design, energy minimization, electrostatics, molecular dynamics, and molecular surfaces. Molecular modeling software will be provided. Laptop computers are required. BIOL 4550 , BIOL 6420 , BCBP 4550, and BCBP 6420 Â meet jointly; only one of these courses can be taken for credit.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -112,7 +114,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

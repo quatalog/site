@@ -2,9 +2,9 @@
 <html>
   <head>
     <title>
-      CHEM-6020 - Coordination Chemistry – Fundamentals and Applications
+      CHEM-6020 - Coordination Chemistry â Fundamentals and Applications
     </title>
-    <meta property="og:title" content="CHEM-6020 - Coordination Chemistry – Fundamentals and Applications">
+    <meta property="og:title" content="CHEM-6020 - Coordination Chemistry â Fundamentals and Applications">
     <meta property="og:description" content="This advanced graduate level course will focus on the structure, bonding, and reactivity of transition metal coordination compounds. The course will cover group theory, ligand field theory, substitution reactions, photochemistry, catalysis, and redox reactions. Examples from the literature will be included to highlight the current research trends and applications of coordination compounds.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
@@ -12,12 +12,14 @@
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
         <h1 id="name">
-          Coordination Chemistry – Fundamentals and Applications
+          Coordination Chemistry â Fundamentals and Applications
         </h1>
         <h2 id="code">
           CHEM-6020
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

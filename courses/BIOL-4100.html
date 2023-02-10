@@ -5,14 +5,16 @@
       BIOL-4100 - From Neuron to Behavior
     </title>
     <meta property="og:title" content="BIOL-4100 - From Neuron to Behavior">
-    <meta property="og:description" content="A detailed survey of important topics in the neurosciences. Some of the topics to be covered in this class are: basic mechanisms of neural signaling (neurophysiology, synaptic transmission, and molecular signaling); understanding of sensation/movement and in particular how it relates to neuroanatomy; neurodevelopment and how the mature brain can change (plasticity); complex brainfunctions and neurological disease. Taught together with BIOL 6100 .">
+    <meta property="og:description" content="A detailed survey of important topics in the neurosciences. Some of the topics to be covered in this class are: basic mechanisms of neural signaling (neurophysiology, synaptic transmission, and molecular signaling); understanding of sensation/movement and in particular how it relates to neuroanatomy; neurodevelopment and how the mature brain can change (plasticity);Â complex brainfunctions and neurological disease. Taught together with BIOL 6100 .Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           BIOL-4100
         </h2>
         <p>
-          A detailed survey of important topics in the neurosciences. Some of the topics to be covered in this class are: basic mechanisms of neural signaling (neurophysiology, synaptic transmission, and molecular signaling); understanding of sensation/movement and in particular how it relates to neuroanatomy; neurodevelopment and how the mature brain can change (plasticity); complex brainfunctions and neurological disease. Taught together with BIOL 6100 .
+          A detailed survey of important topics in the neurosciences. Some of the topics to be covered in this class are: basic mechanisms of neural signaling (neurophysiology, synaptic transmission, and molecular signaling); understanding of sensation/movement and in particular how it relates to neuroanatomy; neurodevelopment and how the mature brain can change (plasticity);Â complex brainfunctions and neurological disease. Taught together with BIOL 6100 .Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -89,7 +91,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

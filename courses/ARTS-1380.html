@@ -5,14 +5,16 @@
       ARTS-1380 - Fundamentals of Music and Sound
     </title>
     <meta property="og:title" content="ARTS-1380 - Fundamentals of Music and Sound">
-    <meta property="og:description" content="This course is a hands-on introduction to the primary building blocks of music and musicianship in a 21st Century context. No formal musical background is expected. The course will explore acoustics and psychoacoustics, rhythm, pitch, harmony, melody, timbre, improvisation, composition, and music notation through performance, listening, written exercises, and creative projects.">
+    <meta property="og:description" content="This course is a hands-on introduction to the primary building blocks of music and musicianship in a 21st Century context. No formal musical background is expected. The course will explore acoustics and psychoacoustics, rhythm, pitch, harmony, melody, timbre, improvisation, composition, and music notation through performance, listening, written exercises, and creative projects.Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           ARTS-1380
         </h2>
         <p>
-          This course is a hands-on introduction to the primary building blocks of music and musicianship in a 21st Century context. No formal musical background is expected. The course will explore acoustics and psychoacoustics, rhythm, pitch, harmony, melody, timbre, improvisation, composition, and music notation through performance, listening, written exercises, and creative projects.
+          This course is a hands-on introduction to the primary building blocks of music and musicianship in a 21st Century context. No formal musical background is expected. The course will explore acoustics and psychoacoustics, rhythm, pitch, harmony, melody, timbre, improvisation, composition, and music notation through performance, listening, written exercises, and creative projects.Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

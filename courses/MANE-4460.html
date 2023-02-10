@@ -5,14 +5,16 @@
       MANE-4460 - Engineering Materials for Nuclear Application
     </title>
     <meta property="og:title" content="MANE-4460 - Engineering Materials for Nuclear Application">
-    <meta property="og:description" content="Materials selection for nuclear applications in current and next generation nuclear systems. specific topics include: crystal structure; atomic bonds; defects in solids; thermodynamics; phase diagrams; kinetic processes in materials diffusion; phase transformation; mechanical properties of materials; thermal transport behavior of nuclear materials; corrosion in nuclear systems; radiation interaction of materials with neutron and charged particles; microstructural evolution of materials; properties of fuel clad; fuel chemistry; high burn-up and accident tolerant fuels; and nuclear waste management.">
+    <meta property="og:description" content="Materials selection for nuclear applications in current and next generation nuclear systems.Â specific topics include: crystal structure; atomic bonds; defects in solids; thermodynamics; phase diagrams; kinetic processes in materials diffusion; phase transformation; mechanical properties of materials; thermal transport behavior of nuclear materials; corrosion in nuclear systems; radiation interaction of materials with neutron and charged particles; microstructural evolution of materials; properties of fuel clad; fuel chemistry; high burn-up and accident tolerant fuels; and nuclear waste management.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           MANE-4460
         </h2>
         <p>
-          Materials selection for nuclear applications in current and next generation nuclear systems. specific topics include: crystal structure; atomic bonds; defects in solids; thermodynamics; phase diagrams; kinetic processes in materials diffusion; phase transformation; mechanical properties of materials; thermal transport behavior of nuclear materials; corrosion in nuclear systems; radiation interaction of materials with neutron and charged particles; microstructural evolution of materials; properties of fuel clad; fuel chemistry; high burn-up and accident tolerant fuels; and nuclear waste management.
+          Materials selection for nuclear applications in current and next generation nuclear systems.Â specific topics include: crystal structure; atomic bonds; defects in solids; thermodynamics; phase diagrams; kinetic processes in materials diffusion; phase transformation; mechanical properties of materials; thermal transport behavior of nuclear materials; corrosion in nuclear systems; radiation interaction of materials with neutron and charged particles; microstructural evolution of materials; properties of fuel clad; fuel chemistry; high burn-up and accident tolerant fuels; and nuclear waste management.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -99,7 +101,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

@@ -5,14 +5,16 @@
       ASTR-1520 - Stars, Galaxies, and the Cosmos
     </title>
     <meta property="og:title" content="ASTR-1520 - Stars, Galaxies, and the Cosmos">
-    <meta property="og:description" content="This course serves as an introduction to astronomy, focusing on understanding the physical nature of stars and galaxies, the vastness of the cosmos, and how astronomers have built up a comprehensive picture of the Universe in which we live through meticulous study.">
+    <meta property="og:description" content="This course serves as an introduction to astronomy, focusing on understanding the physical nature of stars and galaxies, the vastness of the cosmos, and how astronomers have built up a comprehensive picture of the Universe in which we live through meticulous study.Â">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           ASTR-1520
         </h2>
         <p>
-          This course serves as an introduction to astronomy, focusing on understanding the physical nature of stars and galaxies, the vastness of the cosmos, and how astronomers have built up a comprehensive picture of the Universe in which we live through meticulous study.
+          This course serves as an introduction to astronomy, focusing on understanding the physical nature of stars and galaxies, the vastness of the cosmos, and how astronomers have built up a comprehensive picture of the Universe in which we live through meticulous study.Â
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>

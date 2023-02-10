@@ -5,14 +5,16 @@
       COMM-6420 - Foundations of Human-Computer Interaction Usability
     </title>
     <meta property="og:title" content="COMM-6420 - Foundations of Human-Computer Interaction Usability">
-    <meta property="og:description" content="This course will consider methods for gathering users' requirements for product functions and information, ways to test products and information for usability and suitability, and procedures for incorporating the results learned through testing. Students will design and conduct usability tests on products, documents, and interfaces of interest.">
+    <meta property="og:description" content="This course will consider methods for gathering users' requirements for product functions and information, ways to test products and information for usability and suitability, and procedures for incorporating the results learned through testing.Â Students will design and conduct usability tests on products, documents, and interfaces of interest.">
     <link rel="stylesheet" href="../css/common.css">
     <link rel="stylesheet" href="../css/coursedisplay.css">
   </head>
   <body class="search_plugin_added">
     <div id="qlog-header">
       <a id="qlog-wordmark" href="../"><svg><use href="../images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-      <input type="text" id="header-search" placeholder="Search..." onkeydown="prepSearch(this, event)">
+      <form onsubmit="search_helper()">
+        <input type="text" id="search" class="header-search" placeholder="Search...">
+      </form>
     </div>
     <div id="cd-flex">
       <div id="course-info-container">
@@ -23,7 +25,7 @@
           COMM-6420
         </h2>
         <p>
-          This course will consider methods for gathering users' requirements for product functions and information, ways to test products and information for usability and suitability, and procedures for incorporating the results learned through testing. Students will design and conduct usability tests on products, documents, and interfaces of interest.
+          This course will consider methods for gathering users' requirements for product functions and information, ways to test products and information for usability and suitability, and procedures for incorporating the results learned through testing.Â Students will design and conduct usability tests on products, documents, and interfaces of interest.
         </p>
         <div id="cattrs-container">
           <span id="credits-pill" class="attr-pill">
@@ -91,7 +93,7 @@
             </label>
           </div>
         </div>
-        <table>
+        <table id="years-table">
           <thead>
             <tr>
               <th></th>
