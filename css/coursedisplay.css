@@ -20,12 +20,12 @@
 }
 
 
-#cname{
+#name {
     font-size: 3.75rem;
     left: 0vw;
 }
 
-#ccode{
+#code {
     color: var(--quacs-midtone);
     font-family: "proxima-nova";
     font-size: 1.8rem;
