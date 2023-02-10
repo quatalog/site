@@ -150,49 +150,49 @@ YP       `Y88P'  VP   V8P    YP    `8888Y'
 
 @font-face{
     font-family: "rivalsans";
-    src: url("./fonts/rivalsans-regular.otf");
+    src: url("../fonts/rivalsans-regular.otf");
 }
 @font-face{
     font-family: "rivalsans";
-    src: url("./fonts/rivalsans-bold.otf");
+    src: url("../fonts/rivalsans-bold.otf");
     font-weight: 700;
 }
 @font-face{
     font-family: "rivalsans";
-    src: url("./fonts/rivalsans-extrabold.otf");
+    src: url("../fonts/rivalsans-extrabold.otf");
     font-weight: 800;
 }
 @font-face{
     font-family: "rivalsans";
-    src: url("./fonts/rivalsans-black.otf");
+    src: url("../fonts/rivalsans-black.otf");
     font-weight: 900;
 }
 
 @font-face {
     font-family: "proxima-nova";
-    src: url("./fonts/Proxima-Nova-Black.otf");
+    src: url("../fonts/Proxima-Nova-Black.otf");
     font-weight: 900;
 }
 
 @font-face {
     font-family: "proxima-nova";
-    src: url("./fonts/Proxima-Nova-Bold.otf");
+    src: url("../fonts/Proxima-Nova-Bold.otf");
     font-weight: 700;
 }
 
 @font-face {
     font-family: "proxima-nova";
-    src: url("./fonts/Proxima-Nova-Extrabold.otf");
+    src: url("../fonts/Proxima-Nova-Extrabold.otf");
     font-weight: 800;
 }
 
 @font-face {
     font-family: "proxima-nova";
-    src: url("./fonts/Proxima-Nova-Thin.otf");
+    src: url("../fonts/Proxima-Nova-Thin.otf");
     font-weight: 200;
 }
 
 @font-face {
     font-family: "proxima-nova";
-    src: url("./fonts/Proxima-Nova-Regular.otf");
+    src: url("../fonts/Proxima-Nova-Regular.otf");
 }
