@@ -344,19 +344,19 @@ input[value="detailed"]:checked ~ div #detail-view-label {
 }
 
 input[value="simple"]:checked ~ table .not-offered {
-    background-image: url(./icons.svg#circle-no-view);
+    background-image: url(../icons.svg#circle-no-view);
 }
 
 input[value="simple"]:checked ~ table .offered {
-    background-image: url(./icons.svg#circle-check-view);
+    background-image: url(../icons.svg#circle-check-view);
 }
 
 input[value="simple"]:checked ~ table .offered-diff-code {
-    background-image: url(./icons.svg#circle-question-view);
+    background-image: url(../icons.svg#circle-question-view);
 }
 
 input[value="simple"]:checked ~ table .unscheduled {
-    background-image: url(./icons.svg#circle-empty-view);
+    background-image: url(../icons.svg#circle-empty-view);
 }
 
 input[value="detailed"]:checked ~ table .detail-view-container {
