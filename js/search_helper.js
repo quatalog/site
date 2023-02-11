@@ -26,9 +26,8 @@ const search_helper = function(event) {
                 
                 // if it is, redirect to it
                 if(course_exists) {
-                        const loc = window.location.pathname;
                         // handle both homepage and courses pages
-                        if(loc.substring(0,loc.lastIndexOf('/')) != "/courses") {
+                        if(window.location.pathname.split("/").slice(-2,-1)[0] != "courses") {
                                 location.href = "courses/"+code_str;
                         } else {
                                 location.href = code_str;
