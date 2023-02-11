@@ -21,6 +21,11 @@
     font-size: calc(1vmin + 12px);
 }
 
+* {
+    font-family: "proxima-nova";
+    /* font-family: "IBM Plex Sans"; */
+}
+
 body {
     background-color: var(--deep-purple);
     overflow-x:hidden;
