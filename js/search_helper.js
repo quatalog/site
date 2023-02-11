@@ -8,7 +8,7 @@ const search_helper = function(event) {
         var course_code = false;
         if(input.length == 8) {
                 // "abcd1345" => ["abcd","1345"] 
-                course_code = input.match(/.{1,3}/g)
+                course_code = input.match(/.{1,4}/g)
         } else if(input.length == 9) {
                 // "abcd - 1345" => ["abcd","1345"]
                 course_code = input.split(/(?:,| )+/);
@@ -26,7 +26,13 @@ const search_helper = function(event) {
                 
                 // if it is, redirect to it
                 if(course_exists) {
-                        location.href = code_str;
+                        const loc = window.location.pathname;
+                        // handle both homepage and courses pages
+                        if(loc.substring(0,loc.lastIndexOf('/')) != "/courses") {
+                                location.href = "courses/"+code_str;
+                        } else {
+                                location.href = code_str;
+                        }
                         return;
                 }
         }

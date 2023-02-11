@@ -236,7 +236,7 @@
     font-family: 'proxima-nova';
 }
 
-.code-icon svg{
+.code-icon svg {
     width: 0.9rem;
     max-height: 0.9rem;
     text-align: justify!important;
@@ -247,16 +247,16 @@
     overflow: visible;
 }
 
-#yes-code-icon svg{
+#yes-code-icon svg {
     fill: var(--green);
 }
-#no-code-icon svg{
+#no-code-icon svg {
     fill: var(--red);
 }
-#diff-code-icon svg{
+#diff-code-icon svg {
     fill: var(--quacs-yellow);
 }
-#nil-code-icon svg{
+#nil-code-icon svg {
     fill: var(--mid-light-purple);
 }
 
