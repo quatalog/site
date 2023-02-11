@@ -1,0 +1,169 @@
+#searchTitle {
+    font-size: 2rem;
+    position: relative;
+    display: block;
+    width: 100vw;
+    height: fit-content;
+    left: 0vw;
+    text-align: center;
+    margin-top: 2.5vmin;
+    color: var(--quacs-yellow);
+    font-weight: 500;
+}
+
+#searchTerm {
+    color: var(--quacs-midtone);
+}
+
+#searchResultsContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vmin;
+}
+
+:root {
+    --entry-width: 70vw;
+    --hover-expand-width: 0.5vw;
+    --transition-time: 0.1s;
+}
+
+#searchResultsContainer tr {
+    width: var(--entry-width);
+    background: var(--mid-dark-purple);
+    margin-bottom: 2vmin;
+    margin-left: var(--hover-expand-width);
+    margin-right: var(--hover-expand-width);
+    color: var(--quacs-white);
+    border-radius: 0.5rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    transition-property: all;
+    transition-duration: var(--transition-time);
+    /* border-bottom: solid 1vmin var(--mid-purple); /* */
+}
+
+#searchResultsContainer a {
+    text-decoration: none;
+}
+
+#searchResultsContainer tr:hover {
+    background: var(--mid-purple);
+    /* border-bottom: solid 1vmin var(--mid-light-purple); */
+    margin-left: 0;
+    margin-right: 0;
+    width: calc(var(--entry-width) + 2*var(--hover-expand-width));
+    border-radius: calc(2vmin + 0.5vw);
+}
+
+#searchResultsContainer tr:hover p,
+#searchResultsContainer tr:hover div {
+    margin-left: var(--hover-expand-width);
+    margin-right: var(--hover-expand-width);
+}
+
+#searchResultsContainer tr p,
+#searchResultsContainer tr div {
+    transition-property: all;
+    transition-duration: var(--transition-time);
+}
+
+#searchResultsContainer h3 {
+    margin: 0;
+    padding: 1vmin;
+    padding-left: 1.5vmin;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    /* width: 100%; */
+    font-size: 1.25rem;
+    color: var(--quacs-midtone);
+    border-bottom: solid;
+    border-bottom-width: 0.2vmin;
+    flex-wrap: wrap;
+}
+
+.sattr {
+    margin-right: 1vmin;
+    display: flex;
+    margin-bottom: 0.25vmin;
+    margin-top: 0.25vmin;
+    font-size: 1rem;
+}
+
+.sattr-pill {
+    background: var(--quacs-yellow);
+    color: var(--deep-purple);
+    padding-left: 1.5vmin;
+    padding-right: 1.5vmin;
+    border-radius: 3vmin;
+}
+
+.sattr svg {
+    /* display: inline-block; */
+    /* vertical-align:-webkit-baseline-middle; */
+    align-self: center;
+    width: 1rem;
+    max-height: 1rem;
+    padding-left: 0.5vmin;
+    fill: var(--deep-purple);
+}
+
+.CI-pill {
+    background: var(--green);
+}
+
+.WI-pill {
+    background: var(--quacs-yellow);
+}
+
+.PD-pill {
+    background: var(--red);
+}
+
+.HI-pill {
+    background: var(--pink);
+    color: var(--deep-purple);
+}
+
+.HI-pill svg {
+    fill: var(--deep-purple);
+}
+
+.courseName {
+    color: var(--quacs-yellow);
+    font-size: 1.45rem;
+    margin-left: 0.5vmin;
+}
+
+.courseCode {
+    color: var(--quacs-midtone);
+    font-weight: 400;
+}
+
+#searchResultsContainer p {
+    padding: 1.5vmin;
+    font-size: 1rem;
+}
+
+#searchResultsContainer h3 span {
+    margin-right: 1vmin;
+}
+
+#searchResultsContainer h3:hover p {
+    padding-left: calc(1.5vmin + var(--hover-expand-width));
+    padding-right: calc(1.5vmin + var(--hover-expand-width));
+}
+
+@media (orientation: portrait) {
+    #searchResultsContainer tr {
+        width: 90vw;
+    }
+    #searchResultsContainer tr:hover {
+        width: 91vw;
+    }
+}
