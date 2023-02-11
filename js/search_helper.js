@@ -1,5 +1,5 @@
 "use strict";
-const search_helper = async function(event) {
+const search_helper = async function(event,from_course_page = true) {
         event.preventDefault();
         // "a     b   cde 12" => "a b cde 12"
         const input = document.getElementById("search").value.split(" ").join(" ");
@@ -13,7 +13,7 @@ const search_helper = async function(event) {
                 const arr = input.split(/(?:-| )+/);
                 if(arr.length == 2) course_code = arr;
         }
-
+        
         // only do this logic if the string might be a course code
         // avoid having to fetch the courses_list if it definitely isn't one
         if(course_code) {
@@ -22,21 +22,26 @@ const search_helper = async function(event) {
                 const code_str = course_code.join("-");
 
                 // check if "ABCD-1345" is a real course code
-                const course_exists = await fetch("../courses_list.json")
+                const course_exists = await fetch(
+                                from_course_page ? "../courses_list.json" : "courses_list.json"
+                        )
                         .then(list => list.json())
                         .then(list => list.includes(code_str));
                 
                 // if it is, redirect to it
                 if(course_exists) {
-                        // handle both homepage and courses pages (which are in a directory)
-                        if(window.location.pathname.split("/").slice(-2,-1)[0] != "courses") {
-                                location.href = "courses/"+code_str + ".html";
+                        if(from_course_page) {
+                                location.href = code_str;
                         } else {
-                                location.href = code_str + ".html";
+                                location.href = "courses/" + code_str;
                         }
                         return;
                 }
         }
 
-        location.href = "../search" + ".html" + "?search=" + encodeURIComponent(input);
+        if(from_course_page) {
+                location.href = "../search?search=" + encodeURIComponent(input);
+        } else {
+                location.href = "search?search=" + encodeURIComponent(input);
+        }
 }
