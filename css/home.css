@@ -1,0 +1,45 @@
+#home-title {
+    left: 30vw;
+    aspect-ratio: 337/181;
+    position: relative;
+    margin-top: 10vmin;
+    width: 40vw;
+}
+
+.home-search {
+    /* min-height: 3vmin; */
+    top: 0vmin;
+    position: relative;
+    font-size: 2rem;
+    margin: 10vmin auto;
+    margin-top: 5vmin;
+    width: 50vmin;
+    display: block;
+    padding: 1.6vmin;
+    padding-left: 1.8rem;
+    padding-right: 1.8rem;
+}
+
+#home-footer { 
+    text-align: center;
+}
+
+#home-footer a {
+    text-decoration: none;
+    border-bottom: solid;
+    border-width: 0.05rem;
+    vertical-align: center;
+}
+
+#github-icon {
+    height: 1.2rem;
+    margin-bottom: 0.1rem;
+}
+
+
+@media (max-aspect-ratio: 5/4), (orientation: portrait) {
+    #home-title {
+        left: 12.5vw;
+        width: 75vw;
+    }
+}
