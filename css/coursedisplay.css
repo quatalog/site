@@ -27,7 +27,6 @@
 
 #code {
     color: var(--quacs-midtone);
-    font-family: "proxima-nova";
     font-size: 1.8rem;
     font-weight: 900;
     position: relative;
@@ -44,7 +43,6 @@
 
 .attr-pill{
     color: var(--deep-purple);
-    font-family: "proxima-nova";
     position: relative;
     left: 0vw;
     background: var(--quacs-midtone);
@@ -63,7 +61,6 @@
 .rel-info-title{
     font-size: 1.25rem;
     font-weight: 700;
-    font-family: "proxima-nova";
     color: var(--quacs-white);
     margin-right: 0.5vmin;
 }
@@ -76,7 +73,6 @@
 
 .course-pill{
     color: var(--deep-purple);
-    font-family: "proxima-nova";
     
     position: relative;
     left: 0vw;
@@ -119,7 +115,6 @@
 
 .pr-or-title{
     color: var(--quacs-white);
-    font-family: "proxima-nova";
     font-size: 1.3rem;
     font-weight: 700;
     margin-bottom: 0.5vmin;
@@ -154,7 +149,6 @@
     background: var(--red);
     padding: 1vmin;
     color: var(--quacs-white);
-    font-family: "proxima-nova";
     font-size: 1.2rem;
     font-weight: 700;
     width: min-content;
@@ -166,7 +160,6 @@
 .none-rect{
     background: var(--red);
     color: var(--quacs-white);
-    font-family: "proxima-nova";
     font-size: 2vmin;
     position: relative;
     left: 0vw;
@@ -181,7 +174,6 @@
 .unknown-rect{
     background: var(--pink);
     color: var(--quacs-white);
-    font-family: "proxima-nova";
     font-size: 2vmin;
     position: relative;
     left: 0vw;
@@ -233,7 +225,6 @@
 
 .key-code{
     color: var(--quacs-midtone);
-    font-family: 'proxima-nova';
 }
 
 .code-icon svg {
@@ -293,7 +284,6 @@
 
 .term{
     color: var(--deep-purple);
-    font-family: "proxima-nova";
     font-size: 1.5vmin;
     width: min-content;
     /* word-break: break-all; */
@@ -335,7 +325,6 @@ input[value="detailed"]:checked ~ div #detail-view-label {
 .view-option-label {
     cursor: pointer;
     transition: color .1s;
-    font-family: "proxima-nova";
     color: var(--quacs-midtone);
 }
 
@@ -403,26 +392,18 @@ input[value="detailed"]:checked ~ table .detail-view-container {
     margin-bottom: 0.15rem;
 }
 
-.course-capacity-meter {
-    font-family: monospace;
-    font-size: 0.3rem;
-}
-
 .season-label{
     color: var(--quacs-midtone);
-    font-family: "proxima-nova";
     font-size: 1.4rem;
 }
 
 .midsum-label{
     color: var(--quacs-white);
-    font-family: "proxima-nova";    
     white-space: break-spaces;
 }
 
 .year{
     color: var(--quacs-midtone);
-    font-family: "proxima-nova";
     text-align: left;
     width: 6vmin;
 }
