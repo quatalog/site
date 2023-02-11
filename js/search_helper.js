@@ -11,7 +11,7 @@ const search_helper = function(event) {
                 course_code = input.match(/.{1,4}/g)
         } else if(input.length == 9) {
                 // "abcd - 1345" => ["abcd","1345"]
-                course_code = input.split(/(?:,| )+/);
+                course_code = input.split(/(?:-| )+/);
         }
         // only do this logic if the string might be a course code
         if(course_code) {
