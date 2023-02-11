@@ -21,7 +21,7 @@
     font-size: calc(1vmin + 12px);
 }
 
-body{
+body {
     background-color: var(--deep-purple);
     overflow-x:hidden;
     margin: 0;
@@ -73,10 +73,11 @@ p {
     margin-top: 0;
 }
 
-p a, p svg{
+p a, p svg {
     color: var(--quacs-midtone);
     fill: var(--quacs-midtone);
-    height: 4vmin;
+    max-height: 4vmin;
+    width: 4vmin;
     vertical-align: bottom;
 }
 
@@ -90,7 +91,7 @@ p a:hover, p a:hover svg {
 }
 
 /* HEADER */
-#qlog-header{
+#qlog-header {
     border-bottom: 0.2vmin solid var(--quacs-yellow);
     width: 100%;
     min-height: 5.25vmin;
