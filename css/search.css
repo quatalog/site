@@ -137,12 +137,12 @@
 .courseName {
     color: var(--quacs-yellow);
     font-size: 1.45rem;
-    margin-left: 0.5vmin;
 }
 
 .courseCode {
     color: var(--quacs-midtone);
     font-weight: 400;
+    font-size: 1rem;
 }
 
 #searchResultsContainer p {
@@ -151,7 +151,7 @@
 }
 
 #searchResultsContainer h3 span {
-    margin-right: 1vmin;
+    margin-right: 0.5vw;
 }
 
 #searchResultsContainer h3:hover p {
