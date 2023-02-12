@@ -47,10 +47,6 @@ svg {
     overflow: visible;
 }
 
-span {
-    display: contents;
-}
-
 /* TEXT */
 h1, h1 a {
     color: var(--quacs-yellow);
@@ -64,7 +60,7 @@ h1, h1 a {
     font-size: 2.25rem;
 }
 
-h2{
+h2 {
     font-size: 1.4rem;
     margin-top: 1vmin;
     margin-bottom: 0;
