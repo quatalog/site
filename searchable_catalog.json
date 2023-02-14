@@ -3810,6 +3810,16 @@
     "name" : "Topics in CSCI"
   },
   {
+    "code" : "EMBA-6966",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in EMBA"
+  },
+  {
+    "code" : "GSAS-2560",
+    "description" : "What makes play musical and music playful? How does game sound and music contribute to gameworld creation, gameplay, and virtual performance? Ludomusicology\u2014the relation of music to play\u2014addresses these questions and challenges us to take play seriously. This course considers the diverse relationships among music, play, media, and performance, including game sound, music-stylistic features of game consoles and systems, children's games, remixing and sampling, the role musical games play in cultural identity, and more.",
+    "name" : "Game Sound and Musical Play"
+  },
+  {
     "code" : "CSCI-6840",
     "description" : "Numerical methods and analysis for linear and nonlinear PDEs with applications from heat conduction, wave propagation, solid and fluid mechanics, and other areas. Basic concepts of stability and convergence (Lax equivalence theorem, CFL condition, energy methods). Methods for parabolic problems (finite differences, method of lines, ADI, operator splitting), methods for hyperbolic problems (vector systems and characteristics, dissipation and dispersion, shocks capturing and tracking schemes), methods for elliptic problems (finite difference and finite volume methods).",
     "name" : "Numerical Solution of Partial Differential Equations"
@@ -5153,11 +5163,6 @@
     "code" : "PHYS-6900",
     "description" : "Selected topics.",
     "name" : "Seminar"
-  },
-  {
-    "code" : "CIVL-4010",
-    "description" : "Subsurface investigation. The application of the principles of soil mechanics to the design of footings, retaining walls, pile foundations, bulkheads, cofferdams, bridge piers and abutments, and underpinnings.",
-    "name" : "Foundation Engineering"
   },
   {
     "code" : "CHME-6940",
@@ -7645,6 +7650,11 @@
     "name" : "Introduction to Geotechnical Engineering"
   },
   {
+    "code" : "CIVL-4010",
+    "description" : "Subsurface investigation. The application of the principles of soil mechanics to the design of footings, retaining walls, pile foundations, bulkheads, cofferdams, bridge piers and abutments, and underpinnings.",
+    "name" : "Foundation Engineering"
+  },
+  {
     "code" : "ECON-1200",
     "description" : "This course is designed to introduce a wide variety of concepts and applications in the broad subject of economics, economics being the study of people's choices. Traditionally, these choices have been framed as how to best employ scarce resources to produce goods and services and distribute them for consumption. To describe these choices the cause will introduce the concepts of opportunity cost, demand and supply theory, and market structures. It will consider the role of government in making resource allocation choices. Students will also study important macroeconomic data such as gross domestic product, economic growth rates, inflation, and unemployment. Additionally, studied will be the role of money and banking in the economy and short-run events such as recessions and expansions. Overall, the course will provide the student with an encompassing view of how economic principles and concepts relate to the broader economy and society. Credit cannot be obtained for both IHSS 1200 and ECON 1200",
     "name" : "Introductory Economics"
@@ -8208,21 +8218,6 @@
     "code" : "BMED-4460",
     "description" : "Survey of image analysis applications in biology and biotechnology; introduction to biological microscopy and selected biomedical imaging systems; image reconstruction and pre-processing; grayscale and geometric corrections; image segmentation; blob analysis, cell/colony counting, and cell morphometry; vessel and neuron tracing algorithms with applications to neurobiology and medicine; feature extraction, pattern analysis, cluster analysis and classification; image registration algorithms with applications to mosaicing, spatial referencing, motion estimation, and change detection.",
     "name" : "Biological Imaging Analysis"
-  },
-  {
-    "code" : "COMM-4250",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Writing For Games II"
-  },
-  {
-    "code" : "BIOL-4980",
-    "description" : "Independent research in health sciences, supervised by a faculty member, for the purpose of developing research skills. Such skills include defining a research project, both as a written and oral exercise for a scientific and general audience, and gathering preliminary research data enabling both a written and oral description of the project in the form of a research proposal and an oral defense. Open to students in the accelerated physician-scientist curriculum only. This course is the Culminating Experience for students in this program. This is a communication-intensive course.",
-    "name" : "Biomedical Research"
-  },
-  {
-    "code" : "LITR-6940",
-    "description" : "Readings and projects adapted to the needs of individual students.",
-    "name" : "Literature Studies"
   },
   {
     "code" : "CIVL-6490",
@@ -10200,16 +10195,6 @@
     "name" : "Mechanics of Materials Processing"
   },
   {
-    "code" : "EMBA-6966",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in EMBA"
-  },
-  {
-    "code" : "GSAS-2560",
-    "description" : "What makes play musical and music playful? How does game sound and music contribute to gameworld creation, gameplay, and virtual performance? Ludomusicology\u2014the relation of music to play\u2014addresses these questions and challenges us to take play seriously. This course considers the diverse relationships among music, play, media, and performance, including game sound, music-stylistic features of game consoles and systems, children's games, remixing and sampling, the role musical games play in cultural identity, and more.",
-    "name" : "Game Sound and Musical Play"
-  },
-  {
     "code" : "COMM-6963",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COMM"
@@ -11488,6 +11473,21 @@
     "code" : "BIOL-4420",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Intro Immunology"
+  },
+  {
+    "code" : "LITR-6940",
+    "description" : "Readings and projects adapted to the needs of individual students.",
+    "name" : "Literature Studies"
+  },
+  {
+    "code" : "COMM-4250",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Writing For Games II"
+  },
+  {
+    "code" : "BIOL-4980",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Biomedical Research"
   },
   {
     "code" : "ARCH-4330",
