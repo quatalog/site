@@ -2525,6 +2525,11 @@
     "name" : "Intro To Visual Communication"
   },
   {
+    "code" : "COMM-2510",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Cultural Anthropology"
+  },
+  {
     "code" : "GSAS-2510",
     "description" : "This course looks at the mathematics of game theory from a psychological perspective and serves as a primer in video game design. The psychology of players and designers are discussed, as well as the cognitive processes that people use when solving game-related puzzles. Additional topics include logic, human frailty, role playing, artificial intelligence, kinesics, theater, and human-computer interaction.",
     "name" : "Introduction to Game Design"
@@ -15140,6 +15145,11 @@
     "name" : "Creative Writing: Poetry"
   },
   {
+    "code" : "BIOL-1016",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Intro Biol Computatinal Lab"
+  },
+  {
     "code" : "ITWS-1100",
     "description" : "This course introduces students to the field of information technology and Web science, the types of problems encountered in the field, and the solution approaches used to solve them. Through a series of activities and projects, students are introduced to topics such as Web systems design, emerging Web standards, database systems, security, and computer networking. Guest speakers highlight information technology practices in industry. Students work in groups on a team project and presentation at the end of the course.",
     "name" : "Introduction to Information Technology and Web Science"
@@ -15833,10 +15843,5 @@
     "code" : "COMM-2330",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Creative Writing: The Short Story"
-  },
-  {
-    "code" : "COMM-2510",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Cultural Anthropology"
   }
 ]
