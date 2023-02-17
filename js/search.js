@@ -59,7 +59,7 @@ const display_search_results = function(searchable_catalog) {
 window.onload = function() {
         // smart quotes
         document.getElementById("searchTerm").innerHTML = "&#8220;" + search_term + "&#8221;";
-        fetch("searchable_catalog.json")
+        fetch("json/searchable_catalog.json")
                 .then(r => r.json())
                 .then(display_search_results);
 }
