@@ -23,7 +23,7 @@ const search_helper = async function(event,from_course_page = true) {
 
                 // check if "ABCD-1345" is a real course code
                 const course_exists = await fetch(
-                                from_course_page ? "../courses_list.json" : "courses_list.json"
+                                from_course_page ? "../json/courses_list.json" : "json/courses_list.json"
                         )
                         .then(list => list.json())
                         .then(list => list.includes(code_str));
