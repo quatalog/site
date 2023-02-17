@@ -38,6 +38,14 @@ const fuzzy_search_config = {
         ]
 }
 
+const attr_to_icon = {
+        'CI': 'message',
+        'HInq': 'magnifying',
+        'PDII': 'briefcase',
+        'WI': 'pencil',
+        'CulmExp': 'cubes'
+}
+
 const display_search_results = function(searchable_catalog) {
         const fuse = new Fuse(searchable_catalog,fuzzy_search_config);
         console.log("Searching for " + search_term + "...");
@@ -46,13 +54,20 @@ const display_search_results = function(searchable_catalog) {
         results.forEach(function(search_entry) {
                 const entry = search_entry.item;
                 const tr = table.insertRow(-1);
-                tr.innerHTML += '<a href="courses/'
+                var elemInnerHtml = '<a href="courses/'
                         + entry.code + '">'
                         + '<h3><div><span class="courseName">'
                         + entry.name
                         + '</span><span class="courseCode">'
-                        + entry.code + "</span></div></h3>"
-                        + "<p>" + entry.description + "</p>" + '\n';
+                        + entry.code + '</span><span class="pill">'
+                        + entry.credits + "</span>";
+                if(entry.attributes)
+                entry.attributes.forEach(function(attr) {
+                        elemInnerHtml += '<span class="pill ' + attr + '-pill">' 
+                                + attr + '<svg><use href="../icons.svg#' + attr_to_icon[attr] + '"></use></svg></span>';
+                });
+                elemInnerHtml += "</div></h3><p>" + entry.description + "</p></a>" + '\n';
+                tr.innerHTML = elemInnerHtml;
         });
 }
 
