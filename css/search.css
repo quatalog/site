@@ -76,7 +76,6 @@
     margin: 0;
     padding: 1vmin;
     padding-left: 1.5vmin;
-    align-items: baseline;
     /* width: 100%; */
     font-size: 1.25rem;
     color: var(--quacs-midtone);
@@ -88,7 +87,7 @@
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    align-items: center;
+    align-items: baseline;
 }
 
 .pill {
