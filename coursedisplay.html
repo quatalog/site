@@ -1,0 +1,18 @@
+<html>
+        <head>
+                <script>
+const params = window
+	.location
+	.search
+	.slice(1)
+	.split("&")
+	.map(p => p.split("="))
+	.reduce((obj,[key,value]) =>
+		({ ...obj, [key]: decodeURIComponent(value) }),
+		{}
+	);
+
+window.location.replace("courses/"+(params["course"]));
+                </script>
+        </head>
+</html>
