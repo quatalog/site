@@ -11,8 +11,12 @@ const params = window
 		({ ...obj, [key]: decodeURIComponent(value) }),
 		{}
 	);
-
-window.location.replace("courses/"+(params["course"]));
+const course = params["course"];
+if(course != undefined) {
+        window.location.replace("courses/"+(params["course"]));
+} else {
+        window.location.replace(".");
+}
                 </script>
         </head>
 </html>
