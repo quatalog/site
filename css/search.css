@@ -72,40 +72,41 @@
     transition-duration: var(--transition-time);
 }
 
-#searchResultsContainer h3 {
+#searchResultsContainer tr h3 {
     margin: 0;
     padding: 1vmin;
     padding-left: 1.5vmin;
-    display: flex;
-    flex-direction: row;
     align-items: baseline;
     /* width: 100%; */
     font-size: 1.25rem;
     color: var(--quacs-midtone);
     border-bottom: solid;
     border-bottom-width: 0.2vmin;
-    flex-wrap: wrap;
 }
 
-.sattr {
-    margin-right: 1vmin;
+#searchResultsContainer tr h3 div {
     display: flex;
-    margin-bottom: 0.25vmin;
-    margin-top: 0.25vmin;
-    font-size: 1rem;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
 }
 
-.sattr-pill {
+.pill {
     background: var(--quacs-yellow);
     color: var(--deep-purple);
+    display: flex;
+    font-size: 1rem;
+    font-weight: 400;
     padding-left: 1.5vmin;
     padding-right: 1.5vmin;
     border-radius: 3vmin;
+    margin-bottom: 0.25vmin;
+    margin-top: 0.25vmin;
+    margin-right: 1vmin;
 }
 
-.sattr svg {
-    /* display: inline-block; */
-    /* vertical-align:-webkit-baseline-middle; */
+.pill svg {
+    display: inline-block;
     align-self: center;
     width: 1rem;
     max-height: 1rem;
@@ -121,16 +122,16 @@
     background: var(--quacs-yellow);
 }
 
-.PD-pill {
+.PDII-pill {
     background: var(--red);
 }
 
-.HI-pill {
+.HInq-pill {
     background: var(--pink);
     color: var(--deep-purple);
 }
 
-.HI-pill svg {
+.HInq-pill svg {
     fill: var(--deep-purple);
 }
 
