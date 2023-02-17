@@ -64,7 +64,7 @@ const display_search_results = function(searchable_catalog) {
                 if(entry.attributes)
                 entry.attributes.forEach(function(attr) {
                         elemInnerHtml += '<span class="pill ' + attr + '-pill">' 
-                                + attr + '<svg><use href="../icons.svg#' + attr_to_icon[attr] + '"></use></svg></span>';
+                                + attr + '<svg><use href="./icons.svg#' + attr_to_icon[attr] + '"></use></svg></span>';
                 });
                 elemInnerHtml += "</div></h3><p>" + entry.description + "</p></a>" + '\n';
                 tr.innerHTML = elemInnerHtml;
