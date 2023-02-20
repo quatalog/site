@@ -17284,7 +17284,7 @@
   {
     "attributes" : null,
     "code" : "MANE-4290",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course will present the foundations of numerical (deterministic) and Monte Carlo methods that are widely used in the modeling and analysis of nuclear reactor design, radiation dosimetry, and radiation shielding. Emphasis will be placed on the three fundamental aspects of computation methods: (i) discretization methods for the transport and diffusion equations; (ii) iterative methods for solving the system of discretized equations; and (iii) Monte Carlo methods for solving general fixed-source and eigenvalue problems.",
     "name" : "Radiation Transport Methods"
   },
