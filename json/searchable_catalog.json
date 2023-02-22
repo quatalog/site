@@ -2631,16 +2631,6 @@
     "name" : "Topics in ECSE"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
-    "code" : "ECSE-4964",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ECSE"
-  },
-  {
     "attributes" : null,
     "code" : "MTLE-6961",
     "credits" : "3 credits",
@@ -3793,6 +3783,16 @@
     "name" : "Cultural Anthropology"
   },
   {
+    "attributes" : 
+    [
+      "CI"
+    ],
+    "code" : "COMM-2330",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Creative Writing: The Short Story"
+  },
+  {
     "attributes" : null,
     "code" : "GSAS-2510",
     "credits" : "4 credits",
@@ -4694,6 +4694,16 @@
     "credits" : "4 credits",
     "description" : "This course will concentrate on the knowledge-based modeling of intelligent agents, with a special emphasis on semantically-oriented language processing. Theoretical and conceptual discussions will be balanced by practical work within the implemented OntoAgent cognitive architecture. It will discuss the modeling of decision-making, the various aspects of natural-language processing, and the art of knowledge engineering.",
     "name" : "Language-Endowed Intelligent Agents"
+  },
+  {
+    "attributes" : 
+    [
+      "WI"
+    ],
+    "code" : "ECSE-4964",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ECSE"
   },
   {
     "attributes" : null,
@@ -5677,23 +5687,6 @@
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "EMBA-6966",
-    "credits" : "2 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in EMBA"
-  },
-  {
-    "attributes" : 
-    [
-      "CI"
-    ],
-    "code" : "GSAS-2560",
-    "credits" : "4 credits",
-    "description" : "What makes play musical and music playful? How does game sound and music contribute to gameworld creation, gameplay, and virtual performance? Ludomusicology\u2014the relation of music to play\u2014addresses these questions and challenges us to take play seriously. This course considers the diverse relationships among music, play, media, and performance, including game sound, music-stylistic features of game consoles and systems, children's games, remixing and sampling, the role musical games play in cultural identity, and more.",
-    "name" : "Game Sound and Musical Play"
   },
   {
     "attributes" : null,
@@ -15036,6 +15029,23 @@
   },
   {
     "attributes" : null,
+    "code" : "EMBA-6966",
+    "credits" : "2 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in EMBA"
+  },
+  {
+    "attributes" : 
+    [
+      "CI"
+    ],
+    "code" : "GSAS-2560",
+    "credits" : "4 credits",
+    "description" : "What makes play musical and music playful? How does game sound and music contribute to gameworld creation, gameplay, and virtual performance? Ludomusicology\u2014the relation of music to play\u2014addresses these questions and challenges us to take play seriously. This course considers the diverse relationships among music, play, media, and performance, including game sound, music-stylistic features of game consoles and systems, children's games, remixing and sampling, the role musical games play in cultural identity, and more.",
+    "name" : "Game Sound and Musical Play"
+  },
+  {
+    "attributes" : null,
     "code" : "COMM-6963",
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -23392,15 +23402,5 @@
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Writing For The Screen"
-  },
-  {
-    "attributes" : 
-    [
-      "CI"
-    ],
-    "code" : "COMM-2330",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Creative Writing: The Short Story"
   }
 ]
