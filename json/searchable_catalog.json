@@ -11815,6 +11815,20 @@
     "name" : "Genetic Engineering"
   },
   {
+    "attributes" : null,
+    "code" : "CHEM-1300",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Chem Principles For Engineers"
+  },
+  {
+    "attributes" : null,
+    "code" : "COMM-4880",
+    "credits" : "4 credits",
+    "description" : "The course covers interactive, multimedia interface design (for Web sites and apps) for data visualization or other forms of interactive information design. Innovative designs that explore new directions in interactive data design are highlighted. Topics include multisensory information design using graphics, sound, touch, and large-scale data projection. Interface design topics include user-centered design, information architecture, rapid prototyping, cross-cultural design, and intellectual property. Students may choose the applications they want to design for the class project.",
+    "name" : "Interactive Data Visualization"
+  },
+  {
     "attributes" : 
     [
       "CI"
@@ -20549,7 +20563,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6965",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -23947,20 +23961,6 @@
     "credits" : "? credits",
     "description" : "Examines international negotiation techniques, practice, and styles. Students are given an in-depth profile questionnaire to assess individual strengths and weaknesses in international negotiations. Profiles of international negotiations are examined. Negotiations and group presentations are video taped and analyzed.",
     "name" : "International Negotiations"
-  },
-  {
-    "attributes" : null,
-    "code" : "ERTH-1001",
-    "credits" : "0-6 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Physical Geology"
-  },
-  {
-    "attributes" : null,
-    "code" : "MGMT-7710",
-    "credits" : "? credits",
-    "description" : "The emerging role of the international manager, cultural impact of international management, managing culture shock, organizational responsibilities, and cultural differences. Foreign deployment, cultural specifics for managerial effectiveness, cultural themes and patterns, American macro- and micro-cultures, working with the global market environment.",
-    "name" : "Cultural Environment of International Business"
   },
   {
     "attributes" : null,
@@ -27508,6 +27508,37 @@
   },
   {
     "attributes" : null,
+    "code" : "ERTH-1001",
+    "credits" : "0-6 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Physical Geology"
+  },
+  {
+    "attributes" : null,
+    "code" : "MGMT-7710",
+    "credits" : "? credits",
+    "description" : "The emerging role of the international manager, cultural impact of international management, managing culture shock, organizational responsibilities, and cultural differences. Foreign deployment, cultural specifics for managerial effectiveness, cultural themes and patterns, American macro- and micro-cultures, working with the global market environment.",
+    "name" : "Cultural Environment of International Business"
+  },
+  {
+    "attributes" : null,
+    "code" : "BIOL-1961",
+    "credits" : "1 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BIOL"
+  },
+  {
+    "attributes" : 
+    [
+      "CulmExp"
+    ],
+    "code" : "BIOL-4330",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Cancer Biology"
+  },
+  {
+    "attributes" : null,
     "code" : "BIOL-2000",
     "credits" : "0-6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -27628,16 +27659,6 @@
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Human Physio Systems"
-  },
-  {
-    "attributes" : 
-    [
-      "CulmExp"
-    ],
-    "code" : "BIOL-4330",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Cancer Biology"
   },
   {
     "attributes" : null,
@@ -28074,19 +28095,5 @@
     "credits" : "0-6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "General Chemistry"
-  },
-  {
-    "attributes" : null,
-    "code" : "COMM-4880",
-    "credits" : "4 credits",
-    "description" : "The course covers interactive, multimedia interface design (for Web sites and apps) for data visualization or other forms of interactive information design. Innovative designs that explore new directions in interactive data design are highlighted. Topics include multisensory information design using graphics, sound, touch, and large-scale data projection. Interface design topics include user-centered design, information architecture, rapid prototyping, cross-cultural design, and intellectual property. Students may choose the applications they want to design for the class project.",
-    "name" : "Interactive Data Visualization"
-  },
-  {
-    "attributes" : null,
-    "code" : "CHEM-1300",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Chem Principles For Engineers"
   }
 ]
