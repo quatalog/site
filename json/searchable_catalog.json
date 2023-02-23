@@ -15221,7 +15221,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4971",
-    "credits" : "2 credits",
+    "credits" : "2-3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -15312,7 +15312,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6960",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -22499,7 +22499,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4961",
-    "credits" : "0 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -24484,7 +24484,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4970",
-    "credits" : "2 credits",
+    "credits" : "2-3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -26455,7 +26455,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4972",
-    "credits" : "2 credits",
+    "credits" : "2-3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
