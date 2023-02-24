@@ -6317,7 +6317,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-6966",
-    "credits" : "0 credits",
+    "credits" : "0-2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -27715,7 +27715,7 @@
   {
     "attributes" : null,
     "code" : "BMED-6966",
-    "credits" : "0 credits",
+    "credits" : "1 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
