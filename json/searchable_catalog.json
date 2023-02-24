@@ -31,10 +31,7 @@
     "name" : "Topics in WRIT"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "WRIT-4963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -342,10 +339,7 @@
     "name" : "Design Innovation And Society - Restricted To Pdi Majors Only"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "STSO-1520",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -373,41 +367,28 @@
     "name" : "Nature Of Inquiry"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "STSO-4966",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in STSO"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "STSO-4965",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in STSO"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "STSO-4963",
     "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in STSO"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "PDII"
-    ],
+    "attributes" : null,
     "code" : "STSO-4961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -445,10 +426,7 @@
     "name" : "Late Antiquity (at Siena Coll)"
   },
   {
-    "attributes" : 
-    [
-      "PDII"
-    ],
+    "attributes" : null,
     "code" : "STSO-2961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -1013,10 +991,7 @@
     "name" : "Buddhism"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "WRIT-4961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -1084,10 +1059,7 @@
     "name" : "Intro To Phil Of Science"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "PHIL-2120",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -1601,10 +1573,7 @@
     "name" : "Topics in MATP"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "STSO-2962",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -1845,10 +1814,7 @@
     "name" : "Pre-calculus (hvcc)"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "MANE-6968",
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -1939,10 +1905,7 @@
     "name" : "Atom & Nuclear Phy Appl"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "PSYC-2120",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -1991,20 +1954,14 @@
     "name" : "Topics in MANE"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "WRIT-6961",
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in WRIT"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "MANE-4961",
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -2139,10 +2096,7 @@
     "name" : "Liter Crit Theory(at St Rose)"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "LITR-2961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -2477,10 +2431,7 @@
     "name" : "Topics in ITWS"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ITWS-6961",
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -2508,10 +2459,7 @@
     "name" : "Topics in ITWS"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ITWS-4961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -3856,10 +3804,7 @@
     "name" : "Strategic Issues Info Syst"
   },
   {
-    "attributes" : 
-    [
-      "PDII"
-    ],
+    "attributes" : null,
     "code" : "STSO-4968",
     "credits" : "1 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -4086,10 +4031,7 @@
     "name" : "Topics in ECSE"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ECSE-4966",
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -4305,10 +4247,7 @@
     "name" : "Undergraduate Research Proj"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ECON-4963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -4325,10 +4264,7 @@
     "name" : "Topics in ECON"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "PSYC-2961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -4439,10 +4375,7 @@
     "name" : "Adv Journalism (hvcc)"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "MGMT-4961",
     "credits" : "0 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -4887,20 +4820,14 @@
     "name" : "Topics in CSCI"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "CSCI-6966",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "CSCI-6963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -5005,20 +4932,14 @@
     "name" : "Topics in CSCI"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "PHIL-4961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHIL"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "CSCI-4969",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -5046,10 +4967,7 @@
     "name" : "Topics in ERTH"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "CSCI-4966",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -5063,10 +4981,7 @@
     "name" : "Topics in CSCI"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "CSCI-4963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -5174,10 +5089,7 @@
     "name" : "Natural Language Processing"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "WRIT-2962",
     "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -5830,10 +5742,7 @@
     "name" : "Topics in EMBA"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COMM-2962",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -6099,20 +6008,14 @@
     "name" : "Topics in COGS"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COGS-4964",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COGS"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COGS-4963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -6691,10 +6594,7 @@
     "name" : "Analytical Chemistry II"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COMM-4965",
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -6761,10 +6661,7 @@
     "name" : "Art for Interactive Media"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ITWS-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -7444,10 +7341,7 @@
     "name" : "Advanced 3D Computer Graphics and Visualization"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "STSO-4964",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -7524,10 +7418,7 @@
     "name" : "Internet Protocols"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "LITR-2962",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -7705,10 +7596,7 @@
     "name" : "Television And Culture"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "ECSE-4964",
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -7848,11 +7736,7 @@
     "name" : "Advanced Cell Biology"
   },
   {
-    "attributes" : 
-    [
-      "CulmExp",
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "ECSE-4560",
     "credits" : "3 credits",
     "description" : "A broad introduction to modern communication systems, with applications to emerging wireless communication technologies. Fundamental principles of wireless channel modeling; performance limits of communication systems; analog and digital modulation techniques; source and channel coding; multi-antenna communication systems; multi-carrier modulation; multi-user communication systems. Emerging wireless technologies such as MIMO and OFDM, with applications to cellular and wireless LAN communication standards. Complemented with computational exercises.",
@@ -7952,10 +7836,7 @@
     "name" : "Broadband and Optical Networking"
   },
   {
-    "attributes" : 
-    [
-      "CulmExp"
-    ],
+    "attributes" : null,
     "code" : "ECSE-4120",
     "credits" : "3 credits",
     "description" : "This course studies electromechanical interactions in lumped-parameter systems. These interactions describe the operation of electric machines, electromechanical actuators, and transducers. The fundamental laws of Faraday, Ampere, and Gauss are considered to develop physical models of magnetic circuits, including those which use permanent magnets. These models are then expanded to include equations of motion and the thermodynamics of electromechanical coupling. Applications include transformers, induction machines, synchronous machines, DC machines, and reluctance machines.",
@@ -8008,10 +7889,7 @@
     "name" : "Engineering Psychology"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "CSCI-4967",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -8032,10 +7910,7 @@
     "name" : "Air and Space Studies 300A (Leading People and Effective Communication)"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "ECSE-6700",
     "credits" : "3 credits",
     "description" : "An advanced design and laboratory course. Design methodologies include register transfer modules and firmware microprogrammed design. Advanced microprocessor topics. \"Bit-slice\" philosophy of design. LSI microprocessors as design elements in larger digital systems such as high-speed channels and special purpose computers. Detailed discussion of the structure of several computers at the chip and board level. Emphasis on high-speed ECL and Schottky circuits. Specification of custom IC digital systems. FPGA based design implementation using VHDL. Students cannot receive credit for both this course and ECSE 4780 .",
@@ -8929,10 +8804,7 @@
     "name" : "Machine Learning from Data"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "MANE-4470",
     "credits" : "3 credits",
     "description" : "A foundational course on the principles of radiation and radiation protection (health physics). Provides a fundamental understanding of natural and anthropogenic sources of radiation, radiation interactions in matter, the biological effects of radiation, internal and external dosimetry, and radiation shielding. The use of computational and simulation techniques is emphasized throughout the course. Studio-style case studies examine the medical, socio-political, and regulatory aspects of radiation utilization and protection.",
@@ -9182,10 +9054,7 @@
     "name" : "Data Mining"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "STSO-4962",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -9663,10 +9532,7 @@
     "name" : "Topics in ENGR"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COMM-4188",
     "credits" : "4 credits",
     "description" : "The purpose of this course is to introduce the basics of strategic communication in digital and social media platforms, with a specific interest in the applications of digital and social media for communication professionals. In this course, students will learn key principles and techniques for digital content creation and promotion. Students will brainstorm, conceptualize, and develop an online presence and apply writing, research, and critical thinking to the practice of strategic communication.",
@@ -9718,10 +9584,7 @@
     "name" : "Closed Worlds Book Research"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COMM-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -9759,10 +9622,7 @@
     "name" : "Information Design"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "ECSE-4961",
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -9804,10 +9664,7 @@
     "name" : "Master's Project"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COMM-2960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -10332,10 +10189,7 @@
     "name" : "Computer Communication Networks"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COGS-2120",
     "credits" : "4 credits",
     "description" : "This course is an introduction to the new and quickly growing field of cognitive science. Cognitive Science is a highly interdisciplinary field of study of mind at the intersection of philosophy, psychology, computer science, neuroscience, linguistics, and anthropology.",
@@ -11008,10 +10862,7 @@
     "name" : "Introduction to Topology"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "LITR-2963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -11217,10 +11068,7 @@
     "name" : "Science Fictions"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "ECSE-4780",
     "credits" : "4 credits",
     "description" : "Design methodologies include register transfer modules and firmware microprogrammed design. \"Bit-slice\" philosophy of design. LSI microprocessors as design elements in larger digital systems such as high-speed channels and special purpose computers. Detailed discussion of the structure of several computers at the chip and board level. Specification of custom IC digital systems. FPGA based design implementation using VHDL. Students cannot receive credit for both this course and ECSE 6700 .",
@@ -11474,10 +11322,7 @@
     "name" : "Topics in ARTS"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ECON-4966",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -11777,10 +11622,7 @@
     "name" : "Hactivism"
   },
   {
-    "attributes" : 
-    [
-      "CulmExp"
-    ],
+    "attributes" : null,
     "code" : "ECSE-4790",
     "credits" : "3 credits",
     "description" : "Hardware and software for real-time microprocessor-based digital systems. Basic concepts and operations of on-chip components related to digital system functionality. Architectures, instructions sets, and interfacing with peripherals through serial or parallel ports. Introduction to 32-bit machines with in-depth treatment of 16- and 8-bit machines. Emphasis on C language cross-compilers. Laboratory exercises are included to demonstrate hardware and software development techniques practiced in industry.",
@@ -11829,10 +11671,7 @@
     "name" : "Interactive Data Visualization"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "CSCI-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -12066,10 +11905,7 @@
     "name" : "Design and Innovation Studio III"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "ECSE-4940",
     "credits" : "1-12 credits",
     "description" : "Supervised reading and research.",
@@ -12097,10 +11933,7 @@
     "name" : "Invention, Innovation, and Entrepreneurship"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ARTS-2962",
     "credits" : "1 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -12121,10 +11954,7 @@
     "name" : "Studies in Games"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "MGMT-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -12243,10 +12073,7 @@
     "name" : "Networking in the Linux Kernel"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ECON-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -12723,10 +12550,7 @@
     "name" : "Cognitive Modeling I"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "PSYC-4963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -13650,10 +13474,7 @@
     "name" : "Experimental Chemistry I: Analytical Techniques"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ARTS-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -14033,10 +13854,7 @@
     "name" : "Digital Control Systems"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "WRIT-6940",
     "credits" : "3 credits",
     "description" : "",
@@ -15213,20 +15031,14 @@
     "name" : "Topics in PHYS"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "PSYC-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PSYC"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "STSO-4320",
     "credits" : "4 credits",
     "description" : "In this course, students will explore how a very wide variety of data and media relate to our ever-evolving environment. We will build critical media literacy through encounters with media as both consumers and producers, learning along the way about how media literacy relates to other forms of literacy: ecological, political, scientific, historical, epistemological, etc. Simultaneously, we will question what \"the environment\" means, critique the limits of \"sustainability\" discourse, examine our assumptions around \"the media,\" question notions of \"data\" (big, little, quantitative, qualitative), etc. We will situate all of these terms in broader contexts and examine their histories, connotations, and connections.",
@@ -15499,10 +15311,7 @@
     "name" : "Introduction to Machine Learning"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "ECSE-4440",
     "credits" : "3 credits",
     "description" : "Application of linear feedback theory to the design of large-scale, integrated control systems. Derivation of complex mathematical models of physical systems. Synthesis of appropriate control laws to provide stability. Simulation of complex control systems on digital computers.",
@@ -15586,10 +15395,7 @@
     "name" : "Architecture Design 3"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "CHME-4150",
     "credits" : "3 credits",
     "description" : "A two-term laboratory course on experimental analysis of the operations and processes of chemical engineering. Emphasis is placed on planning of experiments, data evaluation, and report writing.",
@@ -15802,10 +15608,7 @@
     "name" : "Large-Scale Programming and Testing"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "ENGR-4720",
     "credits" : "4 credits",
     "description" : "Student teams finalize manufacturing system plans from select ENGR 4710 projects, build a manufacturing system to complete several hundred units of a product, optimize the system, manage a project budget, modify manufacturing and packaging plans, and conform to a project schedule as proposed in the associated project Technical Data Packages produced by ENGR 4710 teams. In addition, students will learn new advanced manufacturing topics to increase their breath and depth of manufacturing.",
@@ -16008,10 +15811,7 @@
     "name" : "Intro To Analytical Chem"
   },
   {
-    "attributes" : 
-    [
-      "CulmExp"
-    ],
+    "attributes" : null,
     "code" : "BIOL-4260",
     "credits" : "4 credits",
     "description" : "This course is designed to enable students to understand how an organism functions at the cellular and molecular level, and further, how this functioning is regulated so that cells can adapt to changes in their environment. Students will learn the fundamental components of the cell (from protein to organelle), their characteristics, and how these components function in both normal and diseased cells. Students will also learn biochemical, structural, and mechanical aspects of cell functioning and regulation in normal and diseased cells. In addition, students will learn to critically read current scientific literature. By reading current literature, students will gain knowledge of the practice and presentation of science, as well as learn about new techniques and findings.",
@@ -16771,10 +16571,7 @@
     "name" : "Business Issues for Engineers and Scientists"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "PSYC-2960",
     "credits" : "1 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -17015,10 +16812,7 @@
     "name" : "Arch Explore & Planning Exp"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "MATH-4200",
     "credits" : "4 credits",
     "description" : "Fundamental concepts of mathematical analysis will be covered including such topics as the real number system, metric spaces, limits, sequences, series, convergence, functions of one variable, uniform convergence, continuity, differentiability, Riemann integration, and the Stone-Weierstrass Theorem.",
@@ -17945,10 +17739,7 @@
     "name" : "Fundamentals of Military Science Lab II"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "CHEM-4330",
     "credits" : "3 credits",
     "description" : "This course will examine how bioinformatics, functional genomics, and other modern biotechnologies are used to speed the discovery of new drugs, especially those small organic molecules to treat human diseases with large unmet therapeutic need. Special emphasis will be placed on molecular target identification and validation as well as high-throughput screening to identify a lead. Topics to be discussed will include transgenic mice, RNA interference, DNA and protein microarrays, homogenous time-resolved fluorescence bioassays, phage-display, combinatorial chemistry, and parallel synthesis. Students cannot receive credit for both this course and CHEM 6330 .",
@@ -18733,10 +18524,7 @@
     "name" : "Topics in CHME"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "CHME-4160",
     "credits" : "3 credits",
     "description" : "A two-term laboratory course on experimental analysis of the operations and processes of chemical engineering. Emphasis is placed on planning of experiments, data evaluation, and report writing.",
@@ -19282,10 +19070,7 @@
     "name" : "Environmental Seminar"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "CIVL-6962",
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -19332,10 +19117,7 @@
     "name" : "Philosophy, Technology, & the Human Future"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ECON-6962",
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -19437,10 +19219,7 @@
     "name" : "History of Animation"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COMM-4961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -19649,10 +19428,7 @@
     "name" : "The American Dream"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "IHSS-2960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -20014,10 +19790,7 @@
     "name" : "Topics in ARTS"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ISYE-4600",
     "credits" : "4 credits",
     "description" : "An introduction to commonly used methods of deterministic and stochastic operations research. Topics include linear programming, simplex algorithms, duality, linear networks, integer programming, dynamic programming, goa1 programming, location models, exact and heuristic solution procedures for integer and sequencing problems, queuing theory, Markov chains, multi-criteria decision making, and decision analysis. Students cannot get credit for both ISYE 4600 and ISYE 6610 .",
@@ -20079,11 +19852,7 @@
     "name" : "Applied Regression Analysis"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "PDII"
-    ],
+    "attributes" : null,
     "code" : "STSO-4967",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -20481,10 +20250,7 @@
     "name" : "Radiation Technology"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COMM-2410",
     "credits" : "4 credits",
     "description" : "This course helps students understand the meaning and emotional complexity of visual images in their culture. Students examine photographic imagery through three perspectives. The first\u2014formal\u2014addresses the design components of the image, such as vantage point and contrast. The second\u2014psychodynamic\u2014concerns the emotional dynamics of viewing. The third\u2014social political\u2014 explores photographs as instruments for preserving or challenging cultural values. No technical knowledge of photography is needed.",
@@ -21008,10 +20774,7 @@
     "name" : "Systems Engineering and Social Media"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "LITR-2960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -21066,10 +20829,7 @@
     "name" : "Film Theory"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "LITR-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -21530,10 +21290,7 @@
     "name" : "Digital Control Systems"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COMM-2961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -22473,10 +22230,7 @@
     "name" : "Data Science"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "MATH-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -23834,10 +23588,7 @@
     "name" : "Fundamentals Of Flight"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ARTS-4880",
     "credits" : "4 credits",
     "description" : "This is a course introducing music majors to advanced research topics of the Rensselaer music faculty. Each semester a member of the music faculty will focus the seminar on a research topic or paradigm related to their own body of artistic and technological research. Sample topics might include Spatial music and sound, New Instrument Design, Network Music, Music Information Retrieval, Ethnomusicology, Sonification Art and Science, Music and Logic, Spectralism and Beyond, Music Herstory (feminist music composition), Experimental music and sound history. Through hands-on creative research, students will explore questions of both musical and technological significance while engaging that same topic through their own hands-on creative practice.",
@@ -23946,10 +23697,7 @@
     "name" : "Natural Sciences I"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ARTS-2961",
     "credits" : "1 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -24127,10 +23875,7 @@
     "name" : "Media Watch"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "MTLE-4910",
     "credits" : "3 credits",
     "description" : "This class covers basic materials selection concepts and the underlying structure-property-process-performance interaction. Engineering materials, structures and properties, principles and process of materials selection, generation of materials performances indices, assessment and optimization of performance, processing routes and manufacturing issues, role of reverse engineering and failure analysis in design are covered. Materials selection against yielding, fracture, flexure, buckling, fatigue, creep, corrosion, and wear are addressed. Decomposition of engineering problems into functional, geometric, and materials constraints are emphasized. Materials selection based on simple and complex or conflicting constraints will be developed. Students will perform written assignments and oral presentations to develop communication skills. Enrollment for Materials Science and Engineering majors is restricted to juniors, seniors, or graduates.",
@@ -24534,10 +24279,7 @@
     "name" : "Special Projects in Physics"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "ITEC-4961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -24830,10 +24572,7 @@
     "name" : "General Nutrition (at Hvcc)"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "PSYC-2730",
     "credits" : "4 credits",
     "description" : "This is a survey course covering theories, methods, and empirical research on personal and situational factors influencing social behavior. Topics covered include social perception, the construction of social reality, decision making, group influences on behavior, and attitudes.",
@@ -25137,10 +24876,7 @@
     "name" : "Surface Phenomena"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "STSO-4530",
     "credits" : "4 credits",
     "description" : "What is science, what is technology, and how have these two fields of inquiry evolved over time? This course examines these questions by studying the history of various scientific fields and technologies. In addition to tracing the historical evolution of the topics studied, the course will consider how social, political, economic and cultural factors helped to shape -- and were in turn shaped by -- advances in science and technology. The course will also reflect upon the relationship between science and technology on the one hand, and \"progress\" on the other.",
@@ -25487,10 +25223,7 @@
     "name" : "Marine Biol (at Empire State)"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "PSYC-4964",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -25742,10 +25475,7 @@
     "name" : "Topics in BMED"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "WRIT-1960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -25759,20 +25489,14 @@
     "name" : "Electronic Media 1"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "WRIT-2960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in WRIT"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "WRIT-4940",
     "credits" : "1-4 credits",
     "description" : "",
@@ -25786,10 +25510,7 @@
     "name" : "Physics III For Engineer"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "WRIT-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -26097,10 +25818,7 @@
     "name" : "Undergraduate Research Proj"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "CSCI-4964",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -26592,10 +26310,7 @@
     "name" : "Topics in ARCH"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ARTS-4961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -26889,10 +26604,7 @@
     "name" : "Interdisciplinary Ph.D. Seminar"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ARTS-2963",
     "credits" : "1 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -27058,10 +26770,7 @@
     "name" : "Topics in MATH"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ARTS-4963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -27302,10 +27011,7 @@
     "name" : "Biological Spectroscopy"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "PSYC-4961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -27399,10 +27105,7 @@
     "name" : "Topics in BCBP"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COMM-4964",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -27696,10 +27399,7 @@
     "name" : "Physics Of Nuclear Reactors"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "BIOL-4965",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
