@@ -4254,12 +4254,9 @@
     "name" : "Topics in ECON"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ECON-4962",
-    "credits" : "4 credits",
+    "credits" : "1 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ECON"
   },
@@ -9461,7 +9458,7 @@
   {
     "attributes" : null,
     "code" : "ECON-4380",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course examines the economics of statistical and taste-based discrimination associated with national origin, disability status, race, gender, and sexual orientation, focusing mainly on differences that arise in the labor market and their potential policy solutions. We will also consider disparities occurring in healthcare, crime, education, housing, and financial settings. In each case, we will apply economic theory and study how econometrics can be used to address empirical questions relating to discrimination. This course will help students to develop the ability to discuss controversial topics in a respectful, informed, and inclusive manner.",
     "name" : "Economics of Discrimination"
   },
@@ -12075,7 +12072,7 @@
   {
     "attributes" : null,
     "code" : "ECON-4960",
-    "credits" : "4 credits",
+    "credits" : "1 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ECON"
   },
