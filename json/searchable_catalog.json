@@ -16922,7 +16922,7 @@
   {
     "attributes" : null,
     "code" : "BMED-4200",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Introduction of mathematical and computational methods to model physiological systems in biomedical engineering. Mathematical methods include solution techniques for systems of algebraic equations, systems of partial and partial differential equations. Computational methods include finite difference, finite element, and lumped parameter methods. Computational methods are programmed using commercial programming software.",
     "name" : "Modeling of Biomedical Systems"
   },
