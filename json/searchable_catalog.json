@@ -2787,6 +2787,27 @@
     "name" : "Education And Society"
   },
   {
+    "attributes" : 
+    [
+      "HInq"
+    ],
+    "code" : "INQR-1040",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Documentary In 21st Century"
+  },
+  {
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
+    "code" : "INQR-1030",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Behind The Tv Screen"
+  },
+  {
     "attributes" : null,
     "code" : "IHSS-4964",
     "credits" : "4 credits",
@@ -3865,6 +3886,16 @@
     "credits" : "2 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Managerial Accounting"
+  },
+  {
+    "attributes" : 
+    [
+      "HInq"
+    ],
+    "code" : "INQR-1300",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Race And Film: Us Culture Hist"
   },
   {
     "attributes" : null,
@@ -13932,6 +13963,16 @@
     "credits" : "? credits",
     "description" : "The Building Sciences Vertical Studio is a thematically varied studio that has at its basis the use of design methodology to conceptualize, develop and evaluate a range of design projects within the Building Sciences. The Vertical Studio integrates the use of state-of-the-art and recent innovations in the materials, enclosure design, data collection methods, data visualization technologies, spatial mapping, investigative learning technologies and data storytelling methods using quantifiable metrics of performance, as well as through the translation of perceivable qualitative experience within physical environments. This studio is required for 2 nd and 3 rd year students in the Building Sciences Program.",
     "name" : "Building Sciences Vertical Studio"
+  },
+  {
+    "attributes" : 
+    [
+      "HInq"
+    ],
+    "code" : "INQR-1180",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "The Art Of Listening"
   },
   {
     "attributes" : null,
