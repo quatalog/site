@@ -124,13 +124,6 @@
   },
   {
     "attributes" : null,
-    "code" : "USAF-4940",
-    "credits" : "1-6 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Readings In Usaf"
-  },
-  {
-    "attributes" : null,
     "code" : "USAF-2940",
     "credits" : "1-6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -1372,13 +1365,6 @@
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Mrktg Mgt & Bus Strat"
-  },
-  {
-    "attributes" : null,
-    "code" : "MGMT-6440",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Financial Simulation"
   },
   {
     "attributes" : null,
@@ -2785,6 +2771,42 @@
     "credits" : "0-6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Education And Society"
+  },
+  {
+    "attributes" : null,
+    "code" : "MGMT-6440",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Financial Simulation"
+  },
+  {
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
+    "code" : "INQR-1110",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Nature / Society"
+  },
+  {
+    "attributes" : null,
+    "code" : "USAF-4940",
+    "credits" : "1-6 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Readings In Usaf"
+  },
+  {
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
+    "code" : "INQR-1100",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Science, Tech, & Society"
   },
   {
     "attributes" : 
@@ -8333,6 +8355,16 @@
     "credits" : "1-6 credits",
     "description" : "",
     "name" : "Readings in Chemical Engineering"
+  },
+  {
+    "attributes" : 
+    [
+      "HInq"
+    ],
+    "code" : "INQR-1700",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Songwriting Workshop"
   },
   {
     "attributes" : 
