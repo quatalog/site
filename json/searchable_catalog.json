@@ -2773,6 +2773,17 @@
     "name" : "Education And Society"
   },
   {
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
+    "code" : "INQR-1240",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Sustainability Debates"
+  },
+  {
     "attributes" : null,
     "code" : "MGMT-6440",
     "credits" : "3 credits",
@@ -20813,6 +20824,17 @@
     "name" : "The Film Experience"
   },
   {
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
+    "code" : "INQR-1350",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Laws, Values & Public Policy"
+  },
+  {
     "attributes" : null,
     "code" : "ECSE-2100",
     "credits" : "4 credits",
@@ -21128,6 +21150,17 @@
     "credits" : "4 credits",
     "description" : "Review of basic dynamics. Analysis of spacecraft trajectories, target rendezvous, and interception. Hohmann transfer, escape trajectories, interplanetary missions, the restricted three-body problem. Rigid body dynamics with application to gyrodynamics, stabilized platforms, gravity-gradient and spin stabilization of satellites, gyrostats. Selected topics such as drag-free satellites, vehicle launch and reentry, deployment dynamics (time permitting). MATLAB/Simulink is used as a simulation-visualization aid.",
     "name" : "Spaceflight Mechanics"
+  },
+  {
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
+    "code" : "INQR-1610",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Design And Innovation Studio 1"
   },
   {
     "attributes" : null,
