@@ -2778,6 +2778,17 @@
       "CI",
       "HInq"
     ],
+    "code" : "INQR-1666",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Religion In A Global World"
+  },
+  {
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1240",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -9705,6 +9716,16 @@
     "credits" : "4 credits",
     "description" : "This course introduces students to the theoretical and practical use of graphics as a form of visual communication. Discussions include topics such as the psychology of visual perception, design theory, creative process, formatted text, and graphics. Students have an opportunity to put theory into practice using computer graphics.",
     "name" : "Visual Design: Theory and Application"
+  },
+  {
+    "attributes" : 
+    [
+      "HInq"
+    ],
+    "code" : "INQR-1200",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Principles Of Economics"
   },
   {
     "attributes" : null,
