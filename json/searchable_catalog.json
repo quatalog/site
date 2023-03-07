@@ -2052,6 +2052,13 @@
   },
   {
     "attributes" : null,
+    "code" : "LITR-4880",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Multicultural American Litr"
+  },
+  {
+    "attributes" : null,
     "code" : "LITR-4450",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -2788,10 +2795,52 @@
       "CI",
       "HInq"
     ],
+    "code" : "INQR-1962",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in INQR"
+  },
+  {
+    "attributes" : 
+    [
+      "HInq"
+    ],
+    "code" : "INQR-1961",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in INQR"
+  },
+  {
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
+    "code" : "INQR-1776",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "The American Dream"
+  },
+  {
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1666",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Religion In A Global World"
+  },
+  {
+    "attributes" : 
+    [
+      "HInq"
+    ],
+    "code" : "INQR-1562",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Life In Color"
   },
   {
     "attributes" : 
@@ -2803,6 +2852,27 @@
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Sustainability Debates"
+  },
+  {
+    "attributes" : 
+    [
+      "HInq"
+    ],
+    "code" : "INQR-1175",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Well-being: Cultving Curiosity"
+  },
+  {
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
+    "code" : "INQR-1140",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Minds And Machines"
   },
   {
     "attributes" : null,
@@ -5403,6 +5473,13 @@
   },
   {
     "attributes" : null,
+    "code" : "COMM-6930",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Media And Dis/mis Information"
+  },
+  {
+    "attributes" : null,
     "code" : "COMM-6820",
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -5782,6 +5859,16 @@
     "name" : "Emac Communication Internship"
   },
   {
+    "attributes" : 
+    [
+      "CI"
+    ],
+    "code" : "COMM-4288",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Health Comm In Practice"
+  },
+  {
     "attributes" : null,
     "code" : "COMM-4210",
     "credits" : "4 credits",
@@ -5857,6 +5944,17 @@
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Cultural Anthropology"
+  },
+  {
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
+    "code" : "INQR-1960",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in INQR"
   },
   {
     "attributes" : null,
@@ -5962,10 +6060,7 @@
     "name" : "English Composition @ Hvcc"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COMM-1961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -6367,6 +6462,16 @@
     "credits" : "1-4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Undergraduate Research Proj"
+  },
+  {
+    "attributes" : 
+    [
+      "HInq"
+    ],
+    "code" : "INQR-1150",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "The Genome And You"
   },
   {
     "attributes" : null,
@@ -9676,7 +9781,10 @@
     "name" : "Closed Worlds Book Research"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "COMM-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -10268,6 +10376,17 @@
     "credits" : "4 credits",
     "description" : "This survey course is intended as an introduction to Cognitive Neuroscience. The topics covered will focus on exploring the neural underpinnings for cognitive processes, such as sensation, language, attention, motor control, executive functions, social communication, emotions, consciousness, and learning/memory. Basic aspects of nervous system function and neuroanatomy, brain development/evolution, structural and functional imaging techniques, and other research methods used in Cognitive Neuroscience will be discussed.",
     "name" : "Introduction to Cognitive Neuroscience"
+  },
+  {
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
+    "code" : "INQR-1550",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Fiction: Film To The Internet"
   },
   {
     "attributes" : null,
@@ -21520,7 +21639,7 @@
   {
     "attributes" : null,
     "code" : "MANE-4660",
-    "credits" : "3 credits",
+    "credits" : "? credits",
     "description" : "Climatology, Solar vs. Wind Energy, Earth's rotational and Coriolis effects, Wind Speed Statistics: Histograms, Weibull, Available Energy, Aerodynamics, Wake effects, Thrust and Power with objects in Wind flow, Betz Limit, Wind Shear and Ground Effects; Blade aero/structural design, and manufacture; OEM Wind Turbine Designs/Architectures, and capturing Wind Energy via Direct Drive-Generators/Gearbox-driven; Pitch/Yaw Controls, Tower designs. The back-end interface with the Grid, Wind Farm development and Supervisory Controls; Cost Of Energy: Wind vs. Fossil Fuel technologies.",
     "name" : "Wind Energy Engineering"
   },
@@ -24166,6 +24285,16 @@
     "name" : "Materials under Extreme Conditions"
   },
   {
+    "attributes" : 
+    [
+      "HInq"
+    ],
+    "code" : "INQR-1560",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Media And Society"
+  },
+  {
     "attributes" : null,
     "code" : "BIOL-6690",
     "credits" : "3 credits",
@@ -24229,10 +24358,7 @@
     "name" : "Topics in BCBP"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "PHIL-2830",
     "credits" : "4 credits",
     "description" : "Central to philosophy is a careful examination of human reasons for holding their beliefs. Given the complexity/ineffability of religious experience, philosophy of religion's examination of reasons is especially difficult. This course will analyze and evaluate Western monotheism both generally and as it relates to the traditional questions of faith and reason, the problem of evil, fate, and free will and the existence of miracles. Time permitting, non-Western as well as Western religions will be considered.",
