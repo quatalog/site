@@ -6065,7 +6065,7 @@
   {
     "attributes" : null,
     "code" : "COMM-1961",
-    "credits" : "4 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COMM"
   },
@@ -9879,7 +9879,7 @@
   {
     "attributes" : null,
     "code" : "COMM-2960",
-    "credits" : "4 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COMM"
   },
@@ -19662,7 +19662,10 @@
     "name" : "The American Dream"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "IHSS-2960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
