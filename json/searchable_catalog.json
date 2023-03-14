@@ -2785,6 +2785,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1973",
@@ -2851,6 +2852,17 @@
       "CI",
       "HInq"
     ],
+    "code" : "INQR-1250",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Designing Climate Justice"
+  },
+  {
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1240",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -2859,6 +2871,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1175",
@@ -4017,6 +4030,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1300",
@@ -4955,49 +4969,7 @@
   },
   {
     "attributes" : null,
-    "code" : "CSCI-6971",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-6968",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
     "code" : "CSCI-6967",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-6966",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-6963",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-6962",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-6961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
@@ -5088,70 +5060,7 @@
   },
   {
     "attributes" : null,
-    "code" : "PHIL-4961",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in PHIL"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-4969",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
     "code" : "CSCI-4968",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "STSO-6969",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in STSO"
-  },
-  {
-    "attributes" : null,
-    "code" : "ERTH-6961",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ERTH"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-4966",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-4965",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-4963",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-4962",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-4961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
@@ -5543,20 +5452,6 @@
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Research Design And Anaylsis"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-4970",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "COMM-6570",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Typography"
   },
   {
     "attributes" : null,
@@ -6155,20 +6050,6 @@
   {
     "attributes" : null,
     "code" : "COGS-6961",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in COGS"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-6964",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "COGS-4968",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COGS"
@@ -6820,17 +6701,80 @@
   },
   {
     "attributes" : null,
-    "code" : "GSAS-2510",
-    "credits" : "4 credits",
-    "description" : "This course looks at the mathematics of game theory from a psychological perspective and serves as a primer in video game design. The psychology of players and designers are discussed, as well as the cognitive processes that people use when solving game-related puzzles. Additional topics include logic, human frailty, role playing, artificial intelligence, kinesics, theater, and human-computer interaction.",
-    "name" : "Introduction to Game Design"
+    "code" : "CHEM-1002",
+    "credits" : "0-6 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Phys Chem At Suny"
   },
   {
     "attributes" : null,
-    "code" : "PHIL-4220",
-    "credits" : "4 credits",
+    "code" : "CHEM-1001",
+    "credits" : "0-6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Social & Political Philosophy"
+    "name" : "Anatomy & Phisiology Lab"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-6968",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BMED"
+  },
+  {
+    "attributes" : null,
+    "code" : "MGMT-6870",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Empirical Issues In Management Research"
+  },
+  {
+    "attributes" : null,
+    "code" : "ITEC-2962",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ITEC"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-6964",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BMED"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-6962",
+    "credits" : "1 credit",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BMED"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-6961",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BMED"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-6900",
+    "credits" : "0 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Bme Seminar"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-6710",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Nano- & Bio- Actuatable Mtls"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-6560",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Biomaterial Applications In Medicine"
   },
   {
     "attributes" : 
@@ -6838,90 +6782,24 @@
       "CI",
       "HInq"
     ],
-    "code" : "GSAS-1600",
-    "credits" : "4 credits",
-    "description" : "This course surveys 5000 years of game history, from ancient Sumer/Sumerian to the latest next-generation consoles and MMOGs. In parallel with this historical tour, several major theories will be examined about the nature of play and the nature of games. Along the way, it will also look at how games and play influence the cultures they are found in, and how culture in turn influences how people structure their leisure time will also be considered.",
-    "name" : "History and Culture of Games"
-  },
-  {
-    "attributes" : null,
-    "code" : "GSAS-1040",
-    "credits" : "4 credits",
-    "description" : "This course combines an introduction to traditional visual arts and digital media and serves as a foundation for work in game design and interactive art. Using studio projects that incorporate physical media, digital imaging and computer code, students develop their formal vocabulary, observational skills, and their understanding of issues in visual and interactive arts.",
-    "name" : "Art for Interactive Media"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITWS-4960",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ITWS"
-  },
-  {
-    "attributes" : null,
-    "code" : "ERTH-6940",
-    "credits" : "1-12 credits",
-    "description" : "",
-    "name" : "Readings in ERTH"
-  },
-  {
-    "attributes" : null,
-    "code" : "ECSE-2060",
+    "code" : "IHSS-1710",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Digital Electronics"
+    "name" : "Popular Music & Society"
   },
   {
     "attributes" : null,
-    "code" : "ERTH-6970",
-    "credits" : "1-6 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ERTH"
-  },
-  {
-    "attributes" : null,
-    "code" : "ERTH-6960",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ERTH"
-  },
-  {
-    "attributes" : null,
-    "code" : "ERTH-6690",
-    "credits" : "4 credits",
-    "description" : "Fundamentals of aqueous geochemistry as applied to the evolution of natural waters. Principles of chemical equilibrium, activity models for solutes, acid-base chemistry, redox chemistry, mineral solubility, aqueous complexes, ion exchange, and stable isotopes will be covered. The carbonate system, weathering reactions, and redox chemistry are examined in detail. Students learn theory, the basics of analytical techniques, computation methods, and the use of computer programs for speciation, mass balance, and reaction path calculations.",
-    "name" : "Aqueous Geochemistry"
-  },
-  {
-    "attributes" : 
-    [
-      "CI"
-    ],
-    "code" : "STSO-2460",
-    "credits" : "4 credits",
+    "code" : "BMED-6350",
+    "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Human Evolution"
+    "name" : "Fluid/transport Circ"
   },
   {
     "attributes" : null,
-    "code" : "PSYC-2965",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in PSYC"
-  },
-  {
-    "attributes" : null,
-    "code" : "ERTH-6350",
+    "code" : "BMED-6240",
     "credits" : "3 credits",
-    "description" : "Data science is advancing the inductive conduct of science and is driven by the greater volumes, complexity, and heterogeneity of data being made available over the Internet. It combines aspects of data management, library science, computer science, and physical science. It is changing the way all of these disciplines do both their individual and collaborative work. Key methodologies in application areas based on real research experience are taught. This course meets with ERTH 4350 / CSCI 4350 / ITWS 4350 and CSCI 6350 / ITWS 6350 .",
-    "name" : "Data Science"
-  },
-  {
-    "attributes" : null,
-    "code" : "MANE-6210",
-    "credits" : "3 credits",
-    "description" : "Aerodynamics and dynamics of lifting rotors. Design concepts by which rotor weight and stress are minimized and vehicle control is provided. Weight and engine power trends for configuration definition. Center of gravity and aerodynamic lift and moment for equilibrium and desired aircraft attitude. Methods for determining size weight, and cost for a given payload, useful volume, and specified performance. This is a communication-intensive course.",
-    "name" : "VTOL Aircraft Design"
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Tissue-implant Interface"
   },
   {
     "attributes" : 
@@ -6984,6 +6862,20 @@
   },
   {
     "attributes" : null,
+    "code" : "BMED-6290",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Biomech Of Hard Tissues"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-4400",
+    "credits" : "3 credits",
+    "description" : "Informatics covers a broad range of disciplines addressing challenges in the explosion of data and information resources. Xinformatics provides commonality for implementations in specific disciplines (e.g. X=astronomy, geology). Informatics' theoretical bases are information and computer science, cognitive science, social science, library science, aggregating these studies and adding the practice of information processing, and the engineering of information systems. This course grounds the material that students will learn in discipline areas by coursework and project assignments. Students cannot obtain credit for more than one of ERTH 4400 / ITWS 4400 / CSCI 4400 .",
+    "name" : "Xinformatics"
+  },
+  {
+    "attributes" : null,
     "code" : "ENVE-6360",
     "credits" : "3 credits",
     "description" : "This course examines relationships between microorganisms and Earth processes. Topics include the origins of life on Earth, surface metabolism theory, biological and biochemical benchmarks. Earth is considered as a microbial habitat with emphasis on the lithosphere and hydrosphere, including soils, seawater, lakes, rivers, and groundwater. Geomicrobial processes, including microbial conversion of inorganics and metals and mineralization of organics, are discussed. Molecular and non-molecular methods for detection, isolation, and identification of geo-microbially active organisms are introduced.",
@@ -7002,27 +6894,6 @@
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MATH"
-  },
-  {
-    "attributes" : null,
-    "code" : "CHEM-4040",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Inorganic Chem II"
-  },
-  {
-    "attributes" : null,
-    "code" : "ERTH-4190",
-    "credits" : "4 credits",
-    "description" : "Modern methods used in analysis of environmental samples for monitoring and research purposes. Standard and advanced techniques of air, water, sediment, and soil analysis are covered including spectrometric and chromatographic methods.",
-    "name" : "Environmental Measurements"
-  },
-  {
-    "attributes" : null,
-    "code" : "MGMT-6400",
-    "credits" : "3 credits",
-    "description" : "This course uses empirical methodologies, both cross-sectional and time series, to examine various issues in finance. Students will gain practical experience in analyzing, various asset pricing models, efficiency of financial markets, various volatility models, and forecasting evaluations. Computers are used extensively both in and out of class.",
-    "name" : "Financial Econometrics Modeling"
   },
   {
     "attributes" : null,
@@ -7051,13 +6922,6 @@
     "credits" : "2 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Responsible Conduct Of Research"
-  },
-  {
-    "attributes" : null,
-    "code" : "ERTH-6710",
-    "credits" : "3 credits",
-    "description" : "An intensive study of hydrologic, geologic, and other factors controlling groundwater flow, occurrence, development, chemistry, and contamination. Groundwater flow theory and aquifer test methods are introduced. Interaction between surface and subsurface hydrologic systems are covered. Some field trips are possible.",
-    "name" : "Advanced Groundwater Hydrology"
   },
   {
     "attributes" : null,
@@ -7445,13 +7309,6 @@
   },
   {
     "attributes" : null,
-    "code" : "BMED-6961",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BMED"
-  },
-  {
-    "attributes" : null,
     "code" : "ENVE-4940",
     "credits" : "1-4 credits",
     "description" : "",
@@ -7794,20 +7651,6 @@
   },
   {
     "attributes" : null,
-    "code" : "ERTH-6545",
-    "credits" : "4 credits",
-    "description" : "Origin, transformation, and fate of organic matter on Earth. This course is chemistry-focused and incorporates concepts from biology, geology, and ecology. This course emphasizes reactivity, transport, and storage mechanisms that control the distribution of organic matter in terrestrial and marine systems. Analytical techniques for characterizing organic matter and applications to carbon cycling in natural and perturbed environments are also discussed.",
-    "name" : "Organic Geochemistry"
-  },
-  {
-    "attributes" : null,
-    "code" : "MATH-9990",
-    "credits" : "1-15 credits",
-    "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
-    "name" : "Dissertation"
-  },
-  {
-    "attributes" : null,
     "code" : "ENVE-6230",
     "credits" : "3 credits",
     "description" : "Basic modeling approaches and techniques for the simulation of environmental engineering systems. Model development, system conceptualization and analysis, mathematical representation, solution and simulation, as well as model calibration and verification, are discussed. Problems such as simulation of biochemical reactors and behavior of toxic chemicals in groundwater are drawn from the literature. Ongoing research projects are discussed.",
@@ -8073,27 +7916,6 @@
   },
   {
     "attributes" : null,
-    "code" : "PSYC-6180",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Engineering Psychology"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-4967",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "ECSE-2610",
-    "credits" : "4 credits",
-    "description" : "Design-oriented introduction to computer components and operations. Standard codes, number systems, base conversions, and computer arithmetic. Boolean algebra, minimization and synthesis techniques for combinational and sequential logic. Races, hazards, and asynchronous behavior. Registers, arithmetic logic units, memory structure, buses, and control units. Machine language programming, instruction fetch and execution, input-output devices, interrupts, and microprogram sequencers. Software and hardware tools.",
-    "name" : "Computer Components and Operations"
-  },
-  {
-    "attributes" : null,
     "code" : "USAF-2050",
     "credits" : "3 credits",
     "description" : "AS 300, Leading People and Effective Communication, teaches cadets advanced skills and knowledge in management and leadership. Special emphasis is placed on enhancing leadership skills and communication. Cadets have an opportunity to try out these leadership and management techniques in a supervised environment as juniors and seniors. Laboratory ( USAF 0080 ) is mandatory for AFROTC cadets and complements this course by providing cadets with leadership/followership experiences.",
@@ -8220,27 +8042,6 @@
     "credits" : "1-15 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
     "name" : "Dissertation"
-  },
-  {
-    "attributes" : null,
-    "code" : "ERTH-6560",
-    "credits" : "4 credits",
-    "description" : "Fundamentals of isotope geochemistry as applied to biogeochemical systems in modern and ancient environments. This course covers the principles of both radiogenic and stable isotope distribution, decay, and transfer through Earth's exchangeable reservoirs. This course will emphasize stable isotopes, equilibrium and kinetic isotope fractionation, distribution, isotope mass balance, and using these systems to track global biogeochemical cycles in the modern environment and in deep time.",
-    "name" : "Isotope Geochemistry"
-  },
-  {
-    "attributes" : null,
-    "code" : "BCBP-4970",
-    "credits" : "? credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BCBP"
-  },
-  {
-    "attributes" : null,
-    "code" : "ECON-6990",
-    "credits" : "1-9 credits",
-    "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a master's thesis. Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
-    "name" : "Master's Thesis"
   },
   {
     "attributes" : null,
@@ -8638,27 +8439,6 @@
   },
   {
     "attributes" : null,
-    "code" : "STSO-4750",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Troy/19th Cent Industrial City"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-4971",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "ECON-4160",
-    "credits" : "4 credits",
-    "description" : "Emphasis is placed on the analysis of efficient resource use in the public sector at the federal level. Expenditure theory, tax incidence, and income distribution policies are discussed. The effects of personal income, corporation, sales, payroll, and property taxes on resource allocation, equity, and growth are considered.",
-    "name" : "Public Finance"
-  },
-  {
-    "attributes" : null,
     "code" : "ECON-4150",
     "credits" : "4 credits",
     "description" : "Examine regulations related to the environment, intellectual property rights, healthcare, and antitrust. Examine the interaction between regulatory policies and how businesses respond to them with respect to innovation, production, and pricing. Some of the industries and markets examined to highlight the regulatory policy issues include automobiles, information technology, telecommunications and media, healthcare services, pharmaceuticals, medical devices, retail sector, high-speed rail, and taxi and ridesharing.",
@@ -8830,10 +8610,17 @@
   },
   {
     "attributes" : null,
-    "code" : "BIOL-4100",
+    "code" : "CSCI-6971",
     "credits" : "4 credits",
-    "description" : "A detailed survey of important topics in the neurosciences. Some of the topics to be covered in this class are: basic mechanisms of neural signaling (neurophysiology, synaptic transmission, and molecular signaling); understanding of sensation/movement and in particular how it relates to neuroanatomy; neurodevelopment and how the mature brain can change (plasticity); complex brainfunctions and neurological disease. Taught together with BIOL 6100 .",
-    "name" : "From Neuron to Behavior"
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-4967",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ARCH"
   },
   {
     "attributes" : null,
@@ -9009,6 +8796,122 @@
     "credits" : "3 credits",
     "description" : "A foundational course on the principles of radiation and radiation protection (health physics). Provides a fundamental understanding of natural and anthropogenic sources of radiation, radiation interactions in matter, the biological effects of radiation, internal and external dosimetry, and radiation shielding. The use of computational and simulation techniques is emphasized throughout the course. Studio-style case studies examine the medical, socio-political, and regulatory aspects of radiation utilization and protection.",
     "name" : "Radiological Engineering"
+  },
+  {
+    "attributes" : null,
+    "code" : "CIVL-4580",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Infrastructure Engrg"
+  },
+  {
+    "attributes" : 
+    [
+      "CI",
+      "PDII"
+    ],
+    "code" : "STSO-4250",
+    "credits" : "4 credits",
+    "description" : "This course involves a philosophical analysis of some of the basic moral issues raised by recent and anticipated developments in the areas of biology and medicine. The general question \"What are moral problems, and how does one resolve them?\" is examined in the context of concrete cases involving issues such as abortion, euthanasia, organ transplants, experimentation on human patients, cloning, genetic engineering, and behavior control and modification.",
+    "name" : "Bioethics"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHEM-4040",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Inorganic Chem II"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-4190",
+    "credits" : "4 credits",
+    "description" : "Modern methods used in analysis of environmental samples for monitoring and research purposes. Standard and advanced techniques of air, water, sediment, and soil analysis are covered including spectrometric and chromatographic methods.",
+    "name" : "Environmental Measurements"
+  },
+  {
+    "attributes" : null,
+    "code" : "MGMT-6400",
+    "credits" : "3 credits",
+    "description" : "This course uses empirical methodologies, both cross-sectional and time series, to examine various issues in finance. Students will gain practical experience in analyzing, various asset pricing models, efficiency of financial markets, various volatility models, and forecasting evaluations. Computers are used extensively both in and out of class.",
+    "name" : "Financial Econometrics Modeling"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-6968",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
+    "code" : "COMM-6570",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Typography"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-4970",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHIL-4961",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in PHIL"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-4969",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
+    "code" : "PSYC-6180",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Engineering Psychology"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECSE-2610",
+    "credits" : "4 credits",
+    "description" : "Design-oriented introduction to computer components and operations. Standard codes, number systems, base conversions, and computer arithmetic. Boolean algebra, minimization and synthesis techniques for combinational and sequential logic. Races, hazards, and asynchronous behavior. Registers, arithmetic logic units, memory structure, buses, and control units. Machine language programming, instruction fetch and execution, input-output devices, interrupts, and microprogram sequencers. Software and hardware tools.",
+    "name" : "Computer Components and Operations"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-4967",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
+    "code" : "BIOL-4100",
+    "credits" : "4 credits",
+    "description" : "A detailed survey of important topics in the neurosciences. Some of the topics to be covered in this class are: basic mechanisms of neural signaling (neurophysiology, synaptic transmission, and molecular signaling); understanding of sensation/movement and in particular how it relates to neuroanatomy; neurodevelopment and how the mature brain can change (plasticity); complex brainfunctions and neurological disease. Taught together with BIOL 6100 .",
+    "name" : "From Neuron to Behavior"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-4963",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-4962",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
   },
   {
     "attributes" : null,
@@ -9394,6 +9297,34 @@
   },
   {
     "attributes" : null,
+    "code" : "COGS-4968",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in COGS"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-6964",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
+    "code" : "MGMT-6410",
+    "credits" : "3 credits",
+    "description" : "The course begins by providing students with a theoretical and practical background in the field of investments. This includes comparison of asset classes characteristics and returns as well as discussion of relevant models, financial institutions, and behavioral issues facing investors. These principles are then quantitatively applied in areas including portfolio construction, index-linked strategies, smart beta/factor portfolios, portfolio risk management, and dynamic portfolio management",
+    "name" : "Quantitative Asset Management"
+  },
+  {
+    "attributes" : null,
+    "code" : "ADMN-6600",
+    "credits" : "0 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Summer Administ Registration"
+  },
+  {
+    "attributes" : null,
     "code" : "CSCI-4100",
     "credits" : "4 credits",
     "description" : "Introduction to the theory, algorithms, and applications of machine learning (supervised, reinforcement, and unsupervised) from data: What is learning? Is learning feasible? How can we do it? How can we do it well? The course offers a mix of theory, technique, and application with additional selected topics chosen from Pattern Recognition, Decision Trees, Neural Networks, RBF's, Bayesian Learning, PAC Learning, Support Vector Machines, Gaussian processes, and Hidden Markov Models.",
@@ -9632,6 +9563,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CSCI-4961",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
     "code" : "MGMT-7760",
     "credits" : "3 credits",
     "description" : "Overview of risk management, concepts and measurement of risk; types of risks (market, credit, liquidity, operational, business, strategic). Clustering, classification and optimization tools applied to risk management. Frameworks and instruments available for risk management. Specific issues related with managing specific risk types \u2014 credit, liquidity and operational risk, with emphasis on current challenges. Securitization, asset-liability management, and role of insurance for risk management.",
@@ -9803,7 +9741,7 @@
     ],
     "code" : "COMM-4530",
     "credits" : "4 credits",
-    "description" : "his course considers the sociopolitical and ethical dimensions of post-factual media content, including the staged actuality of reality television. Topics include: fake news; disinformation; science denial; cognitive bias; political spin; reality TV performance and celebrity.",
+    "description" : "This course considers the sociopolitical and ethical dimensions of post-factual media content, including the staged actuality of reality television. Topics include: fake news; disinformation; science denial; cognitive bias; political spin; reality TV performance and celebrity.",
     "name" : "Post-Factual Media"
   },
   {
@@ -9826,6 +9764,30 @@
     "credits" : "4 credits",
     "description" : "This course examines the design of technical information systems and their output in useful and well-designed documents and interfaces. The course includes the history of data visualization, visual rhetoric, and information systems such as DITA.",
     "name" : "Information Design"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-6962",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHEM-6310",
+    "credits" : "3 credits",
+    "description" : "The study of mechanisms of organic reactions in biochemical processes on a molecular level. Enzyme active sites, mechanisms of enzymatic transformations, catalysis, cofactors, enzyme kinetics, environmental toxicology. Strong emphasis on the design and mechanism of action of pharmaceutical agents. Meets with CHEM 4310 ; both courses cannot be taken for credit.",
+    "name" : "Bioorganic Mechanisms"
+  },
+  {
+    "attributes" : 
+    [
+      "CI"
+    ],
+    "code" : "STSO-4430",
+    "credits" : "4 credits",
+    "description" : "This course teaches basic historical, anthropological, and sociological concepts that can be used to make sense of a wide variety of contemporary phenomena students encounter in everyday life. The focus is on analyzing how licit and illicit drugs serve as \"technologies\" within specific social contexts or subcultures; what drug policy reveals about social, political, and economic organization; and the impacts of biomedical knowledge and practice on specific population groups. The course focuses on the representation of drug use and drug users in popular culture, science and medicine, and history and the social sciences.",
+    "name" : "Drugs in History"
   },
   {
     "attributes" : null,
@@ -10316,23 +10278,6 @@
   },
   {
     "attributes" : null,
-    "code" : "USNA-2040",
-    "credits" : "3 credits",
-    "description" : "A familiarization course in naval engineering. Study of types, structure, and purpose of naval ships. Elements of ship design to achieve safe operations and ship stability characteristics are examined. Ship compartmentation, propulsion systems, auxiliary power systems, ship control systems, and elements of damage control are included.",
-    "name" : "Naval Ships Systems I"
-  },
-  {
-    "attributes" : 
-    [
-      "CI"
-    ],
-    "code" : "CSCI-4530",
-    "credits" : "4 credits",
-    "description" : "This course will survey classic papers and current research in computer graphics. Topics include: advanced ray tracing, global illumination, photon mapping, subsurface scattering, mesh generation and simplification, subdivision surfaces, volumetric modeling, procedural modeling and texturing, weathering, physical simulation, appearance models. Course activities include programming assignments, oral presentations, and a term project.",
-    "name" : "Advanced Computer Graphics"
-  },
-  {
-    "attributes" : null,
     "code" : "COGS-6570",
     "credits" : "4 credits",
     "description" : "An accelerated course covering important behavioral statistical concepts including probability, sampling distributions, hypothesis resting, ANOVA, and multiple regression. Course requires usage of statistical software package and is taught using the general linear model framework.",
@@ -10643,6 +10588,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CSCI-6966",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
     "code" : "ECSE-4380",
     "credits" : "3 credits",
     "description" : "The design and operation of Solid State Lighting Systems including basic design and fabrication methods of light emitting diode (LED), LED thermal management, optical characterization of lighting, LED drivers, lighting sensors/control systems and selected emerging applications.",
@@ -10710,17 +10662,17 @@
   },
   {
     "attributes" : null,
-    "code" : "MANE-4450",
-    "credits" : "3 credits",
-    "description" : "Sources of nuclear fuel. Mining, milling, and purification. Principles of isotope enrichment; specific methods with emphasis on gaseous diffusion. Fuel fabrication. Transport and reprocessing of spent fuel. In-core fuel management. Linear reactivity, batch, nodal, and pincell methods. Power shape and control management. Partial core reloading. Fuel depletion. Poison management and Haling strategy. Breeding and fast reactors. Economics of the fuel cycle. Computation of fuel cycle costs.",
-    "name" : "Nuclear Fuel Management"
+    "code" : "MATP-4980",
+    "credits" : "1-4 credits",
+    "description" : "",
+    "name" : "Undergraduate Project in Mathematical Programming, Probability, and Mathematical Statistics"
   },
   {
     "attributes" : null,
-    "code" : "CIVL-6660",
+    "code" : "ARTS-6570",
     "credits" : "3 credits",
-    "description" : "Graduate-level course on the fundamental concepts and technologies underlying finite element methods for the numerical solution of continuum problems. The course emphasizes the construction of integral weak forms for elliptic partial differential equations and the construction of the elemental level matrices using multi-dimensional shape functions, element level mappings, and numerical integration. The basic convergence properties of the finite element method will be given. This course serves as preparation for students working on finite element methods.",
-    "name" : "Fundamentals of Finite Elements"
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Research Methods"
   },
   {
     "attributes" : null,
@@ -10870,6 +10822,20 @@
   },
   {
     "attributes" : null,
+    "code" : "BMED-6280",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Biomech Of Soft Tissues"
+  },
+  {
+    "attributes" : null,
+    "code" : "COGS-4420",
+    "credits" : "4 credits",
+    "description" : "This course introduces students to basic concepts and methods of artificial intelligence and their applications in computer games. The topics include decision making, movement, path finding, and AI for human-like characters. This course will take the form of a combination of lectures, presentations by students, class discussions, and independent study.",
+    "name" : "Game AI"
+  },
+  {
+    "attributes" : null,
     "code" : "ARTS-2150",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -10923,45 +10889,6 @@
     "credits" : "1-9 credits",
     "description" : "",
     "name" : "Readings in Chemical Engineering"
-  },
-  {
-    "attributes" : 
-    [
-      "CI",
-      "PDII"
-    ],
-    "code" : "STSO-4310",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Energy Politics"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-4300",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Business Issues For Engr"
-  },
-  {
-    "attributes" : null,
-    "code" : "ISYE-4750",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Prob Theory & Applications"
-  },
-  {
-    "attributes" : null,
-    "code" : "CHEM-1100",
-    "credits" : "4 credits",
-    "description" : "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acid-base chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110 .",
-    "name" : "Chemistry I"
-  },
-  {
-    "attributes" : null,
-    "code" : "ARTS-6110",
-    "credits" : "3 credits",
-    "description" : "This seminar will provide a historical context for understanding and analyzing practices and theories of contemporary electronic art. The curriculum is a mix of field surveys, readings of primary sources in aesthetic, media and critical theory, and examination of contemporary topics and controversies. The seminar is also intended to support the development and articulation of the student's creative practice. Open to graduate students across the Institute.",
-    "name" : "Electronic Arts Overview"
   },
   {
     "attributes" : null,
@@ -11167,6 +11094,13 @@
     "credits" : "4 credits",
     "description" : "This topics-based course examines popular music in society, considering the ways it may express identities, motivate political movements, and function within various economic, mediated, and technological environments. This course explores popular music representing diverse genres (country, hip hop, EDM, Top 40) as it relates to social life, the intersections of race, gender, class, and sexuality, and media and technology.",
     "name" : "Popular Music and Society"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-6963",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
   },
   {
     "attributes" : null,
@@ -11434,6 +11368,20 @@
     "name" : "Investigative Medicine II"
   },
   {
+    "attributes" : null,
+    "code" : "BMED-6965",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BMED"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECSE-4760",
+    "credits" : "3 credits",
+    "description" : "Experiments and lectures demonstrate the design and use of microcomputers as both decision tools and on-line real-time system components in control and communications. Topics include the basic operations of microcomputers, data I/O, analog and digital process control, voice processing, digital filter design, digital communication, and optimal LQR control.",
+    "name" : "Real-Time Applications in Control and Communications"
+  },
+  {
     "attributes" : 
     [
       "PDII"
@@ -11648,27 +11596,6 @@
   },
   {
     "attributes" : null,
-    "code" : "MGMT-7730",
-    "credits" : "3 credits",
-    "description" : "Main course objective is to introduce students to basic economics principles and establish economics as a managerial decision-making framework. The course will draw on economic analysis of such concepts as cost, demand, profit, competition, pricing strategy, and market protection and tie them to operational business decisions.",
-    "name" : "Economics and Institutions"
-  },
-  {
-    "attributes" : null,
-    "code" : "CHME-6968",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CHME"
-  },
-  {
-    "attributes" : null,
-    "code" : "PHYS-9990",
-    "credits" : "1-15 credits",
-    "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
-    "name" : "Dissertation"
-  },
-  {
-    "attributes" : null,
     "code" : "DSES-9990",
     "credits" : "1-15 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -11861,6 +11788,27 @@
     "credits" : "4 credits",
     "description" : "This is a required departmental course, but is also appropriate for biomedical engineers and other engineering disciplines as an elective. This course teaches the mechanical properties of metals, ceramics, and polymers from both the macroscopic and atomistic or micromechanical viewpoints. An introduction to three-dimensional stresses and strains. Elastic behavior, plastic behavior, strengthening mechanisms, fracture, creep, and fatigue are all addressed. Includes laboratory component.",
     "name" : "Mechanical Properties of Materials"
+  },
+  {
+    "attributes" : null,
+    "code" : "LANG-1210",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Japanese I"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHEM-0960",
+    "credits" : "0 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CHEM"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARTS-4510",
+    "credits" : "4 credits",
+    "description" : "Experimental Game Design is an upper level studio arts course focusing on the creation of innovative, workable game prototypes using a variety of interactive multimedia. Games are considered as a new genre and are analyzed as cultural artifacts. The aesthetics of game design including character development, level design, game play experience, and delivery systems are covered. Flow, game theory, and game play gestalt are considered. Alternate gaming paradigms and emerging forms are encouraged.",
+    "name" : "Experimental Game Design"
   },
   {
     "attributes" : null,
@@ -12165,7 +12113,7 @@
   {
     "attributes" : null,
     "code" : "ARTS-2962",
-    "credits" : "1 credit",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARTS"
   },
@@ -12565,23 +12513,6 @@
   },
   {
     "attributes" : null,
-    "code" : "CHEM-6310",
-    "credits" : "3 credits",
-    "description" : "The study of mechanisms of organic reactions in biochemical processes on a molecular level. Enzyme active sites, mechanisms of enzymatic transformations, catalysis, cofactors, enzyme kinetics, environmental toxicology. Strong emphasis on the design and mechanism of action of pharmaceutical agents. Meets with CHEM 4310 ; both courses cannot be taken for credit.",
-    "name" : "Bioorganic Mechanisms"
-  },
-  {
-    "attributes" : 
-    [
-      "CI"
-    ],
-    "code" : "STSO-4430",
-    "credits" : "4 credits",
-    "description" : "This course teaches basic historical, anthropological, and sociological concepts that can be used to make sense of a wide variety of contemporary phenomena students encounter in everyday life. The focus is on analyzing how licit and illicit drugs serve as \"technologies\" within specific social contexts or subcultures; what drug policy reveals about social, political, and economic organization; and the impacts of biomedical knowledge and practice on specific population groups. The course focuses on the representation of drug use and drug users in popular culture, science and medicine, and history and the social sciences.",
-    "name" : "Drugs in History"
-  },
-  {
-    "attributes" : null,
     "code" : "BCBP-6170",
     "credits" : "4 credits",
     "description" : "Advanced graduate course covering fundamental aspects of NMR common for application in a broad range of fields. Classical and quantum-mechanical descriptions are utilized to explore information content of NMR pulse sequences. The latter approach includes density matrix theory and proceeds with the product-operator formalism. Practical aspects and data analysis are also described. Subsequent focus is on liquid-state NMR of biological macromolecules, including resonance assignment and determination of molecular structure and dynamics. (Students cannot obtain credit for both this course and CHEM 6170 .)",
@@ -12593,6 +12524,20 @@
     "credits" : "3 credits",
     "description" : "Classical statistical decision theory, decision criteria, binary and composite hypothesis tests. Statistical models of signals and noise. Detection of known signals in Gaussian noise. Receiver operating characteristics and error probability. Applications to radar and communications. Detection of signals with unknown or random parameters, detection of stochastic signals, nonparametric detection techniques. Statistical estimation theory, performance measures. Cramer-Rao bounds, estimation of unknown signal parameters, optimum demodulation, signal design.",
     "name" : "Detection and Estimation Theory"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECSE-2060",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Digital Electronics"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-6970",
+    "credits" : "1-6 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ERTH"
   },
   {
     "attributes" : null,
@@ -13075,6 +13020,27 @@
   },
   {
     "attributes" : null,
+    "code" : "STSO-6969",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in STSO"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-6961",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ERTH"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-4966",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
     "code" : "CHME-6430",
     "credits" : "3 credits",
     "description" : "Engineering aspects of microbial processes and of conversions with immobilized enzymes. Topics are mixed-culture processes, sterilization, aseptic techniques, mass transfer, bioprocess control, product isolation, enzyme technology, bioprocess development. There are heavy emphases on continuous fermentation and on chemicals from biomass.",
@@ -13159,27 +13125,6 @@
     "credits" : "1 credit",
     "description" : "This lab focuses on geological processes in the interior of Earth and how they are manifested at the surface: age and origin of Earth, how rocks form, large-scale Earth processes, and energy sources. Review plate tectonics and the evolution of the main features of Earth's surface. Physical and chemical composition of Earth and the large-scale dynamics of the planet.",
     "name" : "Geology I: Earth's Interior Lab"
-  },
-  {
-    "attributes" : null,
-    "code" : "ISCI-4961",
-    "credits" : "0 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ISCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "ESCI-6980",
-    "credits" : "3 credits",
-    "description" : "Active participation in a master's-level project, under the supervision of a faculty adviser, leading to a master's project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master's project may be accepted by the Office of Graduate Education to be archived in the library.",
-    "name" : "Master's Project"
-  },
-  {
-    "attributes" : null,
-    "code" : "ARCH-4860",
-    "credits" : "3 credits",
-    "description" : "Topics include the functional overview of the auditory system, loudness, pitch, and timbre perception, masking, binaural hearing, auditory scene analysis, multi-modal integration, and auditory perception in rooms. Required signal processing methods will be covered as well. Course taught with ARCH 6860.",
-    "name" : "Applied Psychoacoustics"
   },
   {
     "attributes" : null,
@@ -13274,24 +13219,6 @@
     "credits" : "3 credits",
     "description" : "Mechanical metallurgy and mechanics of the classical metal-working operations. Analytical techniques. Friction and lubrication. Workability. Effects on as-worked properties. Technological discussions of forging, rolling, extrusion, drawing, and other unit operations.",
     "name" : "Deformation Processing"
-  },
-  {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
-    "code" : "IHSS-1710",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Popular Music & Society"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-6350",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Fluid/transport Circ"
   },
   {
     "attributes" : null,
@@ -13600,20 +13527,6 @@
     "credits" : "4 credits",
     "description" : "Life Drawing and Anatomy for Artists is an advanced drawing class that will focus on drawing the human figure. Students will work from live models to refine their drawing skills; clay models from anatomical texts will be made to develop a working knowledge of anatomy for artists. Gesture, proportion, and expression of the human figure will be emphasized; general concepts of design and composition will also be presented.",
     "name" : "Life Drawing and Anatomy for Artists"
-  },
-  {
-    "attributes" : null,
-    "code" : "ESCI-6990",
-    "credits" : "1-16 credits",
-    "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a master's thesis. Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester. Once the thesis has been presentend, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
-    "name" : "Master's Thesis"
-  },
-  {
-    "attributes" : null,
-    "code" : "BIOL-2950",
-    "credits" : "1-4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Undergraduate Research Proj"
   },
   {
     "attributes" : null,
@@ -13970,6 +13883,20 @@
   },
   {
     "attributes" : null,
+    "code" : "ECSE-6130",
+    "credits" : "? credits",
+    "description" : "Basic relaying philosophy. Current and potential transformers. Operating principles of electromagnetic, electronic, and digital relays. Application of relays to protect generators, busses, transformers, and transmission lines.",
+    "name" : "Protective Relaying"
+  },
+  {
+    "attributes" : null,
+    "code" : "MANE-6710",
+    "credits" : "3 credits",
+    "description" : "This course introduces the theory and practical use of numerical design optimization methods. Topics include: gradient-based methods for unconstrained and constrained nonlinear optimization; numerical evaluation of derivatives; polynomialand- and kriging-based surrogate models; gradient-free optimization methods; optimization under uncertainty; multi-objective and multi-disciplinary optimization. Projects require the use of computer programs to generate numerical results; therefore, experience with programming is highly recommended.",
+    "name" : "Numerical Design Optimization"
+  },
+  {
+    "attributes" : null,
     "code" : "CHME-1100",
     "credits" : "4 credits",
     "description" : "Problem solving and analysis techniques focused on chemical engineering applications. Principles of steady state material balance calculations, introduction to chemical engineering design and process flowsheeting. The use of software packages to solve algebraic equation systems.",
@@ -14106,23 +14033,6 @@
   },
   {
     "attributes" : null,
-    "code" : "PHYS-2620",
-    "credits" : "4 credits",
-    "description" : "An introduction to the properties of light and its interactions with matter. Topics include wave, particle, and ray treatments of light; geometrical optics and imaging systems; interference and diffraction; polarization; and Fourier methods for imaging and pulses. A laboratory is included.",
-    "name" : "Optics"
-  },
-  {
-    "attributes" : 
-    [
-      "CI"
-    ],
-    "code" : "GSAS-2520",
-    "credits" : "4 credits",
-    "description" : "This course is designed to provide an overview of the art of effective story development. Students will come away with a heightened awareness of the structures and principles that master storytellers apply to their craft in games and other popular media. It is intended for all GSAS majors and other interested students, as well as the prerequisite for the GSAS concentration in Writing.",
-    "name" : "Introduction to Game Storytelling"
-  },
-  {
-    "attributes" : null,
     "code" : "ENVE-6910",
     "credits" : "0 credits",
     "description" : "Seminars by distinguished guest speakers and graduate students on current problems in environmental and energy engineering. A broad range of subjects is covered. All undergraduates and graduates are strongly encouraged to attend as many lectures as possible.",
@@ -14161,6 +14071,34 @@
   },
   {
     "attributes" : null,
+    "code" : "STSO-4750",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Troy/19th Cent Industrial City"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECON-4160",
+    "credits" : "4 credits",
+    "description" : "Emphasis is placed on the analysis of efficient resource use in the public sector at the federal level. Expenditure theory, tax incidence, and income distribution policies are discussed. The effects of personal income, corporation, sales, payroll, and property taxes on resource allocation, equity, and growth are considered.",
+    "name" : "Public Finance"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-4971",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARTS-4240",
+    "credits" : "4 credits",
+    "description" : "Eco Chic: Living Art is an upper level production and theory class about art, biology, and the study of life covering topics such as environmentalism, land art, food art, sustainable practices with art, body art, bio-art. Part lecture, part hands-on workshop, Eco Chic encourages students to redefine and experimentally express their relationships with the varied aspects of everyday living systems and manipulating life.",
+    "name" : "Eco Chic: Living Art"
+  },
+  {
+    "attributes" : null,
     "code" : "ARCH-4420",
     "credits" : "? credits",
     "description" : "The Building Sciences Vertical Studio is a thematically varied studio that has at its basis the use of design methodology to conceptualize, develop and evaluate a range of design projects within the Building Sciences. The Vertical Studio integrates the use of state-of-the-art and recent innovations in the materials, enclosure design, data collection methods, data visualization technologies, spatial mapping, investigative learning technologies and data storytelling methods using quantifiable metrics of performance, as well as through the translation of perceivable qualitative experience within physical environments. This studio is required for 2 nd and 3 rd year students in the Building Sciences Program.",
@@ -14192,27 +14130,6 @@
     "credits" : "3 credits",
     "description" : "Aerodynamics and dynamics of lifting rotors in Vertical Take-Off and Landing (VTOL) applications. Design concepts by which rotor weight and stress are minimized and vehicle control is provided. Weight and engine power trends for configuration definition. Center of gravity and aerodynamic lift and moment for equilibrium and desired aircraft attitude. Methods for determining size, weight, and cost for a given payload, useful volume, and specified performance. This is a communication-intensive course.",
     "name" : "VTOL Aircraft Design"
-  },
-  {
-    "attributes" : null,
-    "code" : "ERTH-6540",
-    "credits" : "? credits",
-    "description" : "Topical treatment of current problems and frontiers in igneous petrology, with emphasis on physical and chemical processes. Principles of fluid dynamics and chemical kinetics are applied to the formation and evolution of crust- and mantle-derived magmas.",
-    "name" : "Advanced Igneous Petrology"
-  },
-  {
-    "attributes" : null,
-    "code" : "ISYE-4963",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ISYE"
-  },
-  {
-    "attributes" : null,
-    "code" : "BIOL-4770",
-    "credits" : "4 credits",
-    "description" : "The second semester of the molecular biochemistry sequence. Topics include lipids and lipid metabolism, amino acid metabolism and the coenzymes involved in this metabolism, nucleic acid synthesis and chemistry, protein synthesis and degradation, integration of metabolism, photobiology, and photosynthesis. This course is taught in studio mode. Students cannot obtain credit for both this course and either BCBP 4770 or CHEM 4770 .",
-    "name" : "Molecular Biochemistry II"
   },
   {
     "attributes" : null,
@@ -14426,20 +14343,6 @@
     "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BIOL"
-  },
-  {
-    "attributes" : null,
-    "code" : "CIVL-4280",
-    "credits" : "3 credits",
-    "description" : "Design of systems to consider foundations, structures, and constructability; foundation alternatives; structural design to simplify erection; prefabrication, modulation of structures; material handling on a construction site; crane selection and placement; temporary works.",
-    "name" : "Design for Constructability"
-  },
-  {
-    "attributes" : null,
-    "code" : "MANE-4340",
-    "credits" : "3 credits",
-    "description" : "An introductory course on physical principles behind the creation of diagnostic medical images. Medical imaging is one of the most exciting and technologically demanding fields of medicine. Topics include radiation interaction, radiation dosimetry, formation and quality of X-ray images, computed tomography (CT), nuclear medicine, magnetic resonance imaging (MRI), ultrasound imaging, and radiation detection and safety. Current research on image quality optimization, image-guided radio-surgery, 3D/4D ultrasound imaging, and Monte Carlo simulations are reviewed.",
-    "name" : "Physics of Radiology"
   },
   {
     "attributes" : null,
@@ -15629,6 +15532,37 @@
   },
   {
     "attributes" : null,
+    "code" : "IHSS-1005",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Basic Japanese I (at Union)"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-6500",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Mechanobiology"
+  },
+  {
+    "attributes" : 
+    [
+      "CI"
+    ],
+    "code" : "ECON-4270",
+    "credits" : "4 credits",
+    "description" : "Integrates theory from psychology, neuroscience, and other social sciences into traditional economic models of human behavior. By relaxing the standard assumptions of perfect rationality and selfishness, more realistic modeling features such as loss aversion, present-bias, social norms, and habit formation improve economic analyses. These techniques are used to analyze individuals' health behaviors, health insurance markets, and healthcare policy.",
+    "name" : "Behavioral Economics"
+  },
+  {
+    "attributes" : null,
+    "code" : "ISYE-4290",
+    "credits" : "4 credits",
+    "description" : "Introduction to discrete-event simulation modeling and analysis techniques including; graphical simulation modeling approaches, animation techniques, modeling large-scale and complex systems, pseudo-random number and random variate generation, stochastic processes, input modeling (data collection, analysis, and fitting distribution), output analysis (initial bias and termination bias, variance reduction techniques), sensitivity analysis, design of experiments, interactive simulation-based decision-support systems.",
+    "name" : "Discrete Event Simulation Modeling and Analysis"
+  },
+  {
+    "attributes" : null,
     "code" : "ARCH-2230",
     "credits" : "6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -15787,13 +15721,6 @@
     "credits" : "3 credits",
     "description" : "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
     "name" : "Introduction to Biology"
-  },
-  {
-    "attributes" : null,
-    "code" : "CHEM-1002",
-    "credits" : "0-6 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Phys Chem At Suny"
   },
   {
     "attributes" : 
@@ -16087,13 +16014,6 @@
   },
   {
     "attributes" : null,
-    "code" : "ARTS-4240",
-    "credits" : "4 credits",
-    "description" : "Eco Chic: Living Art is an upper level production and theory class about art, biology, and the study of life covering topics such as environmentalism, land art, food art, sustainable practices with art, body art, bio-art. Part lecture, part hands-on workshop, Eco Chic encourages students to redefine and experimentally express their relationships with the varied aspects of everyday living systems and manipulating life.",
-    "name" : "Eco Chic: Living Art"
-  },
-  {
-    "attributes" : null,
     "code" : "MTLE-4290",
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -16226,20 +16146,6 @@
   },
   {
     "attributes" : null,
-    "code" : "ERTH-4400",
-    "credits" : "3 credits",
-    "description" : "Informatics covers a broad range of disciplines addressing challenges in the explosion of data and information resources. Xinformatics provides commonality for implementations in specific disciplines (e.g. X=astronomy, geology). Informatics' theoretical bases are information and computer science, cognitive science, social science, library science, aggregating these studies and adding the practice of information processing, and the engineering of information systems. This course grounds the material that students will learn in discipline areas by coursework and project assignments. Students cannot obtain credit for more than one of ERTH 4400 / ITWS 4400 / CSCI 4400 .",
-    "name" : "Xinformatics"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-6290",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Biomech Of Hard Tissues"
-  },
-  {
-    "attributes" : null,
     "code" : "BIOL-4470",
     "credits" : "2 credits",
     "description" : "This is an in-depth study of current papers within the broad field of Muscle & Cardiac Biology. Students will read and critique primary papers, present current research articles, and lead critical discussions of topics listed in the class schedule.",
@@ -16272,6 +16178,13 @@
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-6961",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
   },
   {
     "attributes" : null,
@@ -16335,6 +16248,41 @@
     "credits" : "4 credits",
     "description" : "The biophysical mechanism of protein folding and the role of misfolding in human diseases is explored. The course will introduce principles of protein structure, protein folding in the cell, and thermodynamic and kinetic methods for studying protein folding in vitro. The course will also involve a literature-based discussion of human diseases related to protein folding defects, including Alzheimer's and other amyloid diseases, cystic fibrosis, and Prion-related syndromes.",
     "name" : "Protein Folding"
+  },
+  {
+    "attributes" : null,
+    "code" : "ISYE-4963",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ISYE"
+  },
+  {
+    "attributes" : null,
+    "code" : "BIOL-4770",
+    "credits" : "4 credits",
+    "description" : "The second semester of the molecular biochemistry sequence. Topics include lipids and lipid metabolism, amino acid metabolism and the coenzymes involved in this metabolism, nucleic acid synthesis and chemistry, protein synthesis and degradation, integration of metabolism, photobiology, and photosynthesis. This course is taught in studio mode. Students cannot obtain credit for both this course and either BCBP 4770 or CHEM 4770 .",
+    "name" : "Molecular Biochemistry II"
+  },
+  {
+    "attributes" : null,
+    "code" : "MANE-4340",
+    "credits" : "3 credits",
+    "description" : "An introductory course on physical principles behind the creation of diagnostic medical images. Medical imaging is one of the most exciting and technologically demanding fields of medicine. Topics include radiation interaction, radiation dosimetry, formation and quality of X-ray images, computed tomography (CT), nuclear medicine, magnetic resonance imaging (MRI), ultrasound imaging, and radiation detection and safety. Current research on image quality optimization, image-guided radio-surgery, 3D/4D ultrasound imaging, and Monte Carlo simulations are reviewed.",
+    "name" : "Physics of Radiology"
+  },
+  {
+    "attributes" : null,
+    "code" : "CIVL-4280",
+    "credits" : "3 credits",
+    "description" : "Design of systems to consider foundations, structures, and constructability; foundation alternatives; structural design to simplify erection; prefabrication, modulation of structures; material handling on a construction site; crane selection and placement; temporary works.",
+    "name" : "Design for Constructability"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-6540",
+    "credits" : "? credits",
+    "description" : "Topical treatment of current problems and frontiers in igneous petrology, with emphasis on physical and chemical processes. Principles of fluid dynamics and chemical kinetics are applied to the formation and evolution of crust- and mantle-derived magmas.",
+    "name" : "Advanced Igneous Petrology"
   },
   {
     "attributes" : null,
@@ -16523,6 +16471,13 @@
     "name" : "Topics in ISYE"
   },
   {
+    "attributes" : null,
+    "code" : "CIVL-4020",
+    "credits" : "3 credits",
+    "description" : "The seminar will be interdisciplinary with students from both architecture and civil engineering departments. The content of the lectures bears direct relation to practical experience and is considered to be supplementary to the other courses in the respective engineering and architecture schools. Specific types of structures will be examined with the help of suitable existing project examples clarifying and critically analyzing the basic engineering principles behind them. Students will be exposed to the collaborative methods inherent within the architect/engineer relationship.",
+    "name" : "Bedford Seminar"
+  },
+  {
     "attributes" : 
     [
       "CI"
@@ -16531,13 +16486,6 @@
     "credits" : "4 credits",
     "description" : "Deep Listening is a practice developed by pioneering composer and humanitarian Pauline Oliveros to enhance and expand listening abilities and to encourage creativity. Students will develop a heightened awareness to sound and their sonic environment through experiential exercises, creative projects, collaborations, readings, lectures, and discussion. Musicians and non-musicians of all abilities and backgrounds are welcome!",
     "name" : "Deep Listening"
-  },
-  {
-    "attributes" : null,
-    "code" : "CIVL-4020",
-    "credits" : "3 credits",
-    "description" : "The seminar will be interdisciplinary with students from both architecture and civil engineering departments. The content of the lectures bears direct relation to practical experience and is considered to be supplementary to the other courses in the respective engineering and architecture schools. Specific types of structures will be examined with the help of suitable existing project examples clarifying and critically analyzing the basic engineering principles behind them. Students will be exposed to the collaborative methods inherent within the architect/engineer relationship.",
-    "name" : "Bedford Seminar"
   },
   {
     "attributes" : null,
@@ -17154,13 +17102,6 @@
   },
   {
     "attributes" : null,
-    "code" : "BMED-6962",
-    "credits" : "1 credit",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BMED"
-  },
-  {
-    "attributes" : null,
     "code" : "BMED-4200",
     "credits" : "3 credits",
     "description" : "Introduction of mathematical and computational methods to model physiological systems in biomedical engineering. Mathematical methods include solution techniques for systems of algebraic equations, systems of partial and partial differential equations. Computational methods include finite difference, finite element, and lumped parameter methods. Computational methods are programmed using commercial programming software.",
@@ -17242,27 +17183,6 @@
     "credits" : "3 credits",
     "description" : "The principles of thermodynamics, with their applications to homogeneous and heterogeneous equilibria.",
     "name" : "Chemical Thermodynamics"
-  },
-  {
-    "attributes" : null,
-    "code" : "USAF-1010",
-    "credits" : "1 credit",
-    "description" : "AS 100, Heritage and Values of the U.S. Air Force, is a survey course designed to introduce students to the United States Air Force and provides an overview of the basic characteristics, missions, and organization of the Air Force. Leadership Laboratory ( USAF 0010 ) is mandatory for AFROTC cadets and complements this course by providing cadets with leadership/followership experiences.",
-    "name" : "Air and Space Studies 100A (Heritage and Values of the U.S. Air Force)"
-  },
-  {
-    "attributes" : null,
-    "code" : "COMM-4970",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in COMM"
-  },
-  {
-    "attributes" : null,
-    "code" : "CHEM-1210",
-    "credits" : "3 credits",
-    "description" : "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. This course consists of the lecture portion of CHEM 1200 with no laboratory requirements. Students cannot get credit for this course and CHEM 1200 .",
-    "name" : "Chemistry II (Without lab)"
   },
   {
     "attributes" : null,
@@ -17593,6 +17513,52 @@
     "name" : "Structures 1"
   },
   {
+    "attributes" : 
+    [
+      "CI",
+      "PDII"
+    ],
+    "code" : "STSO-4310",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Energy Politics"
+  },
+  {
+    "attributes" : null,
+    "code" : "ITEC-4300",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Business Issues For Engr"
+  },
+  {
+    "attributes" : null,
+    "code" : "ISYE-4750",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Prob Theory & Applications"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARTS-6110",
+    "credits" : "3 credits",
+    "description" : "This seminar will provide a historical context for understanding and analyzing practices and theories of contemporary electronic art. The curriculum is a mix of field surveys, readings of primary sources in aesthetic, media and critical theory, and examination of contemporary topics and controversies. The seminar is also intended to support the development and articulation of the student's creative practice. Open to graduate students across the Institute.",
+    "name" : "Electronic Arts Overview"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHEM-1100",
+    "credits" : "4 credits",
+    "description" : "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acid-base chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110 .",
+    "name" : "Chemistry I"
+  },
+  {
+    "attributes" : null,
+    "code" : "GSAS-2510",
+    "credits" : "4 credits",
+    "description" : "This course looks at the mathematics of game theory from a psychological perspective and serves as a primer in video game design. The psychology of players and designers are discussed, as well as the cognitive processes that people use when solving game-related puzzles. Additional topics include logic, human frailty, role playing, artificial intelligence, kinesics, theater, and human-computer interaction.",
+    "name" : "Introduction to Game Design"
+  },
+  {
     "attributes" : null,
     "code" : "ECSE-4800",
     "credits" : "3 credits",
@@ -17626,6 +17592,27 @@
     "credits" : "3 credits",
     "description" : "This course will introduce advanced instrumental physicochemical methods of chemical analysis as well as instrument design and data capture/processing. Topics covered include atomic and molecular spectroscopy, chromatography, electroanalytical chemistry and measurement basics. This course is a prerequisite or corequisite for CHEM 4120 / CHEM 4130 .",
     "name" : "Instrumental Methods of Analysis"
+  },
+  {
+    "attributes" : null,
+    "code" : "USAF-1010",
+    "credits" : "1 credit",
+    "description" : "AS 100, Heritage and Values of the U.S. Air Force, is a survey course designed to introduce students to the United States Air Force and provides an overview of the basic characteristics, missions, and organization of the Air Force. Leadership Laboratory ( USAF 0010 ) is mandatory for AFROTC cadets and complements this course by providing cadets with leadership/followership experiences.",
+    "name" : "Air and Space Studies 100A (Heritage and Values of the U.S. Air Force)"
+  },
+  {
+    "attributes" : null,
+    "code" : "COMM-4970",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in COMM"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHEM-1210",
+    "credits" : "3 credits",
+    "description" : "Continued examination of the principles of chemistry in more depth, considering thermodynamics, advanced concepts in chemical equilibrium and acid-base chemistry, kinetics of chemical reactions, and electrochemistry. This course consists of the lecture portion of CHEM 1200 with no laboratory requirements. Students cannot get credit for this course and CHEM 1200 .",
+    "name" : "Chemistry II (Without lab)"
   },
   {
     "attributes" : null,
@@ -18168,27 +18155,6 @@
   },
   {
     "attributes" : null,
-    "code" : "MGMT-4700",
-    "credits" : "4 credits",
-    "description" : "In order to survive, corporations need to renew themselves. This requires instilling an entrepreneurial mindset which is often a challenge for large established corporations. Corporations caught up in the web of commoditization, stagnation, down-sizing, cost-cutting, re-engineering and the fast pace of globalization and technical change have come to realize that boosting their entrepreneurial capabilities, can improve their competitive positions through creating new markets and even transforming their industries. Yet overall, these efforts have produced uneven success. Although entrepreneurs in organizations can benefit from the knowledge resources, experience, and financial assets and networks of the large firm, they are constrained by the firm's inertial structure and entrenched management practices, as well as by the influence of current customers. This course helps students understand these challenges and how to cope with them through developing appropriate corporate competencies, structures, systems, and talent management practices.",
-    "name" : "Corporate Entrepreneurship"
-  },
-  {
-    "attributes" : null,
-    "code" : "CIVL-4140",
-    "credits" : "3 credits",
-    "description" : "The application of geotechnical engineering to the environmental area. Deals with waste disposal, waste containment systems, waste stabilization, and landfills. Emphasis on design of such facilities. Includes related topics necessary for design, e.g., geosynthetics, groundwater, contaminant transport, and slurry walls. Some field trips are possible. (Students cannot receive credit for both this course and CIVL 6550 .)",
-    "name" : "Geoenvironmental Engineering"
-  },
-  {
-    "attributes" : null,
-    "code" : "CHEM-6910",
-    "credits" : "1 credit",
-    "description" : "Discussions and seminars on how to deal with the various aspects of teaching and related problems encountered by teaching assistants in chemistry. Seminar topics will include: cognitive theories of learning; several models of teaching; educational psychology; attitude and motivational factors; communication and presentation skills; leadership; time management; how to write an exam; grading problems; ethics; group problem solving skills; and cultural diversity. Seminars will be led by a senior, experienced teaching assistant along with participating faculty.",
-    "name" : "Chemistry Teaching Seminar"
-  },
-  {
-    "attributes" : null,
     "code" : "LANG-1961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -18440,34 +18406,6 @@
   },
   {
     "attributes" : null,
-    "code" : "ERTH-6400",
-    "credits" : "3 credits",
-    "description" : "Informatics covers a broad range of disciplines addressing challenges in the explosion of data and information resources. Xinformatics provides commonality for implementations in specific disciplines (e.g. X=astronomy, geology). Informatics' theoretical bases are information and computer science, cognitive science, social science, library science, aggregating these studies and adding the practice of information processing and the engineering of information systems. This course grounds the material that students will learn in discipline areas by coursework and project assignments. Students cannot obtain credit for more than one of ERTH 6400 / ITWS 6400 / CSCI 6400 .",
-    "name" : "Xinformatics"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-6969",
-    "credits" : "1 credit",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "CHEM-6620",
-    "credits" : "3 credits",
-    "description" : "This course will introduce synthetic and kinetic aspects of various polymerization reactions that have been employed to produce commodity and specialty plastic materials. Control and prediction of the molecular weight distribution for different polymerization mechanisms will be discussed along with various characterization techniques of molecular weight distribution and its relation to properties. Thermal/solution properties, chemical/physical properties, and uses of polymers also will be discussed. Students cannot get credit for both this course and CHEM 4620 .",
-    "name" : "Polymer Chemistry"
-  },
-  {
-    "attributes" : null,
-    "code" : "BIOL-4962",
-    "credits" : "2 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BIOL"
-  },
-  {
-    "attributes" : null,
     "code" : "CHME-4400",
     "credits" : "3 credits",
     "description" : "Theory and practice of chromatographic separation processes. Topics include chromatographic dispersion, adsorption isotherms, solute movement analysis, chromatographic techniques (reversed-phase, HIC, ion exchange, affinity, and size exclusion), modes of operation (gradient, elution, displacement, and continuous systems), novel morphologies and chromatographic applications in biotechnology. Includes critical reviews of the current literature and computer simulations. Suitable for graduate students in chemical engineering, chemistry, biology, and biomedical engineering. Students cannot receive credit for both CHME 4400 and CHME 6440 .",
@@ -18560,37 +18498,6 @@
     "credits" : "3 credits",
     "description" : "This course will focus on the connections between the behavior of single molecules and their interactions and macroscopic non-Newtonian behavior. Among the topics discussed are microscopic models of these systems, techniques for measuring and manipulating the microsctructure, and the impact on macroscopic behavior. Students may not receive credit for both this course and CHME 4480 .",
     "name" : "Single Molecules Complex Fluid"
-  },
-  {
-    "attributes" : null,
-    "code" : "ECSE-6130",
-    "credits" : "? credits",
-    "description" : "Basic relaying philosophy. Current and potential transformers. Operating principles of electromagnetic, electronic, and digital relays. Application of relays to protect generators, busses, transformers, and transmission lines.",
-    "name" : "Protective Relaying"
-  },
-  {
-    "attributes" : null,
-    "code" : "MANE-6710",
-    "credits" : "3 credits",
-    "description" : "This course introduces the theory and practical use of numerical design optimization methods. Topics include: gradient-based methods for unconstrained and constrained nonlinear optimization; numerical evaluation of derivatives; polynomialand- and kriging-based surrogate models; gradient-free optimization methods; optimization under uncertainty; multi-objective and multi-disciplinary optimization. Projects require the use of computer programs to generate numerical results; therefore, experience with programming is highly recommended.",
-    "name" : "Numerical Design Optimization"
-  },
-  {
-    "attributes" : 
-    [
-      "CI"
-    ],
-    "code" : "BIOL-4130",
-    "credits" : "6 credits",
-    "description" : "Independent research in health sciences, supervised by a faculty member, for the purpose of developing research skills. Such skills include defining a research project, both as a written and oral exercise for a scientific and general audience, and gathering preliminary research data enabling both a written and oral description of the project in the form of a research proposal and an oral defense. This is a communication-intensive course.",
-    "name" : "Biomedical Research"
-  },
-  {
-    "attributes" : null,
-    "code" : "ERTH-6990",
-    "credits" : "1-9 credits",
-    "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a master's thesis. Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
-    "name" : "Master's Thesis"
   },
   {
     "attributes" : null,
@@ -18772,6 +18679,27 @@
   },
   {
     "attributes" : null,
+    "code" : "CSCI-4965",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
+    "code" : "STSO-1510",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Intro Cultural Anthropology"
+  },
+  {
+    "attributes" : null,
+    "code" : "MGMT-4150",
+    "credits" : "4 credits",
+    "description" : "This capstone concentration course provides the student with conceptual and applied material focusing on the effective implementation of information. A central theme underlying this course is that information system implementation is best thought of as a bridge between systems design and utilization and that it must be understood in the context of the development process as a whole. The course examines a wide array of interrelated issues not generally covered in a systems analysis and design course including: process development life cycle; project management and systems engineering; process reengineering and maturity; organizational learning and evaluation.",
+    "name" : "IT Project Management"
+  },
+  {
+    "attributes" : null,
     "code" : "ENGR-1600",
     "credits" : "4 credits",
     "description" : "Introduction to the scientific principles that dictate the structure and properties of engineering materials, including metals, ceramics, semiconductors, and polymers. Physical properties of materials (mechanical, electrical, thermal, optical) are discussed in terms of the underlying bonding and structure, spanning multiple length scales from atomic packing to micron scale defects, in practical engineering materials. Throughout the course, the material behaviors are understood from the viewpoint of thermodynamics and kinetics.",
@@ -18831,13 +18759,6 @@
     "credits" : "3 credits",
     "description" : "Introduction to elementary theory of combustion and applications to energy sources, fires, and explosions. Discussion of internal and external combustion piston and turbine engines, solid-and liquid-propellant rockets, fire and explosion hazards of gaseous fuels, propellant and explosive performance.",
     "name" : "Combustion Systems"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-6240",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Tissue-implant Interface"
   },
   {
     "attributes" : null,
@@ -18918,6 +18839,302 @@
     "credits" : "? credits",
     "description" : "Modeling and analysis of common manufacturing processes. Topics include bulk-forming, sheet-forming, and casting processes. Classical analysis techniques, upper bound analysis, slip-line field theory, asymptotic methods, and the finite element method are investigated.",
     "name" : "Mechanics of Materials Processing"
+  },
+  {
+    "attributes" : 
+    [
+      "CI"
+    ],
+    "code" : "STSO-2460",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Human Evolution"
+  },
+  {
+    "attributes" : null,
+    "code" : "PSYC-2965",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in PSYC"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-6350",
+    "credits" : "3 credits",
+    "description" : "Data science is advancing the inductive conduct of science and is driven by the greater volumes, complexity, and heterogeneity of data being made available over the Internet. It combines aspects of data management, library science, computer science, and physical science. It is changing the way all of these disciplines do both their individual and collaborative work. Key methodologies in application areas based on real research experience are taught. This course meets with ERTH 4350 / CSCI 4350 / ITWS 4350 and CSCI 6350 / ITWS 6350 .",
+    "name" : "Data Science"
+  },
+  {
+    "attributes" : null,
+    "code" : "MANE-6210",
+    "credits" : "3 credits",
+    "description" : "Aerodynamics and dynamics of lifting rotors. Design concepts by which rotor weight and stress are minimized and vehicle control is provided. Weight and engine power trends for configuration definition. Center of gravity and aerodynamic lift and moment for equilibrium and desired aircraft attitude. Methods for determining size weight, and cost for a given payload, useful volume, and specified performance. This is a communication-intensive course.",
+    "name" : "VTOL Aircraft Design"
+  },
+  {
+    "attributes" : null,
+    "code" : "CIVL-4140",
+    "credits" : "3 credits",
+    "description" : "The application of geotechnical engineering to the environmental area. Deals with waste disposal, waste containment systems, waste stabilization, and landfills. Emphasis on design of such facilities. Includes related topics necessary for design, e.g., geosynthetics, groundwater, contaminant transport, and slurry walls. Some field trips are possible. (Students cannot receive credit for both this course and CIVL 6550 .)",
+    "name" : "Geoenvironmental Engineering"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHEM-6910",
+    "credits" : "1 credit",
+    "description" : "Discussions and seminars on how to deal with the various aspects of teaching and related problems encountered by teaching assistants in chemistry. Seminar topics will include: cognitive theories of learning; several models of teaching; educational psychology; attitude and motivational factors; communication and presentation skills; leadership; time management; how to write an exam; grading problems; ethics; group problem solving skills; and cultural diversity. Seminars will be led by a senior, experienced teaching assistant along with participating faculty.",
+    "name" : "Chemistry Teaching Seminar"
+  },
+  {
+    "attributes" : null,
+    "code" : "MGMT-4700",
+    "credits" : "4 credits",
+    "description" : "In order to survive, corporations need to renew themselves. This requires instilling an entrepreneurial mindset which is often a challenge for large established corporations. Corporations caught up in the web of commoditization, stagnation, down-sizing, cost-cutting, re-engineering and the fast pace of globalization and technical change have come to realize that boosting their entrepreneurial capabilities, can improve their competitive positions through creating new markets and even transforming their industries. Yet overall, these efforts have produced uneven success. Although entrepreneurs in organizations can benefit from the knowledge resources, experience, and financial assets and networks of the large firm, they are constrained by the firm's inertial structure and entrenched management practices, as well as by the influence of current customers. This course helps students understand these challenges and how to cope with them through developing appropriate corporate competencies, structures, systems, and talent management practices.",
+    "name" : "Corporate Entrepreneurship"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-6400",
+    "credits" : "3 credits",
+    "description" : "Informatics covers a broad range of disciplines addressing challenges in the explosion of data and information resources. Xinformatics provides commonality for implementations in specific disciplines (e.g. X=astronomy, geology). Informatics' theoretical bases are information and computer science, cognitive science, social science, library science, aggregating these studies and adding the practice of information processing and the engineering of information systems. This course grounds the material that students will learn in discipline areas by coursework and project assignments. Students cannot obtain credit for more than one of ERTH 6400 / ITWS 6400 / CSCI 6400 .",
+    "name" : "Xinformatics"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-6969",
+    "credits" : "1 credit",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHEM-6620",
+    "credits" : "3 credits",
+    "description" : "This course will introduce synthetic and kinetic aspects of various polymerization reactions that have been employed to produce commodity and specialty plastic materials. Control and prediction of the molecular weight distribution for different polymerization mechanisms will be discussed along with various characterization techniques of molecular weight distribution and its relation to properties. Thermal/solution properties, chemical/physical properties, and uses of polymers also will be discussed. Students cannot get credit for both this course and CHEM 4620 .",
+    "name" : "Polymer Chemistry"
+  },
+  {
+    "attributes" : null,
+    "code" : "BIOL-4962",
+    "credits" : "2 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BIOL"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-6545",
+    "credits" : "4 credits",
+    "description" : "Origin, transformation, and fate of organic matter on Earth. This course is chemistry-focused and incorporates concepts from biology, geology, and ecology. This course emphasizes reactivity, transport, and storage mechanisms that control the distribution of organic matter in terrestrial and marine systems. Analytical techniques for characterizing organic matter and applications to carbon cycling in natural and perturbed environments are also discussed.",
+    "name" : "Organic Geochemistry"
+  },
+  {
+    "attributes" : null,
+    "code" : "CIVL-6660",
+    "credits" : "3 credits",
+    "description" : "Graduate-level course on the fundamental concepts and technologies underlying finite element methods for the numerical solution of continuum problems. The course emphasizes the construction of integral weak forms for elliptic partial differential equations and the construction of the elemental level matrices using multi-dimensional shape functions, element level mappings, and numerical integration. The basic convergence properties of the finite element method will be given. This course serves as preparation for students working on finite element methods.",
+    "name" : "Fundamentals of Finite Elements"
+  },
+  {
+    "attributes" : null,
+    "code" : "MANE-4450",
+    "credits" : "3 credits",
+    "description" : "Sources of nuclear fuel. Mining, milling, and purification. Principles of isotope enrichment; specific methods with emphasis on gaseous diffusion. Fuel fabrication. Transport and reprocessing of spent fuel. In-core fuel management. Linear reactivity, batch, nodal, and pincell methods. Power shape and control management. Partial core reloading. Fuel depletion. Poison management and Haling strategy. Breeding and fast reactors. Economics of the fuel cycle. Computation of fuel cycle costs.",
+    "name" : "Nuclear Fuel Management"
+  },
+  {
+    "attributes" : null,
+    "code" : "MATH-9990",
+    "credits" : "1-15 credits",
+    "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
+    "name" : "Dissertation"
+  },
+  {
+    "attributes" : null,
+    "code" : "BCBP-4970",
+    "credits" : "? credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BCBP"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECON-6990",
+    "credits" : "1-9 credits",
+    "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a master's thesis. Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "name" : "Master's Thesis"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-6560",
+    "credits" : "4 credits",
+    "description" : "Fundamentals of isotope geochemistry as applied to biogeochemical systems in modern and ancient environments. This course covers the principles of both radiogenic and stable isotope distribution, decay, and transfer through Earth's exchangeable reservoirs. This course will emphasize stable isotopes, equilibrium and kinetic isotope fractionation, distribution, isotope mass balance, and using these systems to track global biogeochemical cycles in the modern environment and in deep time.",
+    "name" : "Isotope Geochemistry"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-6690",
+    "credits" : "4 credits",
+    "description" : "Fundamentals of aqueous geochemistry as applied to the evolution of natural waters. Principles of chemical equilibrium, activity models for solutes, acid-base chemistry, redox chemistry, mineral solubility, aqueous complexes, ion exchange, and stable isotopes will be covered. The carbonate system, weathering reactions, and redox chemistry are examined in detail. Students learn theory, the basics of analytical techniques, computation methods, and the use of computer programs for speciation, mass balance, and reaction path calculations.",
+    "name" : "Aqueous Geochemistry"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-6710",
+    "credits" : "3 credits",
+    "description" : "An intensive study of hydrologic, geologic, and other factors controlling groundwater flow, occurrence, development, chemistry, and contamination. Groundwater flow theory and aquifer test methods are introduced. Interaction between surface and subsurface hydrologic systems are covered. Some field trips are possible.",
+    "name" : "Advanced Groundwater Hydrology"
+  },
+  {
+    "attributes" : null,
+    "code" : "ITWS-4960",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ITWS"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-6940",
+    "credits" : "1-12 credits",
+    "description" : "",
+    "name" : "Readings in ERTH"
+  },
+  {
+    "attributes" : null,
+    "code" : "GSAS-1040",
+    "credits" : "4 credits",
+    "description" : "This course combines an introduction to traditional visual arts and digital media and serves as a foundation for work in game design and interactive art. Using studio projects that incorporate physical media, digital imaging and computer code, students develop their formal vocabulary, observational skills, and their understanding of issues in visual and interactive arts.",
+    "name" : "Art for Interactive Media"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-6960",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ERTH"
+  },
+  {
+    "attributes" : 
+    [
+      "CI"
+    ],
+    "code" : "CSCI-4530",
+    "credits" : "4 credits",
+    "description" : "This course will survey classic papers and current research in computer graphics. Topics include: advanced ray tracing, global illumination, photon mapping, subsurface scattering, mesh generation and simplification, subdivision surfaces, volumetric modeling, procedural modeling and texturing, weathering, physical simulation, appearance models. Course activities include programming assignments, oral presentations, and a term project.",
+    "name" : "Advanced Computer Graphics"
+  },
+  {
+    "attributes" : null,
+    "code" : "USNA-2040",
+    "credits" : "3 credits",
+    "description" : "A familiarization course in naval engineering. Study of types, structure, and purpose of naval ships. Elements of ship design to achieve safe operations and ship stability characteristics are examined. Ship compartmentation, propulsion systems, auxiliary power systems, ship control systems, and elements of damage control are included.",
+    "name" : "Naval Ships Systems I"
+  },
+  {
+    "attributes" : 
+    [
+      "CI"
+    ],
+    "code" : "BIOL-4130",
+    "credits" : "6 credits",
+    "description" : "Independent research in health sciences, supervised by a faculty member, for the purpose of developing research skills. Such skills include defining a research project, both as a written and oral exercise for a scientific and general audience, and gathering preliminary research data enabling both a written and oral description of the project in the form of a research proposal and an oral defense. This is a communication-intensive course.",
+    "name" : "Biomedical Research"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-6990",
+    "credits" : "1-9 credits",
+    "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a master's thesis. Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "name" : "Master's Thesis"
+  },
+  {
+    "attributes" : null,
+    "code" : "ISCI-4961",
+    "credits" : "0 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ISCI"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-4860",
+    "credits" : "3 credits",
+    "description" : "Topics include the functional overview of the auditory system, loudness, pitch, and timbre perception, masking, binaural hearing, auditory scene analysis, multi-modal integration, and auditory perception in rooms. Required signal processing methods will be covered as well. Course taught with ARCH 6860.",
+    "name" : "Applied Psychoacoustics"
+  },
+  {
+    "attributes" : null,
+    "code" : "ESCI-6980",
+    "credits" : "3 credits",
+    "description" : "Active participation in a master's-level project, under the supervision of a faculty adviser, leading to a master's project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master's project may be accepted by the Office of Graduate Education to be archived in the library.",
+    "name" : "Master's Project"
+  },
+  {
+    "attributes" : null,
+    "code" : "MGMT-7730",
+    "credits" : "3 credits",
+    "description" : "Main course objective is to introduce students to basic economics principles and establish economics as a managerial decision-making framework. The course will draw on economic analysis of such concepts as cost, demand, profit, competition, pricing strategy, and market protection and tie them to operational business decisions.",
+    "name" : "Economics and Institutions"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHME-6968",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CHME"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHYS-9990",
+    "credits" : "1-15 credits",
+    "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
+    "name" : "Dissertation"
+  },
+  {
+    "attributes" : null,
+    "code" : "BIOL-2950",
+    "credits" : "1-4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Undergraduate Research Proj"
+  },
+  {
+    "attributes" : null,
+    "code" : "ESCI-6990",
+    "credits" : "1-16 credits",
+    "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a master's thesis. Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester. Once the thesis has been presentend, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "name" : "Master's Thesis"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHIL-4220",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Social & Political Philosophy"
+  },
+  {
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
+    "code" : "GSAS-1600",
+    "credits" : "4 credits",
+    "description" : "This course surveys 5000 years of game history, from ancient Sumer/Sumerian to the latest next-generation consoles and MMOGs. In parallel with this historical tour, several major theories will be examined about the nature of play and the nature of games. Along the way, it will also look at how games and play influence the cultures they are found in, and how culture in turn influences how people structure their leisure time will also be considered.",
+    "name" : "History and Culture of Games"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHYS-2620",
+    "credits" : "4 credits",
+    "description" : "An introduction to the properties of light and its interactions with matter. Topics include wave, particle, and ray treatments of light; geometrical optics and imaging systems; interference and diffraction; polarization; and Fourier methods for imaging and pulses. A laboratory is included.",
+    "name" : "Optics"
+  },
+  {
+    "attributes" : 
+    [
+      "CI"
+    ],
+    "code" : "GSAS-2520",
+    "credits" : "4 credits",
+    "description" : "This course is designed to provide an overview of the art of effective story development. Students will come away with a heightened awareness of the structures and principles that master storytellers apply to their craft in games and other popular media. It is intended for all GSAS majors and other interested students, as well as the prerequisite for the GSAS concentration in Writing.",
+    "name" : "Introduction to Game Storytelling"
   },
   {
     "attributes" : null,
@@ -19186,6 +19403,27 @@
     "credits" : "3 credits",
     "description" : "This course is designed to help students develop an understanding of the strategies and practices involved in marketing technologically oriented products and services. Students will learn where these strategies differ from marketing of non-technical products/services, and appreciate how and why they vary.",
     "name" : "Marketing High Technology Products"
+  },
+  {
+    "attributes" : null,
+    "code" : "GENL-4211",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Applied Engineering Workshop"
+  },
+  {
+    "attributes" : null,
+    "code" : "ISYE-6840",
+    "credits" : "? credits",
+    "description" : "Applications of operations research and systems analysis techniques to mathematical modeling of complex systems, especially large-scale public systems. Discussion of model-building approaches, emphasizing the role of creativity, rationality, and mathematics. Introduction of important quantitative techniques (e.g., geometrical probability, optimization theory, and stochastic processes) and their application to modeling emergency service systems, spatial distribution of public service facilities, congestion, land-use patterns, transportation systems, demographics, and energy.",
+    "name" : "Modeling Large-Scale Systems"
+  },
+  {
+    "attributes" : null,
+    "code" : "GSAS-6980",
+    "credits" : "1-9 credits",
+    "description" : "The CGD Master's Project is an independent, individual student project undertaken throughout the student's Master's education. Master's Projects include a production aspect, such as a deliverable game, interactive installation, or tech demo, as well as a written document that firmly establishes the project's methods and grounding as research-driven through an academic literature review and design document. The design document and literature review may pull from disciplines that contribute to game design, including, but not limited to, Visual Arts, Humanities and Media Studies, Social Science, Psychology, and Computer Science. The student will be advised by a member of the GSAS faculty. A committee of the student's advisor, a second GSAS faculty member, and a third faculty member from outside the program or Institution will approve the student's Master's Proposal document, which contains the literature review and design proposal, and is to be completed no later than the end of the first Master's semester.",
+    "name" : "Master's Project"
   },
   {
     "attributes" : null,
@@ -19905,17 +20143,17 @@
   },
   {
     "attributes" : null,
-    "code" : "CSCI-2960",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
     "code" : "BIOL-6140",
     "credits" : "2 credits",
     "description" : "This course is an in-depth study of current research within the broad field of cytoskeletal biology. Students will read, interpret, and critique recent primary literature, present new findings, lead discussions, and identify rising questions in the field.",
     "name" : "Cytoskeletal Biology"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-2960",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
   },
   {
     "attributes" : null,
@@ -20229,34 +20467,6 @@
     "credits" : "3 credits",
     "description" : "A course on fundamentals of stochastic processes and queuing theory emphasizing applications. Poisson processes, renewal processes, Markov chains, general methods in the study of Markovian and non-Markovian systems, tandem queues, networks of queues, priority and bulk queues, computational methods and simulation. Focus of the course is the application of these tools in the performance evaluation and design of computer systems, communication networks, manufacturing systems, and service systems.",
     "name" : "Queuing Systems and Applications"
-  },
-  {
-    "attributes" : null,
-    "code" : "GENL-4211",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Applied Engineering Workshop"
-  },
-  {
-    "attributes" : null,
-    "code" : "GSAS-6980",
-    "credits" : "1-9 credits",
-    "description" : "The CGD Master's Project is an independent, individual student project undertaken throughout the student's Master's education. Master's Projects include a production aspect, such as a deliverable game, interactive installation, or tech demo, as well as a written document that firmly establishes the project's methods and grounding as research-driven through an academic literature review and design document. The design document and literature review may pull from disciplines that contribute to game design, including, but not limited to, Visual Arts, Humanities and Media Studies, Social Science, Psychology, and Computer Science. The student will be advised by a member of the GSAS faculty. A committee of the student's advisor, a second GSAS faculty member, and a third faculty member from outside the program or Institution will approve the student's Master's Proposal document, which contains the literature review and design proposal, and is to be completed no later than the end of the first Master's semester.",
-    "name" : "Master's Project"
-  },
-  {
-    "attributes" : null,
-    "code" : "ISYE-6840",
-    "credits" : "? credits",
-    "description" : "Applications of operations research and systems analysis techniques to mathematical modeling of complex systems, especially large-scale public systems. Discussion of model-building approaches, emphasizing the role of creativity, rationality, and mathematics. Introduction of important quantitative techniques (e.g., geometrical probability, optimization theory, and stochastic processes) and their application to modeling emergency service systems, spatial distribution of public service facilities, congestion, land-use patterns, transportation systems, demographics, and energy.",
-    "name" : "Modeling Large-Scale Systems"
-  },
-  {
-    "attributes" : null,
-    "code" : "ARCH-4967",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ARCH"
   },
   {
     "attributes" : null,
@@ -20630,20 +20840,6 @@
   },
   {
     "attributes" : null,
-    "code" : "COGS-4420",
-    "credits" : "4 credits",
-    "description" : "This course introduces students to basic concepts and methods of artificial intelligence and their applications in computer games. The topics include decision making, movement, path finding, and AI for human-like characters. This course will take the form of a combination of lectures, presentations by students, class discussions, and independent study.",
-    "name" : "Game AI"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-6280",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Biomech Of Soft Tissues"
-  },
-  {
-    "attributes" : null,
     "code" : "BIOL-1020",
     "credits" : "1 credit",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -20658,17 +20854,17 @@
   },
   {
     "attributes" : null,
-    "code" : "CHEM-6970",
-    "credits" : "1-12 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CHEM"
-  },
-  {
-    "attributes" : null,
     "code" : "ERTH-6980",
     "credits" : "1-9 credits",
     "description" : "Active participation in a master's-level project, under the supervision of a faculty adviser, leading to a master's project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master's project may be accepted by the Office of Graduate Education to be archived in the library.",
     "name" : "Master's Project"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHEM-6970",
+    "credits" : "1-12 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CHEM"
   },
   {
     "attributes" : null,
@@ -21263,6 +21459,27 @@
     "credits" : "2 credits",
     "description" : "Laboratory experience to complement MANE 4030 Elements of Mechanical Design. Tolerancing; gear kinematics and torque transfer; stress-strain behavior; beam bending; contact, friction, and wear; snap fasteners; fatigue; mechanical component design and analysis.",
     "name" : "Mechanical Systems Laboratory"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECSE-4710",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Interactive Cad"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-6967",
+    "credits" : "0 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BMED"
+  },
+  {
+    "attributes" : null,
+    "code" : "MANE-4060",
+    "credits" : "4 credits",
+    "description" : "Beam structures under combined shear, bending, and torsional loads. Semi-monocoque structures: idealizations involving wings, ribs, and fuselage bulkheads. Effects of taper and cutouts in stiffened shell structures, shear deformations and warping, location of elastic axis in open and closed sections, torsion of multicell sections. Stability of beam and membrane elements. Introduction to materials used in aerospace vehicles including metals, ceramics, and composites with special emphasis on fiber-reinforced composite materials. Methods for material analysis and selection for various aerospace components.",
+    "name" : "Aerospace Structures and Materials"
   },
   {
     "attributes" : null,
@@ -22129,13 +22346,6 @@
     "name" : "Convective Heat Transfer"
   },
   {
-    "attributes" : null,
-    "code" : "CSCI-6965",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
     "attributes" : 
     [
       "CI"
@@ -22144,6 +22354,13 @@
     "credits" : "4 credits",
     "description" : "A workshop course in reading and writing the literary short story and literary flash fiction; students must have a good command of written English and grammar. This course will focus on reading and analyzing exemplary short fiction and writing and revising original work. Students learn to develop plot, character, setting, point of view, style, and structure, and use revision strategies to re-invent and shape narratives. Peer reading and writing groups offer opportunities for shared response and critique. .",
     "name" : "Creative Writing:  Short Story"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-6965",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
   },
   {
     "attributes" : null,
@@ -22730,13 +22947,6 @@
   },
   {
     "attributes" : null,
-    "code" : "BMED-6560",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Biomaterial Applications In Medicine"
-  },
-  {
-    "attributes" : null,
     "code" : "GSAS-4530",
     "credits" : "4 credits",
     "description" : "This course covers the history and practice of traditional computer graphics but emphasizes modern techniques for modeling, viewing, and rendering techniques in 3D computer graphics systems, including modern shader pipeline programming in OpenGL using C++. Topics include raster graphics techniques as well as the mathematical foundations and matrix transformations relevant to 3D graphics; clipping and projection; hidden surface removal; managing 3D graphics data structures; hierarchical systems; rasterization; culling; 2D and 3D texture mapping; methods for building and using 3D models; lighting and material models and implementation; shadows, shadow mapping, and generating soft shadows; skyboxes, skydomes, and environment mapping; normal, bump, and height mapping; parametric surface representation; introduction to animation; tessellation and geometry shaders; compositing; terrain generation; atmospheric effects such as fog and clouds; generating and applying 3D noise; performance issues such as minimizing dynamic allocation and controlling the level of detail; special effects.",
@@ -22859,20 +23069,6 @@
   },
   {
     "attributes" : null,
-    "code" : "MATP-4980",
-    "credits" : "1-4 credits",
-    "description" : "",
-    "name" : "Undergraduate Project in Mathematical Programming, Probability, and Mathematical Statistics"
-  },
-  {
-    "attributes" : null,
-    "code" : "ARTS-6570",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Research Methods"
-  },
-  {
-    "attributes" : null,
     "code" : "MATP-6610",
     "credits" : "4 credits",
     "description" : "An introduction to nonlinear programming. Models, methods, algorithms, and computer techniques for nonlinear optimization are studied. Students investigate contemporary optimization methods both by implementing these methods and through experimentation with commercial software. Nonmajors wishing to gain practical optimization skills are welcomed in this course. A course project will allow students to explore optimization methods and practical problems directly related to their interests. A computer implementation and a research presentation will be required. Students cannot obtain credit for both this course and MATP 4820 .",
@@ -22957,6 +23153,27 @@
   },
   {
     "attributes" : null,
+    "code" : "COMM-6340",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Techniques For Verbal Analysis"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-6966",
+    "credits" : "1 credit",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BMED"
+  },
+  {
+    "attributes" : null,
+    "code" : "MGMT-2510",
+    "credits" : "4 credits",
+    "description" : "An introduction to the fundamentals of data management and analysis with applications in business and information systems. Through hands-on exercises students will develop competencies in working with data through spreadsheets applications and relational databases. Topics include foundational concepts in information systems, spreadsheets, and basic data modeling and database design.",
+    "name" : "Introduction to Data Management and Analytics"
+  },
+  {
+    "attributes" : null,
     "code" : "MGMT-2600",
     "credits" : "? credits",
     "description" : "The course provides an introduction and an overview of international business. Topics in the course include (1) globalization of markets and firms, (2) political, economic, and cultural differences across countries, (3) theories and trends in international trade and investment, (4) strategies and operations of firms in international markets, and (5) global aspects of marketing, R&D, human resource management, accounting, and finance.",
@@ -23020,20 +23237,6 @@
     "credits" : "4 credits",
     "description" : "This course provides the undergraduate management student with an introduction to the concept and components of computer-based \"management information systems\" (MIS) and their integration into organizational processes to gain competitive advantage. This course will examine approaches for developing and using information systems in support of business processes. Topics include: the impact of computer-based information systems on organizations; the basic technology components of modern information systems; the process by which information systems are created and changed; and selected management and technology issues.",
     "name" : "Computer Information Systems"
-  },
-  {
-    "attributes" : null,
-    "code" : "STSO-1510",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Intro Cultural Anthropology"
-  },
-  {
-    "attributes" : null,
-    "code" : "MGMT-4150",
-    "credits" : "4 credits",
-    "description" : "This capstone concentration course provides the student with conceptual and applied material focusing on the effective implementation of information. A central theme underlying this course is that information system implementation is best thought of as a bridge between systems design and utilization and that it must be understood in the context of the development process as a whole. The course examines a wide array of interrelated issues not generally covered in a systems analysis and design course including: process development life cycle; project management and systems engineering; process reengineering and maturity; organizational learning and evaluation.",
-    "name" : "IT Project Management"
   },
   {
     "attributes" : null,
@@ -23565,20 +23768,6 @@
     "credits" : "3 credits",
     "description" : "The purpose of this course is to provide an introduction to second generation financial instruments including forward and futures contracts, options, futures options, and swaps on a variety of underlying instruments including fixed income securities. The fixed income markets will be integrated with the discussion of IRDs (interest rate derivatives).",
     "name" : "Options, Futures, and Derivatives Markets"
-  },
-  {
-    "attributes" : null,
-    "code" : "MGMT-6410",
-    "credits" : "3 credits",
-    "description" : "The course begins by providing students with a theoretical and practical background in the field of investments. This includes comparison of asset classes characteristics and returns as well as discussion of relevant models, financial institutions, and behavioral issues facing investors. These principles are then quantitatively applied in areas including portfolio construction, index-linked strategies, smart beta/factor portfolios, portfolio risk management, and dynamic portfolio management",
-    "name" : "Quantitative Asset Management"
-  },
-  {
-    "attributes" : null,
-    "code" : "ADMN-6600",
-    "credits" : "0 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Summer Administ Registration"
   },
   {
     "attributes" : null,
@@ -25081,24 +25270,6 @@
   },
   {
     "attributes" : null,
-    "code" : "CIVL-4580",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Infrastructure Engrg"
-  },
-  {
-    "attributes" : 
-    [
-      "CI",
-      "PDII"
-    ],
-    "code" : "STSO-4250",
-    "credits" : "4 credits",
-    "description" : "This course involves a philosophical analysis of some of the basic moral issues raised by recent and anticipated developments in the areas of biology and medicine. The general question \"What are moral problems, and how does one resolve them?\" is examined in the context of concrete cases involving issues such as abortion, euthanasia, organ transplants, experimentation on human patients, cloning, genetic engineering, and behavior control and modification.",
-    "name" : "Bioethics"
-  },
-  {
-    "attributes" : null,
     "code" : "PHYS-4964",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -25321,17 +25492,17 @@
   },
   {
     "attributes" : null,
-    "code" : "ISCI-6970",
-    "credits" : "? credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ISCI"
-  },
-  {
-    "attributes" : null,
     "code" : "ECON-4290",
     "credits" : "4 credits",
     "description" : "Students will learn about markets related to healthcare, insurance, biopharmaceuticals, and medical devices. Examine economic issues, models and quantitative analysis related to firms' activities in areas such as innovation, R&D expenditures, patenting, pricing, mergers and acquisitions, and competition in markets. Examine the role played by health insurance systems. Study the economic implications of regulations, such as those by the U.S. FDA. Economic and policy aspects will be examined within the context of the U.S. healthcare sector, along with selected comparisons to European national healthcare systems.",
     "name" : "Economics of Biotech and Medical Innovations"
+  },
+  {
+    "attributes" : null,
+    "code" : "ISCI-6970",
+    "credits" : "? credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ISCI"
   },
   {
     "attributes" : null,
@@ -25402,13 +25573,6 @@
     "credits" : "1-15 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
     "name" : "Dissertation"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-6968",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BMED"
   },
   {
     "attributes" : null,
@@ -25973,6 +26137,34 @@
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
+  },
+  {
+    "attributes" : null,
+    "code" : "PSYC-4160",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Human Factors Seminar"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHEM-1008",
+    "credits" : "0-6 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "General Chemistry"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-6820",
+    "credits" : "4 credits",
+    "description" : "Numerical methods and analysis for ODEs with applications from mechanics, optics, and chaotic dynamics. Numerical methods for dynamic systems include Runge-Kutta, multistep and extrapolation techniques, methods for conservative and Hamiltonian systems, methods for stiff differential equations and for differential-algebraic systems. Methods for boundary value problems include shooting and orthogonalization, finite difference and collocation techniques, and special methods for problems with boundary or shock layers.",
+    "name" : "Numerical Solution of Ordinary Differential Equations"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-2001",
+    "credits" : "0-6 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Blueprint Read"
   },
   {
     "attributes" : null,
@@ -27900,183 +28092,5 @@
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
-  },
-  {
-    "attributes" : null,
-    "code" : "IHSS-1005",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Basic Japanese I (at Union)"
-  },
-  {
-    "attributes" : 
-    [
-      "CI"
-    ],
-    "code" : "ECON-4270",
-    "credits" : "4 credits",
-    "description" : "Integrates theory from psychology, neuroscience, and other social sciences into traditional economic models of human behavior. By relaxing the standard assumptions of perfect rationality and selfishness, more realistic modeling features such as loss aversion, present-bias, social norms, and habit formation improve economic analyses. These techniques are used to analyze individuals' health behaviors, health insurance markets, and healthcare policy.",
-    "name" : "Behavioral Economics"
-  },
-  {
-    "attributes" : null,
-    "code" : "ISYE-4290",
-    "credits" : "4 credits",
-    "description" : "Introduction to discrete-event simulation modeling and analysis techniques including; graphical simulation modeling approaches, animation techniques, modeling large-scale and complex systems, pseudo-random number and random variate generation, stochastic processes, input modeling (data collection, analysis, and fitting distribution), output analysis (initial bias and termination bias, variance reduction techniques), sensitivity analysis, design of experiments, interactive simulation-based decision-support systems.",
-    "name" : "Discrete Event Simulation Modeling and Analysis"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-6500",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Mechanobiology"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-6710",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Nano- & Bio- Actuatable Mtls"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-6900",
-    "credits" : "0 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Bme Seminar"
-  },
-  {
-    "attributes" : null,
-    "code" : "MGMT-6870",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Empirical Issues In Management Research"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-2962",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ITEC"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-6964",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BMED"
-  },
-  {
-    "attributes" : null,
-    "code" : "ECSE-4760",
-    "credits" : "3 credits",
-    "description" : "Experiments and lectures demonstrate the design and use of microcomputers as both decision tools and on-line real-time system components in control and communications. Topics include the basic operations of microcomputers, data I/O, analog and digital process control, voice processing, digital filter design, digital communication, and optimal LQR control.",
-    "name" : "Real-Time Applications in Control and Communications"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-6965",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BMED"
-  },
-  {
-    "attributes" : null,
-    "code" : "COMM-6340",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Techniques For Verbal Analysis"
-  },
-  {
-    "attributes" : null,
-    "code" : "MGMT-2510",
-    "credits" : "4 credits",
-    "description" : "An introduction to the fundamentals of data management and analysis with applications in business and information systems. Through hands-on exercises students will develop competencies in working with data through spreadsheets applications and relational databases. Topics include foundational concepts in information systems, spreadsheets, and basic data modeling and database design.",
-    "name" : "Introduction to Data Management and Analytics"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-6966",
-    "credits" : "1 credit",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BMED"
-  },
-  {
-    "attributes" : null,
-    "code" : "ECSE-4710",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Interactive Cad"
-  },
-  {
-    "attributes" : null,
-    "code" : "MANE-4060",
-    "credits" : "4 credits",
-    "description" : "Beam structures under combined shear, bending, and torsional loads. Semi-monocoque structures: idealizations involving wings, ribs, and fuselage bulkheads. Effects of taper and cutouts in stiffened shell structures, shear deformations and warping, location of elastic axis in open and closed sections, torsion of multicell sections. Stability of beam and membrane elements. Introduction to materials used in aerospace vehicles including metals, ceramics, and composites with special emphasis on fiber-reinforced composite materials. Methods for material analysis and selection for various aerospace components.",
-    "name" : "Aerospace Structures and Materials"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-6967",
-    "credits" : "0 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BMED"
-  },
-  {
-    "attributes" : null,
-    "code" : "LANG-1210",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Japanese I"
-  },
-  {
-    "attributes" : null,
-    "code" : "ARTS-4510",
-    "credits" : "4 credits",
-    "description" : "Experimental Game Design is an upper level studio arts course focusing on the creation of innovative, workable game prototypes using a variety of interactive multimedia. Games are considered as a new genre and are analyzed as cultural artifacts. The aesthetics of game design including character development, level design, game play experience, and delivery systems are covered. Flow, game theory, and game play gestalt are considered. Alternate gaming paradigms and emerging forms are encouraged.",
-    "name" : "Experimental Game Design"
-  },
-  {
-    "attributes" : null,
-    "code" : "CHEM-0960",
-    "credits" : "0 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CHEM"
-  },
-  {
-    "attributes" : null,
-    "code" : "CHEM-1001",
-    "credits" : "0-6 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Anatomy & Phisiology Lab"
-  },
-  {
-    "attributes" : null,
-    "code" : "PSYC-4160",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Human Factors Seminar"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-6820",
-    "credits" : "4 credits",
-    "description" : "Numerical methods and analysis for ODEs with applications from mechanics, optics, and chaotic dynamics. Numerical methods for dynamic systems include Runge-Kutta, multistep and extrapolation techniques, methods for conservative and Hamiltonian systems, methods for stiff differential equations and for differential-algebraic systems. Methods for boundary value problems include shooting and orthogonalization, finite difference and collocation techniques, and special methods for problems with boundary or shock layers.",
-    "name" : "Numerical Solution of Ordinary Differential Equations"
-  },
-  {
-    "attributes" : null,
-    "code" : "ARCH-2001",
-    "credits" : "0-6 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Blueprint Read"
-  },
-  {
-    "attributes" : null,
-    "code" : "CHEM-1008",
-    "credits" : "0-6 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "General Chemistry"
   }
 ]
