@@ -13148,6 +13148,20 @@
   },
   {
     "attributes" : null,
+    "code" : "BMED-4968",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BMED"
+  },
+  {
+    "attributes" : null,
+    "code" : "MGMT-4460",
+    "credits" : "4 credits",
+    "description" : "This course introduces the motivations and related factors that shape consumers' purchasing decisions. Also considered is the consumer perceptual process and how it affects purchasing behavior and consumer reaction to product designs. The relationship between perception and product design is extended to topics such as design for understanding, universal product design, aesthetics, and industrial design",
+    "name" : "Consumer Behavior and Product Design"
+  },
+  {
+    "attributes" : null,
     "code" : "ARCH-2963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -14367,6 +14381,13 @@
     "credits" : "4 credits",
     "description" : "Intermediate Video is a hands-on intensive course that teaches the language, aesthetics, and techniques of video production. Working in groups and individually, students will develop and produce several short video projects. Emphasis will be on the acquisition of creative and technical production skills in visualizing, scripting, aesthetics, shooting, sound design, and editing.",
     "name" : "Intermediate Video"
+  },
+  {
+    "attributes" : null,
+    "code" : "BIOL-2961",
+    "credits" : "2 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BIOL"
   },
   {
     "attributes" : null,
@@ -17235,20 +17256,6 @@
     "credits" : "4 credits",
     "description" : "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
     "name" : "Physics I"
-  },
-  {
-    "attributes" : null,
-    "code" : "MGMT-4460",
-    "credits" : "4 credits",
-    "description" : "This course introduces the motivations and related factors that shape consumers' purchasing decisions. Also considered is the consumer perceptual process and how it affects purchasing behavior and consumer reaction to product designs. The relationship between perception and product design is extended to topics such as design for understanding, universal product design, aesthetics, and industrial design",
-    "name" : "Consumer Behavior and Product Design"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-4968",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BMED"
   },
   {
     "attributes" : null,
