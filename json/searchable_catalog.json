@@ -853,7 +853,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-2963",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -3099,7 +3099,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-2961",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -6391,7 +6391,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-6965",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -6468,7 +6468,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4965",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
