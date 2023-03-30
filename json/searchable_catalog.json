@@ -2052,13 +2052,6 @@
   },
   {
     "attributes" : null,
-    "code" : "LITR-4880",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Multicultural American Litr"
-  },
-  {
-    "attributes" : null,
     "code" : "LITR-4450",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -18908,7 +18901,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6969",
-    "credits" : "1 credit",
+    "credits" : "0-1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
