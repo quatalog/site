@@ -1,3 +1,25 @@
+:root {
+    --search-title-color: var(--quacs-yellow);
+    --search-term-color: var(--quacs-midtone);
+    --search-entry-text-color: var(--quacs-white);
+    --search-entry-bg-color: var(--mid-dark-purple);
+    --search-entry-bg-hover-color: var(--mid-dark-purple);
+    --search-entry-title-color: var(--quacs-midtone);
+    --pill-default-color: var(--quacs-yellow);
+    --pill-text-color: var(--deep-purple);
+    --pill-svg-color: var(--deep-purple);
+    --ci-pill-color: var(--green);
+    --wi-pill-color: var(--quacs-yellow);
+    --pdii-pill-color: var(--red);
+    --hinq-pill-color: var(--pink);
+    --course-name-color: var(--quacs-yellow);
+    --course-code-color: var(--quacs-midtone);
+
+    --entry-width: 70vw;
+    --hover-expand-width: 0.5vw;
+    --transition-time: 0.1s;
+}
+
 #searchTitle {
     font-size: 2rem;
     position: relative;
@@ -7,12 +29,12 @@
     left: 0vw;
     text-align: center;
     margin-top: 2.5vmin;
-    color: var(--quacs-yellow);
+    color: var(--search-title-color);
     font-weight: 500;
 }
 
 #searchTerm {
-    color: var(--quacs-midtone);
+    color: var(--search-term-color);
 }
 
 #searchResultsContainer {
@@ -25,26 +47,19 @@
     margin-top: 2vmin;
 }
 
-:root {
-    --entry-width: 70vw;
-    --hover-expand-width: 0.5vw;
-    --transition-time: 0.1s;
-}
-
 #searchResultsContainer tr {
     width: var(--entry-width);
-    background: var(--mid-dark-purple);
+    background: var(--search-entry-bg-color);
     margin-bottom: 2vmin;
     margin-left: var(--hover-expand-width);
     margin-right: var(--hover-expand-width);
-    color: var(--quacs-white);
+    color: var(--search-entry-text-color);
     border-radius: 0.5rem;
     position: relative;
     display: flex;
     flex-direction: column;
     transition-property: all;
     transition-duration: var(--transition-time);
-    /* border-bottom: solid 1vmin var(--mid-purple); /* */
 }
 
 #searchResultsContainer a {
@@ -52,8 +67,7 @@
 }
 
 #searchResultsContainer tr:hover {
-    background: var(--mid-purple);
-    /* border-bottom: solid 1vmin var(--mid-light-purple); */
+    background: var(--search-entry-bg-color-hover);
     margin-left: 0;
     margin-right: 0;
     width: calc(var(--entry-width) + 2*var(--hover-expand-width));
@@ -76,9 +90,8 @@
     margin: 0;
     padding: 1vmin;
     padding-left: 1.5vmin;
-    /* width: 100%; */
     font-size: 1.25rem;
-    color: var(--quacs-midtone);
+    color: var(--search-entry-title-color);
     border-bottom: solid;
     border-bottom-width: 0.2vmin;
 }
@@ -91,8 +104,8 @@
 }
 
 .pill {
-    background: var(--quacs-yellow);
-    color: var(--deep-purple);
+    background: var(--pill-default-color);
+    color: var(--pill-text-color);
     display: flex;
     font-size: 1rem;
     font-weight: 400;
@@ -110,37 +123,32 @@
     width: 1rem;
     max-height: 1rem;
     padding-left: 0.5vmin;
-    fill: var(--deep-purple);
+    fill: var(--pill-svg-color);
 }
 
 .CI-pill {
-    background: var(--green);
+    background: var(--ci-pill-color);
 }
 
 .WI-pill {
-    background: var(--quacs-yellow);
+    background: var(--wi-pill-color);
 }
 
 .PDII-pill {
-    background: var(--red);
+    background: var(--pdii-pill-color);
 }
 
 .HInq-pill {
-    background: var(--pink);
-    color: var(--deep-purple);
-}
-
-.HInq-pill svg {
-    fill: var(--deep-purple);
+    background: var(--hinq-pill-color);
 }
 
 .courseName {
-    color: var(--quacs-yellow);
+    color: var(--course-name-color);
     font-size: 1.45rem;
 }
 
 .courseCode {
-    color: var(--quacs-midtone);
+    color: var(--course-code-color);
     font-weight: 400;
     font-size: 1rem;
 }
