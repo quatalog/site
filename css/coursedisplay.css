@@ -61,7 +61,7 @@
 .rel-info-title{
     font-size: 1.25rem;
     font-weight: 700;
-    color: var(--quacs-white);
+    color: var(--info-title-color);
     margin-right: 0.5vmin;
 }
 
