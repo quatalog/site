@@ -1,5 +1,5 @@
 .term ::selection{
-    background: var(--quacs-yellow);
+    background: var(--table-selection-color);
 }
 
 #cd-flex{
@@ -26,7 +26,7 @@
 }
 
 #code {
-    color: var(--quacs-midtone);
+    color: var(--course-code-color);
     font-size: 1.8rem;
     font-weight: 900;
     position: relative;
@@ -42,10 +42,10 @@
 }
 
 .attr-pill{
-    color: var(--deep-purple);
+    color: var(--pill-text-color);
     position: relative;
     left: 0vw;
-    background: var(--quacs-midtone);
+    background: var(--pill-default-color);
     border-radius: 2vmin;
     padding: 0.5vmin 1.5vmin;
     margin-right: 0.5vmin;
@@ -72,11 +72,11 @@
 }
 
 .course-pill{
-    color: var(--deep-purple);
+    color: var(--pill-text-color);
     
     position: relative;
     left: 0vw;
-    background: var(--quacs-yellow);
+    background: var(--course-pill-color);
     border-radius: 2vmin;
     padding: 0.5vmin 1.5vmin;
     font-weight: 700;
@@ -90,7 +90,7 @@
 }
 
 .course-pill:hover{
-    background: var(--quacs-midtone);
+    background: var(--course-pill-hover-color);
 }
 
 #prereq-classes{
@@ -102,7 +102,7 @@
 }
 
 .pr-or-con{
-    background: var(--blue);
+    background: var(--or-block-color);
     display:grid;
     grid-auto-flow: row;
     height: fit-content;
@@ -114,7 +114,7 @@
 }
 
 .pr-or-title{
-    color: var(--quacs-white);
+    color: var(--or-text-color);
     font-size: 1.3rem;
     font-weight: 700;
     margin-bottom: 0.5vmin;
@@ -122,7 +122,7 @@
 }
 
 .pr-or{
-    background: var(--deep-purple);
+    background: var(--or-block-bg-color);
     padding: 1vmin;
     border-radius: 1.5vmin;
     display: flex;
@@ -145,10 +145,9 @@
     display: inline;
     margin-left: 0.75vmin;
     margin-right: 0.75vmin;
-    color: var(--quacs-white);
-    background: var(--red);
+    color: var(--and-text-color);
+    background: var(--and-block-color);
     padding: 1vmin;
-    color: var(--quacs-white);
     font-size: 1.2rem;
     font-weight: 700;
     width: min-content;
@@ -158,8 +157,8 @@
 }
 
 .none-rect{
-    background: var(--red);
-    color: var(--quacs-white);
+    background: var(--none-block-color);
+    color: var(--none-text-color);
     font-size: 2vmin;
     position: relative;
     left: 0vw;
@@ -172,8 +171,8 @@
 }
 
 .unknown-rect{
-    background: var(--pink);
-    color: var(--quacs-white);
+    background: var(--unknown-block-color);
+    color: var(--unknown-text-color);
     font-size: 2vmin;
     position: relative;
     left: 0vw;
@@ -224,7 +223,7 @@
 }
 
 .key-code{
-    color: var(--quacs-midtone);
+    color: var(--key-text-color);
 }
 
 .code-icon svg {
@@ -239,16 +238,16 @@
 }
 
 #yes-code-icon svg {
-    fill: var(--green);
+    fill: var(--yes-color);
 }
 #no-code-icon svg {
-    fill: var(--red);
+    fill: var(--no-color);
 }
 #diff-code-icon svg {
-    fill: var(--quacs-yellow);
+    fill: var(--diff-code-color);
 }
 #nil-code-icon svg {
-    fill: var(--mid-light-purple);
+    fill: var(--nil-color);
 }
 
 #control-panel{
@@ -267,7 +266,7 @@
     padding-bottom: 0.5vmin;
     padding-right: 0vmin;
     overflow: visible;
-    fill: var(--quacs-midtone);
+    fill: var(--view-select-color);
     transition: fill .1s;
 }
 
@@ -283,7 +282,7 @@
 }
 
 .term{
-    color: var(--deep-purple);
+    color: var(--term-text-color);
     font-size: 1.5vmin;
     width: min-content;
     /* word-break: break-all; */
@@ -319,17 +318,17 @@ input[value="detailed"]:not(:checked) ~ div #detail-view-icon .view-icon-unselec
 
 input[value="simple"]:checked ~ div #simple-view-label,
 input[value="detailed"]:checked ~ div #detail-view-label {
-    color: var(--quacs-yellow);
+    color: var(--view-select-color-selected);
 }
 
 .view-option-label {
     cursor: pointer;
     transition: color .1s;
-    color: var(--quacs-midtone);
+    color: var(--view-select-color);
 }
 
 .view-icon-selected svg {
-    fill: var(--quacs-yellow);
+    fill: var(--view-select-color-selected);
 }
 
 input[value="simple"]:checked ~ table .not-offered {
@@ -361,7 +360,6 @@ input[value="detailed"]:checked ~ table .detail-view-container {
     padding-top: 1vmin;
     font-size: 1rem;
     font-weight: 600;
-    color: var(--deep-purple);
 }
 
 .term-course-info{
@@ -373,9 +371,6 @@ input[value="detailed"]:checked ~ table .detail-view-container {
 
 
 .term li{
-    /* iffy on how these should go, */
-    /* word-break: break-word; */
-    /* hyphens: auto; */
     width: fit-content;
     list-style-position: inside;
     padding-left: 0.5vmin;
@@ -393,39 +388,36 @@ input[value="detailed"]:checked ~ table .detail-view-container {
 }
 
 .season-label{
-    color: var(--quacs-midtone);
+    color: var(--season-label-color);
     font-size: 1.4rem;
 }
 
 .midsum-label{
-    color: var(--quacs-white);
+    color: var(--mid-summer-label-color);
     white-space: break-spaces;
 }
 
 .year{
-    color: var(--quacs-midtone);
+    color: var(--year-label-color);
     text-align: left;
     width: 6vmin;
 }
 
 .offered {
-    background-color: var(--green);
+    background-color: var(--yes-color);
 }
 .offered-diff-code {
-    background-color: var(--quacs-yellow);
+    background-color: var(--diff-code-color);
 }
 .not-offered {
-    background-color: var(--red);
+    background-color: var(--no-color);
     height: 2rem;
 }
 .unscheduled {
-    background-color: var(--mid-light-purple);
+    background-color: var(--nil-color);
 }
 
-
-
 @media (max-aspect-ratio: 5/4), (orientation: portrait){
-
     #cd-flex{
         flex-direction: column;
         align-items: center;
