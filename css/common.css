@@ -19,18 +19,6 @@
     --blue: #3f6ef5;
 
     font-size: calc(1vmin + 12px);
-
-    /* default theme */
-    --background-color: var(--deep-purple);
-    --selection-color: var(--mid-light-purple);
-    --h-text-color: var(--quacs-yellow);
-    --p-text-color: var(--quacs-white);
-    --link-text-color: var(--quacs-midtone);
-    --link-hover-color: var(--quacs-yellow);
-    --header-color: var(--quacs-yellow);
-    --input-background-color: var(--quacs-white);
-    --input-text-color: var(--mid-dark-purple);
-    --input-selection-color: var(--quacs-yellow);
 }
 
 * {
