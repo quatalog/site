@@ -4958,13 +4958,6 @@
   },
   {
     "attributes" : null,
-    "code" : "CSCI-6975",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
     "code" : "CSCI-6967",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -5043,13 +5036,6 @@
   {
     "attributes" : null,
     "code" : "CSCI-4978",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-4975",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
@@ -6792,6 +6778,13 @@
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Tissue-implant Interface"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-4967",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BMED"
   },
   {
     "attributes" : 
@@ -8791,6 +8784,27 @@
   },
   {
     "attributes" : null,
+    "code" : "CSCI-4975",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
+    "code" : "ENGR-4710",
+    "credits" : "4 credits",
+    "description" : "Manufacturing theory, laboratory experimentation, and manufacturing systems design and development comprised of selected modern manufacturing technologies. Technologies include robotics and automation, injection molding, computer numerically controlled (CNC) machining, metal forming, inspection, rapid prototyping, and advanced manufacturing topics. Student teams apply lessons to develop a proposal to produce a product requiring multiple coordinated manufacturing processes. Students prepare technical documentation for communicating key engineering and management aspects of the developed manufacturing system to a separate fabrication group.",
+    "name" : "Manufacturing Processes and Systems Laboratory I"
+  },
+  {
+    "attributes" : null,
+    "code" : "MTLE-2100",
+    "credits" : "4 credits",
+    "description" : "The first course in Materials Science and Engineering. Structures of metals, ceramics, and polymers and experimental techniques for their determination are discussed. Laboratory experience is included.",
+    "name" : "Structure of Engineering Materials"
+  },
+  {
+    "attributes" : null,
     "code" : "CIVL-4580",
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -9559,13 +9573,6 @@
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "MGMT-7760",
-    "credits" : "3 credits",
-    "description" : "Overview of risk management, concepts and measurement of risk; types of risks (market, credit, liquidity, operational, business, strategic). Clustering, classification and optimization tools applied to risk management. Frameworks and instruments available for risk management. Specific issues related with managing specific risk types \u2014 credit, liquidity and operational risk, with emphasis on current challenges. Securitization, asset-liability management, and role of insurance for risk management.",
-    "name" : "Risk Analytics and Management"
   },
   {
     "attributes" : null,
@@ -11096,6 +11103,13 @@
   },
   {
     "attributes" : null,
+    "code" : "MGMT-7760",
+    "credits" : "3 credits",
+    "description" : "Overview of risk management, concepts and measurement of risk; types of risks (market, credit, liquidity, operational, business, strategic). Clustering, classification and optimization tools applied to risk management. Frameworks and instruments available for risk management. Specific issues related with managing specific risk types \u2014 credit, liquidity and operational risk, with emphasis on current challenges. Securitization, asset-liability management, and role of insurance for risk management.",
+    "name" : "Risk Analytics and Management"
+  },
+  {
+    "attributes" : null,
     "code" : "ECSE-6510",
     "credits" : "3 credits",
     "description" : "Deterministic signal representations and analysis, introduction to random processes and spectral analysis, correlation function and power spectral density of stationary processes, noise mechanisms, the Gaussian and Poisson processes. Markov processes, the analysis of linear and nonlinear systems with random inputs, stochastic signal representations, orthogonal expansions, the Karhunen-Loeve series, channel characterization, introduction to signal detection, linear mean-square filtering, the orthogonality principle, optimum Wiener and Kalman filtering, modulation theory, and systems analysis.",
@@ -11759,6 +11773,20 @@
     "credits" : "4 credits",
     "description" : "This course will examine the spectrum of architectural phenomena and ideas without a specific chronology using examples ranging from antiquity to the contemporary world in western and non-western civilizations and produced in both vernacular and disciplinary cultures. An essential part of this course is to stimulate students' curiosity about architecture and the larger world and introduce them to key issues of architecture regarding space, form, critique, technology, aesthetics, societal and cultural contexts, etc. Particular emphasis will be given to the emergence of modernism in architecture. Crucial to the goals of this course is to encourage students to pursue and develop their own unique vision and voice in architecture throughout their education and practice. Fundamental to this process is making students aware of the necessity to challenge their own subjectivities, biases, and presuppositions.",
     "name" : "History, Theory, Criticism 1"
+  },
+  {
+    "attributes" : null,
+    "code" : "LANG-2940",
+    "credits" : "1-4 credits",
+    "description" : "Readings and projects adapted to the needs of individual students.",
+    "name" : "Language Studies"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARTS-2350",
+    "credits" : "1 credit",
+    "description" : "An instrumental class that will be coached and rehearsed and will perform regularly. The larger ensemble will break up into smaller ensembles such as string quartets, woodwind quintets, trios, etc., depending on the make-up of the group, as well as into more unusual combinations that might be required to prepare 20th century repertoire. For intermediate and advanced players, entrance into the course is by authorization form/permission of instructor.",
+    "name" : "Chamber Music Ensemble"
   },
   {
     "attributes" : null,
@@ -15625,6 +15653,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CSCI-6975",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in CSCI"
+  },
+  {
+    "attributes" : null,
     "code" : "BIOL-4880",
     "credits" : "4 credits",
     "description" : "This 4-credit course will explore global environmental cycles, patterns, and changes. It will discuss elemental cycles of phosphorus, nitrogen, and carbon, and pollutants such as mercury, lead, and CFCs, and how changes in these cycles influence organisms and ecosystems. Also discussed will be large-scale biotic processes and theory about ecosystem dynamics. Major environmental issues such as acid rain, eutrophication, climate change, and land use conversation will also be discussed.",
@@ -15996,34 +16031,6 @@
     "credits" : "4 credits",
     "description" : "This course is designed to enable students to understand how an organism functions at the cellular and molecular level, and further, how this functioning is regulated so that cells can adapt to changes in their environment. Students will learn the fundamental components of the cell (from protein to organelle), their characteristics, and how these components function in both normal and diseased cells. Students will also learn biochemical, structural, and mechanical aspects of cell functioning and regulation in normal and diseased cells. In addition, students will learn to critically read current scientific literature. By reading current literature, students will gain knowledge of the practice and presentation of science, as well as learn about new techniques and findings.",
     "name" : "Advanced Cell Biology"
-  },
-  {
-    "attributes" : null,
-    "code" : "ENGR-4710",
-    "credits" : "4 credits",
-    "description" : "Manufacturing theory, laboratory experimentation, and manufacturing systems design and development comprised of selected modern manufacturing technologies. Technologies include robotics and automation, injection molding, computer numerically controlled (CNC) machining, metal forming, inspection, rapid prototyping, and advanced manufacturing topics. Student teams apply lessons to develop a proposal to produce a product requiring multiple coordinated manufacturing processes. Students prepare technical documentation for communicating key engineering and management aspects of the developed manufacturing system to a separate fabrication group.",
-    "name" : "Manufacturing Processes and Systems Laboratory I"
-  },
-  {
-    "attributes" : null,
-    "code" : "ARTS-2350",
-    "credits" : "1 credit",
-    "description" : "An instrumental class that will be coached and rehearsed and will perform regularly. The larger ensemble will break up into smaller ensembles such as string quartets, woodwind quintets, trios, etc., depending on the make-up of the group, as well as into more unusual combinations that might be required to prepare 20th century repertoire. For intermediate and advanced players, entrance into the course is by authorization form/permission of instructor.",
-    "name" : "Chamber Music Ensemble"
-  },
-  {
-    "attributes" : null,
-    "code" : "LANG-2940",
-    "credits" : "1-4 credits",
-    "description" : "Readings and projects adapted to the needs of individual students.",
-    "name" : "Language Studies"
-  },
-  {
-    "attributes" : null,
-    "code" : "MTLE-2100",
-    "credits" : "4 credits",
-    "description" : "The first course in Materials Science and Engineering. Structures of metals, ceramics, and polymers and experimental techniques for their determination are discussed. Laboratory experience is included.",
-    "name" : "Structure of Engineering Materials"
   },
   {
     "attributes" : null,
@@ -16966,6 +16973,20 @@
     "credits" : "3 credits",
     "description" : "Use of radioisotopes and radiation in nuclear medicine, radiation chemistry, basis of dosimetry, ionizing and nonionizing energy transfer processes in living tissue and cells. Radiation effects on the structure of nucleic acids, proteins, and cell membranes with emphasis on mechanisms by which cell viability is lost. Background in radiation chemistry is developed in particular for engineering majors. Applications are given in nuclear medicine, cancer therapy, and radiation in the environment.",
     "name" : "Health Physics and Medical Aspects of Radiation"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-4966",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BMED"
+  },
+  {
+    "attributes" : null,
+    "code" : "BIOL-6965",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BIOL"
   },
   {
     "attributes" : null,
@@ -18459,13 +18480,6 @@
     "credits" : "3 credits",
     "description" : "Principles of kinetics, reactor design, and analysis for both homogeneous and heterogeneous (catalytic) systems. Topics include design for multiple reaction networks (optimum selectivity), analysis of simple reactor combinations, and design of isothermal, adiabatic, and optimum temperature profile reactor.",
     "name" : "Chemical Reactor Design"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-4967",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BMED"
   },
   {
     "attributes" : null,
@@ -22129,17 +22143,17 @@
   },
   {
     "attributes" : null,
-    "code" : "ERTH-6200",
-    "credits" : "4 credits",
-    "description" : "This course will encompass marine, freshwater, and terrestrial microfossils (with emphasis on foraminifera), including taxonomy, evolutionary history, ecology and paleoenvironments, and a broad spectrum of micropaleontological applications, such as sea-level and climate reconstructions, geochemical analyses, oil industry research and production, and forensic geology. This course will also cover concepts of biostratigraphy and micropaleontological applications to stratigraphic correlation and time scale construction. Extensive hands-on microscope and lab work will be required.",
-    "name" : "Advanced Applied Micropaleontology"
-  },
-  {
-    "attributes" : null,
     "code" : "CIVL-6180",
     "credits" : "3 credits",
     "description" : "Micromechanics of elastic heterogeneous solids. Plasticity of composite materials. Thermoelastic and thermoplastic behavior. Mechanics of distributed damage. Mechanical behavior.",
     "name" : "Mechanics of Composite Materials"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-6200",
+    "credits" : "4 credits",
+    "description" : "This course will encompass marine, freshwater, and terrestrial microfossils (with emphasis on foraminifera), including taxonomy, evolutionary history, ecology and paleoenvironments, and a broad spectrum of micropaleontological applications, such as sea-level and climate reconstructions, geochemical analyses, oil industry research and production, and forensic geology. This course will also cover concepts of biostratigraphy and micropaleontological applications to stratigraphic correlation and time scale construction. Extensive hands-on microscope and lab work will be required.",
+    "name" : "Advanced Applied Micropaleontology"
   },
   {
     "attributes" : null,
@@ -27790,20 +27804,6 @@
     "credits" : "1-8 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Research"
-  },
-  {
-    "attributes" : null,
-    "code" : "BIOL-6965",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BIOL"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-4966",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BMED"
   },
   {
     "attributes" : 
