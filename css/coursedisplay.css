@@ -369,6 +369,21 @@ input[value="detailed"]:checked ~ table .detail-view-container {
     height: 100%;
 }
 
+.term-course-info a:link {
+    color: var(--table-link-color);
+}
+
+.term-course-info a:visited {
+    color: var(--table-link-color);
+}
+
+.term-course-info a:hover {
+    color: var(--table-link-hover-color);
+}
+
+.term-course-info a:active {
+    color: var(--table-link-selected-color);
+}
 
 .term li{
     width: fit-content;

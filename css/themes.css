@@ -49,5 +49,8 @@
         --season-label-color: var(--quacs-midtone);
         --year-label-color: var(--quacs-midtone);
         --mid-summer-label-color: var(--quacs-white);
+        --table-link-color: var(--mid-light-purple);
+        --table-link-hover-color: var(--light-purple);
+        --table-link-selected-color: var(--light-purple);
     }
 }
