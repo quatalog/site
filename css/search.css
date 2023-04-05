@@ -51,7 +51,7 @@
 }
 
 #searchResultsContainer tr:hover {
-    background: var(--search-entry-bg-color-hover);
+    background: var(--search-entry-bg-hover-color);
     margin-left: 0;
     margin-right: 0;
     width: calc(var(--entry-width) + 2*var(--hover-expand-width));
