@@ -13,6 +13,7 @@
     --mid-light-purple: #494766;
     --light-purple: #5c5980;
 
+    --white: #ffffff;
     --pink: #f53faa;
     --red: #f53f6a;
     --green: #3ff57f;
@@ -27,14 +28,14 @@
 }
 
 body {
-    background-color: var(--deep-purple);
+    background-color: var(--background-color);
     overflow-x:hidden;
     margin: 0;
     font-size: 0.9rem; /* default font-size. works well for small-ish thing */
 }
 
 ::selection{
-    background: var(--mid-light-purple);
+    background: var(--selection-color);
 }
 
 .hidden{
@@ -49,7 +50,7 @@ svg {
 
 /* TEXT */
 h1, h1 a {
-    color: var(--quacs-yellow);
+    color: var(--h-text-color);
     font-family: "proxima-nova";
     font-weight: 900;
     margin-top: 0vmin;
@@ -67,7 +68,7 @@ h2 {
 }
 
 p {
-    color: var(--quacs-white);
+    color: var(--p-text-color);
     font-family: "proxima-nova";
     font-size: 1.2rem;
     margin-bottom: 0;
@@ -75,8 +76,8 @@ p {
 }
 
 p a, p svg {
-    color: var(--quacs-midtone);
-    fill: var(--quacs-midtone);
+    color: var(--link-text-color);
+    fill: var(--link-text-color);
     max-height: 4vmin;
     width: 4vmin;
     vertical-align: bottom;
@@ -87,13 +88,13 @@ p svg {
 }
 
 p a:hover, p a:hover svg {
-    color: var(--quacs-yellow);
-    fill: var(--quacs-yellow);
+    color: var(--link-hover-color);
+    fill: var(--link-hover-color);
 }
 
 /* HEADER */
 #qlog-header {
-    border-bottom: 0.2vmin solid var(--quacs-yellow);
+    border-bottom: 0.2vmin solid var(--header-color);
     width: 100%;
     min-height: 5.25vmin;
     left: 0;
@@ -127,28 +128,20 @@ p a:hover, p a:hover svg {
 }
 
 input[type="text"] {
-    background: var(--quacs-white);
+    background: var(--input-background-color);
     border-radius: 100vw;
     border: none;
     outline:none;
     font-family: "proxima-nova";
-    color: var(--mid-dark-purple);
-    caret-color: var(--mid-dark-purple);
+    color: var(--input-text-color);
+    caret-color: var(--input-text-color);
 }
 
 input[type="text"]::selection{
-    background: var(--quacs-yellow);
+    background: var(--input-selection-color);
 }
 
-
-/* 
-d88888b  .d88b.  d8b   db d888888b .d8888.
-88'     .8P  Y8. 888o  88 `~~88~~' 88'  YP
-88ooo   88    88 88V8o 88    88    `8bo.
-88~~~   88    88 88 V8o88    88      `Y8b.
-88      `8b  d8' 88  V888    88    db   8D
-YP       `Y88P'  VP   V8P    YP    `8888Y'
- */
+/* fonts */
 
 @font-face{
     font-family: "rivalsans";
