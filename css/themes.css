@@ -13,7 +13,7 @@
     --search-term-color: var(--quacs-midtone);
     --search-entry-text-color: var(--quacs-white);
     --search-entry-bg-color: var(--mid-dark-purple);
-    --search-entry-bg-hover-color: var(--mid-dark-purple);
+    --search-entry-bg-hover-color: var(--mid-purple);
     --search-entry-title-color: var(--quacs-midtone);
     --pill-default-color: var(--quacs-yellow);
     --pill-text-color: var(--deep-purple);
