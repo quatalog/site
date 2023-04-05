@@ -57,9 +57,9 @@
     :root {
         --background-color: var(--white);
         --selection-color: var(--quacs-yellow);
-        --h-text-color: var(--mid-light-purple);
+        --h-text-color: var(--mid-purple);
         --p-text-color: var(--deep-purple);
-        --course-code-color: var(--mid-purple);
+        --course-code-color: var(--mid-light-purple);
         --or-text-color: var(--white);
         --key-text-color: var(--mid-light-purple);
         --view-select-color-selected: var(--deep-purple);
