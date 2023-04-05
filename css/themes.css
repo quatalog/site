@@ -11,10 +11,10 @@
     --input-selection-color: var(--quacs-yellow);
     --search-title-color: var(--quacs-yellow);
     --search-term-color: var(--quacs-midtone);
+    --search-entry-title-color: var(--quacs-midtone);
     --search-entry-text-color: var(--quacs-white);
     --search-entry-bg-color: var(--mid-dark-purple);
     --search-entry-bg-hover-color: var(--mid-purple);
-    --search-entry-title-color: var(--quacs-midtone);
     --pill-default-color: var(--quacs-yellow);
     --pill-text-color: var(--deep-purple);
     --pill-svg-color: var(--deep-purple);
@@ -26,7 +26,7 @@
     --hinq-pill-color: var(--pink);
     --table-selection-color: var(--quacs-yellow);
     --info-title-color: var(--quacs-white);
-    --course-name-color: var(--quacs-yellow);
+    --course-name-color: var(--h-text-color);
     --course-code-color: var(--quacs-midtone);
     --or-block-color: var(--blue);
     --or-block-bg-color: var(--background-color);
@@ -59,6 +59,12 @@
         --selection-color: var(--quacs-yellow);
         --h-text-color: var(--mid-purple);
         --p-text-color: var(--deep-purple);
+        --search-title-color: var(--mid-light-purple);
+        --search-term-color: var(--light-purple);
+        --search-entry-text-color: var(--deep-purple);
+        --search-entry-title-color: var(--mid-purple);
+        --search-entry-bg-color: var(--quacs-whitest);
+        --search-entry-bg-hover-color: var(--quacs-whiter);
         --course-code-color: var(--mid-light-purple);
         --or-text-color: var(--white);
         --key-text-color: var(--mid-light-purple);
