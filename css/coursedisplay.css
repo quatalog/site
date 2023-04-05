@@ -359,7 +359,14 @@ input[value="detailed"]:checked ~ table .detail-view-container {
     padding-bottom: 1vmin;
     padding-top: 1vmin;
     font-size: 1rem;
-    font-weight: 600;
+}
+
+.term-course-info {
+    font-weight: bold;
+}
+
+.course-capacity {
+    font-style: italic;
 }
 
 .term-course-info{
