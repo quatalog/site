@@ -3721,6 +3721,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ENGR-6961",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ENGR"
+  },
+  {
+    "attributes" : null,
     "code" : "ENGR-6960",
     "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -21833,7 +21840,7 @@
   {
     "attributes" : null,
     "code" : "ENGR-4961",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ENGR"
   },
