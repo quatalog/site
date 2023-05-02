@@ -19051,7 +19051,7 @@
   {
     "attributes" : null,
     "code" : "ISCI-4961",
-    "credits" : "0 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ISCI"
   },
@@ -22450,10 +22450,7 @@
     "name" : "Generalized Finite Element Methods"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "MGMT-1240",
     "credits" : "2 credits",
     "description" : "The course is the first in a two-part series of Professional Development Workshops that teach practical skills to enhance business students' readiness to enter the professional world and achieve workplace success and a high degree of professionalism. The course emphasizes the following themes: personal values and self-awareness, leadership and followership, ethics, basic oral presentation skills.",
