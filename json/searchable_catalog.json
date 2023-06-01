@@ -6791,13 +6791,6 @@
     "name" : "Topics in BMED"
   },
   {
-    "attributes" : null,
-    "code" : "BMED-4964",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BMED"
-  },
-  {
     "attributes" : 
     [
       "CI"
@@ -8487,6 +8480,27 @@
   },
   {
     "attributes" : null,
+    "code" : "MANE-4700",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Solar Dev. & Energy Renew."
+  },
+  {
+    "attributes" : null,
+    "code" : "ECON-6340",
+    "credits" : "3 credits",
+    "description" : "This course describes how individuals and firms make financial decisions, and how those decisions might deviate from those predicted by traditional financial or economic theory. The course examines how the insights of behavioral economics complement the traditional finance paradigm by introducing some of the main psychological biases in financial decision-making and examining the impacts of these biases in financial markets and other financial settings. It will also introduce students to behavioral and experimental methodologies in finance, economics, and other disciplines.",
+    "name" : "Behavioral Financial Economics"
+  },
+  {
+    "attributes" : null,
+    "code" : "ENGR-6120",
+    "credits" : "4 credits",
+    "description" : "Advanced Manufacturing Processes and Systems (AMP) is a project-based lecture/laboratory course that teaches graduate engineering students how to develop new manufacturing processes and systems.",
+    "name" : "Advanced Manufacturing Processes and Systems"
+  },
+  {
+    "attributes" : null,
     "code" : "ECON-4010",
     "credits" : "4 credits",
     "description" : "We study foundational theory for a diverse set of topics including models of consumer choice and decision-making, decisions under uncertainty and risk, firm strategy, market structure, information asymmetries, market failure, and intellectual property rights. Using this theory, we examine real world policy applications in areas such as innovation policy, environmental policy, international trade regulations, contract design, and insurance markets.",
@@ -8596,69 +8610,6 @@
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
-  },
-  {
-    "attributes" : null,
-    "code" : "MANE-4700",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Solar Dev. & Energy Renew."
-  },
-  {
-    "attributes" : null,
-    "code" : "ENGR-6120",
-    "credits" : "4 credits",
-    "description" : "Advanced Manufacturing Processes and Systems (AMP) is a project-based lecture/laboratory course that teaches graduate engineering students how to develop new manufacturing processes and systems.",
-    "name" : "Advanced Manufacturing Processes and Systems"
-  },
-  {
-    "attributes" : null,
-    "code" : "ECON-6340",
-    "credits" : "3 credits",
-    "description" : "This course describes how individuals and firms make financial decisions, and how those decisions might deviate from those predicted by traditional financial or economic theory. The course examines how the insights of behavioral economics complement the traditional finance paradigm by introducing some of the main psychological biases in financial decision-making and examining the impacts of these biases in financial markets and other financial settings. It will also introduce students to behavioral and experimental methodologies in finance, economics, and other disciplines.",
-    "name" : "Behavioral Financial Economics"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-696x",
-    "credits" : "? credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-496x",
-    "credits" : "? credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in CSCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "ARTS-2610",
-    "credits" : "4 credits",
-    "description" : "Students will explore the artistic role of music and sound in gaming by building their own interactive sound and music-rich games and 2D/3D rendered environments. Within the context of their own creative game projects, students will learn the basics of designing sound and composing music for interactive game spaces. Using workflow programming languages and software tools, students will program basic gaming interactions, link them to interactive audio software, and create musical gaming experiences.",
-    "name" : "Designing Musical Games"
-  },
-  {
-    "attributes" : null,
-    "code" : "STSO-4969",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in STSO"
-  },
-  {
-    "attributes" : null,
-    "code" : "ECON-4180",
-    "credits" : "? credits",
-    "description" : "A critical examination in which comparisons are made and contrasts emphasized between different schools of economic thinking such as classicism, marginalism, socialism, institutionalism, neoclassicism, and Keynesianism. Special attention is given to historical theories and attitudes of economists toward technological change and its impact on human welfare.",
-    "name" : "Development of Economic Thought"
-  },
-  {
-    "attributes" : null,
-    "code" : "CHEM-6210",
-    "credits" : "3 credits",
-    "description" : "An introduction to the organic chemical literature. A consideration of reactions of synthetic importance to the organic chemist with emphasis on the influence of structure on the behavior of organic molecules.",
-    "name" : "Advanced Organic Chemistry I"
   },
   {
     "attributes" : null,
@@ -11181,6 +11132,34 @@
     "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BIOL"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARTS-2610",
+    "credits" : "4 credits",
+    "description" : "Students will explore the artistic role of music and sound in gaming by building their own interactive sound and music-rich games and 2D/3D rendered environments. Within the context of their own creative game projects, students will learn the basics of designing sound and composing music for interactive game spaces. Using workflow programming languages and software tools, students will program basic gaming interactions, link them to interactive audio software, and create musical gaming experiences.",
+    "name" : "Designing Musical Games"
+  },
+  {
+    "attributes" : null,
+    "code" : "STSO-4969",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in STSO"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECON-4180",
+    "credits" : "? credits",
+    "description" : "A critical examination in which comparisons are made and contrasts emphasized between different schools of economic thinking such as classicism, marginalism, socialism, institutionalism, neoclassicism, and Keynesianism. Special attention is given to historical theories and attitudes of economists toward technological change and its impact on human welfare.",
+    "name" : "Development of Economic Thought"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHEM-6210",
+    "credits" : "3 credits",
+    "description" : "An introduction to the organic chemical literature. A consideration of reactions of synthetic importance to the organic chemist with emphasis on the influence of structure on the behavior of organic molecules.",
+    "name" : "Advanced Organic Chemistry I"
   },
   {
     "attributes" : null,
@@ -15077,6 +15056,20 @@
   },
   {
     "attributes" : null,
+    "code" : "ERTH-4970",
+    "credits" : "2-4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ERTH"
+  },
+  {
+    "attributes" : null,
+    "code" : "CIVL-2050",
+    "credits" : "4 credits",
+    "description" : "Hydrostatics; Pressure Measurement; Fluid Properties; Application of Control Volume Analysis to Conservation of Mass, Energy and Momentum Principles; Bernoulli Equation for Ideal Flow; Dimensional Analysis; Pipe Flow and Pipe Networks; Pump Performance; Pipes in Pipelines. A laboratory component will illustrate the topics studied.",
+    "name" : "Fluid Mechanics for Civil and Environmental Engineering"
+  },
+  {
+    "attributes" : null,
     "code" : "MGMT-7050",
     "credits" : "3 credits",
     "description" : "This course immerses students in the practices and activities that lead to the creation of innovative new products and services. Through a team-based learning experience, students generate an idea for a new product or service and follow the development process from conception through planning for commercialization. Through lectures, cases, and practical exercises, students learn how to overcome hurdles inherent in new product and service development. Students apply this knowledge in all phases of product development, including concept testing, product design, production planning, and market strategy. The project undertaken in this course provides student teams with an opportunity to create a new venture that may then be carried forward utilizing Rensselaer's technological resources such as the Incubator Program and Rensselaer's Technology Park.",
@@ -18858,20 +18851,6 @@
     "name" : "Mechanics of Materials Processing"
   },
   {
-    "attributes" : null,
-    "code" : "CIVL-2050",
-    "credits" : "4 credits",
-    "description" : "Hydrostatics; Pressure Measurement; Fluid Properties; Application of Control Volume Analysis to Conservation of Mass, Energy and Momentum Principles; Bernoulli Equation for Ideal Flow; Dimensional Analysis; Pipe Flow and Pipe Networks; Pump Performance; Pipes in Pipelines. A laboratory component will illustrate the topics studied.",
-    "name" : "Fluid Mechanics for Civil and Environmental Engineering"
-  },
-  {
-    "attributes" : null,
-    "code" : "ERTH-4970",
-    "credits" : "2-4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ERTH"
-  },
-  {
     "attributes" : 
     [
       "CI"
@@ -20070,6 +20049,13 @@
     "credits" : "4 credits",
     "description" : "This course covers the design and implementation of computer-based systems to support the collection, organization and analysis of data and information. Topics include theory and techniques for transforming raw data from various sources into structured and usable information; the role of information and data systems in the engineering enterprise; and approaches to interacting with computer-based information systems to support decision making.",
     "name" : "Information and Data Systems"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-4964",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BMED"
   },
   {
     "attributes" : null,
@@ -22850,20 +22836,6 @@
     "credits" : "4 credits",
     "description" : "A basic course in the concepts of linear functional analysis, including such topics as Banach and Hilbert spaces, L^p and l^p (sequence) spaces; weak, strong and weak* convergence; linear functionals; linear bounded, unbounded, closed, and compact operators; spectrum, resolvent, the spectral theorem for compact operators, Fredholm alternative; applications are to differential equations, integral equations and optimization.",
     "name" : "Applied Functional Analysis"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-4965",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BMED"
-  },
-  {
-    "attributes" : null,
-    "code" : "MATH-6490",
-    "credits" : "4 credits",
-    "description" : "Mathematical foundations and/or applications of ordinary differential equations. Possible topics include: stability and chaos in dynamics, mathematical methods of classical mechanics, stochastic differential equations, and soliton equations.",
-    "name" : "Topics in Ordinary Differential Equations"
   },
   {
     "attributes" : null,
@@ -28100,6 +28072,20 @@
     "attributes" : null,
     "code" : "BMED-4962",
     "credits" : "1 credit",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BMED"
+  },
+  {
+    "attributes" : null,
+    "code" : "MATH-6490",
+    "credits" : "4 credits",
+    "description" : "Mathematical foundations and/or applications of ordinary differential equations. Possible topics include: stability and chaos in dynamics, mathematical methods of classical mechanics, stochastic differential equations, and soliton equations.",
+    "name" : "Topics in Ordinary Differential Equations"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-4965",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   }
