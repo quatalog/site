@@ -6690,6 +6690,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CHEM-1120",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Chemistry 1 Honors"
+  },
+  {
+    "attributes" : null,
     "code" : "CHEM-1002",
     "credits" : "0-6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
