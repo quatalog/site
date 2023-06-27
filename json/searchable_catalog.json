@@ -21206,17 +21206,6 @@
     "name" : "The Film Experience"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
-    "code" : "INQR-1350",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Laws, Values & Public Policy"
-  },
-  {
     "attributes" : null,
     "code" : "ECSE-2100",
     "credits" : "4 credits",
@@ -23548,6 +23537,13 @@
     "credits" : "4 credits",
     "description" : "What is environmental justice? Why are some people exposed to environmental hazards while others are not? In this class, we will explore the intersection of environmental concerns and social justice. We will read the works of activists and scholars working across a range of disciplines, engage in discussion, analysis, research, and mapping. We will learn about global historical processes that structure contemporary inequity and contemporary cases including environmental justice work in our own community.",
     "name" : "Environmental Justice"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-6250",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Mechanisms Of Mass Extinction"
   },
   {
     "attributes" : null,
