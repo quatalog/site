@@ -348,7 +348,7 @@
   {
     "attributes" : null,
     "code" : "STSO-6963",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in STSO"
   },
@@ -360,14 +360,20 @@
     "name" : "Nature Of Inquiry"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "STSO-4966",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in STSO"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "STSO-4965",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -376,7 +382,7 @@
   {
     "attributes" : null,
     "code" : "STSO-4963",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in STSO"
   },
@@ -409,14 +415,14 @@
     "code" : "STSO-4009",
     "credits" : "0-6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Basic Photography"
+    "name" : "Second Methods (sage)"
   },
   {
     "attributes" : null,
     "code" : "STSO-4003",
-    "credits" : "3 credits",
+    "credits" : "0-6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Late Antiquity (at Siena Coll)"
+    "name" : "Instruc Theor & Prac (siena)"
   },
   {
     "attributes" : null,
@@ -437,7 +443,7 @@
     "code" : "STSO-2510",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "American History"
+    "name" : "Cultural Anthropology"
   },
   {
     "attributes" : null,
@@ -456,9 +462,9 @@
   {
     "attributes" : null,
     "code" : "STSO-2002",
-    "credits" : "3 credits",
+    "credits" : "0-6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "History Of France 1815 (sunya)"
+    "name" : "Intro To The Crim Jus Process"
   },
   {
     "attributes" : 
@@ -1110,9 +1116,9 @@
   {
     "attributes" : null,
     "code" : "STSO-2003",
-    "credits" : "3 credits",
+    "credits" : "0-6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Europe To 1500 @ Siena"
+    "name" : "Instruc Theory  (siena)"
   },
   {
     "attributes" : null,
@@ -1320,9 +1326,9 @@
   {
     "attributes" : null,
     "code" : "STSO-4002",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Politics Of Se Asia @ Sunya"
+    "name" : "Tech & Org Life (at Sunya)"
   },
   {
     "attributes" : null,
@@ -3348,7 +3354,7 @@
   {
     "attributes" : null,
     "code" : "STSO-6964",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in STSO"
   },
@@ -7578,9 +7584,9 @@
   {
     "attributes" : null,
     "code" : "STSO-2001",
-    "credits" : "0-7 credits",
+    "credits" : "0-6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Emergency Medical Tech @hvcc"
+    "name" : "Western Civil (hvcc)"
   },
   {
     "attributes" : null,
@@ -7786,14 +7792,11 @@
     "name" : "Advanced Mathematical Methods in Economics"
   },
   {
-    "attributes" : 
-    [
-      "PDII"
-    ],
+    "attributes" : null,
     "code" : "STSO-2310",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Century Environmental Thought"
+    "name" : "A Century Of Environmental Thought"
   },
   {
     "attributes" : null,
@@ -9204,9 +9207,9 @@
   {
     "attributes" : null,
     "code" : "STSO-6002",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Politics Of Se Asia (at Sunya)"
+    "name" : "Tech & Org Life At Sunya"
   },
   {
     "attributes" : null,
@@ -12926,13 +12929,12 @@
   {
     "attributes" : 
     [
-      "CI",
       "PDII"
     ],
     "code" : "STSO-2350",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Law, Values & Public Policy"
+    "name" : "Laws, Values, Public Policy:perspectives On Science And Technology"
   },
   {
     "attributes" : null,
@@ -15240,7 +15242,10 @@
     "name" : "Topics in PSYC"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "WI"
+    ],
     "code" : "STSO-4320",
     "credits" : "4 credits",
     "description" : "In this course, students will explore how a very wide variety of data and media relate to our ever-evolving environment. We will build critical media literacy through encounters with media as both consumers and producers, learning along the way about how media literacy relates to other forms of literacy: ecological, political, scientific, historical, epistemological, etc. Simultaneously, we will question what \"the environment\" means, critique the limits of \"sustainability\" discourse, examine our assumptions around \"the media,\" question notions of \"data\" (big, little, quantitative, qualitative), etc. We will situate all of these terms in broader contexts and examine their histories, connotations, and connections.",
@@ -16327,7 +16332,7 @@
     "code" : "STSO-6020",
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Values And Policy"
+    "name" : "Concepts In Sts"
   },
   {
     "attributes" : null,
@@ -20357,9 +20362,12 @@
     "name" : "Applied Regression Analysis"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "PDII"
+    ],
     "code" : "STSO-4967",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in STSO"
   },
@@ -20715,7 +20723,7 @@
   {
     "attributes" : null,
     "code" : "STSO-6961",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in STSO"
   },
@@ -21809,11 +21817,7 @@
     "name" : "Painting"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "PDII"
-    ],
+    "attributes" : null,
     "code" : "STSO-4510",
     "credits" : "4 credits",
     "description" : "Discusses the growth of American technology and its place within the framework of American history as well as the interrelationship of American and foreign technological developments. This course stresses the cultural contexts of technological change. Topics covered include the Erie Canal, the American system of manufacturing, railroads, emergence of engineering professions, corporate R&D, household technology, the technology of modern warfare, and the electronics revolution.",
@@ -22179,7 +22183,7 @@
   {
     "attributes" : null,
     "code" : "STSO-6965",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in STSO"
   },
@@ -23530,8 +23534,7 @@
   {
     "attributes" : 
     [
-      "CI",
-      "PDII"
+      "CI"
     ],
     "code" : "STSO-4330",
     "credits" : "4 credits",
@@ -23730,6 +23733,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "PDII"
     ],
     "code" : "STSO-4350",
@@ -25230,10 +25234,7 @@
     "name" : "Operations Research Method"
   },
   {
-    "attributes" : 
-    [
-      "PDII"
-    ],
+    "attributes" : null,
     "code" : "STSO-4340",
     "credits" : "4 credits",
     "description" : "While concepts such as quality of life, environment, nature, global ecology, and the like figure heavily in contemporary discussions, they are seldom integrated into an environmental philosophy. The course tries to achieve this integration by understanding some of the religious, mythic-poetic, and scientific dimensions of the human-nature matrix. Some specific environmental problems are examined to illustrate the system of values implied by various solutions.",
@@ -25281,7 +25282,7 @@
   {
     "attributes" : null,
     "code" : "STSO-2960",
-    "credits" : "4 credits",
+    "credits" : "0 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in STSO"
   },
@@ -25336,7 +25337,10 @@
     "name" : "Surface Phenomena"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "STSO-4530",
     "credits" : "4 credits",
     "description" : "What is science, what is technology, and how have these two fields of inquiry evolved over time? This course examines these questions by studying the history of various scientific fields and technologies. In addition to tracing the historical evolution of the topics studied, the course will consider how social, political, economic and cultural factors helped to shape -- and were in turn shaped by -- advances in science and technology. The course will also reflect upon the relationship between science and technology on the one hand, and \"progress\" on the other.",
@@ -25394,10 +25398,7 @@
     "name" : "Consumer Culture"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "STSO-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -25418,11 +25419,7 @@
     "name" : "Topics in ARCH"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "STSO-4980",
     "credits" : "4 credits",
     "description" : "This is the first part of a two-semester senior project sequence for majors in Sustainability Studies (SUST) and Science, Technology, and Society (STSO). The course focuses on qualitative research design and research proposal development.",
@@ -25503,7 +25500,7 @@
   {
     "attributes" : null,
     "code" : "STSO-6940",
-    "credits" : "1-6 credits",
+    "credits" : "3 credits",
     "description" : "With an individual faculty member on an agreed-upon topic.",
     "name" : "Readings in Science and Technology Studies"
   },
