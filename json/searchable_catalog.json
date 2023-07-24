@@ -17173,6 +17173,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CHEM-4750",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Biocatalysis: Fdmtls & Applic"
+  },
+  {
+    "attributes" : null,
     "code" : "CHME-4010",
     "credits" : "4 credits",
     "description" : "An introductory course in transport phenomena covering fluid statics, and one-dimensional diffusive processes including laminar flow, heat conduction, and mass diffusion. Course focuses on developing the equations of change, introducing sum-of-resistance concepts and couple fluid flow, heat transfer, and mass transfer problems. The concept of extended surfaces as a means of enhancing transport process is included. The course introduces numerical simulation concepts for solving simple, one-dimensional transport problems. Credit not allowed for both this course and ENGR 2250 .",
@@ -22452,7 +22459,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4962",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
