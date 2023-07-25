@@ -2800,6 +2800,13 @@
     "name" : "Topics in INQR"
   },
   {
+    "attributes" : null,
+    "code" : "INQR-1963",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in INQR"
+  },
+  {
     "attributes" : 
     [
       "CI",
@@ -9193,7 +9200,7 @@
   {
     "attributes" : null,
     "code" : "STSO-4962",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in STSO"
   },
@@ -25361,10 +25368,7 @@
     "name" : "History of Science and Technology"
   },
   {
-    "attributes" : 
-    [
-      "PDII"
-    ],
+    "attributes" : null,
     "code" : "STSO-4560",
     "credits" : "4 credits",
     "description" : "In this course, students will engage with a variety of perspectives in science and technology studies, feminist theory, queer and transgender theory, cultural studies, science fiction, and other fields that explore how science and technology reciprocally contribute to and are shaped by cultural norms around gender. Students reflect on their own experiences with gender expectations and formulate their own questions and develop a research project over the course of the semester.",
