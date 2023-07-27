@@ -2354,13 +2354,6 @@
   },
   {
     "attributes" : null,
-    "code" : "LANG-2003",
-    "credits" : "0-6 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Found Of Lang & Litr  (siena)"
-  },
-  {
-    "attributes" : null,
     "code" : "LANG-2001",
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -2643,6 +2636,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ISCI-6960",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ISCI"
+  },
+  {
+    "attributes" : null,
     "code" : "ISCI-6940",
     "credits" : "1-12 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -2763,77 +2763,81 @@
   },
   {
     "attributes" : null,
-    "code" : "INQR-2940",
+    "code" : "IHSS-4964",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in IHSS"
+  },
+  {
+    "attributes" : null,
+    "code" : "IHSS-4940",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Gsas Research"
+    "name" : "Lost Manuscript"
+  },
+  {
+    "attributes" : null,
+    "code" : "IHSS-2961",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in IHSS"
   },
   {
     "attributes" : 
     [
       "CI"
     ],
-    "code" : "INQR-2610",
+    "code" : "IHSS-2610",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Design & Innovation Studio II"
   },
   {
     "attributes" : null,
-    "code" : "ISCI-6960",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ISCI"
-  },
-  {
-    "attributes" : null,
-    "code" : "INQR-2100",
+    "code" : "IHSS-2100",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Intro To Env Studies"
   },
   {
     "attributes" : null,
-    "code" : "INQR-2003",
+    "code" : "IHSS-2003",
     "credits" : "0-6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Issues In Contemporary Educ"
   },
   {
-    "attributes" : 
-    [
-      "HInq"
-    ],
+    "attributes" : null,
+    "code" : "IHSS-2002",
+    "credits" : "0-6 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Myths Of Greek World"
+  },
+  {
+    "attributes" : null,
     "code" : "INQR-1987",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Behind The Tv Screen"
+    "name" : ""
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "INQR-1982",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Songwrit To Reflect Times"
+    "name" : ""
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1978",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
   {
     "attributes" : null,
     "code" : "INQR-1974",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -2849,41 +2853,23 @@
     "name" : "Topics in INQR"
   },
   {
-    "attributes" : 
-    [
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1972",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
   {
     "attributes" : null,
-    "code" : "INQR-2000",
-    "credits" : "0-6 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Social Science Elective"
-  },
-  {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
     "code" : "INQR-1970",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1969",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -2897,18 +2883,14 @@
   {
     "attributes" : null,
     "code" : "INQR-1968",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1967",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -2936,7 +2918,6 @@
   {
     "attributes" : 
     [
-      "CI",
       "HInq"
     ],
     "code" : "INQR-1961",
@@ -2945,24 +2926,18 @@
     "name" : "Topics in INQR"
   },
   {
-    "attributes" : 
-    [
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1959",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Writing And Society"
+    "name" : ""
   },
   {
-    "attributes" : 
-    [
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1958",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Tech & The Top Ten"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -2979,56 +2954,39 @@
     "name" : "Complex Org & Org Theor"
   },
   {
-    "attributes" : 
-    [
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1740",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Western Music Appreciation"
+    "name" : ""
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1720",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Music And Nature"
+    "name" : ""
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1710",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Popular Music & Society"
+    "name" : ""
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "INQR-1290",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "American Politics In Crisis"
+    "name" : ""
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "INQR-1210",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Information In Hist & Society"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -3038,51 +2996,39 @@
     "name" : "Topics in MANE"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1966",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1080",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "History Of Jazz & Improv Music"
+    "name" : ""
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1010",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Exploring Music @ Rensselaer"
+    "name" : ""
   },
   {
     "attributes" : null,
     "code" : "INQR-1005",
-    "credits" : "3 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Basic Japanese I (at Union)"
+    "name" : ""
   },
   {
     "attributes" : null,
     "code" : "INQR-1002",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Element Russian I (at Sunya)"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -4391,14 +4337,11 @@
     "name" : "Topics in DSES"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "INQR-1983",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Acting With Computers"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -4542,6 +4485,13 @@
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Quality Control And Reli"
+  },
+  {
+    "attributes" : null,
+    "code" : "DSES-6220",
+    "credits" : "3 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Concurrent Engineering"
   },
   {
     "attributes" : null,
@@ -4698,13 +4648,9 @@
     "name" : "Computational Optimization"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1964",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -5448,13 +5394,6 @@
   },
   {
     "attributes" : null,
-    "code" : "INQR-4962",
-    "credits" : "1 credit",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in INQR"
-  },
-  {
-    "attributes" : null,
     "code" : "COMM-4969",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -5709,6 +5648,13 @@
   },
   {
     "attributes" : null,
+    "code" : "COMM-2610",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Intro To Visual Communication"
+  },
+  {
+    "attributes" : null,
     "code" : "COMM-2510",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -5772,12 +5718,9 @@
     "name" : "Writing For The Screen"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "INQR-1979",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -6098,9 +6041,9 @@
   {
     "attributes" : null,
     "code" : "INQR-1008",
-    "credits" : "3 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Healthcare Ethics (at Sccc)"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -6171,6 +6114,13 @@
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHME-4300",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Separation Processes"
   },
   {
     "attributes" : 
@@ -6993,14 +6943,11 @@
     "name" : "Engineering Economics and Project Management"
   },
   {
-    "attributes" : 
-    [
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1570",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "War and Technology: Past, Present, and Future"
+    "name" : ""
   },
   {
     "attributes" : 
@@ -7416,13 +7363,6 @@
     "credits" : "3 credits",
     "description" : "A brief review of interaction of light with matter. Operating principles, basic designs, and applications of optoelectronic devices such as Light Emitting Diodes, Laser Diodes, Photodetectors, and Solar Cells. Electro-optic, Acousto-optic and Non-linear optic based optical components such as Modulators, Switches, Couplers, Multiplexers, and Amplifiers. Optical Waveguides and Fibers. Optoelectronic Applications such as Fiber Optic and Free Space Optical Communication, Photovoltaics, Thermophotovoltaics, and Solid-State Lighting.",
     "name" : "Optoelectronics"
-  },
-  {
-    "attributes" : null,
-    "code" : "INQR-6961",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in INQR"
   },
   {
     "attributes" : null,
@@ -8680,7 +8620,7 @@
     "code" : "INQR-1140",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Minds and Machines"
+    "name" : "Minds And Machines"
   },
   {
     "attributes" : null,
@@ -9206,13 +9146,6 @@
   },
   {
     "attributes" : null,
-    "code" : "CSCI-2300",
-    "credits" : "4 credits",
-    "description" : "Data structures and algorithms, and the mathematical techniques necessary to design and analyze them. Basic data structures: lists, associative structures, trees. Mathematical techniques for designing algorithms and analyzing worst-case and expected-case algorithm efficiency. Advanced data structures: balanced trees, tries, heaps, priority queues, graphs. Searching, sorting. Algorithm design techniques: dynamic programming, greedy algorithms, divide-and-conquer, backtracking. Example graph, string, geometric, and numeric algorithms.",
-    "name" : "Introduction to Algorithms"
-  },
-  {
-    "attributes" : null,
     "code" : "STSO-2640",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -9426,15 +9359,11 @@
     "name" : "Advanced Thermodynamics"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1500",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Human Rights In History"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -9999,20 +9928,6 @@
   },
   {
     "attributes" : null,
-    "code" : "CHME-4300",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Separation Processes"
-  },
-  {
-    "attributes" : null,
-    "code" : "INQR-4960",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in INQR"
-  },
-  {
-    "attributes" : null,
     "code" : "ERTH-4070",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -10132,7 +10047,7 @@
     "code" : "INQR-1110",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Nature/Society"
+    "name" : "Nature / Society"
   },
   {
     "attributes" : null,
@@ -10241,6 +10156,13 @@
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ECSE"
+  },
+  {
+    "attributes" : null,
+    "code" : "IHSS-6960",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in IHSS"
   },
   {
     "attributes" : null,
@@ -10546,6 +10468,13 @@
     "name" : "Civil Engineering Capstone Design"
   },
   {
+    "attributes" : null,
+    "code" : "IHSS-6410",
+    "credits" : "3 credits",
+    "description" : "This course focuses on methods, theories, and perspectives of ethnography, and on their applications to the various disciplines in which graduate students are working. Students will undertake original field research. Emphasis is given to foundational activities: defining a problem, research design, proposal writing, field methods, qualitative data analysis, writing ethnography, and protection of human subjects.",
+    "name" : "Ethnography"
+  },
+  {
     "attributes" : 
     [
       "CI"
@@ -10577,13 +10506,9 @@
     "name" : "Traffic Engineering"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1971",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -10621,13 +10546,6 @@
     "credits" : "4 credits",
     "description" : "This course introduces students to basic concepts and methods of artificial intelligence and their applications in computer games. The topics include decision making, movement, path finding, and AI for human-like characters. This course will take the form of a combination of lectures, presentations by students, class discussions, and independent study.",
     "name" : "Game AI"
-  },
-  {
-    "attributes" : null,
-    "code" : "INQR-6790",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Media Studies"
   },
   {
     "attributes" : null,
@@ -11362,14 +11280,11 @@
     "name" : "Learning and Advanced Game AI"
   },
   {
-    "attributes" : 
-    [
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1430",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Health Of Contemp Africa"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -11787,6 +11702,13 @@
   },
   {
     "attributes" : null,
+    "code" : "IHSS-6961",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in IHSS"
+  },
+  {
+    "attributes" : null,
     "code" : "ARTS-4210",
     "credits" : "4 credits",
     "description" : "An advanced studio course in sculpture for students who have taken Sculpture I. Students are encouraged to explore personal areas of interest and are required to develop a familiarity with the history of sculpture as well as mastering fabrication techniques.",
@@ -11852,7 +11774,7 @@
     "code" : "INQR-1150",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "The Genome and You"
+    "name" : "The Genome And You"
   },
   {
     "attributes" : null,
@@ -12140,13 +12062,6 @@
   },
   {
     "attributes" : null,
-    "code" : "ARCH-2510",
-    "credits" : "2 credits",
-    "description" : "This course establishes an understanding of the most common materials, their properties and resulting uses, and the implications of their uses in the larger context of material life cycles. The structural makeup of metals, ceramics, polymers, and composite materials is discovered and their resulting properties, costs, and life cycle consequences are clarified. An understanding of basic mechanical properties is established hands on by conducting tension, compression, and 3-point bending tests (mse-lab). Physical performance of material constructs as synergy between form and material properties is further illustrated. Experiments are conducted that introduce such major concepts as structural loading, properties of sections, and resulting system performance. Sustainability: The concept of life cycles is introduced; material and energy flows are tracked throughout the entire material life cycle. This will be accomplished alongside introducing major material groupings (metals, polymers, ceramics, and composites). Students come to realize that environmental concerns are directly related to structural composition and material availability. Consequences of resource extraction, distribution, manipulation, use, and disposal, reuse or recycle are addressed at both local and global scales. Selected field trips to materials extraction, processing, manufacturing, disposal, and recycling facilities are aimed to give physical meaning to the concept of life cycle.",
-    "name" : "Materials and Design"
-  },
-  {
-    "attributes" : null,
     "code" : "EPOW-4800",
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -12250,12 +12165,9 @@
     "name" : "Frontiers of Network Science"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "INQR-1977",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -13079,7 +12991,7 @@
     "code" : "INQR-1666",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Religion in a Global World"
+    "name" : "Religion In A Global World"
   },
   {
     "attributes" : null,
@@ -13181,20 +13093,6 @@
     "credits" : "3 credits",
     "description" : "Evaluation provides structured information for policy-relevant decision making based on a purposeful analysis of the identified measures. Topics include test hypotheses, randomization/control schemes, measures framework, measurement methods, and pertinent analytic techniques. Emphasis is on the application of evaluation methods (including systems engineering and operations research techniques) to issues arising in criminal justice, education, health, housing, transportation, welfare, automated information systems, and military programs.",
     "name" : "Evaluation Methods for Decision Making"
-  },
-  {
-    "attributes" : null,
-    "code" : "COMM-2610",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Intro To Visual Communication"
-  },
-  {
-    "attributes" : null,
-    "code" : "INQR-6410",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Ethnography"
   },
   {
     "attributes" : null,
@@ -13328,6 +13226,13 @@
     "credits" : "2 credits",
     "description" : "Readings and discussion of topical materials that are selected to place graduate projects and theses in a comprehensive context.",
     "name" : "Graduate Thesis Seminar"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-4840",
+    "credits" : "4 credits",
+    "description" : "This course provides an overview of the essentials for architectural acoustics design of performance and public spaces, including concert halls, theaters, museums, classrooms, sports arenas, courtrooms, and religious buildings. There are no prerequisites, but the course may be used as the starting point for a certificate in Architectural Acoustics, a concentration in an architecture student's professional electives, or the beginning of a master's degree in acoustics. The course covers basic principles of sound, room acoustics, sound absorption in rooms, sound isolation and privacy, acoustics of mechanical systems, and sound quality. After both Architectural Acoustics 1 and 2, the student should be prepared for a basic entry-level position in either acoustics in architecture or in acoustical consulting.",
+    "name" : "Architectural Acoustics 1"
   },
   {
     "attributes" : 
@@ -13644,9 +13549,9 @@
   {
     "attributes" : null,
     "code" : "INQR-1310",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Cultures Of Sci Revolution"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -13833,9 +13738,9 @@
   {
     "attributes" : null,
     "code" : "INQR-1980",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Sociolgy Of Inequal In U.s.soc"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -13859,15 +13764,11 @@
     "name" : "Computational Social Processes"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1986",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Tech & Soc Interact In Us Soci"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -13952,13 +13853,12 @@
   {
     "attributes" : 
     [
-      "CI",
       "HInq"
     ],
     "code" : "INQR-1180",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "The Art of Listening"
+    "name" : "The Art Of Listening"
   },
   {
     "attributes" : null,
@@ -14147,13 +14047,6 @@
     "credits" : "4 credits",
     "description" : "Examines biomechanics of human body movement through developing various models (e.g., lumped mass, planar rigid body, 3D) and exploring current techniques in Forward and Inverse Dynamic approaches. Topics are developed on a classical mechanics foundation, and simulations are constructed using software (e.g., OpenSIM) to describe normal movements, and investigate possible sources of abnormalities due to injury, disease, or dysfunction.",
     "name" : "Biomechanics II"
-  },
-  {
-    "attributes" : null,
-    "code" : "INQR-2961",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in INQR"
   },
   {
     "attributes" : null,
@@ -15333,12 +15226,9 @@
     "name" : "Topics in MGMT"
   },
   {
-    "attributes" : 
-    [
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1975",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -15975,6 +15865,13 @@
   },
   {
     "attributes" : null,
+    "code" : "IHSS-2940",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Gsas Research"
+  },
+  {
+    "attributes" : null,
     "code" : "CSCI-4400",
     "credits" : "3 credits",
     "description" : "Informatics covers a broad range of disciplines addressing challenges in the explosion of data and information resources. Xinformatics provides commonality for implementations in specific disciplines, e.g. X=astro, geo. Informatics' theoretical bases are information and computer science, cognitive science, social science, library science, aggregating these studies and adding the practice of information processing, and the engineering of information systems. This course grounds the material that students will learn in discipline areas by coursework and project assignments.",
@@ -16240,7 +16137,7 @@
     "code" : "INQR-1200",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Principles of Economics"
+    "name" : "Principles Of Economics"
   },
   {
     "attributes" : null,
@@ -17717,6 +17614,16 @@
     "name" : "Structures 1"
   },
   {
+    "attributes" : 
+    [
+      "CI"
+    ],
+    "code" : "IHSS-4961",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in IHSS"
+  },
+  {
     "attributes" : null,
     "code" : "CHEM-4470",
     "credits" : "3 credits",
@@ -17847,6 +17754,20 @@
     "credits" : "4 credits",
     "description" : "Part I of a two-semester sequence focusing on the chemistry, structure, and function of biological molecules, macromolecules, and systems. Topics covered include protein and nucleic acid structure, enzymology, mechanisms of catalysis, regulation, lipids and membranes, carbohydrates, bioenergetics, and carbohydrate metabolism. (Students cannot obtain credit for both this course and either BIOL 4760 or BCBP 4760 .)",
     "name" : "Molecular Biochemistry I"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-2510",
+    "credits" : "2 credits",
+    "description" : "This course establishes an understanding of the most common materials, their properties and resulting uses, and the implications of their uses in the larger context of material life cycles. The structural makeup of metals, ceramics, polymers, and composite materials is discovered and their resulting properties, costs, and life cycle consequences are clarified. An understanding of basic mechanical properties is established hands on by conducting tension, compression, and 3-point bending tests (mse-lab). Physical performance of material constructs as synergy between form and material properties is further illustrated. Experiments are conducted that introduce such major concepts as structural loading, properties of sections, and resulting system performance. Sustainability: The concept of life cycles is introduced; material and energy flows are tracked throughout the entire material life cycle. This will be accomplished alongside introducing major material groupings (metals, polymers, ceramics, and composites). Students come to realize that environmental concerns are directly related to structural composition and material availability. Consequences of resource extraction, distribution, manipulation, use, and disposal, reuse or recycle are addressed at both local and global scales. Selected field trips to materials extraction, processing, manufacturing, disposal, and recycling facilities are aimed to give physical meaning to the concept of life cycle.",
+    "name" : "Materials and Design"
+  },
+  {
+    "attributes" : null,
+    "code" : "IHSS-6790",
+    "credits" : "3 credits",
+    "description" : "This HASS graduate seminar examines major theories and approaches to studying the media from a broad cultural studies perspective. Analysis of foundational and contemporary readings will allow students to consider, from their own field's perspective, topics such as the politics of representation and the representation of politics; commercialization; surveillance; depictions of gender, race, and class; and the fictional, factual, and fake. Examples will be drawn mainly from the mass media, particularly television and film.",
+    "name" : "Media Studies"
   },
   {
     "attributes" : null,
@@ -18046,9 +17967,9 @@
   {
     "attributes" : null,
     "code" : "INQR-1001",
-    "credits" : "3 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Russian Lang& Cult I (at Hvcc)"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -18129,7 +18050,7 @@
     "code" : "INQR-1030",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Behind the TV Screen"
+    "name" : "Behind The Tv Screen"
   },
   {
     "attributes" : null,
@@ -18325,13 +18246,6 @@
     "credits" : "2 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "American Building- 20th C"
-  },
-  {
-    "attributes" : null,
-    "code" : "INQR-4964",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in INQR"
   },
   {
     "attributes" : null,
@@ -18835,13 +18749,9 @@
     "name" : "Dissertation"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1976",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -18893,16 +18803,6 @@
     "credits" : "4 credits",
     "description" : "This course is designed to provide an overview of the art of effective story development. Students will come away with a heightened awareness of the structures and principles that master storytellers apply to their craft in games and other popular media. It is intended for all GSAS majors and other interested students, as well as the prerequisite for the GSAS concentration in Writing.",
     "name" : "Introduction to Game Storytelling"
-  },
-  {
-    "attributes" : 
-    [
-      "CI"
-    ],
-    "code" : "INQR-2960",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in INQR"
   },
   {
     "attributes" : null,
@@ -18976,13 +18876,6 @@
     "credits" : "4 credits",
     "description" : "Cognitive modeling investigates human cognition by developing computational systems that simulate cognitive processes. Cognitive modeling grew out of Cognitive Psychology and Artificial Intelligence. Cognitive models are used in a number of basic and applied domains including Human-Computer Interaction, Intelligent Tutoring Systems, Computer-Generated Forces, and Synthetic Characters. In this course, students will develop models in ACT-R (a unified theory of cognition) that simulate recent findings in cognitive psychology.",
     "name" : "Cognitive Modeling"
-  },
-  {
-    "attributes" : null,
-    "code" : "INQR-2002",
-    "credits" : "0-6 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Myths Of Greek World"
   },
   {
     "attributes" : null,
@@ -19331,7 +19224,7 @@
     "code" : "INQR-1040",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Documentary in the 21st Century: Identity Production"
+    "name" : "Documentary In 21st Century"
   },
   {
     "attributes" : null,
@@ -19341,15 +19234,11 @@
     "name" : "Perturbation Methods"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1130",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Philosophy, Technology, & the Human Future"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -19366,15 +19255,11 @@
     "name" : "Theory of Production Scheduling"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1160",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Science and Scientific Misconduct"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -19391,15 +19276,11 @@
     "name" : "Thermal and Fluids Engineering Laboratory"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1170",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "History of Animation"
+    "name" : ""
   },
   {
     "attributes" : 
@@ -19410,29 +19291,21 @@
     "code" : "INQR-1175",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Well-being: Cultivating Curiosity"
+    "name" : "Well-being: Cultving Curiosity"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1220",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "IT and Society"
+    "name" : ""
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1235",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Are Humans Rational?"
+    "name" : ""
   },
   {
     "attributes" : 
@@ -19467,7 +19340,7 @@
     "code" : "INQR-1300",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Race and Film in U.S. Culture and History"
+    "name" : "Race And Film: Us Culture Hist"
   },
   {
     "attributes" : null,
@@ -19491,15 +19364,11 @@
     "name" : "System Modeling for Civil and Environmental Engineering"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1320",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "A Century of Environmental Thought"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -19509,15 +19378,11 @@
     "name" : "Topics in WRIT"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1492",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Language and Power"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -19541,15 +19406,11 @@
     "name" : "Equilibrium Chemistry and Quantitative Analysis"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1510",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "War and Society"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -19581,7 +19442,7 @@
     "code" : "INQR-1550",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Fiction: From Film to the Internet"
+    "name" : "Fiction: Film To The Internet"
   },
   {
     "attributes" : 
@@ -19591,7 +19452,7 @@
     "code" : "INQR-1562",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Life in Color"
+    "name" : "Life In Color"
   },
   {
     "attributes" : 
@@ -19693,31 +19554,41 @@
     "name" : "Topics in INQR"
   },
   {
-    "attributes" : null,
-    "code" : "ARCH-4840",
+    "attributes" : 
+    [
+      "CI"
+    ],
+    "code" : "IHSS-2960",
     "credits" : "4 credits",
-    "description" : "This course provides an overview of the essentials for architectural acoustics design of performance and public spaces, including concert halls, theaters, museums, classrooms, sports arenas, courtrooms, and religious buildings. There are no prerequisites, but the course may be used as the starting point for a certificate in Architectural Acoustics, a concentration in an architecture student's professional electives, or the beginning of a master's degree in acoustics. The course covers basic principles of sound, room acoustics, sound absorption in rooms, sound isolation and privacy, acoustics of mechanical systems, and sound quality. After both Architectural Acoustics 1 and 2, the student should be prepared for a basic entry-level position in either acoustics in architecture or in acoustical consulting.",
-    "name" : "Architectural Acoustics 1"
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in IHSS"
   },
   {
     "attributes" : null,
-    "code" : "INQR-4800",
-    "credits" : "? credits",
+    "code" : "LANG-2003",
+    "credits" : "0-6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Found Of Lang & Litr  (siena)"
+  },
+  {
+    "attributes" : null,
+    "code" : "IHSS-4800",
+    "credits" : "? credits",
+    "description" : "This is an individually tailored reading course in which the student does readings and also completes an internship-type field project. The goal is to provide students with immersion in a multicultural milieu involving science and technology issues. Projects include student exchange programs, co-op placement, public service internships, community service, and other individually tailored projects subject to adviser approval. Students are expected to write up a description of their field project that integrates their field experience with the readings.",
     "name" : "Experiential Learning Project"
   },
   {
     "attributes" : null,
-    "code" : "DSES-6220",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Concurrent Engineering"
+    "code" : "CSCI-2300",
+    "credits" : "4 credits",
+    "description" : "Data structures and algorithms, and the mathematical techniques necessary to design and analyze them. Basic data structures: lists, associative structures, trees. Mathematical techniques for designing algorithms and analyzing worst-case and expected-case algorithm efficiency. Advanced data structures: balanced trees, tries, heaps, priority queues, graphs. Searching, sorting. Algorithm design techniques: dynamic programming, greedy algorithms, divide-and-conquer, backtracking. Example graph, string, geometric, and numeric algorithms.",
+    "name" : "Introduction to Algorithms"
   },
   {
     "attributes" : null,
-    "code" : "INQR-6570",
+    "code" : "IHSS-6570",
     "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "description" : "This seminar is an investigation of creative, theoretical, and historical research methods in the interdisciplinary arts. Students will be introduced to arts practice-based research discourses and will gain competence in writing and research techniques, conventions, and methods. This course is a requirement for all Arts Department doctoral students.",
     "name" : "Research Methods"
   },
   {
@@ -20074,13 +19945,6 @@
     "credits" : "1-6 credits",
     "description" : "",
     "name" : "Readings in ISYE"
-  },
-  {
-    "attributes" : null,
-    "code" : "INQR-4940",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Lost Manuscript"
   },
   {
     "attributes" : null,
@@ -20645,15 +20509,11 @@
     "name" : "Topics in LANG"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1410",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Century Of The Gene"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -20922,14 +20782,11 @@
     "name" : "Fields and Waves I"
   },
   {
-    "attributes" : 
-    [
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1350",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Law, Values, and Public Policy: Perspectives on Science and Technology"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -21018,15 +20875,11 @@
     "name" : "Topics in LITR"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1985",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Sociology Of Inequality"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -21191,6 +21044,13 @@
   },
   {
     "attributes" : null,
+    "code" : "IHSS-4960",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in IHSS"
+  },
+  {
+    "attributes" : null,
     "code" : "MANE-4040",
     "credits" : "2 credits",
     "description" : "Laboratory experience to complement MANE 4030 Elements of Mechanical Design. Tolerancing; gear kinematics and torque transfer; stress-strain behavior; beam bending; contact, friction, and wear; snap fasteners; fatigue; mechanical component design and analysis.",
@@ -21275,7 +21135,7 @@
     "code" : "INQR-1610",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Design and Innovation Studio I"
+    "name" : "Design And Innovation Studio 1"
   },
   {
     "attributes" : null,
@@ -22058,13 +21918,6 @@
   },
   {
     "attributes" : null,
-    "code" : "INQR-6960",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in INQR"
-  },
-  {
-    "attributes" : null,
     "code" : "PHYS-1600",
     "credits" : "4 credits",
     "description" : "Introduction to the scientific principles that dictate the structure and properties of engineering materials, including metals, ceramics, semiconductors, and polymers. Physical properties of materials (mechanical, electrical, thermal, optical) are discussed in terms of the underlying structure, spanning multiple length scales from atomic packing to micron scale defects in practical engineering materials. Throughout the course, the material behaviors are understood from the viewpoint of thermodynamics and kinetics.",
@@ -22763,16 +22616,6 @@
     [
       "CI"
     ],
-    "code" : "INQR-4961",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in INQR"
-  },
-  {
-    "attributes" : 
-    [
-      "CI"
-    ],
     "code" : "ENVE-4180",
     "credits" : "3 credits",
     "description" : "The design of processes and systems to protect public and ecosystem health using scientific, technological, and economic principles. Students formulate problems, develop requirements, and evaluate solutions against specifications, constraints, risks, and trade-offs. Students integrate background from previous courses and resources from the technical literature. The role of ethics and codes in professional practice is discussed. In this communication-intensive course, students write engineering proposals and reports, and present work orally.",
@@ -22983,6 +22826,13 @@
     "credits" : "4 credits",
     "description" : "Business analytics enables organizations to leverage large volumes of data in order to make more informed decisions. It encompasses a range of approaches to integrating, organizing, and applying data in various settings. This course develops an understanding of concepts in business analytics and data manipulation. In particular, through hands-on experience with a range of techniques students will learn to work with large data sets, analyze trends and segmentations, and develop models for prediction and forecasting.",
     "name" : "Applied Analytics and Predictive Modeling"
+  },
+  {
+    "attributes" : null,
+    "code" : "IHSS-2000",
+    "credits" : "0-6 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Social Science Elective"
   },
   {
     "attributes" : 
@@ -23295,13 +23145,9 @@
     "name" : "Portfolio Development"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1965",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -23579,15 +23425,11 @@
     "name" : "Cell Extracelllular Matrix Interactions"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1165",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Great Ideas in Philosophy"
+    "name" : ""
   },
   {
     "attributes" : null,
@@ -24077,6 +23919,13 @@
   },
   {
     "attributes" : null,
+    "code" : "IHSS-4962",
+    "credits" : "1 credit",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in IHSS"
+  },
+  {
+    "attributes" : null,
     "code" : "MTLE-6030",
     "credits" : "4 credits",
     "description" : "Review of classical thermodynamics. Development of basic concepts of statistical thermodynamics. Application of both classical and statistical techniques to the determination of phase and chemical equilibrium in real systems.",
@@ -24213,7 +24062,7 @@
     "code" : "INQR-1560",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Media and Society"
+    "name" : "Media And Society"
   },
   {
     "attributes" : null,
@@ -26019,15 +25868,11 @@
     "name" : "Intro To Discrete Structures"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1981",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Race, Class, Gender & Tech"
+    "name" : ""
   },
   {
     "attributes" : 
@@ -26637,14 +26482,11 @@
     "name" : "Basic Drawing"
   },
   {
-    "attributes" : 
-    [
-      "HInq"
-    ],
+    "attributes" : null,
     "code" : "INQR-1989",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Remixing In Digital Culture"
+    "name" : ""
   },
   {
     "attributes" : null,
