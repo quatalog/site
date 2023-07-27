@@ -2814,30 +2814,40 @@
     "name" : "Myths Of Greek World"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "HInq"
+    ],
     "code" : "INQR-1987",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Behind The Tv Screen"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "INQR-1982",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Songwrit To Reflect Times"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1978",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
   {
     "attributes" : null,
     "code" : "INQR-1974",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -2853,23 +2863,34 @@
     "name" : "Topics in INQR"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "HInq"
+    ],
     "code" : "INQR-1972",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1970",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1969",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -2883,14 +2904,18 @@
   {
     "attributes" : null,
     "code" : "INQR-1968",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1967",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -2918,6 +2943,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1961",
@@ -2926,18 +2952,24 @@
     "name" : "Topics in INQR"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "HInq"
+    ],
     "code" : "INQR-1959",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Writing And Society"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "HInq"
+    ],
     "code" : "INQR-1958",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Tech & The Top Ten"
   },
   {
     "attributes" : null,
@@ -2954,39 +2986,56 @@
     "name" : "Complex Org & Org Theor"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "HInq"
+    ],
     "code" : "INQR-1740",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Western Music Appreciation"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1720",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Music And Nature"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1710",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Popular Music & Society"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "INQR-1290",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "American Politics In Crisis"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "INQR-1210",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Information In Hist & Society"
   },
   {
     "attributes" : null,
@@ -2996,39 +3045,51 @@
     "name" : "Topics in MANE"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1966",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1080",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "History Of Jazz & Improv Music"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1010",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Exploring Music @ Rensselaer"
   },
   {
     "attributes" : null,
     "code" : "INQR-1005",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Basic Japanese I (at Union)"
   },
   {
     "attributes" : null,
     "code" : "INQR-1002",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Element Russian I (at Sunya)"
   },
   {
     "attributes" : null,
@@ -4337,11 +4398,14 @@
     "name" : "Topics in DSES"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "INQR-1983",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Acting With Computers"
   },
   {
     "attributes" : null,
@@ -4648,9 +4712,13 @@
     "name" : "Computational Optimization"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1964",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -5718,9 +5786,12 @@
     "name" : "Writing For The Screen"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "INQR-1979",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -6041,9 +6112,9 @@
   {
     "attributes" : null,
     "code" : "INQR-1008",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Healthcare Ethics (at Sccc)"
   },
   {
     "attributes" : null,
@@ -6943,11 +7014,14 @@
     "name" : "Engineering Economics and Project Management"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "HInq"
+    ],
     "code" : "INQR-1570",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "War and Technology: Past, Present, and Future"
   },
   {
     "attributes" : 
@@ -8620,7 +8694,7 @@
     "code" : "INQR-1140",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Minds And Machines"
+    "name" : "Minds and Machines"
   },
   {
     "attributes" : null,
@@ -9359,11 +9433,15 @@
     "name" : "Advanced Thermodynamics"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1500",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Human Rights In History"
   },
   {
     "attributes" : null,
@@ -10047,7 +10125,7 @@
     "code" : "INQR-1110",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Nature / Society"
+    "name" : "Nature/Society"
   },
   {
     "attributes" : null,
@@ -10506,9 +10584,13 @@
     "name" : "Traffic Engineering"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1971",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -11280,11 +11362,14 @@
     "name" : "Learning and Advanced Game AI"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "HInq"
+    ],
     "code" : "INQR-1430",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Health Of Contemp Africa"
   },
   {
     "attributes" : null,
@@ -11774,7 +11859,7 @@
     "code" : "INQR-1150",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "The Genome And You"
+    "name" : "The Genome and You"
   },
   {
     "attributes" : null,
@@ -12165,9 +12250,12 @@
     "name" : "Frontiers of Network Science"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "INQR-1977",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -12991,7 +13079,7 @@
     "code" : "INQR-1666",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Religion In A Global World"
+    "name" : "Religion in a Global World"
   },
   {
     "attributes" : null,
@@ -13549,9 +13637,9 @@
   {
     "attributes" : null,
     "code" : "INQR-1310",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Cultures Of Sci Revolution"
   },
   {
     "attributes" : null,
@@ -13738,9 +13826,9 @@
   {
     "attributes" : null,
     "code" : "INQR-1980",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Sociolgy Of Inequal In U.s.soc"
   },
   {
     "attributes" : null,
@@ -13764,11 +13852,15 @@
     "name" : "Computational Social Processes"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1986",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Tech & Soc Interact In Us Soci"
   },
   {
     "attributes" : null,
@@ -13853,12 +13945,13 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1180",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "The Art Of Listening"
+    "name" : "The Art of Listening"
   },
   {
     "attributes" : null,
@@ -15226,9 +15319,12 @@
     "name" : "Topics in MGMT"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "HInq"
+    ],
     "code" : "INQR-1975",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -16137,7 +16233,7 @@
     "code" : "INQR-1200",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Principles Of Economics"
+    "name" : "Principles of Economics"
   },
   {
     "attributes" : null,
@@ -17967,9 +18063,9 @@
   {
     "attributes" : null,
     "code" : "INQR-1001",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Russian Lang& Cult I (at Hvcc)"
   },
   {
     "attributes" : null,
@@ -18050,7 +18146,7 @@
     "code" : "INQR-1030",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Behind The Tv Screen"
+    "name" : "Behind the TV Screen"
   },
   {
     "attributes" : null,
@@ -18749,9 +18845,13 @@
     "name" : "Dissertation"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1976",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -19224,7 +19324,7 @@
     "code" : "INQR-1040",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Documentary In 21st Century"
+    "name" : "Documentary in the 21st Century: Identity Production"
   },
   {
     "attributes" : null,
@@ -19234,11 +19334,15 @@
     "name" : "Perturbation Methods"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1130",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Philosophy, Technology, & the Human Future"
   },
   {
     "attributes" : null,
@@ -19255,11 +19359,15 @@
     "name" : "Theory of Production Scheduling"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1160",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Science and Scientific Misconduct"
   },
   {
     "attributes" : null,
@@ -19276,11 +19384,15 @@
     "name" : "Thermal and Fluids Engineering Laboratory"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1170",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "History of Animation"
   },
   {
     "attributes" : 
@@ -19291,21 +19403,29 @@
     "code" : "INQR-1175",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Well-being: Cultving Curiosity"
+    "name" : "Well-being: Cultivating Curiosity"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1220",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "IT and Society"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1235",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Are Humans Rational?"
   },
   {
     "attributes" : 
@@ -19340,7 +19460,7 @@
     "code" : "INQR-1300",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Race And Film: Us Culture Hist"
+    "name" : "Race and Film in U.S. Culture and History"
   },
   {
     "attributes" : null,
@@ -19364,11 +19484,15 @@
     "name" : "System Modeling for Civil and Environmental Engineering"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1320",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "A Century of Environmental Thought"
   },
   {
     "attributes" : null,
@@ -19378,11 +19502,15 @@
     "name" : "Topics in WRIT"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1492",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Language and Power"
   },
   {
     "attributes" : null,
@@ -19406,11 +19534,15 @@
     "name" : "Equilibrium Chemistry and Quantitative Analysis"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1510",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "War and Society"
   },
   {
     "attributes" : null,
@@ -19442,7 +19574,7 @@
     "code" : "INQR-1550",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Fiction: Film To The Internet"
+    "name" : "Fiction: From Film to the Internet"
   },
   {
     "attributes" : 
@@ -19452,7 +19584,7 @@
     "code" : "INQR-1562",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Life In Color"
+    "name" : "Life in Color"
   },
   {
     "attributes" : 
@@ -20509,11 +20641,15 @@
     "name" : "Topics in LANG"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1410",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Century Of The Gene"
   },
   {
     "attributes" : null,
@@ -20782,11 +20918,14 @@
     "name" : "Fields and Waves I"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "HInq"
+    ],
     "code" : "INQR-1350",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Law, Values, and Public Policy: Perspectives on Science and Technology"
   },
   {
     "attributes" : null,
@@ -20875,11 +21014,15 @@
     "name" : "Topics in LITR"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1985",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Sociology Of Inequality"
   },
   {
     "attributes" : null,
@@ -21135,7 +21278,7 @@
     "code" : "INQR-1610",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Design And Innovation Studio 1"
+    "name" : "Design and Innovation Studio I"
   },
   {
     "attributes" : null,
@@ -23145,9 +23288,13 @@
     "name" : "Portfolio Development"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1965",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in INQR"
   },
@@ -23425,11 +23572,15 @@
     "name" : "Cell Extracelllular Matrix Interactions"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1165",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Great Ideas in Philosophy"
   },
   {
     "attributes" : null,
@@ -24062,7 +24213,7 @@
     "code" : "INQR-1560",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Media And Society"
+    "name" : "Media and Society"
   },
   {
     "attributes" : null,
@@ -25868,11 +26019,15 @@
     "name" : "Intro To Discrete Structures"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1981",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Race, Class, Gender & Tech"
   },
   {
     "attributes" : 
@@ -26482,11 +26637,14 @@
     "name" : "Basic Drawing"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "HInq"
+    ],
     "code" : "INQR-1989",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : ""
+    "name" : "Remixing In Digital Culture"
   },
   {
     "attributes" : null,
