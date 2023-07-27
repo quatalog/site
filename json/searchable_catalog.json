@@ -673,16 +673,6 @@
     "name" : "Topics in PSYC"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
-    "code" : "PSYC-2966",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in PSYC"
-  },
-  {
     "attributes" : null,
     "code" : "PSYC-2950",
     "credits" : "1-4 credits",
@@ -722,6 +712,13 @@
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Human Factors In Design"
+  },
+  {
+    "attributes" : null,
+    "code" : "PSYC-2008",
+    "credits" : "1-6 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Life Span Devel Psych (excel)"
   },
   {
     "attributes" : null,
@@ -2239,6 +2236,13 @@
   },
   {
     "attributes" : null,
+    "code" : "LANG-4400",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Business French I"
+  },
+  {
+    "attributes" : null,
     "code" : "LANG-4210",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -2302,6 +2306,13 @@
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Chinese III"
+  },
+  {
+    "attributes" : null,
+    "code" : "LANG-2210",
+    "credits" : "4 credits",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Japanese III"
   },
   {
     "attributes" : null,
@@ -2431,20 +2442,6 @@
   },
   {
     "attributes" : null,
-    "code" : "ITWS-6961",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ITWS"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITWS-6960",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ITWS"
-  },
-  {
-    "attributes" : null,
     "code" : "ITWS-4967",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -2454,6 +2451,20 @@
     "attributes" : null,
     "code" : "ITWS-4963",
     "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ITWS"
+  },
+  {
+    "attributes" : null,
+    "code" : "ITWS-6961",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ITWS"
+  },
+  {
+    "attributes" : null,
+    "code" : "ITWS-6960",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ITWS"
   },
@@ -2475,6 +2486,23 @@
     "name" : "Information Architecture"
   },
   {
+    "attributes" : 
+    [
+      "CI"
+    ],
+    "code" : "PSYC-2966",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in PSYC"
+  },
+  {
+    "attributes" : null,
+    "code" : "ITWS-2962",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ITWS"
+  },
+  {
     "attributes" : null,
     "code" : "ITWS-2940",
     "credits" : "1-6 credits",
@@ -2483,135 +2511,27 @@
   },
   {
     "attributes" : null,
-    "code" : "ITEC-6961",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ITEC"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-6960",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ITEC"
-  },
-  {
-    "attributes" : null,
-    "code" : "LANG-2210",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Japanese III"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-6940",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Application Of Semantic Web"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-6800",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "It and Decision Syst Capstone"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-6300",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Business Issues For Engr & Sci"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-4960",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ITEC"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-4310",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Managing It Resources"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-2961",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ITEC"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-2940",
+    "code" : "ITWS-2001",
     "credits" : "1-6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Rdgs In Information Technology"
+    "name" : "Web Page Devel & Dsn (hvcc)"
   },
   {
     "attributes" : null,
-    "code" : "ITEC-2110",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Web Systems Development"
-  },
-  {
-    "attributes" : null,
-    "code" : "LANG-4400",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Business French I"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-1961",
+    "code" : "ITWS-1961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ITEC"
+    "name" : "Topics in ITWS"
   },
   {
     "attributes" : 
     [
       "CI"
     ],
-    "code" : "ITEC-1220",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "It And Society - Restricted To Itec Majors"
-  },
-  {
-    "attributes" : null,
-    "code" : "PSYC-2008",
-    "credits" : "1-6 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Life Span Devel Psych (excel)"
-  },
-  {
-    "attributes" : 
-    [
-      "CI"
-    ],
-    "code" : "ITEC-1210",
+    "code" : "ITWS-1210",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Information In Hist & Society"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-1150",
-    "credits" : "1 credit",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Introduction To Uml"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-1100",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Introduction To It"
   },
   {
     "attributes" : null,
@@ -4472,13 +4392,6 @@
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PSYC"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-6990",
-    "credits" : "3-6 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Masters Thesis"
   },
   {
     "attributes" : 
@@ -6749,13 +6662,6 @@
   },
   {
     "attributes" : null,
-    "code" : "ITEC-2962",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ITEC"
-  },
-  {
-    "attributes" : null,
     "code" : "BMED-6964",
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -6963,13 +6869,6 @@
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Biomaterial Applications In Medicine"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-4962",
-    "credits" : "3 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ITEC"
   },
   {
     "attributes" : null,
@@ -8066,6 +7965,13 @@
     "credits" : "1-15 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
     "name" : "Dissertation"
+  },
+  {
+    "attributes" : null,
+    "code" : "ITWS-1150",
+    "credits" : "1 credit",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Introduction To Uml"
   },
   {
     "attributes" : null,
@@ -10000,13 +9906,6 @@
     "credits" : "1-12 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a master's thesis. Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester. Once the thesis has been presentend, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
     "name" : "Master's Thesis"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-4940",
-    "credits" : "1-12 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Adv Traveler Info Syst"
   },
   {
     "attributes" : null,
@@ -17594,13 +17493,6 @@
   },
   {
     "attributes" : null,
-    "code" : "ITEC-4300",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Business Issues For Engr"
-  },
-  {
-    "attributes" : null,
     "code" : "ISYE-4750",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -18245,13 +18137,6 @@
   },
   {
     "attributes" : null,
-    "code" : "ITEC-2210",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Introduction To Hci"
-  },
-  {
-    "attributes" : null,
     "code" : "CHEM-6170",
     "credits" : "4 credits",
     "description" : "Advanced graduate course covering fundamental aspects of NMR common for application in a broad range of fields. Classical and quantum-mechanical descriptions are utilized to explore information content of NMR pulse sequences. The latter approach includes density matrix theory and proceeds with the product-operator formalism. Practical aspects and data analysis are also described. Subsequent focus is on liquid-state NMR of biological macromolecules, including resonance assignment and determination of molecular structure and dynamics. Students cannot obtain credit for both this course and BCBP 6170 .",
@@ -18486,17 +18371,6 @@
     "credits" : "1 credit",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Drawing Historic Structures"
-  },
-  {
-    "attributes" : 
-    [
-      "CI",
-      "WI"
-    ],
-    "code" : "ITEC-4100",
-    "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Itec Capstone Experience"
   },
   {
     "attributes" : 
@@ -24065,13 +23939,6 @@
     "name" : "Technological Change and International Competitiveness"
   },
   {
-    "attributes" : null,
-    "code" : "ITEC-6980",
-    "credits" : "1-4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Master's Project"
-  },
-  {
     "attributes" : 
     [
       "CI"
@@ -24471,13 +24338,6 @@
   },
   {
     "attributes" : null,
-    "code" : "ITEC-1962",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ITEC"
-  },
-  {
-    "attributes" : null,
     "code" : "MTLE-6150",
     "credits" : "3 credits",
     "description" : "Review of elasticity and plasticity theory. Calculation of theoretical cohesive strength of crystalline solids; influence of stress concentrations on fracture strength. Fractography. Theory and applications of linear elastic fracture mechanics. Fracture testing. Elastic-plastic fracture mechanics. Dislocation theories of cleavage fracture. Phenomenology and theories of stress corrosion cracking, creep rupture, fatigue.",
@@ -24789,13 +24649,6 @@
   },
   {
     "attributes" : null,
-    "code" : "ITEC-4961",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ITEC"
-  },
-  {
-    "attributes" : null,
     "code" : "ARCH-6310",
     "credits" : "3 credits",
     "description" : "This course has been conceived together with Material Systems and Productions and the Design Research Studio, such that each student will develop a complementary written analysis that critically situates the new material system that the student is developing in design studio within historical, socio-political, and economic flows. The written analysis will directly reference key themes contained within the required readings, lectures, and seminar discussions. Course taught in New York City.",
@@ -25079,6 +24932,13 @@
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "General Nutrition (at Hvcc)"
+  },
+  {
+    "attributes" : null,
+    "code" : "ITWS-1962",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ITWS"
   },
   {
     "attributes" : null,
@@ -26412,13 +26272,6 @@
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Adv. Structures & Construction"
-  },
-  {
-    "attributes" : null,
-    "code" : "ITEC-2001",
-    "credits" : "1-6 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Web Page Devel & Dsn (hvcc)"
   },
   {
     "attributes" : null,
