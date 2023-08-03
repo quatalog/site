@@ -21030,13 +21030,6 @@
     "name" : "Literature Studies"
   },
   {
-    "attributes" : null,
-    "code" : "MTLE-4730",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Material Informatics & Data"
-  },
-  {
     "attributes" : 
     [
       "CI"
@@ -27633,13 +27626,6 @@
     "credits" : "0 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BIOL"
-  },
-  {
-    "attributes" : null,
-    "code" : "MTLE-6730",
-    "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Material Informatics And Data"
   },
   {
     "attributes" : null,
