@@ -960,13 +960,6 @@
   },
   {
     "attributes" : null,
-    "code" : "PHIL-4960",
-    "credits" : "4 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in PHIL"
-  },
-  {
-    "attributes" : null,
     "code" : "PHYS-1962",
     "credits" : "0 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -22562,6 +22555,20 @@
   },
   {
     "attributes" : null,
+    "code" : "BMED-4965",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in BMED"
+  },
+  {
+    "attributes" : null,
+    "code" : "MATH-6490",
+    "credits" : "4 credits",
+    "description" : "Mathematical foundations and/or applications of ordinary differential equations. Possible topics include: stability and chaos in dynamics, mathematical methods of classical mechanics, stochastic differential equations, and soliton equations.",
+    "name" : "Topics in Ordinary Differential Equations"
+  },
+  {
+    "attributes" : null,
     "code" : "MATH-6500",
     "credits" : "4 credits",
     "description" : "A course dealing with the basic theory of partial differential equations. It includes such topics as properties of solutions of hyperbolic, parabolic, and elliptic equations in two or more independent variables; linear and nonlinear first order equations; existence and uniqueness theory for general higher order equations; potential theory and integral equations.",
@@ -24383,6 +24390,13 @@
     "credits" : "1-12 credits",
     "description" : "Experimental courses on subjects to be announced in advance.",
     "name" : "Topics in Philosophy"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHIL-4960",
+    "credits" : "4 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in PHIL"
   },
   {
     "attributes" : null,
@@ -27732,20 +27746,6 @@
     "attributes" : null,
     "code" : "BMED-4962",
     "credits" : "1 credit",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in BMED"
-  },
-  {
-    "attributes" : null,
-    "code" : "MATH-6490",
-    "credits" : "4 credits",
-    "description" : "Mathematical foundations and/or applications of ordinary differential equations. Possible topics include: stability and chaos in dynamics, mathematical methods of classical mechanics, stochastic differential equations, and soliton equations.",
-    "name" : "Topics in Ordinary Differential Equations"
-  },
-  {
-    "attributes" : null,
-    "code" : "BMED-4965",
-    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   }
