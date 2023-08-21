@@ -25700,6 +25700,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1961",
