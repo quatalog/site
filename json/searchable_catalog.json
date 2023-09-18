@@ -10251,7 +10251,7 @@
     "code" : "CHME-4660",
     "credits" : "? credits",
     "description" : "An introduction to the theory and application of model predictive control (MPC). Overview of discrete-time model-based control. Methods to correct for plant-model mismatch. Unconstrained and constrained solutions to the MPC optimization problem. Extensions to nonlinear systems.",
-    "name" : "Modern Predictive Control"
+    "name" : "Model Predictive Control"
   },
   {
     "attributes" : null,
@@ -10552,7 +10552,7 @@
     "code" : "CHME-6660",
     "credits" : "? credits",
     "description" : "An introduction to the theory and application of model predictive control (MPC). Overview of discrete-time model-based control. Methods to correct for plant-model mismatch. Unconstrained and constrained solutions to the MPC optimization problem. Extensions to nonlinear systems.",
-    "name" : "Modern Predictive Control"
+    "name" : "Model Predictive Control"
   },
   {
     "attributes" : null,
