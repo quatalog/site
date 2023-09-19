@@ -7904,7 +7904,7 @@
     "attributes" : null,
     "code" : "BMED-6420",
     "credits" : "4 credits",
-    "description" : "An in-depth review of the underlying science, engineering, medicine, and contemporary research related to the nation\u2019s highest priorities for musculoskeletal diseases and care. Musculoskeletal anatomy, pathophysiology, epidemiology, and contemporary treatments are covered. Special topics will be presented relating state-of-the-art biomedical research to clinical practice. The clinical perspective of each topic will be presented by practicing clinicians with case studies. Topics conclude with live Webcasts or recorded surgery from Albany Medical Center or the Capital Region Bone and Joint Center. Students cannot get credit for both BMED 4420 and BMED 6420.",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Clincal Orthopaedics And Research"
   },
   {
@@ -14401,8 +14401,8 @@
     "attributes" : null,
     "code" : "CSCI-2700",
     "credits" : "? credits",
-    "description" : "The Rensselaer Center for Open Source (RCOS) is an eclectic group of undergraduate students working on team-based open source projects, including both software and open hardware projects.  This introductory course provides the fundamental skills required to work as a team on an open source project; such skills include version control via Git, team communication techniques, and how to develop, test, and commit changes to an existing Git repository.",
-    "name" : "Introduction To Rcos"
+    "description" : "The Rensselaer Center for Open Source (RCOS) is an eclectic group of undergraduate students working on team-based open source projects, including both software and open hardware projects. This introductory course provides the fundamental skills required to work as a team on an open source project; such skills include version control via Git, team communication techniques, and how to develop, test, and commit changes to an existing Git repository.",
+    "name" : "Introduction to RCOS"
   },
   {
     "attributes" : null,
