@@ -14956,7 +14956,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4850",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Modern Binary Exploitation will focus on teaching practical offensive security skills in binary exploitation and reverse engineering. Through a combination of interactive lectures and hands on labs, the course will offer students an opportunity to explore some of the most technically involved and fascinating subjects in the rapidly evolving field of security. It will cover protections found on modern systems and the techniques used to defeat them.",
     "name" : "Modern Binary Exploitation"
   },
@@ -27962,7 +27962,7 @@
   {
     "attributes" : null,
     "code" : "ITWS-4850",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Modern Binary Exploitation will focus on teaching practical offensive security skills in binary exploitation and reverse engineering. Through a combination of interactive lectures and hands on labs, the course will offer students an opportunity to explore some of the most technically involved and fascinating subjects in the rapidly evolving field of security. It will cover protections found on modern systems and the techniques used to defeat them.",
     "name" : "Modern Binary Exploitation"
   },
