@@ -212,7 +212,7 @@
   {
     "attributes" : null,
     "code" : "ADMN-6960",
-    "credits" : "1 credit",
+    "credits" : "0-1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ADMN"
   },
@@ -1611,14 +1611,14 @@
   {
     "attributes" : null,
     "code" : "ARCH-4961",
-    "credits" : "2 credits",
+    "credits" : "0 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
   {
     "attributes" : null,
     "code" : "ARCH-4962",
-    "credits" : "0 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -1632,14 +1632,14 @@
   {
     "attributes" : null,
     "code" : "ARCH-4964",
-    "credits" : "0 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
   {
     "attributes" : null,
     "code" : "ARCH-4965",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -1667,21 +1667,21 @@
   {
     "attributes" : null,
     "code" : "ARCH-4969",
-    "credits" : "3 credits",
+    "credits" : "2-3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
   {
     "attributes" : null,
     "code" : "ARCH-4970",
-    "credits" : "2-3 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
   {
     "attributes" : null,
     "code" : "ARCH-4971",
-    "credits" : "2-3 credits",
+    "credits" : "0-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -2324,7 +2324,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6965",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -3040,7 +3040,7 @@
   {
     "attributes" : null,
     "code" : "ARTS-2961",
-    "credits" : "4 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARTS"
   },
@@ -5542,7 +5542,7 @@
   {
     "attributes" : null,
     "code" : "BCBP-6962",
-    "credits" : "1 credit",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BCBP"
   },
@@ -6609,7 +6609,7 @@
       "CulmExp"
     ],
     "code" : "BIOL-4990",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "Independent research, supervised by a faculty member, culminating in a written thesis and oral presentation.",
     "name" : "Senior Research Thesis"
   },
@@ -7707,7 +7707,7 @@
   {
     "attributes" : null,
     "code" : "BMED-4960",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
@@ -8043,14 +8043,14 @@
   {
     "attributes" : null,
     "code" : "BMED-6960",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
   {
     "attributes" : null,
     "code" : "BMED-6961",
-    "credits" : "3 credits",
+    "credits" : "1-2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
@@ -9179,7 +9179,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4950",
-    "credits" : "2 credits",
+    "credits" : "1 credit",
     "description" : "Culmination of an independent research project under the guidance of a faculty member or external research project or internship. As a confirmation of their ability to integrate their knowledge of chemistry to deal with a research problem, students will present an oral presentation on their independent work and a research-style paper.",
     "name" : "Culminating Research Experience"
   },
@@ -9214,14 +9214,14 @@
   {
     "attributes" : null,
     "code" : "CHEM-4964",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
   {
     "attributes" : null,
     "code" : "CHEM-4965",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -9641,7 +9641,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-6965",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -10620,7 +10620,7 @@
   {
     "attributes" : null,
     "code" : "CHME-6963",
-    "credits" : "2 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -11928,8 +11928,8 @@
     "attributes" : null,
     "code" : "COGS-4520",
     "credits" : "4 credits",
-    "description" : "",
-    "name" : "Game Development I"
+    "description" : "This class is a practical primer for anyone interested in a career in the rapidly evolving industry of video gaming. It is an intense, team-based, project-based course in which students will closely follow the actual game development cycle, with each team producing a complete PC game.",
+    "name" : "Game Development 1"
   },
   {
     "attributes" : null,
@@ -12024,7 +12024,7 @@
   {
     "attributes" : null,
     "code" : "COGS-4960",
-    "credits" : "1-6 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COGS"
   },
@@ -12227,7 +12227,7 @@
   {
     "attributes" : null,
     "code" : "COGS-6961",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COGS"
   },
@@ -12436,7 +12436,7 @@
   {
     "attributes" : null,
     "code" : "COMM-1960",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COMM"
   },
@@ -15024,7 +15024,10 @@
     "name" : "Topics in CSCI"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "CSCI-4966",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -15047,7 +15050,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4969",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -20497,7 +20500,7 @@
   {
     "attributes" : null,
     "code" : "ENGR-4961",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ENGR"
   },
@@ -27889,7 +27892,8 @@
   {
     "attributes" : 
     [
-      "CI"
+      "CI",
+      "WI"
     ],
     "code" : "ITWS-4100",
     "credits" : "4 credits",
@@ -27990,7 +27994,7 @@
   {
     "attributes" : null,
     "code" : "ITWS-4941",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "",
     "name" : "Undergraduate Research Proj"
   },
@@ -30010,7 +30014,7 @@
   {
     "attributes" : null,
     "code" : "MANE-2400",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Nuclear reactor systems and types; basic reactor physics, criticality calculations; fuel cycles; reactivity changes; reactor kinetics. Instrumentation and control; radiation protection. Reactor materials; shielding; energy removal. Reactor safety; economics. Waste management. Reactor design.",
     "name" : "Fundamentals of Nuclear Engineering"
   },
@@ -30667,7 +30671,7 @@
   {
     "attributes" : null,
     "code" : "MANE-4960",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
@@ -34766,7 +34770,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-6961",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MGMT"
   },
@@ -37010,8 +37014,7 @@
   {
     "attributes" : 
     [
-      "CI",
-      "PDII"
+      "CI"
     ],
     "code" : "PHIL-4500",
     "credits" : "4 credits",
@@ -37733,7 +37736,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-2962",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -37978,14 +37981,14 @@
   {
     "attributes" : null,
     "code" : "PHYS-4960",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
   {
     "attributes" : null,
     "code" : "PHYS-4961",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -38617,7 +38620,7 @@
   {
     "attributes" : null,
     "code" : "PSYC-2960",
-    "credits" : "1 credit",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PSYC"
   },
@@ -40202,7 +40205,6 @@
   {
     "attributes" : 
     [
-      "CI",
       "PDII"
     ],
     "code" : "STSO-4350",
