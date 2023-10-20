@@ -212,7 +212,7 @@
   {
     "attributes" : null,
     "code" : "ADMN-6960",
-    "credits" : "0-1 credit",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ADMN"
   },
@@ -1667,7 +1667,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4969",
-    "credits" : "2-3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -5542,7 +5542,7 @@
   {
     "attributes" : null,
     "code" : "BCBP-6962",
-    "credits" : "2 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BCBP"
   },
@@ -6609,7 +6609,7 @@
       "CulmExp"
     ],
     "code" : "BIOL-4990",
-    "credits" : "1-4 credits",
+    "credits" : "4 credits",
     "description" : "Independent research, supervised by a faculty member, culminating in a written thesis and oral presentation.",
     "name" : "Senior Research Thesis"
   },
@@ -8050,7 +8050,7 @@
   {
     "attributes" : null,
     "code" : "BMED-6961",
-    "credits" : "1-2 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
@@ -8197,7 +8197,7 @@
   {
     "attributes" : null,
     "code" : "BUSN-6310",
-    "credits" : "? credits",
+    "credits" : "6 credits",
     "description" : "In this course, students use financial analysis to evaluate organizational performance. Students calculate and evaluate financial reports and ratios, drawing recommendations for improving performance from their intemporal and cross-competition analysis. Students use optimization and simulation techniques to model the impact of changes on the organization's financial performance. Students develop budgets for new products and ventures using sound principals and techniques, evaluating capital sourcing options and costs.",
     "name" : "Leaders Making Financial Decisions"
   },
@@ -8344,7 +8344,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-1220",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Covers the same lecture material as CHEM 1200 , but laboratory experiments will be more technique-oriented to provide better preparation for students who plan to take future laboratory courses in chemistry. Restricted to Chemistry majors.",
     "name" : "Chemistry II Honors"
   },
@@ -8976,7 +8976,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4300",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "This course explores the fundamental principles that define the relationship between chemical structure and the biological action of drug molecules. A major focus of the course is the application of these chemical principles to molecular-targeted drug discovery, molecular mechanisms of pharmacological activity, and the biopharmaceutical properties of drugs. The relationships between drug structure, therapeutic properties, and physicochemical characteristics will be discussed. Structure activity relationships (SAR), structure-property relationships (SPR) and ADME (absorption, distribution, metabolism, and excretion) will be explored and presented through case studies. The roles of computational chemistry, molecular modeling, and biophysical methods in the understanding of the relationship between structure and biological activity will also be studied. Although an emphasis will be placed on orally bioavailable small molecules, alternative drug modalities will also be discussed.",
     "name" : "Medicinal Chemistry"
   },
@@ -9074,7 +9074,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4610",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course provides students with a comprehensive understanding of the diverse range of natural polymers, their role in nature, routes to production, physical properties, and applications. Natural polymers are of growing importance as society transitions from carbon derived from petroleum to readily renewable sources such as plants. Furthermore, natural polymer biosynthesis occurs under mild and sustainable conditions that provide representative examples of green chemistry. Natural polymers offer desirable attributes such as biodegradability and properties that can be manipulated by traditional methods such as modification or blending as well as via genetic engineering. The course introduces numerous families of natural polymers from sources such as plant cell walls, rubber trees, grains, crustacean exoskeletons, fungal cell walls, microbial fermentation, seaweed, seeds, silkworms, spiders, and animals. Applications of natural polymers and their modified forms that will be discussed include but are not limited to, thickeners, biodegradable plastics, medical materials, fibers in composites, nanoparticles, antimicrobials, and cosmetic ingredients.",
     "name" : "Natural Polymers and Materials"
   },
@@ -9200,7 +9200,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4962",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -14211,7 +14211,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-1700",
-    "credits" : "? credits",
+    "credits" : "2 credits",
     "description" : "The Rensselaer Center for Open Source (RCOS) is an eclectic group of undergraduate students working on team-based open source projects, including both software and open hardware projects. This initial course provides the core skills required to work on an open source project.",
     "name" : "Early Introduction to RCOS"
   },
@@ -14400,7 +14400,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-2700",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "The Rensselaer Center for Open Source (RCOS) is an eclectic group of undergraduate students working on team-based open source projects, including both software and open hardware projects. This introductory course provides the fundamental skills required to work as a team on an open source project; such skills include version control via Git, team communication techniques, and how to develop, test, and commit changes to an existing Git repository.",
     "name" : "Introduction to RCOS"
   },
@@ -15057,7 +15057,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4970",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -18371,9 +18371,12 @@
     "name" : "Computer Hardware Design"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CulmExp"
+    ],
     "code" : "ECSE-4780",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Design methodologies include register transfer modules and firmware microprogrammed design. \"Bit-slice\" philosophy of design. LSI microprocessors as design elements in larger digital systems such as high-speed channels and special purpose computers. Detailed discussion of the structure of several computers at the chip and board level. Specification of custom IC digital systems. FPGA based design implementation using VHDL.",
     "name" : "Advanced Computer Hardware Design"
   },
@@ -20766,7 +20769,7 @@
   {
     "attributes" : null,
     "code" : "ENGR-6963",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ENGR"
   },
@@ -20955,7 +20958,7 @@
   {
     "attributes" : null,
     "code" : "ENVE-2940",
-    "credits" : "1-6 credits",
+    "credits" : "3 credits",
     "description" : "",
     "name" : "Readings in Environmental Engineering"
   },
@@ -23354,14 +23357,14 @@
   {
     "attributes" : null,
     "code" : "ERTH-6230",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Climate change is driving an increase in extreme weather events (storms, drought, wildfire). These events manifest as episodic disturbances to affected ecosystems that can alter carbon and nutrient fluxes and reorganize biogeochemical cycles. This course is an in-depth study of current, peer-reviewed literature addressing biogeochemical responses to environmental disturbance and extreme events across varied spatial and temporal scales.",
     "name" : "Biogeochemical Impacts of Extreme Events"
   },
   {
     "attributes" : null,
     "code" : "ERTH-6240",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course will provide an in-depth and exploratory understanding of atmospheric evolution throughout Earth's history, beginning with the moon-forming event 4.54 billion years ago and continuing into the present. Students will learn about the geological, biological, and anthropogenic mechanisms that altered the atmosphere. This course is designed to offer students an applied and interactive learning environment.",
     "name" : "Evolution of Earth's Atmosphere"
   },
@@ -27252,7 +27255,7 @@
   {
     "attributes" : null,
     "code" : "ISYE-4370",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Transforming data into useful information and actionable insights for decision-making is an important skill that is becoming indispensable for scientists and engineers. The objective of this course is to introduce data analytics tools to engineers through hands-on computational applications. Topics covered include probability and statistics review, data visualization, linear regression, time-series analysis, forecasting, optimization, simulation, and spreadsheet models. Applications will be in Python, MATLAB, and Excel.",
     "name" : "Engineering Data Analytics"
   },
@@ -27336,7 +27339,7 @@
   {
     "attributes" : null,
     "code" : "ISYE-4960",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ISYE"
   },
@@ -27553,14 +27556,14 @@
   {
     "attributes" : null,
     "code" : "ISYE-6370",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Transforming data into useful information and actionable insights for decision-making is an important skill that is becoming indispensable for scientists and engineers. The objective of this course is to introduce data analytics tools to engineers through hands-on computational applications. Topics covered include probability and statistics review, data visualization, linear regression, time-series analysis, forecasting, optimization, simulation, and spreadsheet models. Applications will be in Python, MATLAB, and Excel.",
     "name" : "Engineering Data Analytics"
   },
   {
     "attributes" : null,
     "code" : "ISYE-6550",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Network flow problems form a subclass of linear programming problems with applications to transportation, logistics, manufacturing, computer science, project management, and finance, and many other domains. This subject will survey some of the applications of network optimization and focus on key special cases of network optimization problems including the following: the shortest path problems, the maximum flow problems, traveling salesperson problems, and matching problems.",
     "name" : "Network Flows: Theory, Algorithms, and Applications"
   },
@@ -27994,7 +27997,7 @@
   {
     "attributes" : null,
     "code" : "ITWS-4941",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "",
     "name" : "Undergraduate Research Proj"
   },
@@ -30483,7 +30486,7 @@
   {
     "attributes" : null,
     "code" : "MANE-4620",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Student teams finalize manufacturing system plans from select ENGR 4710 projects, build a manufacturing system to complete several hundred units of a product, optimize the system, manage a project budget, modify manufacturing packaging plans, and conform to a project schedule as proposed in the associated project Technical Data Packages produced by ENGR 4710 teams. In addition, students will learn new advanced manufacturing topics to increase their breath and depth of manufacturing.",
     "name" : "Manufacturing Processes and Systems Lab II"
   },
@@ -33494,7 +33497,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-4090",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is designed to help develop essential expertise in managing negotiations that occur in a broad array of business settings. The goal is for students to be better able to recognize types of negotiation situations, understand the spectrum of choices available, develop a realistic set of options for inclusion in the negotiation, and gain proficiency in helping to shape beneficial outcomes of the negotiation. The course allows students to develop negotiation skills experientially using a variety of exercises and case studies while implementing useful analytical frameworks. A variety of negotiation situations are covered so that students can gain insight and skill in addressing a wide spectrum of negotiation situations.",
     "name" : "Negotiations"
   },
@@ -33878,7 +33881,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-4962",
-    "credits" : "3 credits",
+    "credits" : "0 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MGMT"
   },
