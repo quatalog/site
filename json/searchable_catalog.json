@@ -23235,7 +23235,7 @@
   {
     "attributes" : null,
     "code" : "ERTH-4965",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ERTH"
   },
@@ -23494,7 +23494,7 @@
   {
     "attributes" : null,
     "code" : "ERTH-6965",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ERTH"
   },
