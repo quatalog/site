@@ -30610,10 +30610,7 @@
     "name" : "Space Vehicle Design"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "MANE-4860",
     "credits" : "3 credits",
     "description" : "Review of linear finite element concepts. Nonlinear continuum mechanics of solids: finite strain and stress measures, total and updated Lagrangian approaches, variational methods - virtural work principle. Non-linear finite element procedures: incremental solution of nonlinear equations, Newton-Raphson method. Finite elements for elastro-plasticity. Finite elements for hyper-elasticity. Contact of solids using finite elements. Finite elements in dynamics.",
@@ -31238,7 +31235,7 @@
   {
     "attributes" : null,
     "code" : "MANE-6860",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Review of linear finite element concepts. Nonlinear continuum mechanics of solids: finite strain and stress measures, total and updated Lagrangian approaches, variational methods - virtual work principle. Non-linear finite element procedures: Incremental solution of nonlinear equations, Newton-Rephson method. Finite elements for elasto-plasticity. Finite elements for hyper-elasticity. Contact of solids using finite elements. Finite elements in dynamics.",
     "name" : "Introduction to Nonlinear Finite Elements"
   },
