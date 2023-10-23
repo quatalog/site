@@ -1646,7 +1646,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4966",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -24096,7 +24096,7 @@
   {
     "attributes" : null,
     "code" : "GSAS-4230",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "A course building on the fundamentals of animation and focusing on implementing these fundamentals in the process of making games for 3D engines like Unreal, which involves hand-keyed cycle animation as well as utilizing motion capture data.",
     "name" : "Game Animation"
   },
