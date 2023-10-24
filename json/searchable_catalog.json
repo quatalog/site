@@ -212,7 +212,7 @@
   {
     "attributes" : null,
     "code" : "ADMN-6960",
-    "credits" : "1 credit",
+    "credits" : "0-1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ADMN"
   },
@@ -1667,7 +1667,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4969",
-    "credits" : "2 credits",
+    "credits" : "2-3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -5542,7 +5542,7 @@
   {
     "attributes" : null,
     "code" : "BCBP-6962",
-    "credits" : "1 credit",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BCBP"
   },
@@ -6609,7 +6609,7 @@
       "CulmExp"
     ],
     "code" : "BIOL-4990",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "Independent research, supervised by a faculty member, culminating in a written thesis and oral presentation.",
     "name" : "Senior Research Thesis"
   },
@@ -8050,7 +8050,7 @@
   {
     "attributes" : null,
     "code" : "BMED-6961",
-    "credits" : "2 credits",
+    "credits" : "1-2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
@@ -15009,7 +15009,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4964",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -20952,7 +20952,7 @@
   {
     "attributes" : null,
     "code" : "ENVE-2940",
-    "credits" : "3 credits",
+    "credits" : "1-6 credits",
     "description" : "",
     "name" : "Readings in Environmental Engineering"
   },
@@ -23456,7 +23456,7 @@
   {
     "attributes" : null,
     "code" : "ERTH-6960",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ERTH"
   },
