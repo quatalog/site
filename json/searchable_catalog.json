@@ -35562,7 +35562,7 @@
   {
     "attributes" : null,
     "code" : "MTLE-2040",
-    "credits" : "? credits",
+    "credits" : "1 credit",
     "description" : "Elementary programming concepts, basic data analysis and visualization using the Python programming language for students with little or no prior programming experience. Topics covered include variables, control flow, arrays, plotting, curve fitting and basic numerical simulation, using examples based in materials engineering. Graded Satisfactory / Unsatisfactory",
     "name" : "Programming for Materials Engineers"
   },
