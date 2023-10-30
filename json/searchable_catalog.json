@@ -25360,6 +25360,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1180",
