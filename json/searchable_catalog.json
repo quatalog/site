@@ -40188,7 +40188,10 @@
     "name" : "Environmental Justice"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "PDII"
+    ],
     "code" : "STSO-4340",
     "credits" : "4 credits",
     "description" : "While concepts such as quality of life, environment, nature, global ecology, and the like figure heavily in contemporary discussions, they are seldom integrated into an environmental philosophy. The course tries to achieve this integration by understanding some of the religious, mythic-poetic, and scientific dimensions of the human-nature matrix. Some specific environmental problems are examined to illustrate the system of values implied by various solutions.",
