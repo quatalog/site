@@ -36687,7 +36687,11 @@
     "name" : "Philosophy of Biology"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "PDII"
+    ],
     "code" : "PHIL-2500",
     "credits" : "4 credits",
     "description" : "This course explores ethical issues posed by the proliferation of artificial intelligence (AI) technologies. There are three major components of the course. The first canvases philosophical ethics and develops a methodology for making ethical judgments (15% of the course). The second reviews arguments about how AI is already impacting our lives and how it potentially may in the future (60% of the course). Lastly, students research (in groups ) and present on some debate in AI ethics of their choosing (with instructor guidance; 25% of the course).",
