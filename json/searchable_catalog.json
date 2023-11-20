@@ -14594,8 +14594,8 @@
     "attributes" : null,
     "code" : "CSCI-4050",
     "credits" : "4 credits",
-    "description" : "This course discusses concepts of languages defined by formal grammars, Turing machines and rewriting systems, computability, Church-Turing thesis, decidable and undecidable problems, computational complexity, polynomial reducibility, NP-completeness, and Cook's theorem. Students cannot receive credit for both CSCI 4050 and CSCI 6050.",
-    "name" : "Computability and Complexity"
+    "description" : "",
+    "name" : "Computability,compilers & Comp"
   },
   {
     "attributes" : null,
@@ -15227,8 +15227,8 @@
     "attributes" : null,
     "code" : "CSCI-6050",
     "credits" : "3 credits",
-    "description" : "This course discusses concepts of languages defined by formal grammars, Turing machines and rewriting systems, computability, Church-Turing thesis, decidable and undecidable problems, computational complexity, polynomial reducibility, NP-completeness, and Cook's theorem. Students cannot receive credit for both CSCI 4050 and CSCI 6050.",
-    "name" : "Computability and Complexity"
+    "description" : "",
+    "name" : "Computability & Complexity"
   },
   {
     "attributes" : null,
