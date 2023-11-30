@@ -1576,7 +1576,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4956",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "",
     "name" : "Topics In Architecture"
   },
@@ -1590,14 +1590,14 @@
   {
     "attributes" : null,
     "code" : "ARCH-4958",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "",
     "name" : "Topics Course In Architecture"
   },
   {
     "attributes" : null,
     "code" : "ARCH-4959",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "",
     "name" : "Topics Courses In Architecture"
   },
@@ -1667,7 +1667,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4969",
-    "credits" : "2-3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
