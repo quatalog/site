@@ -212,7 +212,7 @@
   {
     "attributes" : null,
     "code" : "ADMN-6960",
-    "credits" : "0-1 credit",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ADMN"
   },
@@ -1184,6 +1184,20 @@
   },
   {
     "attributes" : null,
+    "code" : "ARCH-4320",
+    "credits" : "? credits",
+    "description" : "This course provides critical technical knowledge and skills for students to critically address environmental building regulations and the practice of",
+    "name" : "Building Integration 1: Design"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-4325",
+    "credits" : "? credits",
+    "description" : "This course provides consultation with experts to prepare students with the necessary leadership skills for collaborative practice through lectures and skill building workshops. This course will provide access to professional disciplines typically engaged in the building design process as consultants, including sustainable practice, structural, mechanical, environmental, and high-performance facade design to support the integration of of technical knowledge and to promote innovation in current and future best practices, and stewardship of resources within architecture.",
+    "name" : "Building Integration 2 - Prtc"
+  },
+  {
+    "attributes" : null,
     "code" : "ARCH-4330",
     "credits" : "3 credits",
     "description" : "This course builds on the material presented in Structures 1, with an emphasis on the analysis and design of structures compressed primarily of steel and site cast and pre-cast concrete, with an overview of load-bearing masonry and advanced systems. The theoretical concepts covered in the introduction course form the conceptual basis for work in Structures 2, with relevant new concepts/techniques covered. Innovative, non-normative structural systems are investigated and discussed. Analysis and design will proceed using primarily computer-aided techniques. The course approach will involve in-class presentations, homework and project work, computer lab, field trips, and case studies. WebCT will be used to expand the student's access to course materials and allow for a measure of distance learning. Sustainability: The following notions are introduced as important attributes of sustainable structures and construction: structural robustness, and programmatic flexibility. (Design optimization approaches are introduced and explored as avenues to accomplish more optimum design conditions under increasingly strict design constraints.)",
@@ -1576,7 +1590,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4956",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "",
     "name" : "Topics In Architecture"
   },
@@ -1590,7 +1604,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4958",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "",
     "name" : "Topics Course In Architecture"
   },
@@ -1618,7 +1632,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4962",
-    "credits" : "2 credits",
+    "credits" : "0 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -1639,7 +1653,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4965",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -1653,7 +1667,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4967",
-    "credits" : "2-3 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -1667,21 +1681,21 @@
   {
     "attributes" : null,
     "code" : "ARCH-4969",
-    "credits" : "2 credits",
-    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
-    "name" : "Topics in ARCH"
-  },
-  {
-    "attributes" : null,
-    "code" : "ARCH-4970",
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
   {
     "attributes" : null,
+    "code" : "ARCH-4970",
+    "credits" : "2-3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ARCH"
+  },
+  {
+    "attributes" : null,
     "code" : "ARCH-4971",
-    "credits" : "0-4 credits",
+    "credits" : "2-3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -1837,6 +1851,20 @@
     "credits" : "4 credits",
     "description" : "An exploration of the fundamental principles of human physiology, thermal and luminous comfort, and indoor quality. Emphasis is on bioclimatic and psychrometric climate analysis and its relationship to architectural design, understanding the energy exchange between body in space, the natural meaning of enclosures, and nonstructural materials and systems. The focus is on passive heating, cooling, and daylighting systems and their design. Exercises include vital sign analysis of existing spaces (thermal, air, luminous), forming hypotheses of building performance, using scientific instrumentation, tenant survey techniques, and physical modeling and simulation techniques related to daylighting and shading techniques. This course is required of all architecture graduate students in the M.Arch. program.",
     "name" : "Environmental and Ecological Systems"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-5320",
+    "credits" : "? credits",
+    "description" : "This course provides critical technical knowledge and skills for students to critically address environmental building regulations and the practice of",
+    "name" : "Building Integration 1: Design"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-5325",
+    "credits" : "? credits",
+    "description" : "This course provides consultation with experts to prepare students with the necessary leadership skills for collaborative practice through lectures and skill building workshops. This course will provide access to professional disciplines typically engaged in the building design process as consultants, including sustainable practice, structural, mechanical, environmental, and high-performance facade design to support the integration of of technical knowledge and to promote innovation in current and future best practices, and stewardship of resources within architecture.",
+    "name" : "Building Integration 2 - Prtc"
   },
   {
     "attributes" : null,
@@ -2324,7 +2352,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6965",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -2571,6 +2599,13 @@
     "credits" : "4 credits",
     "description" : "An introductory course in drawing designed to develop seeing ability and means of expressing visual ideas through graphic skills. The course consists of exercises in drawing from observation and studies from the history of art.",
     "name" : "Basic Drawing"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARTS-1220",
+    "credits" : "? credits",
+    "description" : "An introductory course which will present basic concepts about composition, line, pictorial space, light, and color in the visual arts in order to help students develop the means for expressing visual ideas effectively. Weekly homework design projects will be complemented by in-class slide lectures, videos, and critiques.",
+    "name" : "Fundamentals Of 2d Design"
   },
   {
     "attributes" : null,
@@ -5598,7 +5633,7 @@
   {
     "attributes" : null,
     "code" : "BCBP-6970",
-    "credits" : "1-4 credits",
+    "credits" : "1-9 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BCBP"
   },
@@ -6609,7 +6644,7 @@
       "CulmExp"
     ],
     "code" : "BIOL-4990",
-    "credits" : "1-4 credits",
+    "credits" : "4 credits",
     "description" : "Independent research, supervised by a faculty member, culminating in a written thesis and oral presentation.",
     "name" : "Senior Research Thesis"
   },
@@ -7586,8 +7621,8 @@
     "attributes" : null,
     "code" : "BMED-4490",
     "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Sensors And Instruments"
+    "description" : "Introduction of artificial neural networks, rule/case-based reasoning, Bayesian methods, fuzzy-logic, genetic and evolutionary optimization techniques, and agents.  The course presents the evolution of artificial neural networks from its inception to the principles of deep learning, introduces rule/case-based reasoning, fuzzy-logic, genetic algorithms and particle swarm optimization methods.  Besides covering the foundation of associated methods, the course emphasizes biomedical applications and presents associated results from studies to autism, discriminating cancer types, burn severity and tissue engineering problems.",
+    "name" : "Ai For Biomedical Applications"
   },
   {
     "attributes" : null,
@@ -7707,7 +7742,7 @@
   {
     "attributes" : null,
     "code" : "BMED-4960",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
@@ -7904,7 +7939,7 @@
     "attributes" : null,
     "code" : "BMED-6420",
     "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "description" : "The course covers matrix algebra and decompositions, including eigenvalue and generalized eigenvalue problems, solving multivariate constraint and unconstraint optimization problems, gradient-based optimization for solving nonlinear optimization problems, and regression analysis. Concepts that are discussed include solving nonlinear optimization problems, first- and second-order gradient-based methods, estimating parameters for multiple linear regression and mechanistic first-principle models. The course also introduces important data science tasks: data analysis, regression, classification and presents application studies related to biomedical engineering.",
     "name" : "Clincal Orthopaedics And Research"
   },
   {
@@ -7948,6 +7983,13 @@
     "credits" : "4 credits",
     "description" : "Introduction of multivariate statistical methods to model and analyze recorded data from physiological systems in biomedical engineering. Statistical approaches related to applied multivariate statistics, classification, and regression. Associated linear methods include principal component analysis, Fisher discriminant analysis, partial least squares, canonical correlation analysis and their nonlinear counterparts. Descriptive tools include scatter diagrams, Hotelling's T2 statistics and contribution plots. The course has a strong emphasis on biomedical applications.",
     "name" : "Biomedical Data Science"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-6490",
+    "credits" : "? credits",
+    "description" : "Introduction of artificial neural networks, rule/case-based reasoning, Bayesian methods, fuzzy-logic, genetic and evolutionary optimization techniques, and agents.  The course presents the evolution of artificial neural networks from its inception to the principles of deep learning, introduces rule/case-based reasoning, fuzzy-logic, genetic algorithms and particle swarm optimization methods.  Besides covering the foundation of associated methods, the course emphasizes biomedical applications and presents associated results from studies to autism, discriminating cancer types, burn severity and tissue engineering problems.",
+    "name" : "Ai For Biomedical Applications"
   },
   {
     "attributes" : null,
@@ -8043,14 +8085,14 @@
   {
     "attributes" : null,
     "code" : "BMED-6960",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
   {
     "attributes" : null,
     "code" : "BMED-6961",
-    "credits" : "1-2 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
@@ -9200,7 +9242,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4962",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -9214,14 +9256,14 @@
   {
     "attributes" : null,
     "code" : "CHEM-4964",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
   {
     "attributes" : null,
     "code" : "CHEM-4965",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -9641,7 +9683,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-6965",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -10620,7 +10662,7 @@
   {
     "attributes" : null,
     "code" : "CHME-6963",
-    "credits" : "1 credit",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -12024,7 +12066,7 @@
   {
     "attributes" : null,
     "code" : "COGS-4960",
-    "credits" : "4 credits",
+    "credits" : "1-6 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COGS"
   },
@@ -12227,7 +12269,7 @@
   {
     "attributes" : null,
     "code" : "COGS-6961",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COGS"
   },
@@ -14730,6 +14772,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CSCI-4330",
+    "credits" : "? credits",
+    "description" : "Java is one of the most popular general purpose modern programming languages used in industry. This course focuses on learning and practicing advanced Java features which are widely used in industry and academia. The first part of the course is dedicated to object-oriented features of Java and how to use them in software design. It also covers all major tools that support development process during the entire software development life cycle. The second part of the course covers parallel programming, how it can be implemented in Java, its advantages and limitations. The third part of the course is dedicated to creating Web applications. Finally, the fourth part of the course discusses different database models and provides specific details on how to create Java applications that can use different databases as a data storage option. Special attention is given to noSQL graph databases which combined with Java allow building solutions that are capable of storing, manipulating, and analyzing billion-node scale networks.",
+    "name" : "Application Design Using Java"
+  },
+  {
+    "attributes" : null,
     "code" : "CSCI-4340",
     "credits" : "4 credits",
     "description" : "This course provides an introduction to ontologies, their uses, and an overview of their application in semantically enabled systems. Ontologies encode term meanings and are used to improve communication and enable computer programs to function more effectively. Class participants learn how to use ontologies in Web-based applications and evaluate ontologies for reuse. Participants read relevant papers, learn how to critically review ontology papers and ontologies, and participate in group project(s) designing, using, and evaluating ontologies.",
@@ -15015,14 +15064,14 @@
   {
     "attributes" : null,
     "code" : "CSCI-4964",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
   {
     "attributes" : null,
     "code" : "CSCI-4965",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15050,14 +15099,14 @@
   {
     "attributes" : null,
     "code" : "CSCI-4969",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
   {
     "attributes" : null,
     "code" : "CSCI-4970",
-    "credits" : "1-4 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15357,6 +15406,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CSCI-6330",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Do Not Use"
+  },
+  {
+    "attributes" : null,
     "code" : "CSCI-6340",
     "credits" : "4 credits",
     "description" : "This course provides an introduction to ontologies, their uses, and an overview of their application in semantically enabled systems. Ontologies encode term meanings and are used to improve communication and enable computer programs to function more effectively. Class participants learn how to use ontologies in web-based applications and evaluate ontologies for reuse. Participants read relevant papers, learn how to critically review ontology papers and ontologies, and participate in group project(s) designing, using, and evaluating ontologies.",
@@ -15588,14 +15644,14 @@
   {
     "attributes" : null,
     "code" : "CSCI-6965",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
   {
     "attributes" : null,
     "code" : "CSCI-6966",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15616,7 +15672,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6969",
-    "credits" : "3 credits",
+    "credits" : "0-1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -20155,10 +20211,7 @@
     "name" : "Strength of Materials"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ENGR-2600",
     "credits" : "3 credits",
     "description" : "Appreciation and understanding of uncertainties and the conditions under which they occur, within the context of the engineering problem-solving pedagogy of measurements, models, validation, and analysis. Problems and concerns in obtaining measurements; tabular and graphical organization of data to minimize misinformation and maximize information; and development and evaluation of models. Concepts will be supported with computer demonstration. Applications to problems in engineering are emphasized.",
@@ -20740,6 +20793,13 @@
     "credits" : "3 credits",
     "description" : "Building on the experience with DMAIC, students learn to identify the need for a new process, quantify its value and create it so that the quality of the results meet a predefined quality standard. To do so, the Define, Measure, Analyze, Design, Optimize, and Verify (DMADOV) is used. The first three phases of DMAIC lay the foundation, but new tools and skills are learned in the context of new process creation. These include: developing an elevator speech, data collection and statistical methods for design of experiments (DOE), root cause analysis, and developing key performance indicators (KPIs) and dashboards.",
     "name" : "Lean Six Sigma II"
+  },
+  {
+    "attributes" : null,
+    "code" : "ENGR-6420",
+    "credits" : "? credits",
+    "description" : "The course covers matrix algebra and decompositions, including eigenvalue and generalized eigenvalue problems, solving multivariate constraint and unconstraint optimization problems, gradient-based optimization for solving nonlinear optimization problems, and regression analysis. Concepts that are discussed include solving nonlinear optimization problems, first- and second-order gradient-based methods, estimating parameters for multiple linear regression and mechanistic first-principle models. The course also introduces important data science tasks: data analysis, regression, classification and presents application studies related to biomedical engineering.",
+    "name" : "Engineering Math: Data Science"
   },
   {
     "attributes" : null,
@@ -23465,7 +23525,7 @@
   {
     "attributes" : null,
     "code" : "ERTH-6960",
-    "credits" : "1-4 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ERTH"
   },
@@ -25633,6 +25693,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1700",
@@ -25713,6 +25774,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1960",
@@ -27339,7 +27401,7 @@
   {
     "attributes" : null,
     "code" : "ISYE-4960",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ISYE"
   },
@@ -27895,8 +27957,7 @@
   {
     "attributes" : 
     [
-      "CI",
-      "WI"
+      "CI"
     ],
     "code" : "ITWS-4100",
     "credits" : "4 credits",
@@ -29136,13 +29197,6 @@
     "credits" : "1 credit",
     "description" : "This laboratory course reiterates the important concepts learned in the Physics of Light class and provides hands on experience to instruct students in the use of different types of light meters and laboratory instruments.",
     "name" : "Physics of Light Laboratory"
-  },
-  {
-    "attributes" : null,
-    "code" : "LGHT-6840",
-    "credits" : "? credits",
-    "description" : "",
-    "name" : "The Physics Of Lght Lab"
   },
   {
     "attributes" : null,
@@ -30671,7 +30725,7 @@
   {
     "attributes" : null,
     "code" : "MANE-4960",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
@@ -34770,7 +34824,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-6961",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MGMT"
   },
@@ -37018,7 +37072,8 @@
   {
     "attributes" : 
     [
-      "CI"
+      "CI",
+      "PDII"
     ],
     "code" : "PHIL-4500",
     "credits" : "4 credits",
@@ -37071,10 +37126,7 @@
     "name" : "Readings In Phil"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "PHIL-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -37750,7 +37802,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-2962",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -37995,21 +38047,21 @@
   {
     "attributes" : null,
     "code" : "PHYS-4960",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
   {
     "attributes" : null,
     "code" : "PHYS-4961",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
   {
     "attributes" : null,
     "code" : "PHYS-4962",
-    "credits" : "4 credits",
+    "credits" : "1-2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -39461,8 +39513,8 @@
     ],
     "code" : "STSO-1110",
     "credits" : "4 credits",
-    "description" : "This course examines science and technology in their social, cultural, and political context. Readings are drawn from social sciences, fiction, and contemporary journalism. Case studies will include genetic testing, automation, vaccines, engineering education, AIDS activism, mental health, surveillance, and climate change. The class is designed to give students the freedom to develop and express their own ideas.",
-    "name" : "Science, Technology & Society"
+    "description" : "",
+    "name" : "Science, Tech And Society"
   },
   {
     "attributes" : null,
