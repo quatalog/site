@@ -212,7 +212,7 @@
   {
     "attributes" : null,
     "code" : "ADMN-6960",
-    "credits" : "1 credit",
+    "credits" : "0-1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ADMN"
   },
@@ -1688,14 +1688,14 @@
   {
     "attributes" : null,
     "code" : "ARCH-4970",
-    "credits" : "2-3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
   {
     "attributes" : null,
     "code" : "ARCH-4971",
-    "credits" : "2-3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -8743,7 +8743,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-2930",
-    "credits" : "1-4 credits",
+    "credits" : "1 credit",
     "description" : "Students may obtain credit for chemistry-related experience in nonclassroom situations. For credit to be awarded, a brief proposal outlining the nature of the experience to be undertaken must be given to the department in advance for approval of its suitability. A written report is required at the end of the experience. A maximum of 4 credits is allowed, but this may be made up in more than one experience.",
     "name" : "Out-of-Classroom Experience in Chemistry"
   },
