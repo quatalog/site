@@ -2113,6 +2113,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ARCH-6615",
+    "credits" : "? credits",
+    "description" : "G",
+    "name" : "Open"
+  },
+  {
+    "attributes" : null,
     "code" : "ARCH-6620",
     "credits" : "5 credits",
     "description" : "This is a technology-based design studio emphasizing the materialization and making of architectural design projects. The integration of building code requirements for fire protection, life safety, accessibility, building environmental systems, structure, construction, and materiality is central to the effective achievement of design intent. Students become aware of how these issues affect and inform design decisions. They learn to integrate technology, systems, and materials in the comprehensive resolution of building design and gain exposure to construction documents and design documentation. Construction and site visits are an integral part of the studio as is an integrated electronic media seminar on CAD applications. Students must coregister for ARCH 5380, Professional Practice 1, a concurrent 2-credit course that introduces codes, the regulatory process, agreements, contract documents, building design cost control, and administration. This course is required of all architecture students in the M.Arch. program.",
@@ -2124,6 +2131,13 @@
     "credits" : "5 credits",
     "description" : "This design studio will explore various concerns that relate architecture to environmental and ecological concerns. It will address human intervention at multiple and diverse scales within the natural world in order to understand their social, technical, aesthetic, conceptual, and philosophical implications for architectural design. Throughout the semester, the evolution of student design proposals will coordinate with the environmental and ecological issues that are presented in the supporting courses at CASE that are taken simultaneously with this studio. B.Arch. students can only register for the 4000 level of this course and M.Arch. students must register only for the 6000 level of this course.",
     "name" : "Graduate Architecture Design 5"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-6635",
+    "credits" : "? credits",
+    "description" : "This course spans between architectural development and professional practice. The course focuses on a core of technical points central to the professional practice and fields of specialist expertise. The course integrates a professional review and development process of students' comprehensive design work combined with technical design workshops, including input from practicing architects, engineers and professional consultants. In addition to workshops, the format of the course will include lectures, site visits, and office visits with a variety of practitioners and specialist consultants engaged in the Architecture, Engineering and Construction (AEC) industries. The course will add depth, increase knowledge and provide critical feedback for the expanded role of the design professional in contemporary culture.",
+    "name" : "Bridge To Practice"
   },
   {
     "attributes" : null,
