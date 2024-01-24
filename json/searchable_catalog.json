@@ -11920,6 +11920,13 @@
   },
   {
     "attributes" : null,
+    "code" : "COGS-4230",
+    "credits" : "? credits",
+    "description" : "This seminar explores the growing convergence between computational theories of human and machine learning. The course will focus on major theoretical frameworks including deep learning, Bayesian inference, information theory, and reinforcement learning, utilizing journal articles from both machine learning and cognitive science literatures. These topics will be critically evaluated from the perspective of how computational theories can be instantiated in cognitive systems. Both successes, and limitations, of current computational theories will be considered.",
+    "name" : "Human & Machine Learning"
+  },
+  {
+    "attributes" : null,
     "code" : "COGS-4320",
     "credits" : "4 credits",
     "description" : "",
@@ -12188,6 +12195,13 @@
     "credits" : "? credits",
     "description" : "This is a graduate level course that extends the objectives of Cognitive Modeling I to additional cognitive architectures. The first part of the course is a survey of cognitive modeling paradigms. The second part will be a more in-depth coverage of two or three architectures and will be done by teams of students. Each team will study one architecture including the development of a model.",
     "name" : "Cognitive Modeling II"
+  },
+  {
+    "attributes" : null,
+    "code" : "COGS-6230",
+    "credits" : "? credits",
+    "description" : "This seminar explores the growing convergence between computational theories of human and machine learning. The course will focus on major theoretical frameworks including deep learning, Bayesian inference, information theory, and reinforcement learning, utilizing journal articles from both machine learning and cognitive science literatures. These topics will be critically evaluated from the perspective of how computational theories can be instantiated in cognitive systems. Both successes, and limitations, of current computational theories will be considered.",
+    "name" : "Human & Machine Learning"
   },
   {
     "attributes" : null,
