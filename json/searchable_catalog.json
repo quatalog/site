@@ -9221,7 +9221,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4940",
-    "credits" : "1-8 credits",
+    "credits" : "1-2 credits",
     "description" : "",
     "name" : "Readings In Chem"
   },
@@ -11921,7 +11921,7 @@
   {
     "attributes" : null,
     "code" : "COGS-4230",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This seminar explores the growing convergence between computational theories of human and machine learning. The course will focus on major theoretical frameworks including deep learning, Bayesian inference, information theory, and reinforcement learning, utilizing journal articles from both machine learning and cognitive science literatures. These topics will be critically evaluated from the perspective of how computational theories can be instantiated in cognitive systems. Both successes, and limitations, of current computational theories will be considered.",
     "name" : "Human & Machine Learning"
   },
@@ -12199,7 +12199,7 @@
   {
     "attributes" : null,
     "code" : "COGS-6230",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This seminar explores the growing convergence between computational theories of human and machine learning. The course will focus on major theoretical frameworks including deep learning, Bayesian inference, information theory, and reinforcement learning, utilizing journal articles from both machine learning and cognitive science literatures. These topics will be critically evaluated from the perspective of how computational theories can be instantiated in cognitive systems. Both successes, and limitations, of current computational theories will be considered.",
     "name" : "Human & Machine Learning"
   },
@@ -12297,7 +12297,7 @@
   {
     "attributes" : null,
     "code" : "COGS-6961",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COGS"
   },
@@ -20496,7 +20496,7 @@
   {
     "attributes" : null,
     "code" : "ENGR-4440",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "The study of the link between engineering and management. Students will gain an in-depth understanding of the foundations of engineering management. Topics covered include the concept of engineering management, its relationship to engineering, and its historical underpinnings, and the traditional roles of management with a particular emphasis on leadership skills. The course examines the difference between managerial vs. leadership roles in organizational settings. Furthermore, attention is given to evaluating risk, and other organizational and administrative capabilities.  The ethical dimensions of the organization and the engineering community are also explored.",
     "name" : "Mgmt Of Engineering & Tech"
   },
@@ -24841,10 +24841,7 @@
     "name" : "Readings In Ihss"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "IHSS-2960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -28893,7 +28890,7 @@
   {
     "attributes" : null,
     "code" : "LANG-4455",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course introduces students to the techniques and socio-cultural significance of Chinese calligraphy as they explore its history, aesthetics, and practice. Students will gain hands-on practice with brush and ink, developing fundamental calligraphic skills as they analyze historical and contemporary examples of the art from both cultural studies and artistic perspectives. Finally, they will learn about the wellness benefits of calligraphic practice, including improved mental health, concentration, posture, and spiritual calmness. Taught in English, this course requires no prior knowledge of Chinese.",
     "name" : "Chinese Calligraphy"
   },
@@ -33946,7 +33943,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-4962",
-    "credits" : "0 credits",
+    "credits" : "0-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MGMT"
   },
@@ -39137,7 +39134,7 @@
   {
     "attributes" : null,
     "code" : "PSYC-4961",
-    "credits" : "4 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PSYC"
   },
@@ -40192,11 +40189,7 @@
     "name" : "Bioethics"
   },
   {
-    "attributes" : 
-    [
-      "CI",
-      "PDII"
-    ],
+    "attributes" : null,
     "code" : "STSO-4260",
     "credits" : "4 credits",
     "description" : "This course provides students with a wide-ranging understanding of the environmental and social context of food, agriculture, and hunger. Drawing primarily on sociological concepts and research, the class will take a \u201cfood systems\u201d approach, analyzing food as it travels from farm to table as part of an interconnected process. Students will examine why humans eat the way they do and how individuals\u2019 food choices affect other people and the environment.",
