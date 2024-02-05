@@ -17468,7 +17468,7 @@
   {
     "attributes" : null,
     "code" : "ECON-6710",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "The central propositions of contemporary economic analysis are discussed. Topics include individual decision-making, consumption, production, the interaction of firms and households, competitive equilibrium, general equilibrium theory, welfare theorems, externalities, uncertainty, and the implications for economic policy.",
     "name" : "Microeconomics I"
   },
@@ -17482,7 +17482,7 @@
   {
     "attributes" : null,
     "code" : "ECON-6730",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Theoretical treatment of economic statistics. Topics include a rigorous treatment of set theory and fundamentals of probability theory, statistical estimation and hypothesis testing, analysis of variance, and regression. Also includes advanced topics such as maximum likelihood, generalized method of moments, empirical likelihood, and bootstrap, as well as finite-sample analysis and large-sample asymptotics.",
     "name" : "Econometrics I"
   },
@@ -17510,7 +17510,7 @@
   {
     "attributes" : null,
     "code" : "ECON-6770",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Core issues in the economics of technology and innovation are covered along with policy ramifications. Topics include models of strategic R&D and patenting, quality and price measures, drivers of innovation in firms and fields of knowledge, technology adoption and diffusion, and regional innovation.",
     "name" : "Economics Of Innovation 1"
   },
