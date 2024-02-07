@@ -7586,8 +7586,8 @@
     "attributes" : null,
     "code" : "BMED-4430",
     "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Bioelectric Phenomena"
+    "description" : "This course introduces students to concepts related to design, operation, evaluation, and optimization of biomedical instrumentation. Students learn the basic principles of how physical devices interface with biological systems for measuring, characterizing, and manipulating cells, tissues, organs, or an entire organism. These measurements are central to the biomedical field; whether enabling a physician or health care professional to monitor, diagnose, and treat patients, or, by supporting discovery in translational and fundamental biomedical engineering fields.",
+    "name" : "Biomedical Instrumentation"
   },
   {
     "attributes" : null,
@@ -10294,6 +10294,13 @@
     "credits" : "3 credits",
     "description" : "The basic processes of fabrication of silicon-based semiconductor devices with emphasis on the chemical principles and systems involved. Topics include materials preparation, oxide growth, lithography, diffusion, ion implantation, epitaxial growth, chemical-vapor deposition, vacuum deposition, reactive ion etching, and packaging technologies. Fabrication of both bipolar and FET devices is discussed with emphasis on manufacturing process flow and control. Process design methodology.",
     "name" : "Intro Semiconductor Proc"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHME-4610",
+    "credits" : "? credits",
+    "description" : "This course covers structure, processing, and property relationships for industrially important plastic materials.  Fundamentals of fluid flow, rheology, heat transfer, and transport phenomena are applied to analyze polymer processing operations including extrusion, multi-phase mixing, calendering, blow molding, thermoforming, fiber spinning, compression molding, injection molding, and recycling.",
+    "name" : "Polymer Procss & Plstc Tech"
   },
   {
     "attributes" : null,
@@ -27364,8 +27371,8 @@
     "attributes" : null,
     "code" : "ISYE-4600",
     "credits" : "4 credits",
-    "description" : "An introduction to commonly used methods of deterministic and stochastic operations research. Topics include linear programming, simplex algorithms, duality, linear networks, integer programming, dynamic programming, goa1 programming, location models, exact and heuristic solution procedures for integer and sequencing problems, queuing theory, Markov chains, multi-criteria decision making, and decision analysis.",
-    "name" : "Operations Research Method"
+    "description" : "This course is an introduction to deterministic mathematical modeling for common decision problems in industrial and management engineering including supply chain management, production planning, and public policy. Students will learn to formulate and solve linear and integer programs, evaluate robustness of solutions via sensitivity analysis, and apply duality and other fundamental techniques in deterministic optimization.",
+    "name" : "Determnstc Mthd In Op Rsrch"
   },
   {
     "attributes" : null,
@@ -37299,7 +37306,7 @@
   {
     "attributes" : null,
     "code" : "PHIL-6960",
-    "credits" : "1-4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHIL"
   },
