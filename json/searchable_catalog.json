@@ -27355,6 +27355,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ISYE-4500",
+    "credits" : "? credits",
+    "description" : "This course develops an understanding of stochastic processes that evolve over time, and the ability to model, analyze, and solve optimization problems for systems that involve sequential and interrelated decisions. Course topics include Probability Theory, Markov Chains, Dynamic Programming, and Queueing Theory. The application areas include but are not limited to production and inventory systems, customer service, revenue management, and health care.",
+    "name" : "Stochastic Mthd In Op Rsrch"
+  },
+  {
+    "attributes" : null,
     "code" : "ISYE-4530",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -27672,7 +27679,7 @@
     "attributes" : null,
     "code" : "ISYE-6610",
     "credits" : "3 credits",
-    "description" : "Survey of decision science methodologies in the context of technical and economic decision problems. The course seeks to develop a conceptual understanding of these methods and basic implementation skills. Students will learn how to apply decision science methods from problem recognition and data development through problem formulation and computer solution.",
+    "description" : "This course is an introduction to deterministic mathematical modeling for common decision problems in industrial and management engineering including supply chain management, production planning, and public policy. Students will learn to formulate and solve linear and integer programs, evaluate robustness of solutions via sensitivity analysis, and apply duality and other fundamental techniques in deterministic optimization.",
     "name" : "Systems Modeling In Dses"
   },
   {
@@ -39141,7 +39148,7 @@
   {
     "attributes" : null,
     "code" : "PSYC-4961",
-    "credits" : "1 credit",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PSYC"
   },
