@@ -8267,7 +8267,7 @@
   {
     "attributes" : null,
     "code" : "BUSN-6315",
-    "credits" : "? credits",
+    "credits" : "6 credits",
     "description" : "In this course, students set, evaluate, and improve achievement of key performance indicators.  Students use benchmarking and analytic techniques to determine how operational performance can be optimized, and then plan and execute change to improve efficacy and efficiency.  Students evaluate and purposefully transform operational paradigms to impact performance, planning and executing to ensure the organization performs on budget and to specification.",
     "name" : "Leaders Planning & Executing"
   },
@@ -31613,14 +31613,14 @@
     "code" : "MATH-1900",
     "credits" : "1 credit",
     "description" : "A seminar for first-year math majors. The weekly student-faculty discussions will vary but examples of topics are: unsolved math problems, countability and the arithmetic of the infinite, topology and the concept of dimension, geometry and one-sided surfaces, and the theory underlying topics currently covered in calculus.",
-    "name" : "Art & Science Of Math I"
+    "name" : "Art & Science Of Math"
   },
   {
     "attributes" : null,
     "code" : "MATH-1910",
     "credits" : "1 credit",
-    "description" : "A seminar for first-year math majors. The weekly student-faculty discussions will vary but examples of topics are: unsolved math problems, countability and the arithmetic of the infinite, topology and the concept of dimension, geometry and one-sided surfaces, and the theory underlying topics currently covered in calculus.",
-    "name" : "Art And Sci Of Math II"
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Art & Science Of Math II"
   },
   {
     "attributes" : null,
@@ -32056,7 +32056,7 @@
     "attributes" : null,
     "code" : "MATH-4740",
     "credits" : "4 credits",
-    "description" : "This course is designed to introduce students to mathematical and computational finance. Topics include a mathematical approach to risk analysis, portfolio selection theory, futures, options, and other derivative investment instruments. Finite difference and finite element methods for computing American option prices are discussed. A working knowledge of MAPLE or MATLAB is required to compute optimal portfolios.",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Introduction To Financial Mathematics And Engineering"
   },
   {
