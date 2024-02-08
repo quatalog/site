@@ -5570,7 +5570,7 @@
   {
     "attributes" : null,
     "code" : "BCBP-6910",
-    "credits" : "2-4 credits",
+    "credits" : "4 credits",
     "description" : "The student will perform hands on research in the lab of a BCBP faculty to learn basic research methods and techniques, accomplish a small research project and determine whether the lab is a good \ufb01t for thesis research.",
     "name" : "Research Rotation"
   },
@@ -6260,7 +6260,7 @@
     "attributes" : null,
     "code" : "BIOL-4270",
     "credits" : "4 credits",
-    "description" : "Fundamental physiological processes and their mechanism of action in human and higher mammalian organisms. Emphasis on the control and interaction of physiological systems. Introduction to the muscle, nervous, circulatory, renal, respiratory, digestive, reproductive, and hormonal systems. Limited to biology, biochemistry and biophysics, bioinformatics and molecular biology majors, and biology accelerated medical students.",
+    "description" : "Fundamental physiological processes and their mechanism of action in human and higher mammalian organisms. Emphasis on the control and interaction of physiological systems. Introduction to the muscle, nervous, circulatory, renal, respiratory, digestive, reproductive, and hormonal systems. Limited to Biology, Biochemistry and Biophysics, Biological Neuroscience, and Computational Biology majors, and Biology Accelerated Medical students.",
     "name" : "Human Physiology"
   },
   {
