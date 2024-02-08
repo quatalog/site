@@ -2583,7 +2583,7 @@
     ],
     "code" : "ARTS-1050",
     "credits" : "4 credits",
-    "description" : "A survey of visual arts from Paleolithic Era to today. Materials are presented in a form accessible to students without previous knowledge of Art History.",
+    "description" : "A thematic investigation of art in diverse social, cultural, and historical contexts. This course explores how artists, art collectives, artworks, and institutional structures interact with their respective cultural moment(s) and are received by audiences and artists in the present. This course examines the ways in which artists, artist assistants, audiences, patrons, curators, galleries, public spaces, inventors, artists, and technologies shape artistic practices, and how these artistic practices in turn shape our identities.",
     "name" : "Art History"
   },
   {
@@ -3581,6 +3581,13 @@
     "credits" : "4 credits",
     "description" : "This course approaches the modern digital studio as a compositional environment for the development of the student\u2019s original creative projects. Engineering techniques will be explored through musical examples and hands-on projects.",
     "name" : "Sound Recording & Prod II"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARTS-4820",
+    "credits" : "? credits",
+    "description" : "Advanced Studio is for visual arts students working towards an EARTS Major and their culminating experience in Creative Seminar.  The studio provides the space and opportunity to pursue independent research in parallel with established coursework. Students gain a greater understanding of the quality of research and skills necessary for effective project management required by the Creative Seminar and the professional gallery exhibition experience.",
+    "name" : "Advanced Studio"
   },
   {
     "attributes" : null,
@@ -7952,7 +7959,7 @@
   {
     "attributes" : null,
     "code" : "BMED-6420",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "The course covers matrix algebra and decompositions, including eigenvalue and generalized eigenvalue problems, solving multivariate constraint and unconstraint optimization problems, gradient-based optimization for solving nonlinear optimization problems, and regression analysis. Concepts that are discussed include solving nonlinear optimization problems, first- and second-order gradient-based methods, estimating parameters for multiple linear regression and mechanistic first-principle models. The course also introduces important data science tasks: data analysis, regression, classification and presents application studies related to biomedical engineering.",
     "name" : "Clincal Orthopaedics And Research"
   },
@@ -33355,6 +33362,13 @@
   },
   {
     "attributes" : null,
+    "code" : "MGMT-2220",
+    "credits" : "? credits",
+    "description" : "This course introduces a range of ideas in personal and investment finance and provides solid grounding in the principles and practice of financial decision making. The course will focus on financial/retirement planning, credit budgeting, debt, banking facilities, income tax, investment management, wealth protection, home ownership, and trading strategies. These topics will enable students to intelligently navigate through the myriad of financial concerns that will be encountered over the coming years and help build financial confidence.",
+    "name" : "The Weath Compass"
+  },
+  {
+    "attributes" : null,
     "code" : "MGMT-2300",
     "credits" : "4 credits",
     "description" : "An introduction to the basic concepts and standards underlying financial accounting systems. Several important concepts will be studied in detail, including: revenue recognition, inventory, long-lived assets, long term liabilities, and equity. The course emphasizes the construction of the basic financial accounting statements - the income statement, balance sheet, and cash flow statement - as well as their interpretation.",
@@ -40300,8 +40314,8 @@
     "attributes" : null,
     "code" : "STSO-4360",
     "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Contemp Political Thght"
+    "description" : "Strong community engagement supports climate resilience. This course supports students in working with civic, community, and government organizations in the context of climate change. The course is a project-based experience that connects students to ongoing initiatives in Troy and the Capital region. Students will explore a variety of \u201ctheories of change,\u201d connecting these theories to approaches used by a wide variety of organizations, developing their own stances on how to effectively contribute to goals of community resilience, environmental justice, and social cohesion. Students will develop skills in project management, communication, community building, and civic engagement. \u200b",
+    "name" : "Commty Engmnt: Climate Chg"
   },
   {
     "attributes" : 
@@ -40383,15 +40397,15 @@
     ],
     "code" : "STSO-4510",
     "credits" : "4 credits",
-    "description" : "Discusses the growth of American technology and its place within the framework of American history as well as the interrelationship of American and foreign technological developments. This course stresses the cultural contexts of technological change. Topics covered include the Erie Canal, the American system of manufacturing, railroads, emergence of engineering professions, corporate R&D, household technology, the technology of modern warfare, and the electronics revolution.",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "History Of American Technology"
   },
   {
     "attributes" : null,
     "code" : "STSO-4520",
     "credits" : "4 credits",
-    "description" : "",
-    "name" : "Social Demo: Society By Number"
+    "description" : "This course takes a hands-on approach to investigate the past, present and future of open source technology. Students will experiment with key open source products and platforms while also reading about and discussing the social, cultural, political and economic context of open source technologies.",
+    "name" : "Learning Open Source Tech"
   },
   {
     "attributes" : 
