@@ -27650,7 +27650,7 @@
   {
     "attributes" : null,
     "code" : "ISYE-6360",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course is aimed at upper-level undergraduate and graduate students who wish to master the fundamental concepts of machine learning in a lab-like environment. Students will choose a relevant topic/dataset to explore and devise the best approach to extract knowledge from noisy data along with data visualizations for decision making. Graduate students will also conduct an in-depth overview of existing methods and approaches relevant to their topic.",
     "name" : "Applied Data Science"
   },
