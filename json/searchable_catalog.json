@@ -27384,7 +27384,7 @@
   {
     "attributes" : null,
     "code" : "ISYE-4600",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "This course is an introduction to deterministic mathematical modeling for common decision problems in industrial and management engineering including supply chain management, production planning, and public policy. Students will learn to formulate and solve linear and integer programs, evaluate robustness of solutions via sensitivity analysis, and apply duality and other fundamental techniques in deterministic optimization.",
     "name" : "Determnstc Mthd In Op Rsrch"
   },
