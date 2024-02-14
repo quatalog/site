@@ -1632,7 +1632,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4962",
-    "credits" : "0 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -8799,7 +8799,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-2961",
-    "credits" : "? credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -9256,7 +9256,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4961",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -37493,8 +37493,22 @@
     "attributes" : null,
     "code" : "PHYS-1100",
     "credits" : "4 credits",
-    "description" : "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference. This course includes a lab component that is intended to provide students with hand-on as well as data analysis experience",
-    "name" : "Physics I"
+    "description" : "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.\u00a0This course includes a lab component that is intended to provide students with hand-on as well as data analysis experience. This course is limited to first-semester students and includes a regular Student Life and subject mentoring and collaborative problem solving sessions.",
+    "name" : "Physics I (m)"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHYS-1101",
+    "credits" : "? credits",
+    "description" : "A corequisite to PHYS 1100 to support first semester students. Students will learn best practices for success in STEM courses with an emphasis on collaborative problem solving in mechanics. Fall first-semester students taking PHYS-1100 are required to co-register for PHYS-1101",
+    "name" : "Physics Mentoring"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHYS-1110",
+    "credits" : "? credits",
+    "description" : "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.\u00a0This course includes a lab component that is intended to provide students with hand-on as well as data analysis experience. First semester students should register for PHYS 1100 rather than PHYS 1110.",
+    "name" : "Physics I (s)"
   },
   {
     "attributes" : null,
