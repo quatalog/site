@@ -33968,7 +33968,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-4962",
-    "credits" : "0-4 credits",
+    "credits" : "0 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MGMT"
   },
