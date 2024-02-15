@@ -1855,7 +1855,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-5320",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course provides critical technical knowledge and skills for students to critically address environmental building regulations and the practice of",
     "name" : "Building Integration 1: Design"
   },
@@ -37503,14 +37503,14 @@
   {
     "attributes" : null,
     "code" : "PHYS-1101",
-    "credits" : "? credits",
+    "credits" : "0 credits",
     "description" : "A corequisite to PHYS 1100 to support first semester students. Students will learn best practices for success in STEM courses with an emphasis on collaborative problem solving in mechanics. Fall first-semester students taking PHYS-1100 are required to co-register for PHYS-1101",
     "name" : "Physics Mentoring"
   },
   {
     "attributes" : null,
     "code" : "PHYS-1110",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.\u00a0This course includes a lab component that is intended to provide students with hand-on as well as data analysis experience. First semester students should register for PHYS 1100 rather than PHYS 1110.",
     "name" : "Physics I (s)"
   },
