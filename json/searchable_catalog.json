@@ -14502,7 +14502,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-2960",
-    "credits" : "1-4 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15138,7 +15138,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4970",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -29787,7 +29787,7 @@
   {
     "attributes" : null,
     "code" : "LITR-4880",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course introduces students to the field of Multicultural U.S. Literature, a conditional grouping of novels, memoirs, poetry, and scholarship that explores the intersections of individual, cultural, and national identities in contemporary America. Coursework surveys distinct ethnic American histories and literary traditions while exploring the utility and difficulty in defining a diverse American canon in the twenty-first century.",
     "name" : "Multicultural American Litr"
   },
@@ -37488,7 +37488,7 @@
     "attributes" : null,
     "code" : "PHYS-1050",
     "credits" : "4 credits",
-    "description" : "A one semester calculus-based overview of physics fundamentals with an emphasis on applications. Mechanics, including equilibrium and statics, fluids, oscillations, and waves. Basics of thermodynamics and heat flow. Electrical circuits. Electromagnetic radiation and optics. Recommended for all students who intend to take only one semester of physics. Credit cannot be obtained for both Physics 1050 and Physics 1100.",
+    "description" : "A one semester calculus-based overview of physics fundamentals with an emphasis on applications. Mechanics, including equilibrium and statics, fluids, oscillations, and waves. Basics of thermodynamics and heat flow. Electrical circuits. Electromagnetic radiation and optics. Recommended for all students who intend to take only one semester of physics.",
     "name" : "General Physics"
   },
   {
