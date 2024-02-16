@@ -10347,14 +10347,14 @@
   {
     "attributes" : null,
     "code" : "CHME-4961",
-    "credits" : "3 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
   {
     "attributes" : null,
     "code" : "CHME-4962",
-    "credits" : "2 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -10676,14 +10676,14 @@
   {
     "attributes" : null,
     "code" : "CHME-6961",
-    "credits" : "3 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
   {
     "attributes" : null,
     "code" : "CHME-6962",
-    "credits" : "3 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
