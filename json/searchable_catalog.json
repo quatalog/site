@@ -1695,7 +1695,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4971",
-    "credits" : "2 credits",
+    "credits" : "0-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -42480,6 +42480,13 @@
     "credits" : "4 credits",
     "description" : "This course will help you experience the power of language and learn how to develop that power as you become more aware of your communicative choices. You will write for several genres, both formal and informal, creating each piece for a specific audience and purpose. You will learn to communicate effectively\u2014orally, visually, and in writing\u2014in a wide range of situations that will be crucial to success in your academic and professional careers.",
     "name" : "Writing In Context"
+  },
+  {
+    "attributes" : null,
+    "code" : "WRIT-1769",
+    "credits" : "4 credits",
+    "description" : "This course will introduce students to the field of creative writing studies and offer opportunities to practice writing fiction, creative nonfiction, and poetry. Course learning will be experiential, including reading, writing, and creativity development exercises. Discussion, informal critique, and workshop will be key assessment criteria.  Student participation is the heart of this course.",
+    "name" : "Intro To Creativewriting"
   },
   {
     "attributes" : null,
