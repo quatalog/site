@@ -30661,7 +30661,7 @@
   {
     "attributes" : null,
     "code" : "MANE-4780",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Climatology, Solar vs. Wind Energy, Earth's rotational and Coriolis effects, Wind Speed Statistics: Histograms, Weibull, Available Energy, Aerodynamics, Wake effects, Thrust and Power with objects in Wind flow, Betz Limit, Wind Shear and Ground Effects; Blade aero/structural design, and manufacture; OEM Wind Turbine Designs/Architectures, and capturing Wind Energy via Direct Drive-Generators/Gearbox-driven; Pitch/Yaw Controls, Tower designs. The back-end interface with the Grid, Wind Farm development and Supervisory Controls; Cost Of Energy: Wind vs. Fossil Fuel technologies.",
     "name" : "Wind Energy Engineering"
   },
