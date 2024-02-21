@@ -31413,7 +31413,7 @@
   {
     "attributes" : null,
     "code" : "MANE-6966",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
@@ -37502,7 +37502,7 @@
     "code" : "PHYS-1101",
     "credits" : "0 credits",
     "description" : "A corequisite to PHYS 1100 to support first semester students. Students will learn best practices for success in STEM courses with an emphasis on collaborative problem solving in mechanics. Fall first-semester students taking PHYS-1100 are required to co-register for PHYS-1101",
-    "name" : "Physics Mentoring"
+    "name" : "Physics Mentoring: First Year"
   },
   {
     "attributes" : null,
@@ -39839,7 +39839,6 @@
   {
     "attributes" : 
     [
-      "CI",
       "PDII"
     ],
     "code" : "STSO-2300",
