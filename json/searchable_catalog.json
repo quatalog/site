@@ -212,7 +212,7 @@
   {
     "attributes" : null,
     "code" : "ADMN-6960",
-    "credits" : "0-1 credit",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ADMN"
   },
@@ -1688,14 +1688,14 @@
   {
     "attributes" : null,
     "code" : "ARCH-4970",
-    "credits" : "2 credits",
+    "credits" : "2-3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
   {
     "attributes" : null,
     "code" : "ARCH-4971",
-    "credits" : "0-4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -25726,6 +25726,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1700",
@@ -25806,6 +25807,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1960",
@@ -30755,7 +30757,7 @@
   {
     "attributes" : null,
     "code" : "MANE-4960",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
@@ -31420,7 +31422,7 @@
   {
     "attributes" : null,
     "code" : "MANE-6967",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
@@ -36383,7 +36385,7 @@
   {
     "attributes" : null,
     "code" : "MTLE-6730",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Introduction to data science and machine learning, with case studies in discovery of structure-property relationships and new materials from experimental and computational data. Brief review of required background in linear algebra and statistics with hands-on exercises in Python. Data science topics: model fitting, clustering, dimensionality reduction, ontologies, Bayesian inference, and design of experiments.",
     "name" : "Material Informatics And Data"
   },
@@ -39839,6 +39841,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "PDII"
     ],
     "code" : "STSO-2300",
