@@ -1590,7 +1590,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4956",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "",
     "name" : "Topics In Architecture"
   },
@@ -2352,7 +2352,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6963",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -2429,7 +2429,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6990",
-    "credits" : "1-12 credits",
+    "credits" : "2 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation.  Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester.  Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
     "name" : "Master's Thesis"
   },
