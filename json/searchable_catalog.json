@@ -1058,10 +1058,24 @@
   },
   {
     "attributes" : null,
+    "code" : "ARCH-4055",
+    "credits" : "? credits",
+    "description" : "Urban Data I examines the role of data representation and the use of web-based graphics and in contemporary design. This course teaches the power of combining the thought process and methods of an architect with increasingly sophisticated representational techniques that broaden the function of a traditional drawing. Students use publicly available datasets to interrogate a pressing urban problem. They research, represent, and propose design solutions using data they\u2019ve collected to guide their decision-making process.",
+    "name" : "Urban Data 1"
+  },
+  {
+    "attributes" : null,
     "code" : "ARCH-4060",
     "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Surface As Structures As Form"
+    "description" : "Drawing from areas of their own interest, students create unique data sets and design simple games that address little-known or at-risk urban culture and phenomena. Urban Data II brings together a multitude of skills including research, design, game logic, and web creation. The ability to effectively combine the ideas and techniques taught in this course offers students uniquely relevant skills in an era where architects are constantly adapting to ever-changing technology.",
+    "name" : "Urban Data 2"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-4065",
+    "credits" : "? credits",
+    "description" : "Design Programming 1 provides an accelerated introduction to computer programming for design professionals including instruction in 2D and 3D graphics, Web applications, and building data. The course provides an accelerated introduction to prevalent programming languages and constructs, graphics libraries and development environments. The course spans from an introduction to the basic concepts of general programming, object oriented programming and 2D graphics through basic web design, 3D graphics on the web building data modeling and web database integration. This class is oriented to students who are interested in going beyond simply using 2D and 3D programs, who want to better understand the technologies behind these tools, and access capabilities beyond those of simple scripting. Students develop a web based design modeling application targeting their domain of design interest over the course of the semester, as well as learning technical skills through weekly exercises.",
+    "name" : "Design Programming 1"
   },
   {
     "attributes" : null,
@@ -1069,6 +1083,20 @@
     "credits" : "2 credits",
     "description" : "Architecture and painting are two of the oldest forms of societal expression and have been historically linked in complex and dynamic ways. In the 20th century, the movements of Cubism, Futurism, Neo-Plasticism, Constructivism, Purism, Surrealism, and Dadaism consisted of dynamic dialogs between architecture and painting. These exchanges allowed each to have a profound and deep impact upon the other. By contrast, in early 21st century, there seems to be all but a mute relationship between the two. This course intends to help break that silence. This course will begin to bridge the divide by establishing new connections between the current preoccupations with materials, procedures, and affects that are emerging in both contemporary painting and architecture. Twisted Siblings seeks to explore and discover new relationships between the most cutting-edge digital technologies and how painting may influence the expressive capacities of these technologies. As contemporary painting and architecture seek to establish future directions, a new dialog and exchange of ideas should be emerging, to ensure a dynamic and radical future for both. The course will consist of a series of lectures, discussions, and presentations. Students will be expected to research a number of individual architects, painters, and writers who are producing work of related interest. Students will be responsible for completing a research project, which synthesizes the content of the course.",
     "name" : "Twisted Siblings:relationships Between Contemporary Painting And Digital Architecture"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-4075",
+    "credits" : "? credits",
+    "description" : "This course introduces ecological and landscape thinking pertaining to the academic work of architecture, landscape architecture and art research undertaken at Rensselaer Polytechnic Institute. This course will investigate the history and theory of landscape architectural design, public space, and ecology, as a framework for the hybrid design thinking increasingly required of 21st century inhabitants.",
+    "name" : "Geo-actors 1"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-4080",
+    "credits" : "? credits",
+    "description" : "This course introduces ecological and landscape thinking pertaining to the academic work of architecture, landscape architecture and art research undertaken at Rensselaer Polytechnic Institute. This course will investigate the history and theory of landscape architectural design, public space, and ecology, as a framework for the hybrid design thinking increasingly required of 21st century inhabitants.",
+    "name" : "Geo-actors 2"
   },
   {
     "attributes" : null,
@@ -1963,6 +1991,34 @@
     "credits" : "? credits",
     "description" : "",
     "name" : "Consortia Course At Alb. Pharm"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-6055",
+    "credits" : "? credits",
+    "description" : "Urban Data I examines the role of data representation and the use of web-based graphics and in contemporary design. This course teaches the power of combining the thought process and methods of an architect with increasingly sophisticated representational techniques that broaden the function of a traditional drawing. Students use publicly available datasets to interrogate a pressing urban problem. They research, represent, and propose design solutions using data they\u2019ve collected to guide their decision-making process.",
+    "name" : "Urban Data 1"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-6060",
+    "credits" : "? credits",
+    "description" : "Drawing from areas of their own interest, students create unique data sets and design simple games that address little-known or at-risk urban culture and phenomena. Urban Data II brings together a multitude of skills including research, design, game logic, and web creation. The ability to effectively combine the ideas and techniques taught in this course offers students uniquely relevant skills in an era where architects are constantly adapting to ever-changing technology.",
+    "name" : "Urban Data 2"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-6065",
+    "credits" : "? credits",
+    "description" : "Design Programming 1 provides an accelerated introduction to computer programming for design professionals including instruction in 2D and 3D graphics, Web applications, and building data. The course provides an accelerated introduction to prevalent programming languages and constructs, graphics libraries and development environments. The course spans from an introduction to the basic concepts of general programming, object oriented programming and 2D graphics through basic web design, 3D graphics on the web building data modeling and web database integration. This class is oriented to students who are interested in going beyond simply using 2D and 3D programs, who want to better understand the technologies behind these tools, and access capabilities beyond those of simple scripting. Students develop a web based design modeling application targeting their domain of design interest over the course of the semester, as well as learning technical skills through weekly exercises.",
+    "name" : "Design Programming 1"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-6075",
+    "credits" : "? credits",
+    "description" : "This course introduces ecological and landscape thinking pertaining to the academic work of architecture, landscape architecture and art research undertaken at Rensselaer Polytechnic Institute. This course will investigate the history and theory of landscape architectural design, public space, and ecology, as a framework for the hybrid design thinking increasingly required of 21st century inhabitants.",
+    "name" : "Geo-actors 1"
   },
   {
     "attributes" : null,
@@ -18217,6 +18273,13 @@
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Microwave Circuit Design"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECSE-4210",
+    "credits" : "? credits",
+    "description" : "An introduction to emerging electronic and optoelectronics technology. Topics cover cutting-edge technologies and novel device concepts, such as quantum devices, silicon-on-insulators (SOI), compound semiconductor devices and technologies, thin film transistors (TFTs), wide band gap semiconductor devices and technologies, Si-Ge devices, solar cells, photodetectors, semiconductor lasers, optoelectronic ICs, optical interconnects, and display technologies.",
+    "name" : "Advanced Design Concepts"
   },
   {
     "attributes" : null,
