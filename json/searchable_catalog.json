@@ -5260,6 +5260,13 @@
   },
   {
     "attributes" : null,
+    "code" : "BCBP-4345",
+    "credits" : "? credits",
+    "description" : "This course is an advanced Microbiology course on the mechanisms of microbial pathogenesis. The course will examine the common features on how microbes cause disease. The course will be based on lectures and students' presentations.",
+    "name" : "Microbial Pathogenesis"
+  },
+  {
+    "attributes" : null,
     "code" : "BCBP-4470",
     "credits" : "2 credits",
     "description" : "This is an in-depth study of current papers within the broad field of Muscle & Cardiac Biology. Students will read and critique primary papers, present current research articles, and lead critical discussions of topics listed in the class schedule.",
@@ -6373,6 +6380,20 @@
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Cancer Biology"
+  },
+  {
+    "attributes" : null,
+    "code" : "BIOL-4340",
+    "credits" : "? credits",
+    "description" : "The goal of this course is to provide students with an overview of animal behavior theory and empirical investigations using an active learning approach that stresses how to develop hypotheses and experimental designs to answer biological questions.",
+    "name" : "Animal Behavior"
+  },
+  {
+    "attributes" : null,
+    "code" : "BIOL-4345",
+    "credits" : "? credits",
+    "description" : "This course is an advanced Microbiology course on the mechanisms of microbial pathogenesis. The course will examine the common features on how microbes cause disease. The course will be based on lectures and students' presentations.",
+    "name" : "Microbial Pathogenesis"
   },
   {
     "attributes" : null,
@@ -12096,8 +12117,8 @@
     "attributes" : null,
     "code" : "COGS-4540",
     "credits" : "4 credits",
-    "description" : "",
-    "name" : "Game Development II"
+    "description" : "Social computing is a research area at the intersection of computer science and social science, including psychology, sociology, communication, and linguistics. Its objective is to advance both fields by combining the power of data analytics, natural language processing, and artificial intelligence with the scientific method for studying human data and human behavior.",
+    "name" : "Social Computing"
   },
   {
     "attributes" : null,
@@ -12143,6 +12164,13 @@
     "credits" : "4 credits",
     "description" : "This course introduces various computational approaches for creating intelligent conversational agents. This course will take the form of a combination of lectures, presentations by students, class discussions, and independent study.",
     "name" : "Intelligent Virtual Agents"
+  },
+  {
+    "attributes" : null,
+    "code" : "COGS-4650",
+    "credits" : "? credits",
+    "description" : "This course will discuss theory and practice of searching and retrieval of text and bibliographic information. Topics covered include automated indexing, statistical and linguistic models, text classification, Boolean, vector space, and probabilistic approaches to indexing, language models and dense continuous vector space models, query formulation and output ranking, information routing and filtering, topic detection and tracking, as well as measures of retrieval effectiveness, including relevance, utility, miss/false-alarm.",
+    "name" : "Information Retrieval"
   },
   {
     "attributes" : null,
@@ -12345,6 +12373,13 @@
   },
   {
     "attributes" : null,
+    "code" : "COGS-6540",
+    "credits" : "? credits",
+    "description" : "Social computing is a research area at the intersection of computer science and social science, including psychology, sociology, communication, and linguistics. Its objective is to advance both fields by combining the power of data analytics, natural language processing, and artificial intelligence with the scientific method for studying human data and human behavior.",
+    "name" : "Social Computing"
+  },
+  {
+    "attributes" : null,
     "code" : "COGS-6560",
     "credits" : "3 credits",
     "description" : "This course will explore the different strategies used by different languages to fulfill the same needs of human communication. A sampling of topics: quickly learning the basics of a new language using linguistic principles; cross-linguistic knowledge elicitation and engineering; principles of generative grammar; space, time, agency, and other linguistic phenomena viewed cross-linguistically.",
@@ -12366,10 +12401,24 @@
   },
   {
     "attributes" : null,
+    "code" : "COGS-6650",
+    "credits" : "? credits",
+    "description" : "This course will discuss theory and practice of searching and retrieval of text and bibliographic information. Topics covered include automated indexing, statistical and linguistic models, text classification, Boolean, vector space, and probabilistic approaches to indexing, language models and dense continuous vector space models, query formulation and output ranking, information routing and filtering, topic detection and tracking, as well as measures of retrieval effectiveness, including relevance, utility, miss/false-alarm.",
+    "name" : "Information Retrieval"
+  },
+  {
+    "attributes" : null,
     "code" : "COGS-6780",
     "credits" : "3 credits",
     "description" : "This course will serve as a seminar for advanced students of linguistics. The material to be covered will be selected collaboratively by the instructor and each cohort of students. Students, who ideally will have taken at least two linguistics-oriented courses previously, will be guided in pursuing topics that they have found particularly compelling in previous courses.",
     "name" : "Advanced Topics In Linguistics"
+  },
+  {
+    "attributes" : null,
+    "code" : "COGS-6800",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Rsrch Problms: Cognitive Scnce"
   },
   {
     "attributes" : null,
@@ -12566,6 +12615,20 @@
     "credits" : "? credits",
     "description" : "",
     "name" : "Expository Writing"
+  },
+  {
+    "attributes" : null,
+    "code" : "COMM-1250",
+    "credits" : "? credits",
+    "description" : "This course bridges international students\u2019\u00a0writing\u00a0skills between high school level\u00a0writing\u00a0and college level and professional\u00a0writing. Through genre-based,\u00a0audience-centered approaches, the course cultivates communication skills of reading,\u00a0writing, speaking, and critical thinking on topics such as global \"Englishes\", cultural diversity, and cross-cultural communication. Students learn and practice the skills of academic\u00a0writing and professional presentations to aid in their success in an American university setting. This course is only intended for 1st year international students.",
+    "name" : "Acad Writing For Eng Lang Lrns"
+  },
+  {
+    "attributes" : null,
+    "code" : "COMM-1350",
+    "credits" : "? credits",
+    "description" : "This course is designed to provide international graduate students with pedagogy and communication training so that they are able to present academic information clearly in English, interact effectively with students, practice classroom management skills, accommodate different learning styles, and understand cross-cultural aspects of teaching and learning. The course is restricted to international PhD students. Students will receive a final grade of Satisfactory or Unsatisfactory.",
+    "name" : "Eff Comm: Classroom Pedagogy"
   },
   {
     "attributes" : 
@@ -24182,7 +24245,7 @@
     "attributes" : null,
     "code" : "GSAS-2510",
     "credits" : "4 credits",
-    "description" : "This course looks at the mathematics of game theory from a psychological perspective and serves as a primer in video game design. The psychology of players and designers are discussed, as well as the cognitive processes that people use when solving game-related puzzles. Additional topics include logic, human frailty, role playing, artificial intelligence, kinesics, theater, and human-computer interaction.",
+    "description" : "This course introduces students to foundational game mechanics, rule clarity, aesthetic design, and player interaction. Students build a shared vocabulary, analyze games, and create their own analog games. Various design perspectives and some psychological/behavioral theory will be incorporated into the class. Through the projects, students will participate in design thinking, organizational methodologies, teamwork, iterative design, and playtesting (including heuristic testing).",
     "name" : "Intro To Game Design"
   },
   {
@@ -24429,7 +24492,7 @@
     "attributes" : null,
     "code" : "GSAS-4990",
     "credits" : "4 credits",
-    "description" : "Senior capstone project course for GSAS majors. Students work individually or in teams, supervised by a faculty member, to complete a self-directed project in games that is innovative, experimental, or artistically engaged. The course emphasizes the complete development cycle, through continual iteration and critique towards completion and public release.",
+    "description" : "Senior capstone project course for GSAS majors. Students work in teams to complete a self-directed project in games that is innovative, experimental, or artistically engaged. The course emphasizes the complete development cycle, through continual iteration and critique towards completion and public release.  This course may be repeated up to twice for credit (for a max of 8 credits).",
     "name" : "Gsas Capstone"
   },
   {
@@ -29026,6 +29089,13 @@
     "credits" : "4 credits",
     "description" : "Chinese V is a continuation of Chinese IV, a course for standard modern Chinese language (Mandarin). Students learn additional Chinese characters and words, reach a total of about 950 characters, 1700 words, and complicated grammatical structures, e.g., idiomatic expressions, expressions of comparison, concession, and subjection, etc. In sum, students learn more in all four aspects \u2013 listening, speaking, reading and writing \u2013 presented in Chinese IV.",
     "name" : "Chinese V"
+  },
+  {
+    "attributes" : null,
+    "code" : "LANG-4480",
+    "credits" : "? credits",
+    "description" : "This course is designed for students with some foundation in Chinese to further develop their proficiency in the Chinese language and culture. It will cover six well-known Chinese films produced by internationally acclaimed directors. Students will learn the language (listening, speaking, reading, and writing) in a fun, meaningful, authentic, and contextualized way through \u201creal world\u201d scenarios, and gain a more in-depth understanding of Chinese history, society, customs, cultural nuances, and people\u2019s thoughts and lives. This course is intended only for Chinese language learners.",
+    "name" : "Chinese Lang, Culture & Film"
   },
   {
     "attributes" : null,
@@ -36854,8 +36924,8 @@
     "attributes" : null,
     "code" : "PHIL-2140",
     "credits" : "4 credits",
-    "description" : "Introduction to first-order logic as a tool to be used in engineering, computer science, philosophy, etc., and as procedural knowledge helpful in puzzle-solving environments (e.g., standardized tests). A hands-on laboratory component is included.",
-    "name" : "Introduction To Logic"
+    "description" : "Introduction to formal logic as a tool to be used in mathematics, computer science, philosophy, etc., and as procedural knowledge helpful in puzzle-solving environments (e.g., standardized tests). A hands-on laboratory component is included. Among pother logics, covers Propositional Calculus and First-Order logic.",
+    "name" : "Introduction To Formal Logic"
   },
   {
     "attributes" : 
@@ -43051,6 +43121,13 @@
   },
   {
     "attributes" : null,
+    "code" : "WRIT-4750",
+    "credits" : "? credits",
+    "description" : "Expert writers and speakers must convey complex technical information to non-specialist audiences with different knowledges, skills, assumptions, and goals. Therefore, this course is meant to (1) introduce students to major approaches to technical communication and (2) help students in technical professions or professional fields prepare for the types of research, writing, and information presentation that they may do in their careers after graduation. Moreover, students will learn about the basic social implications of technical communication.",
+    "name" : "Writing: Tech & Professnl Comm"
+  },
+  {
+    "attributes" : null,
     "code" : "WRIT-4800",
     "credits" : "? credits",
     "description" : "",
@@ -43249,6 +43326,13 @@
     "credits" : "3 credits",
     "description" : "This course provides strategies for how to find funding, write persuasive narratives, develop budgets, and leverage academic or professional networks to craft competitive proposals. Here you will learn how to seek opportunities for developing proposals to support projects in your field of interest.",
     "name" : "Proposing & Persuading"
+  },
+  {
+    "attributes" : null,
+    "code" : "WRIT-6750",
+    "credits" : "? credits",
+    "description" : "Expert writers and speakers must convey complex technical information to non-specialist audiences with different knowledges, skills, assumptions, and goals. Therefore, this course is meant to (1) introduce students to major approaches to technical communication and (2) help students in technical professions or professional fields prepare for the types of research, writing, and information presentation that they may do in their careers after graduation. Moreover, students will learn about the basic social implications of technical communication.",
+    "name" : "Writing: Tech & Professnl Comm"
   },
   {
     "attributes" : null,
