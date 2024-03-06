@@ -5562,6 +5562,13 @@
   },
   {
     "attributes" : null,
+    "code" : "BCBP-6345",
+    "credits" : "? credits",
+    "description" : "This course is an advanced Microbiology course on the mechanisms of microbial pathogenesis. The course will examine the common features on how microbes cause disease. The course will be based on lectures and students' presentations.",
+    "name" : "Microbial Pathogenesis"
+  },
+  {
+    "attributes" : null,
     "code" : "BCBP-6420",
     "credits" : "4 credits",
     "description" : "This course covers the theory and practice of the structural modeling of proteins and other biomolecules using informatics-driven and energy-based approaches. Topics include template-based comparative modeling, secondary structure prediction, tertiary structure prediction, protein classification, sidechain rotamers, docking, protein design, energy minimization, electrostatics, molecular dynamics, and molecular surfaces. Molecular modeling software will be provided. Laptop computers are required. BIOL 4550, BIOL 6420, BCBP 4550, and BCBP 6420 meet jointly; only one of these courses can be taken for credit.",
@@ -6467,6 +6474,13 @@
   },
   {
     "attributes" : null,
+    "code" : "BIOL-4500",
+    "credits" : "? credits",
+    "description" : "Students in this course will complete an in-depth study of current peer reviewed literature and topics in the field of ecology and environmental biology. Students will read and critique peer-reviewed papers and present and lead discussions on peer-reviewed articles. Topics covered will include populations and biological communities, biodiversity, ecosystem structures and habitats, climate change, and ecosystem attributes.",
+    "name" : "Adv Topics: Ecology & Env Biol"
+  },
+  {
+    "attributes" : null,
     "code" : "BIOL-4520",
     "credits" : "4 credits",
     "description" : "This interdisciplinary science course examines the human ecology of the global human overpopulation problem. Pollution, resource depletion, extinctions, unrest and carrying capacity are explored, as well as political, psychological, cultural and technological adaptations. Feedback mechanisms will be proposed, discussed, and interpreted. Students will engage in debate and systems dynamics model building.",
@@ -6888,6 +6902,13 @@
   },
   {
     "attributes" : null,
+    "code" : "BIOL-6345",
+    "credits" : "? credits",
+    "description" : "This course is an advanced Microbiology course on the mechanisms of microbial pathogenesis. The course will examine the common features on how microbes cause disease. The course will be based on lectures and students' presentations.",
+    "name" : "Microbial Pathogenesis"
+  },
+  {
+    "attributes" : null,
     "code" : "BIOL-6350",
     "credits" : "4 credits",
     "description" : "This course will provide an exploration of the essential aspects of virology. Introductory examination of viral structure, entry, and replication for each of the major classes of viruses serve as a foundation. Case studies will examine virus host interactions and strategies for prevention and intervention of viral infection. Additional topics include: emerging viruses, viral detection, viral extinction, beneficial use of viruses, modified viruses as research tools.",
@@ -6920,6 +6941,13 @@
     "credits" : "2 credits",
     "description" : "This is an in-depth study of current papers within the broad field of Muscle & Cardiac Biology. Students will read and critique primary papers, present current research articles, and lead critical discussions of topics listed in the class schedule.",
     "name" : "Muscle And Cardiac Biology"
+  },
+  {
+    "attributes" : null,
+    "code" : "BIOL-6500",
+    "credits" : "? credits",
+    "description" : "Students in this course will complete an in-depth study of current peer reviewed literature and topics in the field of ecology and environmental biology. Students will read and critique peer-reviewed papers and present and lead discussions on peer-reviewed articles. Topics covered will include populations and biological communities, biodiversity, ecosystem structures and habitats, climate change, and ecosystem attributes.",
+    "name" : "Adv Topics: Ecology & Env Biol"
   },
   {
     "attributes" : null,
@@ -8868,6 +8896,20 @@
   },
   {
     "attributes" : null,
+    "code" : "CHEM-2830",
+    "credits" : "? credits",
+    "description" : "This course is a discussion-based investigation of the history of chemistry, from its earliest beginnings until the middle of the 20th Century.  Emphasis on the thought processes that transformed the art into the science, the transition from alchemy to chemistry, the insights that gave rise to what might be called \u201cModern Chemistry\u201d, and an in-depth analysis of the personalities of the main players involved in the development of the field will be covered.",
+    "name" : "History Of Chemistry"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHEM-2910",
+    "credits" : "? credits",
+    "description" : "As a Freshmen Chemistry Mentor in the I-PERSIST program, the student is assigned to meet and provide leadership and support for two groups of students every week.  The mentoring sessions will address topics such as problem-solving skills for chemistry, coping skills, time-management skills, etc.",
+    "name" : "Mentor First-year Chem Stdnts"
+  },
+  {
+    "attributes" : null,
     "code" : "CHEM-2930",
     "credits" : "1-4 credits",
     "description" : "Students may obtain credit for chemistry-related experience in nonclassroom situations. For credit to be awarded, a brief proposal outlining the nature of the experience to be undertaken must be given to the department in advance for approval of its suitability. A written report is required at the end of the experience. A maximum of 4 credits is allowed, but this may be made up in more than one experience.",
@@ -9276,6 +9318,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CHEM-4720",
+    "credits" : "? credits",
+    "description" : "Proteomics and Structural Bioinformatics is a survey of modern techniques of protein biochemistry, bioinformatics, protein chemistry, and proteomics, and their applications in the broad field of structural biology and functional genomics. It is targeted to upper-level undergraduate and graduate students in chemistry and/or biology.",
+    "name" : "Proteomics & Structrl Biofmtcs"
+  },
+  {
+    "attributes" : null,
     "code" : "CHEM-4750",
     "credits" : "3 credits",
     "description" : "This course describes how enzymes in cells and immobilized within matrices are valuable tools to prepare natural and non-natural molecules used in a wide range of applications such as commodity chemicals, sweeteners, polymers, nutraceuticals, drugs, tissue engineering matrices, surfactants, antimicrobials, coatings, and advanced materials. Furthermore, biocatalysis has become a primary tool to develop sustainable pathways for chemical manufacturing. Students are introduced to basic biochemical principles of enzymes and whole cell systems. Lectures on free enzymes discuss their catalytic mechanism(s), approaches to enable their practical use under non-aqueous conditions (e.g. immobilization on solid supports), effects of reaction media polarity and water content.  The importance of protein and metabolic engineering to developing practical biocatalysts is discussed. Integrated within the course are discussions of green chemistry and sustainability.",
@@ -9318,6 +9367,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CHEM-4820",
+    "credits" : "? credits",
+    "description" : "Understanding of the chemical aspects of food composition with emphasis on the functional properties and chemical reactions of the major constituents of foods: Water, carbohydrates, proteins, and fats/oils (lipids). Several food-related concepts such as Gelation, Browning and the Maillard reactions, Meat glue, Food texture and Mouth feel, Emulsions, Sous-vide cooking, Thickening, etc. will be introduced.",
+    "name" : "Food Chemistry & Technology"
+  },
+  {
+    "attributes" : null,
     "code" : "CHEM-4900",
     "credits" : "1 credit",
     "description" : "Weekly seminars on topics of concern to students who are about to embark on their professional careers in chemistry. Topics will include employment and career opportunities; graduate school; ethical requirements and expectations in the profession; patent considerations; new directions in research and other topical matters. Restricted to senior chemistry majors.",
@@ -9327,8 +9383,22 @@
     "attributes" : null,
     "code" : "CHEM-4910",
     "credits" : "1 credit",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Laboratory Glassblowing"
+    "description" : "As a Freshman Chemistry Mentor, the student is assigned to meet and provide leadership for two groups of students every week.  The mentoring sessions will address topics such as problem-solving skills for chemistry, coping skills, time-management skills, etc. As an experienced mentor, the student is expected to provide academic and program support for new mentors.",
+    "name" : "Ldrshp In Chem: Mentoring 1"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHEM-4920",
+    "credits" : "? credits",
+    "description" : "As a senior chemistry mentor, the student will meet and provide leadership for a group of mentors every week.  The supervisory sessions will address topics such as facilitation skills, problem-solving skills, coping skills, time-management skills, etc... As a senior chemistry mentor, the student is expected to train and supervise new and returning mentors, as well as helping with other administrative tasks.",
+    "name" : "Ldrshp In Chem: Mentoring 2"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHEM-4930",
+    "credits" : "? credits",
+    "description" : "The course will address topics such as teaching techniques and problem solving techniques for related chemistry courses.",
+    "name" : "Chemistry Teaching Practicum"
   },
   {
     "attributes" : null,
@@ -9714,6 +9784,13 @@
     "credits" : "3 credits",
     "description" : "This course introduces the fundamentals of protein structure and function with an emphasis on chemical concepts as applied to biological problems. It provides an introduction to enzymatic reaction mechanisms and includes interactive hands-on computer-aided visualization exercises. The goal is to equip students with an understanding and appreciation for the diversity and versatility of protein function. This course is intended for graduate or upper-level undergraduate students in the School of Science and Engineering.",
     "name" : "Chemical Biology"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHEM-6720",
+    "credits" : "? credits",
+    "description" : "Proteomics and Structural Bioinformatics is a survey of modern techniques of protein biochemistry, bioinformatics, protein chemistry, and proteomics, and their applications in the broad field of structural biology and functional genomics. It is targeted to upper-level undergraduate and graduate students in chemistry and/or biology.",
+    "name" : "Proteomics & Structrl Biofmtcs"
   },
   {
     "attributes" : null,
