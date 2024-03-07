@@ -1496,7 +1496,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4870",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "The Sonics Research Lab is completely research based. The first part (the Fall semester) will be focused on hands-on research tools and techniques. First, students will learn the basics of digital signal processing, develop an understanding of measurement equipment and analysis methods for sound. The course will examine the ISO standards of room-acoustic measurements, develop students\u2019 research goals and a specific set of data to gather for their research. The course will also prepare the students with the fundamental knowledge on CATT Acoustic and/or EASE in geometrical modeling. Then the students and professors will visit a number of performance venues (e.g. EMPAC Concert Hall, and/ or other venues) and perform the room-acoustic measurements. Students will then work on analyzing and interpreting the research results. Practice measurements will be scheduled in the gallery or somewhere on campus before trips to performance halls. MATLAB will play a central role throughout all the classes (SRL I & II) and the thesis research projects. It will be used during the class exercises. Within one week from the semester start, every student is required to INSTALL a functioning MATLAB Software package onto her/his laptop computer.",
     "name" : "Sonics Research Lab 1"
   },
