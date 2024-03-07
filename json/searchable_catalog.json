@@ -4364,6 +4364,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ASTR-1540",
+    "credits" : "? credits",
+    "description" : "An introduction to astronomy and planetary science from an observational perspective. Students will learn the basics of observing the night-time sky, both with the unaided eye and through telescopic observation. Observations of Earth from space, the exploration of our Solar System, and the quest to find Earth-like planets in other solar systems will also be discussed. The course is suitable for non-physics and non-science majors.",
+    "name" : "Earth And Sky"
+  },
+  {
+    "attributes" : null,
     "code" : "ASTR-1940",
     "credits" : "? credits",
     "description" : "",
@@ -4525,6 +4532,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ASTR-2150",
+    "credits" : "? credits",
+    "description" : "Cosmology is the study of origin and development of the Universe as a whole. It addressing questions including: What is the structure and content of the Universe? What is our understanding of the beginning and evolution of the Universe? It is expected that students will have good working knowledge of algebra and scientific representation of data.",
+    "name" : "Cosmology: Our Universe"
+  },
+  {
+    "attributes" : null,
     "code" : "ASTR-2940",
     "credits" : "1-6 credits",
     "description" : "Study and research in various fields of astronomy to demonstrate interest in and ability for independent work.",
@@ -4683,6 +4697,13 @@
     "credits" : "? credits",
     "description" : "",
     "name" : "Consortia Course At Alb. Pharm"
+  },
+  {
+    "attributes" : null,
+    "code" : "ASTR-4110",
+    "credits" : "? credits",
+    "description" : "Cosmology is the study of origin and development of the Universe as a whole. In this course we will address the theoretical foundations of our understanding of the Universe, addressing questions including: What are the contents of the Universe? How has the history of the Universe looked until now and how will it evolve? Why one location or direction in the Universe is not more special than another?",
+    "name" : "Cosmology"
   },
   {
     "attributes" : null,
@@ -10529,14 +10550,14 @@
   {
     "attributes" : null,
     "code" : "CHME-4961",
-    "credits" : "1-4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
   {
     "attributes" : null,
     "code" : "CHME-4962",
-    "credits" : "1-4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -10858,14 +10879,14 @@
   {
     "attributes" : null,
     "code" : "CHME-6961",
-    "credits" : "1-4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
   {
     "attributes" : null,
     "code" : "CHME-6962",
-    "credits" : "1-4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -23534,7 +23555,7 @@
     "attributes" : null,
     "code" : "ERTH-4750",
     "credits" : "4 credits",
-    "description" : "Introduction to analysis and interpretation of spatial data and their presentation on maps. In this computationally intensive course, students will obtain practical skills and hands-on experience with state-of-the-art GIS applications. Concepts covered include map projections, geoprocessing, cartography, raster algebra, terrain modeling, multi-spectral image analysis, georeferencing, interpolation, web mapping, and GPS.",
+    "description" : "Introduction to analysis and interpretation of spatial data and their presentation on maps. In this computationally intensive course, students will obtain practical skills and hands-on experience with state-of-the-art GIS applications. Concepts covered include map projections, geoprocessing, cartography, raster algebra, terrain modeling, multi-spectral image analysis, geo-referencing, interpolation, web mapping, and GPS.",
     "name" : "Gis In The Sciences"
   },
   {
@@ -24751,7 +24772,7 @@
     "attributes" : null,
     "code" : "IENV-1910",
     "credits" : "2 credits",
-    "description" : "Topical issues in environmental sciences covered in a seminar and discussion format, with field trips. Seminar includes guest speakers from academics, industry, non-profits, and government who are experts in an array of environment-related fields. Each class includes weekly reading and short writing assignments. A short, final research paper is required (~10 pgs.).",
+    "description" : "Topical issues in environmental sciences covered in a seminar and discussion format, with field trips. Seminar includes guest speakers from academics, industry, non-profits, and government who are experts in an array of environment-related fields. Each class includes weekly reading and short writing assignments.",
     "name" : "Environmental Seminar"
   },
   {
@@ -38033,6 +38054,13 @@
   },
   {
     "attributes" : null,
+    "code" : "PHYS-2170",
+    "credits" : "? credits",
+    "description" : "Students will engage in technical team leadership practice by leading collaborative teams of students in problem solving and online activities in introductory Physics. Note that this course cannot be applied toward the satisfaction of the Institute Math/Science Core requirement.",
+    "name" : "Physics Teaching Practicum 1"
+  },
+  {
+    "attributes" : null,
     "code" : "PHYS-2210",
     "credits" : "4 credits",
     "description" : "Introduction to the formalism of Special Relativity, Schrodinger wave mechanics, and spin-1/2 particles. Solutions to Schrodinger\u2019s Equation in one, two, and three dimensions. One-electron atoms and quantum mechanical magnetic dipole moments.",
@@ -38044,6 +38072,13 @@
     "credits" : "4 credits",
     "description" : "Applications of special relativity and quantum theory to topics in modern physics. Atomic and molecular physics. Quantum statistics, blackbody radiation, and lasers. Crystalline solids. Superconductivity. Nuclear and particle physics. Astrophysics and cosmology.",
     "name" : "Quantum Physics II"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHYS-2250",
+    "credits" : "? credits",
+    "description" : "This course provides a practical introduction to the various computational tools and environments that physicists use on a daily basis in the course of their research. Students should develop techniques necessary to investigate physical problems both analytically and numerically. Further, they will develop fundamental tools for performing research in physics, e.g., data visualization, producing publication quality figures, and familiarity with scientific paper text editors (LateX)",
+    "name" : "Computing For Physicists"
   },
   {
     "attributes" : null,
@@ -38089,6 +38124,13 @@
     "credits" : "4 credits",
     "description" : "An introduction to the properties of light and its interactions with matter. Topics include wave, particle, and ray treatments of light; geometrical optics and imaging systems; interference and diffraction; polarization; and Fourier methods for imaging and pulses. A laboratory is included.",
     "name" : "Optics"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHYS-2900",
+    "credits" : "? credits",
+    "description" : "This course helps students to plan an academic and professional path and provides workshop-based experience in group collaboration and discussion, seeking internships and research experiences, ethics, and professional behavior.",
+    "name" : "Prof Devlp: Physics Students"
   },
   {
     "attributes" : null,
@@ -38267,10 +38309,45 @@
   },
   {
     "attributes" : null,
+    "code" : "PHYS-4110",
+    "credits" : "? credits",
+    "description" : "Cosmology is the study of origin and development of the Universe as a whole. In this course we will address the theoretical foundations of our understanding of the Universe, addressing questions including: What are the contents of the Universe? How has the history of the Universe looked until now and how will it evolve? Why one location or direction in the Universe is not more special than another?",
+    "name" : "Cosmology"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHYS-4160",
+    "credits" : "? credits",
+    "description" : "Practicum in mentoring new students in Physics for returning and experienced mentors. Returning and experienced mentors are expected both lead their own mentoring groups for first semester students and to provide leadership for new mentors. Note that this course cannot be applied toward the satisfaction of the Institute Math/Science Core requirement.",
+    "name" : "Leadership In Physics Mentor 1"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHYS-4161",
+    "credits" : "? credits",
+    "description" : "Practicum in mentoring new students in Physics for Senior Mentors. Senior Mentors are selected from experienced mentors to both lead their own mentoring groups of first semester students and to lead groups of mentors. Senior Mentors also participate in the organization of the mentoring program. Note that this course cannot be applied toward the satisfaction of the Institute Math/Science Core requirement.",
+    "name" : "Leadership In Physics Mentor 2"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHYS-4170",
+    "credits" : "? credits",
+    "description" : "Students will engage in technical team leadership practice by leading collaborative teams of students in problem solving and online activities in introductory and intermediate Physics courses. The student will also provide individual problem-solving help and tutorials as agreed with faculty supervisor. Note that this course cannot be applied toward the satisfaction of the Institute Math/Science Core requirement.",
+    "name" : "Physics Teaching Practicum 1"
+  },
+  {
+    "attributes" : null,
     "code" : "PHYS-4210",
     "credits" : "4 credits",
     "description" : "Field theory of electricity and magnetism with emphasis on solving boundary value problems. Dielectric and magnetic materials. Maxwell\u2019s equations and wave propagation with applications to optics. Relativistic electrodynamics.",
     "name" : "Electromagnetic Theory"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHYS-4220",
+    "credits" : "? credits",
+    "description" : "Applications of special relativity and quantum theory to topics in modern physics. Atomic and molecular physics. Quantum statistics, blackbody radiation, and lasers. Crystalline solids. Superconductivity. Nuclear and particle physics. Astrophysics and cosmology.",
+    "name" : "Applic Of Quantum Phys"
   },
   {
     "attributes" : null,
