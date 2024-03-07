@@ -14650,8 +14650,8 @@
     "attributes" : null,
     "code" : "CSCI-2210",
     "credits" : "1 credit",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Programming In Lisp"
+    "description" : "This course covers the essential building blocks of machine learning, focusing on topics in linear algebra, continuous probability and stochastic, and optimization. This provides students with foundational mathematical concepts to the components of machine learning - data, models, and learning algorithms - at an introductory level, emphasizing their basic functionalities and relationships. These mathematical foundations are the bedrock upon which machine learning is constructed. The topics that will be covered in this course are: Vectors, matrices, matrix operations and decomposition, eigenvalues, eigenvectors, vector calculus, calculating gradients of functions of vectors and matrices, probability theory, and linear regression.",
+    "name" : "Math Fndtns Of Machine Lrning"
   },
   {
     "attributes" : null,
@@ -14930,8 +14930,8 @@
     "attributes" : null,
     "code" : "CSCI-4130",
     "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Natural Language Processing"
+    "description" : "This interdisciplinary course explores the fascinating intersection between Artificial Intelligence (AI) as portrayed in fiction and its real-world counterparts. Students will delve into literary and cinematic works as well as news media and current affairs that feature AI while concurrently studying the historical development, technological underpinnings, ethical considerations, and societal impacts of AI. Through critical analysis, discussions, and a project, students will gain a nuanced understanding of AI's portrayal in various media and its implications in our rapidly evolving world.",
+    "name" : "Ai In Fiction And Fact"
   },
   {
     "attributes" : null,
