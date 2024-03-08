@@ -1059,7 +1059,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4055",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Urban Data I examines the role of data representation and the use of web-based graphics and in contemporary design. This course teaches the power of combining the thought process and methods of an architect with increasingly sophisticated representational techniques that broaden the function of a traditional drawing. Students use publicly available datasets to interrogate a pressing urban problem. They research, represent, and propose design solutions using data they\u2019ve collected to guide their decision-making process.",
     "name" : "Urban Data 1"
   },
@@ -1087,7 +1087,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4075",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course introduces ecological and landscape thinking pertaining to the academic work of architecture, landscape architecture and art research undertaken at Rensselaer Polytechnic Institute. This course will investigate the history and theory of landscape architectural design, public space, and ecology, as a framework for the hybrid design thinking increasingly required of 21st century inhabitants.",
     "name" : "Geo-actors 1"
   },
@@ -1695,7 +1695,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4967",
-    "credits" : "3 credits",
+    "credits" : "2-3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -1709,7 +1709,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4969",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -1995,7 +1995,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6055",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Urban Data I examines the role of data representation and the use of web-based graphics and in contemporary design. This course teaches the power of combining the thought process and methods of an architect with increasingly sophisticated representational techniques that broaden the function of a traditional drawing. Students use publicly available datasets to interrogate a pressing urban problem. They research, represent, and propose design solutions using data they\u2019ve collected to guide their decision-making process.",
     "name" : "Urban Data 1"
   },
@@ -2016,7 +2016,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6075",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course introduces ecological and landscape thinking pertaining to the academic work of architecture, landscape architecture and art research undertaken at Rensselaer Polytechnic Institute. This course will investigate the history and theory of landscape architectural design, public space, and ecology, as a framework for the hybrid design thinking increasingly required of 21st century inhabitants.",
     "name" : "Geo-actors 1"
   },
