@@ -6412,7 +6412,7 @@
   {
     "attributes" : null,
     "code" : "BIOL-4340",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "The goal of this course is to provide students with an overview of animal behavior theory and empirical investigations using an active learning approach that stresses how to develop hypotheses and experimental designs to answer biological questions.",
     "name" : "Animal Behavior"
   },
@@ -6496,7 +6496,7 @@
   {
     "attributes" : null,
     "code" : "BIOL-4500",
-    "credits" : "? credits",
+    "credits" : "2 credits",
     "description" : "Students in this course will complete an in-depth study of current peer reviewed literature and topics in the field of ecology and environmental biology. Students will read and critique peer-reviewed papers and present and lead discussions on peer-reviewed articles. Topics covered will include populations and biological communities, biodiversity, ecosystem structures and habitats, climate change, and ecosystem attributes.",
     "name" : "Adv Topics: Ecology & Env Biol"
   },
@@ -6966,7 +6966,7 @@
   {
     "attributes" : null,
     "code" : "BIOL-6500",
-    "credits" : "? credits",
+    "credits" : "2 credits",
     "description" : "Students in this course will complete an in-depth study of current peer reviewed literature and topics in the field of ecology and environmental biology. Students will read and critique peer-reviewed papers and present and lead discussions on peer-reviewed articles. Topics covered will include populations and biological communities, biodiversity, ecosystem structures and habitats, climate change, and ecosystem attributes.",
     "name" : "Adv Topics: Ecology & Env Biol"
   },
