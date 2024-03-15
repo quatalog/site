@@ -5282,7 +5282,7 @@
   {
     "attributes" : null,
     "code" : "BCBP-4345",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is an advanced Microbiology course on the mechanisms of microbial pathogenesis. The course will examine the common features on how microbes cause disease. The course will be based on lectures and students' presentations.",
     "name" : "Microbial Pathogenesis"
   },
@@ -5584,7 +5584,7 @@
   {
     "attributes" : null,
     "code" : "BCBP-6345",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is an advanced Microbiology course on the mechanisms of microbial pathogenesis. The course will examine the common features on how microbes cause disease. The course will be based on lectures and students' presentations.",
     "name" : "Microbial Pathogenesis"
   },
@@ -6419,7 +6419,7 @@
   {
     "attributes" : null,
     "code" : "BIOL-4345",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is an advanced Microbiology course on the mechanisms of microbial pathogenesis. The course will examine the common features on how microbes cause disease. The course will be based on lectures and students' presentations.",
     "name" : "Microbial Pathogenesis"
   },
@@ -6924,7 +6924,7 @@
   {
     "attributes" : null,
     "code" : "BIOL-6345",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is an advanced Microbiology course on the mechanisms of microbial pathogenesis. The course will examine the common features on how microbes cause disease. The course will be based on lectures and students' presentations.",
     "name" : "Microbial Pathogenesis"
   },
