@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <title>Quatalog Home</title>
+                <link rel="shortcut icon" href="./favicon/quatalogIcon.png">
+                <link rel="icon" href="./favicon/favicon.ico">
+                <link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-touch-icon.png">
+                <link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png">
+                <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png">
+                <link rel="manifest" href="./favicon/site.webmanifest">
+                
+                <link rel="stylesheet" href="css/common.css"/>
+                <link rel="stylesheet" href="css/home.css"/>
+                <link rel="stylesheet" href="css/themes.css"/>
+                <meta property="og:title" content="Quatalog"/>
+                <meta property="og:type" content="website"/>
+                <meta property="og:url" content="https://quatalog.com"/>
+                <meta property="og:description" content="It's like the catalog but based"/>
+                <meta property="og:image" content="https://quatalog.com/images/quatalogVWordmarkBacking.png"/>
+                <meta property="og:image:width" content="512"/>
+                <meta property="og:image:height" content="256"/>
+                <meta property="og:image:alt" content="Quatalog wordmark"/>
+
+                <script src="js/search_helper.js"></script>
+        </head>
+        <body>
+                <svg id="home-title"><use href="./images/quatalogVWordmark.svg#QuatalogVWordmark"></use></svg>
+                <form onsubmit="search_helper(event,false)">
+                        <input type="text" class="home-search" id="search" placeholder="Search...">
+                </form>
+                <p id="home-footer">
+                        Check out our <a target="_blank" href="https://github.com/quatalog/quatalog">source code <svg><use href="icons.svg#github-icon"></use></svg></a> (or yell at us about issues!)<br><br>
+                        See also the <a target="_blank" href="https://github.com/quatalog/transfer_guides">transfer guides database</a>.
+                </p>
+        </body>
+</html>

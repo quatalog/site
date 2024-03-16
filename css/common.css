@@ -1,0 +1,194 @@
+/* common variables */
+:root{
+    --quacs-yellow: #f5b53f;
+    --quacs-midtone: #f5cc81;
+    --quacs-white: #f5e3c2;
+    --quacs-whiter: #fAf1e0;
+    --quacs-whitest: #fdf8f0;
+
+    --deepest-purple: #12121a;
+    --deeper-purple: #191823;
+    --deep-purple: #201f2c;
+    --mid-dark-purple: #2c2b3d;
+    --mid-purple: #37364d;
+    --mid-light-purple: #494766;
+    --light-purple: #5c5980;
+
+    --white: #ffffff;
+    --pink: #f53faa;
+    --red: #f53f6a;
+    --green: #3ff57f;
+    --blue: #3f6ef5;
+
+    font-size: calc(1vmin + 12px);
+}
+
+* {
+    font-family: "proxima-nova";
+    /* font-family: "IBM Plex Sans"; */
+}
+
+body {
+    background-color: var(--background-color);
+    overflow-x:hidden;
+    margin: 0;
+    font-size: 0.9rem; /* default font-size. works well for small-ish thing */
+}
+
+::selection{
+    background: var(--selection-color);
+}
+
+.hidden{
+    visibility: hidden;
+    margin: 0;
+    height: 0vw;
+}
+
+svg {
+    overflow: visible;
+}
+
+/* TEXT */
+h1, h1 a {
+    color: var(--h-text-color);
+    font-family: "proxima-nova";
+    font-weight: 900;
+    margin-top: 0vmin;
+    margin-bottom: 0vmin;
+    padding-bottom: 0;
+    display: block;
+    position: relative;
+    font-size: 2.25rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+    margin-top: 1vmin;
+    margin-bottom: 0;
+}
+
+p {
+    color: var(--p-text-color);
+    font-family: "proxima-nova";
+    font-size: 1.2rem;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+p a, p svg {
+    color: var(--link-text-color);
+    fill: var(--link-text-color);
+    max-height: 4vmin;
+    width: 4vmin;
+    vertical-align: bottom;
+}
+
+p svg {
+    display: inline-block;
+}
+
+p a:hover, p a:hover svg {
+    color: var(--link-hover-color);
+    fill: var(--link-hover-color);
+}
+
+/* HEADER */
+#qlog-header {
+    border-bottom: 0.2vmin solid var(--header-color);
+    width: 100%;
+    min-height: 5.25vmin;
+    left: 0;
+    top: 0;
+    position: relative;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#qlog-wordmark svg {
+    height: 4.5vmin;
+    aspect-ratio: 454/100;
+    left: 0;
+    top: 0;
+    position: relative;
+    margin: 1vmin;
+    margin-bottom: 0.75vmin;
+    margin-left: 2vmin;
+}
+
+.header-search {
+    position: relative;
+    right: 1vmin;
+    width: 12rem;
+    height: 1.8rem;
+    font-size: 1.1rem;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+}
+
+input[type="text"] {
+    background: var(--input-background-color);
+    border-radius: 100vw;
+    border: none;
+    outline:none;
+    font-family: "proxima-nova";
+    color: var(--input-text-color);
+    caret-color: var(--input-text-color);
+}
+
+input[type="text"]::selection{
+    background: var(--input-selection-color);
+}
+
+/* fonts */
+
+@font-face{
+    font-family: "rivalsans";
+    src: url("../fonts/rivalsans-regular.otf");
+}
+@font-face{
+    font-family: "rivalsans";
+    src: url("../fonts/rivalsans-bold.otf");
+    font-weight: 700;
+}
+@font-face{
+    font-family: "rivalsans";
+    src: url("../fonts/rivalsans-extrabold.otf");
+    font-weight: 800;
+}
+@font-face{
+    font-family: "rivalsans";
+    src: url("../fonts/rivalsans-black.otf");
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "proxima-nova";
+    src: url("../fonts/Proxima-Nova-Black.otf");
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "proxima-nova";
+    src: url("../fonts/Proxima-Nova-Bold.otf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "proxima-nova";
+    src: url("../fonts/Proxima-Nova-Extrabold.otf");
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "proxima-nova";
+    src: url("../fonts/Proxima-Nova-Thin.otf");
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "proxima-nova";
+    src: url("../fonts/Proxima-Nova-Regular.otf");
+}

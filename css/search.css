@@ -1,0 +1,161 @@
+:root {
+    --entry-width: 70vw;
+    --hover-expand-width: 0.5vw;
+    --transition-time: 0.1s;
+}
+
+#searchTitle {
+    font-size: 2rem;
+    position: relative;
+    display: block;
+    width: 100vw;
+    height: fit-content;
+    left: 0vw;
+    text-align: center;
+    margin-top: 2.5vmin;
+    color: var(--search-title-color);
+    font-weight: 500;
+}
+
+#searchTerm {
+    color: var(--search-term-color);
+}
+
+#searchResultsContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vmin;
+}
+
+#searchResultsContainer tr {
+    width: var(--entry-width);
+    background: var(--search-entry-bg-color);
+    margin-bottom: 2vmin;
+    margin-left: var(--hover-expand-width);
+    margin-right: var(--hover-expand-width);
+    color: var(--search-entry-text-color);
+    border-radius: 0.5rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    transition-property: all;
+    transition-duration: var(--transition-time);
+}
+
+#searchResultsContainer a {
+    text-decoration: none;
+}
+
+#searchResultsContainer tr:hover {
+    background: var(--search-entry-bg-hover-color);
+    margin-left: 0;
+    margin-right: 0;
+    width: calc(var(--entry-width) + 2*var(--hover-expand-width));
+    border-radius: calc(2vmin + 0.5vw);
+}
+
+#searchResultsContainer tr:hover p,
+#searchResultsContainer tr:hover div {
+    margin-left: var(--hover-expand-width);
+    margin-right: var(--hover-expand-width);
+}
+
+#searchResultsContainer tr p,
+#searchResultsContainer tr div {
+    transition-property: all;
+    transition-duration: var(--transition-time);
+}
+
+#searchResultsContainer tr h3 {
+    margin: 0;
+    padding: 1vmin;
+    padding-left: 1.5vmin;
+    font-size: 1.25rem;
+    color: var(--search-entry-title-color);
+    border-bottom: solid;
+    border-bottom-width: 0.2vmin;
+}
+
+#searchResultsContainer tr h3 div {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.pill {
+    background: var(--pill-default-color);
+    color: var(--pill-text-color);
+    display: flex;
+    font-size: 1rem;
+    font-weight: 400;
+    padding-left: 1.5vmin;
+    padding-right: 1.5vmin;
+    border-radius: 3vmin;
+    margin-bottom: 0.25vmin;
+    margin-top: 0.25vmin;
+    margin-right: 1vmin;
+}
+
+.pill svg {
+    display: inline-block;
+    align-self: center;
+    width: 1rem;
+    max-height: 1rem;
+    padding-left: 0.5vmin;
+    fill: var(--pill-svg-color);
+}
+
+.CI-pill {
+    background: var(--ci-pill-color);
+}
+
+.WI-pill {
+    background: var(--wi-pill-color);
+}
+
+.PDII-pill {
+    background: var(--pdii-pill-color);
+}
+
+.HInq-pill {
+    background: var(--hinq-pill-color);
+}
+
+.courseName {
+    color: var(--course-name-color);
+    font-size: 1.45rem;
+}
+
+.courseCode {
+    color: var(--course-code-color);
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+#searchResultsContainer p {
+    padding: 1.5vmin;
+    font-size: 1rem;
+}
+
+#searchResultsContainer h3 span {
+    margin-right: 0.5vw;
+}
+
+#searchResultsContainer h3:hover p {
+    padding-left: calc(1.5vmin + var(--hover-expand-width));
+    padding-right: calc(1.5vmin + var(--hover-expand-width));
+}
+
+@media (orientation: portrait) {
+    #searchResultsContainer tr {
+        width: 90vw;
+    }
+    #searchResultsContainer tr:hover {
+        width: 91vw;
+    }
+}
