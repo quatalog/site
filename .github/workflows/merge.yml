@@ -1,0 +1,32 @@
+name: Merge main into static-generated
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  merge-branches:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout static-generated
+        uses: actions/checkout@v4
+        with:
+          ref: static-generated
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Merge branches manually
+        run: |
+          git config --global user.name "Quatalog Updater"
+          git config --global user.email "github_actions@quatalog.com"
+
+          git checkout main
+          git checkout -b new-static-generated
+          git merge static-generated --allow-unrelated-histories
+          
+          git push -u -f origin HEAD:static-generated
