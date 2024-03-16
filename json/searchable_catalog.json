@@ -564,7 +564,7 @@
     "code" : "ARCH-2230",
     "credits" : "6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Architecture Design 3"
+    "name" : "Architectural Design 3"
   },
   {
     "attributes" : null,
@@ -16333,7 +16333,7 @@
     "code" : "DSES-4940",
     "credits" : "1-6 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Readings In Isye"
+    "name" : "Optimization Research"
   },
   {
     "attributes" : null,
