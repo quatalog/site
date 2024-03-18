@@ -8108,7 +8108,7 @@
     "code" : "BMED-6420",
     "credits" : "3 credits",
     "description" : "The course covers matrix algebra and decompositions, including eigenvalue and generalized eigenvalue problems, solving multivariate constraint and unconstraint optimization problems, gradient-based optimization for solving nonlinear optimization problems, and regression analysis. Concepts that are discussed include solving nonlinear optimization problems, first- and second-order gradient-based methods, estimating parameters for multiple linear regression and mechanistic first-principle models. The course also introduces important data science tasks: data analysis, regression, classification and presents application studies related to biomedical engineering.",
-    "name" : "Clincal Orthopaedics And Research"
+    "name" : "Engineering Math: Data Science"
   },
   {
     "attributes" : null,
