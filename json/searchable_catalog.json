@@ -15152,7 +15152,10 @@
     "name" : "Software Design & Docume"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "CSCI-4450",
     "credits" : "4 credits",
     "description" : "The goal of this course is to introduce students to program analysis and its many applications in software engineering, particularly in improving software quality and software productivity. Concretely, students who successfully complete this course should be able to: (1) understand and apply program analysis techniques, such as dataflow analysis and type-based analysis; (2) implement program analysis; (3) understand and apply software testing techniques, such as black-box testing and white-box testing; and (4) understand and apply refactoring techniques.",
