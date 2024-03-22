@@ -3136,7 +3136,10 @@
     "name" : "Undergraduate Research Proj"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "ARTS-2960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -12309,7 +12312,10 @@
     "name" : "Undegraduate Research Project"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "COGS-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -39544,7 +39550,10 @@
     "name" : "Topics in PSYC"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "PSYC-4963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
