@@ -8444,6 +8444,13 @@
   },
   {
     "attributes" : null,
+    "code" : "BUSN-6500",
+    "credits" : "? credits",
+    "description" : "Students gain hands-on experience in the strategic planning process that defines the one, or more, programs that a program manager leads. Using an organization's mission, vision, and values, students learn to select the appropriate strategy formulation method, using various frameworks to develop prioritized strategic themes. Students are guided in translating  strategy into business goals and objectives and in the processes that help define programmatic initiatives. Tools to ensure coherence across all organization levels are also highlighted.",
+    "name" : "Programs And Strategy"
+  },
+  {
+    "attributes" : null,
     "code" : "CHEM-0960",
     "credits" : "0 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
