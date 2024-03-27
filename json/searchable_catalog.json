@@ -30092,7 +30092,10 @@
     "name" : "Women Writers"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "LITR-4880",
     "credits" : "4 credits",
     "description" : "This course introduces students to the field of Multicultural U.S. Literature, a conditional grouping of novels, memoirs, poetry, and scholarship that explores the intersections of individual, cultural, and national identities in contemporary America. Coursework surveys distinct ethnic American histories and literary traditions while exploring the utility and difficulty in defining a diverse American canon in the twenty-first century.",
