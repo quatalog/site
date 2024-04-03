@@ -2422,7 +2422,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6965",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
