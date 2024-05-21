@@ -21080,15 +21080,15 @@
     "attributes" : null,
     "code" : "ENGR-6215",
     "credits" : "3 credits",
-    "description" : "Students use visualization and cluster analysis tools to gain deeper insights into complex business relationships. Students apply data analytic process to real-world business problems and questions, including pricing decisions, customer analysis, competitive analysis, financial forecasts, customer decision models, organizational performance dashboards. Students tune models to represent current-state and adjust models as underlying assumptions change. Students cannot receive credit for both this course and ENGR 6205 or ENGR 6210.",
-    "name" : "Business Intelligence Analysis"
+    "description" : "Students use analytical tools to gain deeper insights into complex real-world problems. Students apply the data analytic process to real-world problems and questions, applying data preparation techniques, visualization, statistical testing, simulation and forecasting techniques. Students tune models to represent the current state and adjust models as underlying assumptions change.",
+    "name" : "Modeling, Forecasting, Simultn"
   },
   {
     "attributes" : null,
     "code" : "ENGR-6216",
     "credits" : "3 credits",
-    "description" : "Working with a faculty member, students develop a big data inquiry model for a complex business issue, question, or problem of their choosing. Over the semester, the student frames the question to be analyzed, collects and prepares business data for analysis, performs the analysis, and presents actionable results and recommendations back to the organization. Students cannot receive credit for both this course and ENGR 6206 or ENGR 6211.",
-    "name" : "Modeling Business Decisions"
+    "description" : "Working with a faculty member, students develop a big data inquiry model for a complex issue, question or problem of their choosing. Over the semester, the student frames the question to be analyzed, collects and prepares data for analysis, performs the analysis and presents actionable results and recommendations back to the organization.",
+    "name" : "Applied Analytics"
   },
   {
     "attributes" : null,
