@@ -3372,7 +3372,10 @@
     "name" : "Electronic Arts Theory"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "ARTS-4120",
     "credits" : "4 credits",
     "description" : "Biopunk: Arts Lab Practice is a studio, lab and lecture class introducing students to bioart, and microbial life and resilient ecological practices. We use punk, queer and biological laboratory techniques to creatively produce science, design and art works. Students will be required to complete readings, experiment, and create their own visions of a speculative biofuture. Emphasis will be on the history and contemporary investigations of the microbiome and how to culturally explore these scenarios of how we live amongst multiple diverse communities and species.",
@@ -12392,7 +12395,10 @@
     "name" : "Topics in COGS"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "COGS-4990",
     "credits" : "2-6 credits",
     "description" : "Students conduct original scholarly projects: original research, theoretical or analytical reviews of the literature, or computer simulations. Students prepare written reports relating to this project, under the supervision of a faculty member.",
@@ -13688,7 +13694,10 @@
     "name" : "Undergraduate Research Project"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "COMM-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -25649,9 +25658,12 @@
     "name" : "Documentary In 21st Century"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "HInq"
+    ],
     "code" : "INQR-1060",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "In First Year Studio, students engage in collaborative, interdisciplinary, practice-based art projects that help to define the connection between research, discussion, critiques, ideation, and making in the visual arts. This introductory seminar exposes students to the purposes and methodologies of a studio practice, and to the social, cultural, environmental, and economic issues addressed throughout the historical trajectory of art-making.  Recommended for first-year Electronic Arts majors and students considering an Electronic Arts dual major or minor.",
     "name" : "First Year Studio"
   },
@@ -25989,6 +26001,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1570",
@@ -39561,7 +39574,7 @@
   {
     "attributes" : null,
     "code" : "PSYC-4961",
-    "credits" : "1 credit",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PSYC"
   },
@@ -40618,7 +40631,10 @@
     "name" : "Bioethics"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "STSO-4260",
     "credits" : "4 credits",
     "description" : "This course provides students with a wide-ranging understanding of the environmental and social context of food, agriculture, and hunger. Drawing primarily on sociological concepts and research, the class will take a \u201cfood systems\u201d approach, analyzing food as it travels from farm to table as part of an interconnected process. Students will examine why humans eat the way they do and how individuals\u2019 food choices affect other people and the environment.",
