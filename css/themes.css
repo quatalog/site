@@ -53,28 +53,50 @@
     --table-link-selected-color: var(--light-purple);
 }
 
-@media (prefers-color-scheme: light) {
-    :root {
-        --background-color: var(--white);
-        --selection-color: var(--quacs-yellow);
-        --h-text-color: var(--mid-purple);
-        --p-text-color: var(--deep-purple);
-        --search-title-color: var(--mid-light-purple);
-        --search-term-color: var(--light-purple);
-        --search-entry-text-color: var(--deep-purple);
-        --search-entry-title-color: var(--mid-purple);
-        --search-entry-bg-color: var(--quacs-whitest);
-        --search-entry-bg-hover-color: var(--quacs-whiter);
-        --course-code-color: var(--mid-light-purple);
-        --or-text-color: var(--white);
-        --key-text-color: var(--mid-light-purple);
-        --view-select-color-selected: var(--deep-purple);
-        --season-label-color: var(--deep-purple);
-        --year-label-color: var(--mid-purple);
-        --mid-summer-label-color: var(--mid-purple);
-        --info-title-color: var(--deep-purple);
-    }
+.light-mode {
+    --background-color: var(--white);
+    --selection-color: var(--quacs-yellow);
+    --h-text-color: var(--mid-purple);
+    --p-text-color: var(--deep-purple);
+    --search-title-color: var(--mid-light-purple);
+    --search-term-color: var(--light-purple);
+    --search-entry-text-color: var(--deep-purple);
+    --search-entry-title-color: var(--mid-purple);
+    --search-entry-bg-color: var(--quacs-whitest);
+    --search-entry-bg-hover-color: var(--quacs-whiter);
+    --course-code-color: var(--mid-light-purple);
+    --or-text-color: var(--white);
+    --key-text-color: var(--mid-light-purple);
+    --view-select-color-selected: var(--deep-purple);
+    --season-label-color: var(--deep-purple);
+    --year-label-color: var(--mid-purple);
+    --mid-summer-label-color: var(--mid-purple);
+    --info-title-color: var(--deep-purple);
+
     /*#qlog-wordmark {
         display: none;
     }*/
+}
+
+
+#toggle-mode {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    width: 2em !important;
+    height: 2em !important;
+    background-color: #555;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 99999;
+}
+
+#toggle-mode:hover {
+    background-color: #777;
 }

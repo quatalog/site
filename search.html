@@ -21,6 +21,7 @@
     <script src="js/fuse.js"></script>
     <script src="js/search.js"></script>
     <script src="js/search_helper.js"></script>
+    <script src="js/toggletheme.js"></script>
     <link rel="stylesheet" href="./css/common.css"/>
     <link rel="stylesheet" href="./css/search.css"/>
     <link rel="stylesheet" href="./css/themes.css"/>
@@ -28,9 +29,10 @@
 <body>
     <div id="qlog-header">
         <a id="qlog-wordmark" href="./"><svg><use href="./images/quatalogHWordmark.svg#QuatalogHWordmark"></use></svg></a>
-        <form onsubmit="search_helper(event,false)">
+        <form onsubmit="search_helper(event,false)" style="margin-right: 50px;">
             <input type="text" id="search" class="header-search" placeholder="Search...">
         </form>
+        <button id="toggle-mode" style="top: 4px;"></button>
     </div>
     <h1 id="searchTitle">
         Search results for <span id="searchTerm"></span>
