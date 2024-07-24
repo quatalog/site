@@ -8938,7 +8938,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-2910",
-    "credits" : "? credits",
+    "credits" : "2 credits",
     "description" : "As a Freshmen Chemistry Mentor in the I-PERSIST program, the student is assigned to meet and provide leadership and support for two groups of students every week.  The mentoring sessions will address topics such as problem-solving skills for chemistry, coping skills, time-management skills, etc.",
     "name" : "Mentor First-year Chem Stdnts"
   },
@@ -9416,21 +9416,21 @@
   {
     "attributes" : null,
     "code" : "CHEM-4910",
-    "credits" : "1 credit",
+    "credits" : "2 credits",
     "description" : "As a Freshman Chemistry Mentor, the student is assigned to meet and provide leadership for two groups of students every week.  The mentoring sessions will address topics such as problem-solving skills for chemistry, coping skills, time-management skills, etc. As an experienced mentor, the student is expected to provide academic and program support for new mentors.",
     "name" : "Ldrshp In Chem: Mentoring 1"
   },
   {
     "attributes" : null,
     "code" : "CHEM-4920",
-    "credits" : "? credits",
+    "credits" : "2 credits",
     "description" : "As a senior chemistry mentor, the student will meet and provide leadership for a group of mentors every week.  The supervisory sessions will address topics such as facilitation skills, problem-solving skills, coping skills, time-management skills, etc... As a senior chemistry mentor, the student is expected to train and supervise new and returning mentors, as well as helping with other administrative tasks.",
     "name" : "Ldrshp In Chem: Mentoring 2"
   },
   {
     "attributes" : null,
     "code" : "CHEM-4930",
-    "credits" : "? credits",
+    "credits" : "1-2 credits",
     "description" : "The course will address topics such as teaching techniques and problem solving techniques for related chemistry courses.",
     "name" : "Chemistry Teaching Practicum"
   },
