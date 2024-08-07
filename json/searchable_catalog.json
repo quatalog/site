@@ -4371,7 +4371,7 @@
   {
     "attributes" : null,
     "code" : "ASTR-1540",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "An introduction to astronomy and planetary science from an observational perspective. Students will learn the basics of observing the night-time sky, both with the unaided eye and through telescopic observation. Observations of Earth from space, the exploration of our Solar System, and the quest to find Earth-like planets in other solar systems will also be discussed. The course is suitable for non-physics and non-science majors.",
     "name" : "Earth And Sky"
   },
@@ -38092,14 +38092,14 @@
   {
     "attributes" : null,
     "code" : "PHYS-2160",
-    "credits" : "? credits",
+    "credits" : "2 credits",
     "description" : "Practicum in mentoring new students in Physics with focus on developing Mentor technical leadership skills. Note that this course cannot be applied toward the satisfaction of the Institute Math/Science Core requirement.",
     "name" : "Mentor First-year Phys Stdnts"
   },
   {
     "attributes" : null,
     "code" : "PHYS-2170",
-    "credits" : "? credits",
+    "credits" : "2 credits",
     "description" : "Students will engage in technical team leadership practice by leading collaborative teams of students in problem solving and online activities in introductory Physics. Note that this course cannot be applied toward the satisfaction of the Institute Math/Science Core requirement.",
     "name" : "Physics Teaching Practicum 1"
   },
@@ -38172,7 +38172,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-2900",
-    "credits" : "? credits",
+    "credits" : "1 credit",
     "description" : "This course helps students to plan an academic and professional path and provides workshop-based experience in group collaboration and discussion, seeking internships and research experiences, ethics, and professional behavior.",
     "name" : "Prof Devlp: Physics Students"
   },
@@ -38361,21 +38361,21 @@
   {
     "attributes" : null,
     "code" : "PHYS-4160",
-    "credits" : "? credits",
+    "credits" : "2 credits",
     "description" : "Practicum in mentoring new students in Physics for returning and experienced mentors. Returning and experienced mentors are expected both lead their own mentoring groups for first semester students and to provide leadership for new mentors. Note that this course cannot be applied toward the satisfaction of the Institute Math/Science Core requirement.",
     "name" : "Leadership In Physics Mentor 1"
   },
   {
     "attributes" : null,
     "code" : "PHYS-4161",
-    "credits" : "? credits",
+    "credits" : "2 credits",
     "description" : "Practicum in mentoring new students in Physics for Senior Mentors. Senior Mentors are selected from experienced mentors to both lead their own mentoring groups of first semester students and to lead groups of mentors. Senior Mentors also participate in the organization of the mentoring program. Note that this course cannot be applied toward the satisfaction of the Institute Math/Science Core requirement.",
     "name" : "Leadership In Physics Mentor 2"
   },
   {
     "attributes" : null,
     "code" : "PHYS-4170",
-    "credits" : "? credits",
+    "credits" : "2 credits",
     "description" : "Students will engage in technical team leadership practice by leading collaborative teams of students in problem solving and online activities in introductory and intermediate Physics courses. The student will also provide individual problem-solving help and tutorials as agreed with faculty supervisor. Note that this course cannot be applied toward the satisfaction of the Institute Math/Science Core requirement.",
     "name" : "Physics Teaching Practicum 1"
   },
@@ -38501,14 +38501,14 @@
   {
     "attributes" : null,
     "code" : "PHYS-4961",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
   {
     "attributes" : null,
     "code" : "PHYS-4962",
-    "credits" : "1-2 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
