@@ -14985,7 +14985,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4140",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "The first portion of this course introduces the optimization background necessary to understand the algorithms that dominate the landscape of machine learning. The second portion introduces effective architectures used in modern machine learning. Students revisit classical models and learn state-of-the-art models, always in service of gaining algorithmic insight that is broadly useful beyond specific models.",
     "name" : "Machine Learning & Optimiztn"
   },
