@@ -14999,7 +14999,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4160",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This is an introductory course on the theory and practice of reinforcement learning (RL). We will derive the full RL framework, starting from Markov chains and Markov reward processes and building up to Markov decision processes. We will then cover classic RL approaches such as dynamic programming, Monte Carlo methods and Q-learning. Furthermore, we will cover more advanced topics such as deep learning, deep RL, as well as policy-gradient and actor-critic methods. Course activities include programming assignments as well as written homework testing students\u2019 understanding of the material.",
     "name" : "Reinforcement Learning"
   },
@@ -15391,7 +15391,10 @@
     "name" : "Topics in CSCI"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "CSCI-4963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
