@@ -1497,7 +1497,7 @@
     "attributes" : null,
     "code" : "ARCH-4870",
     "credits" : "3 credits",
-    "description" : "The Sonics Research Lab is completely research based. The first part (the Fall semester) will be focused on hands-on research tools and techniques. First, students will learn the basics of digital signal processing, develop an understanding of measurement equipment and analysis methods for sound. The course will examine the ISO standards of room-acoustic measurements, develop students\u2019 research goals and a specific set of data to gather for their research. The course will also prepare the students with the fundamental knowledge on CATT Acoustic and/or EASE in geometrical modeling. Then the students and professors will visit a number of performance venues (e.g. EMPAC Concert Hall, and/ or other venues) and perform the room-acoustic measurements. Students will then work on analyzing and interpreting the research results. Practice measurements will be scheduled in the gallery or somewhere on campus before trips to performance halls. MATLAB will play a central role throughout all the classes (SRL I & II) and the thesis research projects. It will be used during the class exercises. Within one week from the semester start, every student is required to INSTALL a functioning MATLAB Software package onto her/his laptop computer.",
+    "description" : "The Sonics Research Lab is completely research based. The first part (the Fall semester) will be focused on hands-on research tools and techniques. First, students will learn the basics of digital signal processing, develop an understanding of measurement equipment and analysis methods for sound. The course will examine the ISO standards of room-acoustic measurements, develop students' research goals and a specific set of data to gather for their research. The course will also prepare the students with the fundamental knowledge on CATT Acoustic and/or EASE in geometrical modeling. Then the students and professors will visit a number of performance venues (e.g. EMPAC Concert Hall, and/ or other venues) and perform the room-acoustic measurements. Students will then work on analyzing and interpreting the research results. Practice measurements will be scheduled in the gallery or somewhere on campus before trips to performance halls. MATLAB will play a central role throughout all the classes (SRL I & II) and the thesis research projects. It will be used during the class exercises. Within one week from the semester start, every student is required to INSTALL a functioning MATLAB Software package onto their laptop computer.",
     "name" : "Sonics Research Lab 1"
   },
   {
@@ -1618,7 +1618,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4956",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "",
     "name" : "Topics In Architecture"
   },
@@ -1632,7 +1632,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4958",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "",
     "name" : "Topics Course In Architecture"
   },
@@ -1646,7 +1646,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4960",
-    "credits" : "2 credits",
+    "credits" : "2-3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -1681,14 +1681,14 @@
   {
     "attributes" : null,
     "code" : "ARCH-4965",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
   {
     "attributes" : null,
     "code" : "ARCH-4966",
-    "credits" : "2-3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -1709,7 +1709,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4969",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -2325,7 +2325,7 @@
     "attributes" : null,
     "code" : "ARCH-6870",
     "credits" : "3 credits",
-    "description" : "The Sonics Research Lab is completely research based. The first part (the Fall semester) will be focused on hands-on research tools and techniques. First, students will learn the basics of digital signal processing, develop an understanding of measurement equipment and analysis methods for sound. The course will examine the ISO standards of room-acoustic measurements, develop students\u2019 research goals and a specific set of data to gather for their research. The course will also prepare the students with the fundamental knowledge on CATT Acoustic and/or EASE in geometrical modeling. Then the students and professors will visit a number of performance venues (e.g. EMPAC Concert Hall, and/ or other venues) and perform the room-acoustic measurements. Students will then work on analyzing and interpreting the research results. Practice measurements will be scheduled in the gallery or somewhere on campus before trips to performance halls. MATLAB will play a central role throughout all the classes (SRL I & II) and the thesis research projects. It will be used during the class exercises. Within one week from the semester start, every student is required to INSTALL a functioning MATLAB Software package onto her/his laptop computer.",
+    "description" : "The Sonics Research Lab is completely research based. The first part (the Fall semester) will be focused on hands-on research tools and techniques. First, students will learn the basics of digital signal processing, develop an understanding of measurement equipment and analysis methods for sound. The course will examine the ISO standards of room-acoustic measurements, develop students' research goals and a specific set of data to gather for their research. The course will also prepare the students with the fundamental knowledge on CATT Acoustic and/or EASE in geometrical modeling. Then the students and professors will visit a number of performance venues (e.g. EMPAC Concert Hall, and/ or other venues) and perform the room-acoustic measurements. Students will then work on analyzing and interpreting the research results. Practice measurements will be scheduled in the gallery or somewhere on campus before trips to performance halls. MATLAB will play a central role throughout all the classes (SRL I & II) and the thesis research projects. It will be used during the class exercises. Within one week from the semester start, every student is required to INSTALL a functioning MATLAB Software package onto their laptop computer.",
     "name" : "Sonics Research Lab 1"
   },
   {
@@ -3662,7 +3662,7 @@
     "attributes" : null,
     "code" : "ARTS-4850",
     "credits" : "4 credits",
-    "description" : "This course is for senior EMAC and EART majors. The goal of the Creative Seminar II is to develop and formulate ideas from Creative Seminar I into a unique project for the artists/communicator that will demonstrate his/her independent ideas, research, writing, and design skills. Students will develop a written thesis, creative project (e.g., art, graphic design, interaction design, music, performance), prepare and present their project in a public exhibition, and design the publicity for the show.",
+    "description" : "This course is for senior EMAC and EART majors. The goal of the Creative Seminar II is to develop and formulate ideas from Creative Seminar I into a unique project for the artists/communicator that will demonstrate a students independent ideas, research, writing, and design skills. Students will develop a written thesis, creative project (e.g., art, graphic design, interaction design, music, performance), prepare and present their project in a public exhibition, and design the publicity for the show.",
     "name" : "Creative Seminar II"
   },
   {
@@ -3995,7 +3995,7 @@
     "code" : "ARTS-6160",
     "credits" : "4 credits",
     "description" : "This course assumes knowledge and experience in computer music applications and performance. It is directed to undergraduate students as an upper-level seminar guiding their progress through the composition of a significant musical work. The class is divided between a group seminar, focusing on aesthetic, theoretical, and technical issues, and a workshop/lab in performance, computer applications, and composition.",
-    "name" : "Advanced Computer Music Composition and Performance"
+    "name" : "Adv Computer Music Comp & Perf"
   },
   {
     "attributes" : null,
@@ -6572,8 +6572,8 @@
     ],
     "code" : "BIOL-4700",
     "credits" : "4 credits",
-    "description" : "Freshwater ecology is the quantitative examination of major biological fresh water communities. Course discussions will delineate the physical and chemical regimes under which aquatic organisms exist. Basic limnological processes are studied to define aquatic systems of differing physical characteristics. Nutrient chemistry analyses of waters of varying acidity, alkalinity, and chemical loadings are related to their trophic status. Lecture and Laboratory are taught at the Darrin Fresh Water Institute at Lake George with field activities at various locations in the Adirondacks. The course includes extensive hands-on laboratory work, as well as the writing of in-depth reports. This is a communication-intensive course.",
-    "name" : "Freshwater Ecology"
+    "description" : "Freshwater ecology is the quantitative examination of major biological fresh water communities. Course discussions will delineate the physical and chemical regimes under which aquatic organisms exist.\u00a0 Basic limnological processes are studied to define aquatic systems of differing physical characteristics.\u00a0 Nutrient chemistry analyses of waters of varying acidity, alkalinity, and chemical loadings are related to their trophic status.\u00a0 Lecture and Laboratory are taught at the Darrin Fresh Water Institute at Lake George with field activities at various locations in the Adirondacks. The course includes extensive hands-on laboratory work, as well as the writing of in-depth reports. This is a communication-intensive course.",
+    "name" : "Freshwater Ecology Lab"
   },
   {
     "attributes" : 
@@ -7099,7 +7099,7 @@
     "attributes" : null,
     "code" : "BIOL-6940",
     "credits" : "1-6 credits",
-    "description" : "Readings in the current literature designed to supplement the background of the student and provide greater depth in the area of his or her specialty.",
+    "description" : "Readings in the current literature designed to supplement the background of the student and provide greater depth in the area of a students specialty.",
     "name" : "Readings In Biol"
   },
   {
@@ -7916,7 +7916,7 @@
   {
     "attributes" : null,
     "code" : "BMED-4960",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
@@ -8266,14 +8266,14 @@
   {
     "attributes" : null,
     "code" : "BMED-6960",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
   {
     "attributes" : null,
     "code" : "BMED-6961",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
@@ -8407,8 +8407,8 @@
     "attributes" : null,
     "code" : "BUSN-6300",
     "credits" : "6 credits",
-    "description" : "In this course, students develop their capacity as leaders in a dynamic world, planning and executing strategy to achieve organizational objectives. Students develop frameworks for making decisions that enhance the value creation of their organization while demonstrating full commitment to ethical decisions and outcomes. Students learn to plan and execute to achieve goals fully and effectively. Students develop their mentorship capacities to manage and lead the human elements of their organizations. NOTE: Students must attend a Rensselaer Leadership Experience (RLE) as part of this course",
-    "name" : "Leaders and Strategy"
+    "description" : "In this course, students develop their capacity as leaders in a dynamic world, planning and executing strategy to achieve organizational objectives. Students develop frameworks for making decisions that enhance the value creation of their organization while demonstrating full commitment to ethical decisions and outcomes.  Students learn to plan and execute to achieve goals fully and effectively.  Students develop their mentorship capacities to manage and lead the human elements of their organizations.",
+    "name" : "Leaders & Strategy"
   },
   {
     "attributes" : null,
@@ -8534,14 +8534,14 @@
     "code" : "CHEM-1100",
     "credits" : "4 credits",
     "description" : "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acid-base chemistry and elementary chemical equilibrium, and introduction to organic chemistry. The course includes a laboratory component which compliments the lecture by offering students experimental experience and hands on applications to theory.",
-    "name" : "Chemistry I"
+    "name" : "Principles Of Chemistry I"
   },
   {
     "attributes" : null,
     "code" : "CHEM-1110",
     "credits" : "4 credits",
     "description" : "Covers the same lecture material as CHEM 1100, but laboratory experiments will be more technique-oriented to provide better preparation for students who plan to take future laboratory courses in chemistry.",
-    "name" : "Chemistry I With Advanced Lab"
+    "name" : "Chemistry I"
   },
   {
     "attributes" : null,
@@ -9472,7 +9472,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4962",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -9486,14 +9486,14 @@
   {
     "attributes" : null,
     "code" : "CHEM-4964",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
   {
     "attributes" : null,
     "code" : "CHEM-4965",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -9920,7 +9920,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-6965",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -10487,7 +10487,7 @@
     "attributes" : null,
     "code" : "CHME-4460",
     "credits" : "3 credits",
-    "description" : "This course will focus on 1) designing, engineering, and selecting proteins and other biomolecules with desired functional and biophysical properties (high thermal stability, high solubility, low propensity to aggregate), and 2) characterizing thermodynamic and kinetic properties (folding, oligomerization, and self-association) of these biomolecules.",
+    "description" : "This course will focus on 1) designing, engineering, and selecting proteins and other biomolecules with desired functional and biophysical properties (high thermal stability, high solubility, low propensity to aggregate), and 2) characterizing thermodynamic and kinetic properties (folding, oligomerization, and self-association) of these biomolecules. (Students may not receive credit for both this course and CHME 6460.)",
     "name" : "Biomolecular Engineering"
   },
   {
@@ -10906,7 +10906,7 @@
   {
     "attributes" : null,
     "code" : "CHME-6963",
-    "credits" : "2 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -11901,7 +11901,7 @@
     "code" : "CIVL-6900",
     "credits" : "1 credit",
     "description" : "Civil and environmental engineering graduate students present seminars about their research to an audience composed of students and faculty, and participate in discussions about the research of others. The course consists of one-hour weekly meetings. The faculty member in charge of the course helps the students develop their presentation and communication skills. M.S. and Ph.D. students are required to take this course once before completion of their terminal degree. This course is not required for M. Eng. students not doing a thesis or project.",
-    "name" : "Civil and Environmental Engineering Graduate Seminar"
+    "name" : "Civl And Environmental Engineering Graduate Seminar"
   },
   {
     "attributes" : null,
@@ -12044,10 +12044,7 @@
     "name" : "Intro To Cognitive Science"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COGS-2340",
     "credits" : "4 credits",
     "description" : "This course offers a survey of scientific and applied approaches to the study of human language, highlighting the endlessly surprising nature of this sophisticated mode of communication. A sampling of the topics to be covered: phonology, morphology, syntax, semantics, lexicography, psycholinguistics, and historical linguistics. Lecture course.",
@@ -12325,10 +12322,7 @@
     "name" : "Undegraduate Research Project"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COGS-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -12398,10 +12392,7 @@
     "name" : "Topics in COGS"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COGS-4990",
     "credits" : "2-6 credits",
     "description" : "Students conduct original scholarly projects: original research, theoretical or analytical reviews of the literature, or computer simulations. Students prepare written reports relating to this project, under the supervision of a faculty member.",
@@ -12564,7 +12555,7 @@
   {
     "attributes" : null,
     "code" : "COGS-6961",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COGS"
   },
@@ -14229,7 +14220,7 @@
   {
     "attributes" : null,
     "code" : "COMM-6960",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COMM"
   },
@@ -15391,10 +15382,7 @@
     "name" : "Topics in CSCI"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "CSCI-4963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -15403,14 +15391,14 @@
   {
     "attributes" : null,
     "code" : "CSCI-4964",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
   {
     "attributes" : null,
     "code" : "CSCI-4965",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15431,7 +15419,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4968",
-    "credits" : "1-4 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15445,7 +15433,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4970",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15983,14 +15971,14 @@
   {
     "attributes" : null,
     "code" : "CSCI-6965",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
   {
     "attributes" : null,
     "code" : "CSCI-6966",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -16004,14 +15992,14 @@
   {
     "attributes" : null,
     "code" : "CSCI-6968",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
   {
     "attributes" : null,
     "code" : "CSCI-6969",
-    "credits" : "0-1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -17261,8 +17249,8 @@
     "attributes" : null,
     "code" : "ECON-4290",
     "credits" : "4 credits",
-    "description" : "Students will learn about markets related to healthcare, insurance, biopharmaceuticals, and medical devices. Examine economic issues, models and quantitative analysis related to firms' activities in areas such as innovation, R&D expenditures, patenting, pricing, mergers and acquisitions, and competition in markets. Examine the role played by health insurance systems. Study the economic implications of regulations, such as those by the U.S. FDA. Economic and policy aspects will be examined within the context of the U.S. healthcare sector, along with selected comparisons to European national healthcare systems.",
-    "name" : "Economics of Biotech and Medical Innovations"
+    "description" : "Students will learn about markets related to healthcare, insurance, biopharmaceuticals, and medical devices. Examine economic issues, models and quantitative analysis related to firms\u2019 activities in areas such as innovation, R&D expenditures, patenting, pricing, mergers and acquisitions, and competition in markets. Examine the role played by health insurance systems. Study the economic implications of regulations, such as those by the U.S. FDA. Economic and policy aspects will be examined within the context of the U.S. healthcare sector, along with selected comparisons to European national healthcare systems.",
+    "name" : "Econ Of Biotech & Med Innov"
   },
   {
     "attributes" : null,
@@ -18678,8 +18666,8 @@
     "attributes" : null,
     "code" : "ECSE-4560",
     "credits" : "3 credits",
-    "description" : "A broad introduction to modern communication systems, with applications to emerging wireless communication technologies. Fundamental principles of wireless channel modeling; performance limits of communication systems; analog and digital modulation techniques; source and channel coding; multi-antenna communication systems; multi-carrier modulation; multi-user communication systems. Emerging wireless technologies such as MIMO and OFDM, with applications to cellular and wireless LAN communication standards. Complemented with computational exercises.",
-    "name" : "Modern Communication Systems"
+    "description" : "A broad introduction to modern communication systems, with applications to emerging wireless communication technologies. Fundamental principles of wireless channel modeling; performance limits of communication systems; analog and digital modulation techniques; source and channel coding;  multi-antenna communication systems; multi-carrier modulation; multi-user communication systems. Emerging wireless technologies such as MIMO and OFDM, with applications to cellular and wireless LAN communication standards. Complemented with computational exercises.",
+    "name" : "Modern Communication Syst"
   },
   {
     "attributes" : null,
@@ -18866,7 +18854,7 @@
   {
     "attributes" : null,
     "code" : "ECSE-4963",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ECSE"
   },
@@ -18880,7 +18868,7 @@
   {
     "attributes" : null,
     "code" : "ECSE-4965",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ECSE"
   },
@@ -20578,7 +20566,10 @@
     "name" : "Strength Of Materials"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "ENGR-2600",
     "credits" : "3 credits",
     "description" : "Appreciation and understanding of uncertainties and the conditions under which they occur, within the context of the engineering problem-solving pedagogy of measurements, models, validation, and analysis. Problems and concerns in obtaining measurements; tabular and graphical organization of data to minimize misinformation and maximize information; and development and evaluation of models. Concepts will be supported with computer demonstration. Applications to problems in engineering are emphasized.",
@@ -20809,7 +20800,7 @@
     "code" : "ENGR-4100",
     "credits" : "3 credits",
     "description" : "Investigates business-related considerations in successfully commercializing new technology in a new venture or within an existing enterprise: market and customer analysis, beating the competition, planning and managing for profitability, high-tech marketing and sales, and business partnerships and acquisitions. Not a general management course; focuses explicitly on what is relevant for engineers and scientists working in a commercial environment. For junior/senior undergraduate or graduate students.",
-    "name" : "Business Issues for Engineers and Scientists"
+    "name" : "Business Issues For Engr & Sci"
   },
   {
     "attributes" : null,
@@ -23788,8 +23779,8 @@
     "attributes" : null,
     "code" : "ERTH-6230",
     "credits" : "4 credits",
-    "description" : "Climate change is driving an increase in extreme weather events (storms, drought, wildfire). These events manifest as episodic disturbances to affected ecosystems that can alter carbon and nutrient fluxes and reorganize biogeochemical cycles. This course is an in-depth study of current, peer-reviewed literature addressing biogeochemical responses to environmental disturbance and extreme events across varied spatial and temporal scales.",
-    "name" : "Biogeochemical Impacts of Extreme Events"
+    "description" : "Climate change is driving an increase in extreme weather events (storms, drought, wildfire). These events manifest as episodic disturbances to affected ecosystems that can alter carbon and nutrient fluxes and reorganize biogeochemical cycles. This course is an in-depth study of current peer-reviewed literature addressing biogeochemical responses to environmental disturbance and extreme events across varied spatial and temporal scales.",
+    "name" : "Biogeochem Impact Extreme Evnt"
   },
   {
     "attributes" : null,
@@ -26068,7 +26059,6 @@
   {
     "attributes" : 
     [
-      "CI",
       "HInq"
     ],
     "code" : "INQR-1700",
@@ -26149,7 +26139,6 @@
   {
     "attributes" : 
     [
-      "CI",
       "HInq"
     ],
     "code" : "INQR-1960",
@@ -26885,7 +26874,7 @@
     "code" : "ISCI-4610",
     "credits" : "1 credit",
     "description" : "Students taking the Minor in Astrobiology are required to complete 3 credits of research in an Astrobiology-related discipline with a RARE-affiliated faculty member. Concurrent or in a later semester, students will enroll in ISCI 4610 with the same faculty member to prepare their research results for dissemination.",
-    "name" : "Capstone in Astrobiology"
+    "name" : "Capstone In Astrobiology"
   },
   {
     "attributes" : null,
@@ -27782,7 +27771,7 @@
   {
     "attributes" : null,
     "code" : "ISYE-4960",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ISYE"
   },
@@ -28338,7 +28327,8 @@
   {
     "attributes" : 
     [
-      "CI"
+      "CI",
+      "WI"
     ],
     "code" : "ITWS-4100",
     "credits" : "4 credits",
@@ -30775,7 +30765,7 @@
     "attributes" : null,
     "code" : "MANE-4370",
     "credits" : "4 credits",
-    "description" : "A laboratory course covering topics in instrumentation, radiation detection and dosimetry associated with X-ray, gamma-ray, electron and neutron sources, applied physics, fluid dynamics, spectroscopy, neutron time of flight, and a project on shielding design using the MCNP code. Statistics of random events, error propagation, end error analyses are emphasized. Lab attendance is required along with formal written lab reports, which include data error analysis.",
+    "description" : "A laboratory course covering topics applied physics, fluid dynamics, radiation spectroscopy and instrumentations, computer-controlled instrument interfacing and data acquisition.  Estimation and reporting of measurement errors is emphasized.  Lab attendance is required along with formal written lab reports",
     "name" : "Nuclear Engineering Lab"
   },
   {
@@ -31019,7 +31009,7 @@
     "attributes" : null,
     "code" : "MANE-4780",
     "credits" : "3 credits",
-    "description" : "Climatology, Solar vs. Wind Energy, Earth's rotational and Coriolis effects, Wind Speed Statistics: Histograms, Weibull, Available Energy, Aerodynamics, Wake effects, Thrust and Power with objects in Wind flow, Betz Limit, Wind Shear and Ground Effects; Blade aero/structural design, and manufacture; OEM Wind Turbine Designs/Architectures, and capturing Wind Energy via Direct Drive-Generators/Gearbox-driven; Pitch/Yaw Controls, Tower designs. The back-end interface with the Grid, Wind Farm development and Supervisory Controls; Cost Of Energy: Wind vs. Fossil Fuel technologies.",
+    "description" : "Topics Covered: Climatology, Solar vs. Wind Energy,  Earth's rotational and Coriolis effects,  Wind Speed Statistics: Histograms,  Weibull, Available Energy,  Aerodynamics, Wake effects,  Thrust and Power with objects in  Wind  flow, Betz Limit, Wind Shear and Ground Effects;  Blade aero/structural design, and manufacture;  OEM Wind Turbine Designs/Architectures, and   capturing Wind  Energy via Direct Drive-Generators/Gearbox-driven; Pitch/Yaw Controls, Tower designs. The back-end   interface with the  Grid, Wind Farm development and Supervisory Controls; Cost Of Energy: Wind vs. Fossil Fuel  technologies.",
     "name" : "Wind Energy Engineering"
   },
   {
@@ -34159,7 +34149,7 @@
     ],
     "code" : "MGMT-4390",
     "credits" : "4 credits",
-    "description" : "This course presents the concepts, techniques, and tools for managing global projects. The role of the project manager is examined, together with techniques for controlling cost, schedules, and performance parameters. Course deliverables are designed to develop fundamental skills needed by project managers in today's global competitive business environment. Topics include project leadership, project lifecycle methodology, business process development, benchmarking, project planning, execution and control, procurement, communications, organizational change, customer acceptance, performance metrics and project closure. This is a communication-intensive course.",
+    "description" : "This course presents the concepts, techniques, and tools for managing global projects. The role of the project manager is examined, together with techniques for controlling cost, schedules, and performance parameters. Course deliverables are designed to develop fundamental skills needed by project managers in today\u2019s global competitive business environment. Topics include project leadership, project lifecycle methodology, business process development, benchmarking, project planning, execution and control, procurement, communications, organizational change, customer acceptance, performance metrics and project closure. This is a communication-intensive course.",
     "name" : "International Project Management"
   },
   {
@@ -34312,7 +34302,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-4960",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MGMT"
   },
@@ -35218,7 +35208,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-6961",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MGMT"
   },
@@ -35668,7 +35658,7 @@
     "code" : "MGMT-7730",
     "credits" : "3 credits",
     "description" : "Main course objective is to introduce students to basic economics principles and establish economics as a managerial decision-making framework. The course will draw on economic analysis of such concepts as cost, demand, profit, competition, pricing strategy, and market protection and tie them to operational business decisions.",
-    "name" : "Economics and Institutions"
+    "name" : "Economics And Institutions"
   },
   {
     "attributes" : null,
@@ -37399,7 +37389,7 @@
     "attributes" : null,
     "code" : "PHIL-4260",
     "credits" : "4 credits",
-    "description" : "This course may be roughly divided into two general areas: philosophical problems in AI and philosophical issues that arise because of AI. An example from the first area is the Knower Paradox, a paradox in which an apparently desirable formalism for handling an agent\u2019s knowledge leads to inconsistency; an example from the second area is John Searle\u2019s attack on so-called \u201cStrong\u201d AI by way of his Chinese Room argument, wherein he claims that because a computer at bottom just manipulates symbols it cannot genuinely understand.",
+    "description" : "This course may be roughly divided into two general areas: philosophical problems in AI and philosophical issues that arise because of AI. An example from the first area is the Knower Paradox, a paradox in which an apparently desirable formalism for handling an agent's knowledge leads to inconsistency; an example from the second area is John Searle's attack on so-called \"Strong\" AI by way of their Chinese Room argument, wherein they claim that because a computer at bottom just manipulates symbols it cannot genuinely understand.",
     "name" : "Philosophy Of Ai"
   },
   {
@@ -37466,8 +37456,7 @@
   {
     "attributes" : 
     [
-      "CI",
-      "PDII"
+      "CI"
     ],
     "code" : "PHIL-4500",
     "credits" : "4 credits",
@@ -37520,7 +37509,10 @@
     "name" : "Readings In Phil"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "PHIL-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -37600,7 +37592,7 @@
     "code" : "PHIL-4990",
     "credits" : "1-6 credits",
     "description" : "Students conduct original scholarly projects: original research, theoretical or analytical reviews of the literature, or computer simulations. Working either alone or in groups, students prepare written reports relating to this project, under the supervision of a faculty member.",
-    "name" : "Capstone Experience in Philosophy"
+    "name" : "Capstone Exper In Philosophy"
   },
   {
     "attributes" : null,
@@ -37689,7 +37681,7 @@
   {
     "attributes" : null,
     "code" : "PHIL-6960",
-    "credits" : "3 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHIL"
   },
@@ -38238,7 +38230,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-2962",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -38518,7 +38510,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-4960",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -40269,6 +40261,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "PDII"
     ],
     "code" : "STSO-2300",
@@ -40873,7 +40866,7 @@
     "code" : "STSO-4560",
     "credits" : "4 credits",
     "description" : "In this course, students will engage with a variety of perspectives in science and technology studies, feminist theory, queer and transgender theory, cultural studies, science fiction, and other fields that explore how science and technology reciprocally contribute to and are shaped by cultural norms around gender. Students reflect on their own experiences with gender expectations and formulate their own questions and develop a research project over the course of the semester.",
-    "name" : "Gender, Science, and Technology"
+    "name" : "Gender, Science & Technology"
   },
   {
     "attributes" : null,
