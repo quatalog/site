@@ -40426,6 +40426,13 @@
   },
   {
     "attributes" : null,
+    "code" : "STSO-2941",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Undergraduate Research Project"
+  },
+  {
+    "attributes" : null,
     "code" : "STSO-2950",
     "credits" : "1-4 credits",
     "description" : "",
@@ -41286,7 +41293,7 @@
   {
     "attributes" : null,
     "code" : "STSO-6580",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "History and Ethnography is an introductory/intermediate graduate theory and methods seminar that outfits students to undertake original empirical and interpretive work in the humanities and social sciences. The course combines historical and ethnographic approaches with discourse analysis or other qualitative analytic approaches. Such methodologies may also be mixed with quantitative approaches. There are substantial fieldwork and archival components to the course. Both historical and ethnographic methodologies provide a basis for \"capturing\" the \"data\" that provides the evidence base for analysis.",
     "name" : "History And Ethnography"
   },
