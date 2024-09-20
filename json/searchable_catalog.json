@@ -17781,7 +17781,7 @@
   {
     "attributes" : null,
     "code" : "ECON-6720",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Topics include market power, adverse selection, moral hazard, signaling, screening, mechanism design, externalities, public goods, information economics, and principal-agent problems. Implications for economic policy are also considered.",
     "name" : "Microeconomics 2"
   },
@@ -17795,7 +17795,7 @@
   {
     "attributes" : null,
     "code" : "ECON-6740",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Statistical methods are developed for classic linear and non-linear regression analysis. Econometric tools such as instrumental variables, regression discontinuity, and difference-in-differences are emphasized for causal identification. Extensions are made to new topics such as simulation-based methods including bootstrap, nonparametric and semi-parametricestimators, and quantile-regression methods.",
     "name" : "Econometrics 2"
   },
@@ -17823,7 +17823,7 @@
   {
     "attributes" : null,
     "code" : "ECON-6780",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Analyzes theories and findings on how regional and national economic growth relates to innovation. Contrasting theories and empirical evidence regarding agglomeration impacts on innovation, local effects of universities and government laboratories, employment, and trade flows. Regional impacts of corporations, entrepreneurship, labor force, education, and policy.",
     "name" : "Economics Of Innovation 2"
   },
