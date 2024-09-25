@@ -9483,7 +9483,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4962",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -9497,7 +9497,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4964",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -12333,7 +12333,10 @@
     "name" : "Undegraduate Research Project"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "COGS-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -12559,7 +12562,7 @@
   {
     "attributes" : null,
     "code" : "COGS-6960",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COGS"
   },
