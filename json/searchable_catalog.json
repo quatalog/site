@@ -15393,7 +15393,10 @@
     "name" : "Topics in CSCI"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "CSCI-4963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -15409,7 +15412,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4965",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15982,7 +15985,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6965",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -16010,7 +16013,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6969",
-    "credits" : "3 credits",
+    "credits" : "0-1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
