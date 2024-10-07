@@ -14700,7 +14700,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-2210",
-    "credits" : "1 credit",
+    "credits" : "4 credits",
     "description" : "This course covers the essential building blocks of machine learning, focusing on topics in linear algebra, continuous probability and stochastic, and optimization. This provides students with foundational mathematical concepts to the components of machine learning - data, models, and learning algorithms - at an introductory level, emphasizing their basic functionalities and relationships. These mathematical foundations are the bedrock upon which machine learning is constructed. The topics that will be covered in this course are: Vectors, matrices, matrix operations and decomposition, eigenvalues, eigenvectors, vector calculus, calculating gradients of functions of vectors and matrices, probability theory, and linear regression.",
     "name" : "Math Fndtns Of Machine Lrning"
   },
@@ -15393,10 +15393,7 @@
     "name" : "Topics in CSCI"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "CSCI-4963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -15405,7 +15402,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4964",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
