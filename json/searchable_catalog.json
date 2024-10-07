@@ -15008,7 +15008,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4170",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "We will study machine learning and AI solutions to real world problems using publicly available datasets. Topics include Deep Learning, Training Neural Networks (NN), Recurrent NN, Convolution NN, Auto-encoders, Generative Models, Natural Language processing (NLP), Reinforcement Learning, Diffusion models, Recommender Systems.",
     "name" : "Projects In Ai & Machine Lrng"
   },
@@ -15774,10 +15774,7 @@
     "name" : "Parallel Computing"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "CSCI-6370",
     "credits" : "4 credits",
     "description" : "Data and Society provides a broad overview of how society is leveraging and responding to the social, organizational, policy, and technical opportunities and challenges of a data-driven world. Course themes focus on various aspects of the data ecosystem, data and innovation, and data and the broader community. Assignments build writing, presentation, and critical thinking and assessment skills, all of which are important for professional success. This is a communication-intensive course.",
