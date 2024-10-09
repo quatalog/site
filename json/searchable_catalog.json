@@ -1681,7 +1681,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4965",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -7891,6 +7891,13 @@
   },
   {
     "attributes" : null,
+    "code" : "BMED-4810",
+    "credits" : "1 credit",
+    "description" : "The purpose of this course is to bring in researchers in Biomedical Engineering and related areas to share their latest research, and gain knowledge in specific areas within Biomedical Engineering. Seminars are intended to foster professional skills for biomedical engineers. Through these seminars by nationally and internationally recognized experts in their fields, students will learn about current research areas and key problems being studied.",
+    "name" : "Biomedical Seminar"
+  },
+  {
+    "attributes" : null,
     "code" : "BMED-4900",
     "credits" : "0 credits",
     "description" : "",
@@ -8245,6 +8252,13 @@
     "credits" : "0 credits",
     "description" : "This is a seminar based graduate level course that provides (a) a broad exposure to contemporary topics of research in biomedical engineering by recognized experts in the field and; (b) hands-on exposure on various aspects of professional development to Ph.D. students including conference/thesis presentations, writing scientific manuscripts and pre-doctoral and post-doctoral fellowship grant applications. Students are required to attend and participate in the departmental seminar and present their own research and grant proposals.",
     "name" : "Discussions In Graduate Research"
+  },
+  {
+    "attributes" : null,
+    "code" : "BMED-6810",
+    "credits" : "1 credit",
+    "description" : "The purpose of this course is to bring in researchers in Biomedical Engineering and related areas to share their latest research, and gain knowledge in specific areas within Biomedical Engineering. Seminars are intended to foster professional skills for biomedical engineers. Through these seminars by nationally and internationally recognized experts in their fields, students will learn about current research areas and key problems being studied.",
+    "name" : "Biomedical Seminar"
   },
   {
     "attributes" : null,
