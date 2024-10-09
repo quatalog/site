@@ -7864,7 +7864,7 @@
   {
     "attributes" : null,
     "code" : "BMED-4670",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is designed to be a first course in the study of \u201csystems biology\u201d, to introduce students to the field, the experimental and computational methods that are used within it, and the type of insights that the field can provide to biology. To fully appreciate the complexity of living systems, researchers gather systematic, quantitative measurements of a system\u2019s components using cutting-edge omics techniques. In addition, researchers also leverage computing power to describe, model, and predict dynamic behaviors that could otherwise not be perceived in such large-scale omics data. Along with these topics, students will learn to critically read current scientific literature.",
     "name" : "The Biology Of Systems"
   },
@@ -8228,7 +8228,7 @@
   {
     "attributes" : null,
     "code" : "BMED-6670",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is designed to be a first course in the study of \u201csystems biology\u201d, to introduce students to the field, the experimental and computational methods that are used within it, and the type of insights that the field can provide to biology. To fully appreciate the complexity of living systems, researchers gather systematic, quantitative measurements of a system\u2019s components using cutting-edge omics techniques. In addition, researchers also leverage computing power to describe, model, and predict dynamic behaviors that could otherwise not be perceived in such large-scale omics data. Along with these topics, students will learn to critically read current scientific literature.",
     "name" : "The Biology Of Systems"
   },
