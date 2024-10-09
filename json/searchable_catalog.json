@@ -7784,7 +7784,7 @@
   {
     "attributes" : null,
     "code" : "BMED-4490",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Introduction of artificial neural networks, rule/case-based reasoning, Bayesian methods, fuzzy-logic, genetic and evolutionary optimization techniques, and agents.  The course presents the evolution of artificial neural networks from its inception to the principles of deep learning, introduces rule/case-based reasoning, fuzzy-logic, genetic algorithms and particle swarm optimization methods.  Besides covering the foundation of associated methods, the course emphasizes biomedical applications and presents associated results from studies to autism, discriminating cancer types, burn severity and tissue engineering problems.",
     "name" : "Ai For Biomedical Applications"
   },
@@ -7913,7 +7913,7 @@
   {
     "attributes" : null,
     "code" : "BMED-4960",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
@@ -8158,7 +8158,7 @@
   {
     "attributes" : null,
     "code" : "BMED-6490",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Introduction of artificial neural networks, rule/case-based reasoning, Bayesian methods, fuzzy-logic, genetic and evolutionary optimization techniques, and agents.  The course presents the evolution of artificial neural networks from its inception to the principles of deep learning, introduces rule/case-based reasoning, fuzzy-logic, genetic algorithms and particle swarm optimization methods.  Besides covering the foundation of associated methods, the course emphasizes biomedical applications and presents associated results from studies to autism, discriminating cancer types, burn severity and tissue engineering problems.",
     "name" : "Ai For Biomedical Applications"
   },
