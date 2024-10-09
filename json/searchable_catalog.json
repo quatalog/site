@@ -27699,7 +27699,7 @@
   {
     "attributes" : null,
     "code" : "ISYE-4500",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course develops an understanding of stochastic processes that evolve over time, and the ability to model, analyze, and solve optimization problems for systems that involve sequential and interrelated decisions. Course topics include Probability Theory, Markov Chains, Dynamic Programming, and Queueing Theory. The application areas include but are not limited to production and inventory systems, customer service, revenue management, and health care.",
     "name" : "Stochastic Mthd In Op Rsrch"
   },
