@@ -1576,7 +1576,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4936",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "",
     "name" : "Architectural Experience"
   },
@@ -27803,7 +27803,7 @@
   {
     "attributes" : null,
     "code" : "ISYE-4960",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ISYE"
   },
