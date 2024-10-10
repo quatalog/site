@@ -9378,7 +9378,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4720",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Proteomics and Structural Bioinformatics is a survey of modern techniques of protein biochemistry, bioinformatics, protein chemistry, and proteomics, and their applications in the broad field of structural biology and functional genomics. It is targeted to upper-level undergraduate and graduate students in chemistry and/or biology.",
     "name" : "Proteomics & Structrl Biofmtcs"
   },
@@ -9483,7 +9483,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4960",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -9847,7 +9847,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-6720",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Proteomics and Structural Bioinformatics is a survey of modern techniques of protein biochemistry, bioinformatics, protein chemistry, and proteomics, and their applications in the broad field of structural biology and functional genomics. It is targeted to upper-level undergraduate and graduate students in chemistry and/or biology.",
     "name" : "Proteomics & Structrl Biofmtcs"
   },
