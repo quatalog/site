@@ -12756,7 +12756,10 @@
     "name" : "Expository Writing"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "COMM-1250",
     "credits" : "4 credits",
     "description" : "This course bridges international students\u2019\u00a0writing\u00a0skills between high school level\u00a0writing\u00a0and college level and professional\u00a0writing. Through genre-based,\u00a0audience-centered approaches, the course cultivates communication skills of reading,\u00a0writing, speaking, and critical thinking on topics such as global \"Englishes\", cultural diversity, and cross-cultural communication. Students learn and practice the skills of academic\u00a0writing and professional presentations to aid in their success in an American university setting. This course is only intended for 1st year international students.",
@@ -14005,7 +14008,11 @@
     "name" : "Ethnography And Cultural Analysis"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "COMM-6420",
     "credits" : "3 credits",
     "description" : "This course will consider methods for gathering users\u2019 requirements for product functions and information, ways to test products and information for usability and suitability, and procedures for incorporating the results learned through testing. Students will design and conduct usability tests on products, documents, and interfaces of interest.",
@@ -14110,7 +14117,10 @@
     "name" : "Computers In Tech Comm"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "COMM-6730",
     "credits" : "4 credits",
     "description" : "A brand is more than just a cool logo design. \"A brand is a perception or set of associations consumers have of a business.\" -(Felicia C. Sullivan)  These perceptions originate from a consistent verbal and visual story communicated through a multitude of media platforms. In this class, we'll define the brand story, create messaging, and design the logo, stationery, signage, packaging, advertising, schwag, motion graphics, etc. The course culminates with the design of an identity standards manual defining the rules and principles to effectively communicate a consistent brand image.",
@@ -14243,7 +14253,10 @@
     "name" : "Readings In Comm"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "COMM-6960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
