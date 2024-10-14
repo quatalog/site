@@ -12513,7 +12513,7 @@
   {
     "attributes" : null,
     "code" : "COGS-6540",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Social computing is a research area at the intersection of computer science and social science, including psychology, sociology, communication, and linguistics. Its objective is to advance both fields by combining the power of data analytics, natural language processing, and artificial intelligence with the scientific method for studying human data and human behavior.",
     "name" : "Social Computing"
   },
@@ -28473,10 +28473,7 @@
     "name" : "Topics in ITWS"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ITWS-4961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
