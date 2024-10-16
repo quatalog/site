@@ -212,7 +212,7 @@
   {
     "attributes" : null,
     "code" : "ADMN-6960",
-    "credits" : "1 credit",
+    "credits" : "0-1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ADMN"
   },
@@ -27803,7 +27803,7 @@
   {
     "attributes" : null,
     "code" : "ISYE-4960",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ISYE"
   },
@@ -28473,10 +28473,7 @@
     "name" : "Topics in ITWS"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ITWS-4961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
