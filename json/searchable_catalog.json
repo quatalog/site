@@ -10560,7 +10560,7 @@
   {
     "attributes" : null,
     "code" : "CHME-4660",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "An introduction to the theory and application of model predictive control (MPC). Overview of discrete-time model-based control. Methods to correct for plant-model mismatch. Unconstrained and constrained solutions to the MPC optimization problem. Extensions to nonlinear systems.",
     "name" : "Model Predictive Control"
   },
@@ -10595,7 +10595,7 @@
   {
     "attributes" : null,
     "code" : "CHME-4962",
-    "credits" : "3 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -10616,7 +10616,7 @@
   {
     "attributes" : null,
     "code" : "CHME-4965",
-    "credits" : "3 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -10861,7 +10861,7 @@
   {
     "attributes" : null,
     "code" : "CHME-6660",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "An introduction to the theory and application of model predictive control (MPC). Overview of discrete-time model-based control. Methods to correct for plant-model mismatch. Unconstrained and constrained solutions to the MPC optimization problem. Extensions to nonlinear systems.",
     "name" : "Model Predictive Control"
   },
