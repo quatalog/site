@@ -20601,10 +20601,7 @@
     "name" : "Strength Of Materials"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ENGR-2600",
     "credits" : "3 credits",
     "description" : "Appreciation and understanding of uncertainties and the conditions under which they occur, within the context of the engineering problem-solving pedagogy of measurements, models, validation, and analysis. Problems and concerns in obtaining measurements; tabular and graphical organization of data to minimize misinformation and maximize information; and development and evaluation of models. Concepts will be supported with computer demonstration. Applications to problems in engineering are emphasized.",
