@@ -218,6 +218,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ADMN-7001",
+    "credits" : "1 credit",
+    "description" : "",
+    "name" : "Phd Topics"
+  },
+  {
+    "attributes" : null,
     "code" : "ARCH-1000",
     "credits" : "? credits",
     "description" : "",
@@ -3728,7 +3735,7 @@
   {
     "attributes" : null,
     "code" : "ARTS-4963",
-    "credits" : "1-4 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARTS"
   },
@@ -6716,7 +6723,7 @@
   {
     "attributes" : null,
     "code" : "BIOL-4962",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BIOL"
   },
@@ -7109,14 +7116,14 @@
   {
     "attributes" : null,
     "code" : "BIOL-6961",
-    "credits" : "1-6 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BIOL"
   },
   {
     "attributes" : null,
     "code" : "BIOL-6962",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BIOL"
   },
@@ -10595,7 +10602,7 @@
   {
     "attributes" : null,
     "code" : "CHME-4962",
-    "credits" : "1-4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -10616,7 +10623,7 @@
   {
     "attributes" : null,
     "code" : "CHME-4965",
-    "credits" : "1-4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -10945,7 +10952,7 @@
   {
     "attributes" : null,
     "code" : "CHME-6965",
-    "credits" : "1-4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -12069,7 +12076,10 @@
     "name" : "Intro To Cognitive Science"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "COGS-2340",
     "credits" : "4 credits",
     "description" : "This course offers a survey of scientific and applied approaches to the study of human language, highlighting the endlessly surprising nature of this sophisticated mode of communication. A sampling of the topics to be covered: phonology, morphology, syntax, semantics, lexicography, psycholinguistics, and historical linguistics. Lecture course.",
@@ -18796,10 +18806,7 @@
     "name" : "Computer Hardware Design"
   },
   {
-    "attributes" : 
-    [
-      "CulmExp"
-    ],
+    "attributes" : null,
     "code" : "ECSE-4780",
     "credits" : "3 credits",
     "description" : "Design methodologies include register transfer modules and firmware microprogrammed design. \u201cBit-slice\u201d philosophy of design. LSI microprocessors as design elements in larger digital systems such as high-speed channels and special purpose computers. Detailed discussion of the structure of several computers at the chip and board level. Specification of custom IC digital systems. FPGA based design implementation using VHDL.",
@@ -25751,7 +25758,11 @@
     "name" : "Nature / Society"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1130",
     "credits" : "4 credits",
     "description" : "This course explores the philosophical and ethical implications of technological developments that promise to shape \u2012 and perhaps to jeopardize \u2012 human life and society in the 21st Century: Artificial Intelligence. Robots as social companions.  Robots in military and medical settings. Cloning. Genetic modification and technological implants for superhuman abilities. Students will improve their insight as well as their critical reasoning skills as we examine, analyze, and evaluate such controversial topics through the lens of philosophical reasoning. Throughout the course we will ask what sort of beings do we want to be and what sort of society do we want to have.",
@@ -25781,6 +25792,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1160",
@@ -25791,6 +25803,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1165",
@@ -26087,6 +26100,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1700",
@@ -29027,6 +29041,13 @@
   },
   {
     "attributes" : null,
+    "code" : "LANG-2941",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Lang Ug Research Prjct"
+  },
+  {
+    "attributes" : null,
     "code" : "LANG-2950",
     "credits" : "1-4 credits",
     "description" : "",
@@ -29307,6 +29328,13 @@
     "credits" : "2 credits",
     "description" : "Readings and projects adapted to the needs of individual students.",
     "name" : "Language Studies"
+  },
+  {
+    "attributes" : null,
+    "code" : "LANG-4941",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Lang Ug Research Prjct"
   },
   {
     "attributes" : null,
@@ -34897,6 +34925,13 @@
   },
   {
     "attributes" : null,
+    "code" : "MGMT-6565",
+    "credits" : "? credits",
+    "description" : "The primary objective of this course is to provide the first or second semester financial engineering or business analytics student with applied quantitative skills in the areas of artificial intelligence and machine learning for finance applications. The course material will involve hands-on use of real data and focus on various AI/ML algorithms common in the finance industry.",
+    "name" : "Advanced Ai / Ml For Finance"
+  },
+  {
+    "attributes" : null,
     "code" : "MGMT-6570",
     "credits" : "3 credits",
     "description" : "The primary objective of this course is to introduce the multifaceted role of data as a resource of the organization, in three ways. First, it examines the role of data at the operational, tactical, and strategic levels of the organization. Second, it provides students with knowledge and hands on training of technologies that manipulate data, including  structured query language (SQL), extraction transformation and loading tools (ETL), data warehousing (DW), online analytical processing (OLAP), and data mining (DM). The course exposes students to big data management techniques. Finally, the course provides students the theory and hands on training to understand the transformation of data to information.",
@@ -35046,8 +35081,8 @@
     "attributes" : null,
     "code" : "MGMT-6770",
     "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Complex Org & Org Theor"
+    "description" : "This course enables participants to learn about entrepreneurship and business fundamentals for the process of commercializing biomedical innovation, primarily through the \u201clean launchpad\u201d method (aka, I-Corps\u00ae method). Students engage in ideation sessions and then choose to join projects and work in small teams.",
+    "name" : "Commclzn Of Biomed Innovation"
   },
   {
     "attributes" : null,
@@ -38431,7 +38466,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-4220",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Applications of special relativity and quantum theory to topics in modern physics. Atomic and molecular physics. Quantum statistics, blackbody radiation, and lasers. Crystalline solids. Superconductivity. Nuclear and particle physics. Astrophysics and cosmology.",
     "name" : "Applic Of Quantum Phys"
   },
@@ -39685,7 +39720,8 @@
   {
     "attributes" : 
     [
-      "CI"
+      "CI",
+      "WI"
     ],
     "code" : "PSYC-4990",
     "credits" : "1-6 credits",
@@ -39849,7 +39885,7 @@
   {
     "attributes" : null,
     "code" : "PSYC-6961",
-    "credits" : "4 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PSYC"
   },
