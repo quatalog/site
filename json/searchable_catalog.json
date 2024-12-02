@@ -14020,8 +14020,7 @@
   {
     "attributes" : 
     [
-      "CI",
-      "HInq"
+      "CI"
     ],
     "code" : "COMM-6420",
     "credits" : "3 credits",
@@ -40323,7 +40322,6 @@
   {
     "attributes" : 
     [
-      "CI",
       "PDII"
     ],
     "code" : "STSO-2300",
