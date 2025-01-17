@@ -212,7 +212,7 @@
   {
     "attributes" : null,
     "code" : "ADMN-6960",
-    "credits" : "0-1 credit",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ADMN"
   },
@@ -221,7 +221,7 @@
     "code" : "ADMN-7001",
     "credits" : "1 credit",
     "description" : "",
-    "name" : "Phd Topics"
+    "name" : "Teaching Post-secondary Edu"
   },
   {
     "attributes" : null,
@@ -1625,7 +1625,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4956",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "",
     "name" : "Topics In Architecture"
   },
@@ -1639,7 +1639,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4958",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "",
     "name" : "Topics Course In Architecture"
   },
@@ -1688,7 +1688,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4965",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -2647,7 +2647,7 @@
     "code" : "ARTS-1050",
     "credits" : "4 credits",
     "description" : "A thematic investigation of art in diverse social, cultural, and historical contexts. This course explores how artists, art collectives, artworks, and institutional structures interact with their respective cultural moment(s) and are received by audiences and artists in the present. This course examines the ways in which artists, artist assistants, audiences, patrons, curators, galleries, public spaces, inventors, artists, and technologies shape artistic practices, and how these artistic practices in turn shape our identities.",
-    "name" : "Art History"
+    "name" : "Art In Context"
   },
   {
     "attributes" : null,
@@ -3143,7 +3143,10 @@
     "name" : "Undergraduate Research Proj"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "ARTS-2960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -3358,7 +3361,7 @@
     ],
     "code" : "ARTS-4080",
     "credits" : "4 credits",
-    "description" : "",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Art, Community And Technology"
   },
   {
@@ -4721,6 +4724,13 @@
     "credits" : "4 credits",
     "description" : "An introduction to astronomical observing techniques and instrumentation. Optical telescope design. Observatory site selection. Telescopes above the atmosphere. Imaging techniques: photography, charge-coupled devices. Optical photometry, spectroscopy, and polarimetry, and their applications. Infrared techniques and applications. Radio astronomy. Includes evening laboratory sessions.",
     "name" : "Observational Astronomy"
+  },
+  {
+    "attributes" : null,
+    "code" : "ASTR-4150",
+    "credits" : "? credits",
+    "description" : "This is introductory course to Particle Astrophysics at the advanced  undergraduate level. It will focus on modern topics at the forefront of the field. An emphasis will be given on the overlap of s=astrophysics questions with theoretical and experimental techniques in particle physics.",
+    "name" : "Particle Astrophysics"
   },
   {
     "attributes" : null,
@@ -6271,8 +6281,8 @@
     ],
     "code" : "BIOL-4070",
     "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Principles Of Resrch Culm Exp"
+    "description" : "The goal of this course is to provide both biology majors and non-majors with a solid foundation in the physical and biological aspects of the marine environment.  With this foundation, we will delve into a discussion-based investigation in current topics in marine biology.",
+    "name" : "Principles Of Research Culminating Experience"
   },
   {
     "attributes" : 
@@ -6877,6 +6887,13 @@
   },
   {
     "attributes" : null,
+    "code" : "BIOL-6070",
+    "credits" : "? credits",
+    "description" : "The goal of this course is to provide both biology majors and non-majors with a solid foundation in the physical and biological aspects of the marine environment.  With this foundation, we will delve into a discussion-based investigation in current topics in marine biology.",
+    "name" : "Marine Biology"
+  },
+  {
+    "attributes" : null,
     "code" : "BIOL-6100",
     "credits" : "4 credits",
     "description" : "A detailed survey of important topics in the neurosciences. Some of the topics to be covered in this class are: basic mechanisms of neural signaling (neurophysiology, synaptic transmission, and molecular signaling; understanding of sensation/movement and in particular how it relates to neuroanatomy; neurodevelopment and how the mature brain can change (plasticity); and complex brain functions and neurological disease. Students prepare analyses and make a presentation of a paper in the original literature.",
@@ -7063,6 +7080,13 @@
     "credits" : "4 credits",
     "description" : "",
     "name" : "Biocatalysis Fundamentals And Applications"
+  },
+  {
+    "attributes" : null,
+    "code" : "BIOL-6770",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Available"
   },
   {
     "attributes" : null,
@@ -9525,7 +9549,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4965",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -9952,7 +9976,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-6965",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -10938,7 +10962,7 @@
   {
     "attributes" : null,
     "code" : "CHME-6963",
-    "credits" : "1 credit",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -12430,7 +12454,10 @@
     "name" : "Topics in COGS"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "COGS-4990",
     "credits" : "2-6 credits",
     "description" : "Students conduct original scholarly projects: original research, theoretical or analytical reviews of the literature, or computer simulations. Students prepare written reports relating to this project, under the supervision of a faculty member.",
@@ -12593,7 +12620,7 @@
   {
     "attributes" : null,
     "code" : "COGS-6961",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COGS"
   },
@@ -14015,10 +14042,7 @@
     "name" : "Ethnography And Cultural Analysis"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COMM-6420",
     "credits" : "3 credits",
     "description" : "This course will consider methods for gathering users\u2019 requirements for product functions and information, ways to test products and information for usability and suitability, and procedures for incorporating the results learned through testing. Students will design and conduct usability tests on products, documents, and interfaces of interest.",
@@ -14259,12 +14283,9 @@
     "name" : "Readings In Comm"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COMM-6960",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COMM"
   },
@@ -14979,7 +15000,7 @@
     "attributes" : null,
     "code" : "CSCI-4050",
     "credits" : "4 credits",
-    "description" : "",
+    "description" : "This course discusses concepts of languages defined by formal grammars, Turing machines and rewriting systems, computability, Church-Turing thesis, decidable and undecidable problems, computational complexity, polynomial reducibility, NP-completeness, and Cook's theorem.",
     "name" : "Computability,compilers & Comp"
   },
   {
@@ -15426,7 +15447,10 @@
     "name" : "Topics in CSCI"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "CSCI-4963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -15463,7 +15487,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4968",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15477,7 +15501,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4970",
-    "credits" : "1-4 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15653,7 +15677,7 @@
     "attributes" : null,
     "code" : "CSCI-6050",
     "credits" : "3 credits",
-    "description" : "",
+    "description" : "This course discusses concepts of languages defined by formal grammars, Turing machines and rewriting systems, computability, Church-Turing thesis, decidable and undecidable problems, computational complexity, polynomial reducibility, NP-completeness, and Cook's theorem.",
     "name" : "Computability & Complexity"
   },
   {
@@ -15804,7 +15828,10 @@
     "name" : "Parallel Computing"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "CSCI-6370",
     "credits" : "4 credits",
     "description" : "Data and Society provides a broad overview of how society is leveraging and responding to the social, organizational, policy, and technical opportunities and challenges of a data-driven world. Course themes focus on various aspects of the data ecosystem, data and innovation, and data and the broader community. Assignments build writing, presentation, and critical thinking and assessment skills, all of which are important for professional success. This is a communication-intensive course.",
@@ -15936,7 +15963,7 @@
     "attributes" : null,
     "code" : "CSCI-6840",
     "credits" : "4 credits",
-    "description" : "Numerical methods and analysis for linear and nonlinear PDEs with applications from heat conduction, wave propagation, solid and fluid mechanics, and other areas. Basic concepts of stability and convergence (Lax equivalence theorem, CFL condition, energy methods). Methods for parabolic problems (finite differences, method of lines, ADI, operator splitting), methods for hyperbolic problems (vector systems and characteristics, dissipation and dispersion, shocks capturing and tracking schemes), methods for elliptic problems (finite difference and finite volume methods).",
+    "description" : "Numerical methods and analysis for linear and nonlinear PDEs with applications from heat conduction, wave propagation, solid and fluid mechanics, and other areas. Basic concepts of stability and convergence (such as Lax equivalence theorem, CFL condition, GKS stability theory, energy methods). Methods for parabolic problems (finite differences, method of lines, ADI, operator splitting), methods for hyperbolic problems (vector systems and characteristics, dissipation and dispersion, shock capturing and tracking schemes), methods for elliptic problems (finite difference and finite volume methods).",
     "name" : "Num Solution Of Par Diff Eq"
   },
   {
@@ -16019,7 +16046,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6966",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -16033,14 +16060,14 @@
   {
     "attributes" : null,
     "code" : "CSCI-6968",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
   {
     "attributes" : null,
     "code" : "CSCI-6969",
-    "credits" : "3 credits",
+    "credits" : "0-1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -17872,7 +17899,7 @@
     "attributes" : null,
     "code" : "ECON-6800",
     "credits" : "? credits",
-    "description" : "Study economic behavior as it departs from perfectly rational, complete-information models. This course presents the main theories and findings from the behavioral economics literature as they relate to individuals' choices over time, risk, and uncertainty. Additional topics include individuals' use of decision heuristics and models of social preferences, such as altruism, fairness, reciprocity, and inequality aversion. Experimental methods are developed.",
+    "description" : "This course introduces experimental methods in economics and related social sciences, with a focus on choice behavior experiments, field experiments, and survey methods. It also covers econometric techniques commonly applied to experimental data. Students gain a comprehensive understanding of the research landscape in experimental and behavioral economics. By the end of the course, students will have the skills and knowledge required to design their own experiments and conduct high-quality research using experimental methods.",
     "name" : "Behavrl & Expermntl Econ 1"
   },
   {
@@ -18906,7 +18933,7 @@
   {
     "attributes" : null,
     "code" : "ECSE-4965",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ECSE"
   },
@@ -20862,7 +20889,7 @@
     "attributes" : null,
     "code" : "ENGR-4300",
     "credits" : "4 credits",
-    "description" : "",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Electronic Instrumentation"
   },
   {
@@ -21114,14 +21141,14 @@
     "attributes" : null,
     "code" : "ENGR-6205",
     "credits" : "3 credits",
-    "description" : "Students use visualization and cluster analysis tools to gain deeper insights into production and logistic relationships. Students apply data analytic process to real-world production problems and questions, including evaluating production throughput, factor isolation and output risk analysis, modeling production changes, forecasting environmental control factor changes, and minimization of defects and shortages. Students tune models to represent current-state and adjust models as underlying assumptions change. Students cannot receive credit for both this course and ENGR 6210 or ENGR 6215.",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Production & Logistic Analysis"
   },
   {
     "attributes" : null,
     "code" : "ENGR-6206",
     "credits" : "3 credits",
-    "description" : "Working with a faculty member, students develop a big data inquiry model for a production related issue, question, or problem of their choosing. Over the semester, the student frames the question to be analyzed, collects and prepares data for analysis, performs the analysis and presents actionable results and recommendations back to the organization. Students cannot receive credit for both this course and ENGR 6211 or ENGR 6216.",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Modeling Production Decisions"
   },
   {
@@ -23081,6 +23108,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ERTH-1125",
+    "credits" : "? credits",
+    "description" : "This course introduces students to the scientific principles, concepts and methodologies required to understand the interrelationships of the natural world, as well as to identify and analyze environmental problems and think critically about solutions for addressing them. Topics covered will include ecosystems, water quality, soil sustainability, air quality and climate. Case studies and projects will emphasize the investigation of local environmental problems and solutions. Labs include exposure to field equipment, techniques and analysis of data. This course is intended for first- and second-year students and includes a weekend field trip.",
+    "name" : "Intro To Environmental Science"
+  },
+  {
+    "attributes" : null,
     "code" : "ERTH-1150",
     "credits" : "1 credit",
     "description" : "This lab focuses on geological processes in the interior of Earth and how they are manifested at the surface: age and origin of Earth, how rocks form, large scale Earth processes, and energy sources. Review plate tectonics and the evolution of the main features of Earth\u2019s surface. Physical and chemical composition of Earth and the large-scale dynamics of the planet.",
@@ -24933,7 +24967,7 @@
     "attributes" : null,
     "code" : "IENV-2100",
     "credits" : "4 credits",
-    "description" : "An introduction to a variety of ways to study the environment, especially science and technology studies, environmental science, and environmental engineering. Case studies and projects emphasize the cooperation of disciplines in addressing local and global environmental issues such as PCBs in the Hudson River, acid rain in the Adirondacks, and population growth.",
+    "description" : "An introduction to environmental science from an earth- systems perspective. This course focuses on human-environment interactions, with a focus on ecosystems, water quality, air quality and climate. Case studies and projects emphasize the investigation of local environmental problems and solutions. Labs include exposure to field equipment, techniques and analysis of data. This course is intended for first- and second-year students and includes a weekend field trip.",
     "name" : "Intro To Environmental Studies"
   },
   {
@@ -26177,6 +26211,7 @@
   {
     "attributes" : 
     [
+      "CI",
       "HInq"
     ],
     "code" : "INQR-1960",
@@ -27810,7 +27845,7 @@
   {
     "attributes" : null,
     "code" : "ISYE-4960",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ISYE"
   },
@@ -28077,7 +28112,7 @@
     "attributes" : null,
     "code" : "ISYE-6760",
     "credits" : "4 credits",
-    "description" : "Review of exact and heuristic methods for solving discrete problems, including the traveling salesman problem, the knapsack problem, packing and covering problems. Algorithm complexity and NP-completeness, cutting plane methods and polyhedral theory, branch and bound, simulated annealing, tabu search, Lagrangian duality.",
+    "description" : "Exact and heuristic methods for solving discrete problems, including the traveling salesman problem, the knapsack problem, packing and covering problems. Algorithm complexity and NP-completeness, cutting plane methods and polyhedral theory, branch and bound, Lagrangian duality, liftings, metaheuristics.",
     "name" : "Integer & Combinatorial Opt."
   },
   {
@@ -28366,8 +28401,7 @@
   {
     "attributes" : 
     [
-      "CI",
-      "WI"
+      "CI"
     ],
     "code" : "ITWS-4100",
     "credits" : "4 credits",
@@ -30590,8 +30624,8 @@
     "attributes" : null,
     "code" : "MANE-4050",
     "credits" : "4 credits",
-    "description" : "Introduction to modeling, analysis, and control of dynamic systems. Modeling of mechanical, electrical, and electromechanical systems. Time-domain and Laplace-Transform solutions. Block diagrams and transfer functions. Analysis and design of feedback control systems. Control system representation and characteristics. System performance specifications. Absolute stability criteria. Root-Locus and frequency response analysis and design methods. Systems compensation and controller design.",
-    "name" : "Modeling And Control Of Dynamic Systems"
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "name" : "Modeling And Contrl Of Dyn Sys"
   },
   {
     "attributes" : null,
@@ -31159,7 +31193,7 @@
   {
     "attributes" : null,
     "code" : "MANE-4961",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
@@ -32650,7 +32684,7 @@
     "attributes" : null,
     "code" : "MATH-6200",
     "credits" : "4 credits",
-    "description" : "A careful study of measure theory, including abstract and Lebesgue measures and integration, absolute continuity and differentiation, L^p spaces, Fourier transforms and Fourier series, Hilbert spaces and normed linear spaces.",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Real Analysis"
   },
   {
@@ -32685,7 +32719,7 @@
     "attributes" : null,
     "code" : "MATH-6400",
     "credits" : "4 credits",
-    "description" : "Analytical and computational methods for ordinary differential equations:  existence and uniqueness of solutions, similarity methods, linear equations, regular singular points, hypergeometric equations, asymptotic expansions near irregular singular points, WKB theory, turning points, stability theory, stable and unstable manifolds, periodic solutions and Poincare maps, Floquet theory, stabilization and destabilization by periodic forcing, calculus of variations, Lagrangian and Hamiltonian systems, Poincare invariants, symplectic integrators, basic bifurcation theory, examples of chaotic dynamics, applications to physics, chemistry, and biology.",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Ordinary Differential Equation"
   },
   {
@@ -32735,7 +32769,7 @@
     "code" : "MATH-6640",
     "credits" : "4 credits",
     "description" : "Review of basic complex variables theory; power series, analytic functions, singularities, and integration in the complex plane. Integral transforms (Laplace, Fourier, etc.) in the complex plane, with application to solution of PDEs and integral equations. Asymptotic expansions of integrals (Laplace method, methods of steepest descent and stationary phase), with emphasis on extraction of useful information from inversion integrals of transforms. Problems to be drawn from linear models in science and engineering.",
-    "name" : "Complx Vari Integral Transform"
+    "name" : "Complx Vari & Integral Trnsfr"
   },
   {
     "attributes" : null,
@@ -32798,7 +32832,7 @@
     "code" : "MATH-6840",
     "credits" : "4 credits",
     "description" : "Numerical methods and analysis for linear and nonlinear PDEs with applications from heat conduction, wave propagation, solid and fluid mechanics, and other areas. Basic concepts of stability and convergence (such as Lax equivalence theorem, CFL condition, GKS stability theory, energy methods). Methods for parabolic problems (finite differences, method of lines, ADI, operator splitting), methods for hyperbolic problems (vector systems and characteristics, dissipation and dispersion, shock capturing and tracking schemes), methods for elliptic problems (finite difference and finite volume methods).",
-    "name" : "Numerical Solutions Of P"
+    "name" : "Numerical Solutions Of Pde"
   },
   {
     "attributes" : null,
@@ -34089,10 +34123,24 @@
   },
   {
     "attributes" : null,
+    "code" : "MGMT-4225",
+    "credits" : "? credits",
+    "description" : "The course is designed to introduce students to the discipline of sports management and provide a basic understanding of the principles and issues in the field. Different types of organizations in the sports industry will be studied, the role they play in the field and what differentiates them from each other. There will be a particular emphasis in the areas of professional and intercollegiate athletics. The role sports play in social issues will be discussed. The different functions in the sports industry will be discussed to provide information about career opportunities in the industry.",
+    "name" : "Intro To Sports Management"
+  },
+  {
+    "attributes" : null,
     "code" : "MGMT-4230",
     "credits" : "4 credits",
     "description" : "This course is the upper level of managerial accounting course. Cost accounting provides information for both managerial accounting and financial accounting. It is useful for managers for planning and controlling, as well as costing products, services, and customers.",
     "name" : "Cost Accounting"
+  },
+  {
+    "attributes" : null,
+    "code" : "MGMT-4235",
+    "credits" : "? credits",
+    "description" : "The course is designed to be discussion driven while introducing the students to strategies and techniques to market sports and sports products (teams, events, participants, businesses) and marketing through sports (sponsorships, co-branding). Various topics such as what drives affinity between fans and organizations, multi-media rights, licensing, emerging businesses relate to sports, etc. will be discussed. Revenue producing strategies to include in-venue revenue streams, cobranding and sponsorship relationships, and other forms of external revenue will be discussed.",
+    "name" : "Sports Marketing"
   },
   {
     "attributes" : null,
@@ -35079,6 +35127,13 @@
     "credits" : "3 credits",
     "description" : "This course enables participants to learn about entrepreneurship and business fundamentals for the process of commercializing biomedical innovation, primarily through the \u201clean launchpad\u201d method (aka, I-Corps\u00ae method). Students engage in ideation sessions and then choose to join projects and work in small teams.",
     "name" : "Commclzn Of Biomed Innovation"
+  },
+  {
+    "attributes" : null,
+    "code" : "MGMT-6775",
+    "credits" : "? credits",
+    "description" : "This lecture course, developed jointly between Icahn School of Medicine at Mount Sinai (ISMMS) and Rensselaer Polytechnic Institute (RPI), explores the relationship between academic research, intellectual property, and commercialization. Participants will learn about the nuances of intellectual property, with a focus on biomedical applications, and how the products of academic research and related innovations can be protected and commercialized.  The course will cover experimental design, patent strategy, interaction with regulatory agencies, and the transactions related to the performance of research and commercializing an invention.",
+    "name" : "Protect & Commclze Innovation"
   },
   {
     "attributes" : null,
@@ -37513,7 +37568,8 @@
   {
     "attributes" : 
     [
-      "CI"
+      "CI",
+      "PDII"
     ],
     "code" : "PHIL-4500",
     "credits" : "4 credits",
@@ -37566,10 +37622,7 @@
     "name" : "Readings In Phil"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "PHIL-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -37738,7 +37791,7 @@
   {
     "attributes" : null,
     "code" : "PHIL-6960",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHIL"
   },
@@ -37930,6 +37983,13 @@
     "credits" : "4 credits",
     "description" : "An introduction to modern physics with emphasis on special relativity; concepts in quantum mechanics; elementary particles and fundamental forces; and applications to nuclei and atoms.",
     "name" : "Introductory Modern Physics"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHYS-1141",
+    "credits" : "? credits",
+    "description" : "A corequisite to PHYS 1140 to support first semester students. Students will learn best practices for success in STEM courses with an emphasis on collaborative problem solving in mechanics. Fall first-semester students taking PHYS-1140 are required to co-register for PHYS-1141.",
+    "name" : "Phys Mentoring: Modern Physics"
   },
   {
     "attributes" : null,
@@ -38287,7 +38347,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-2962",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -38433,6 +38493,13 @@
   },
   {
     "attributes" : null,
+    "code" : "PHYS-4150",
+    "credits" : "? credits",
+    "description" : "This is introductory course to Particle Astrophysics at the advanced  undergraduate level. It will focus on modern topics at the forefront of the field. An emphasis will be given on the overlap of s=astrophysics questions with theoretical and experimental techniques in particle physics.",
+    "name" : "Particle Astrophysics"
+  },
+  {
+    "attributes" : null,
     "code" : "PHYS-4160",
     "credits" : "2 credits",
     "description" : "Practicum in mentoring new students in Physics for returning and experienced mentors. Returning and experienced mentors are expected both lead their own mentoring groups for first semester students and to provide leadership for new mentors. Note that this course cannot be applied toward the satisfaction of the Institute Math/Science Core requirement.",
@@ -38567,7 +38634,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-4960",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -39674,7 +39741,7 @@
   {
     "attributes" : null,
     "code" : "PSYC-4964",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PSYC"
   },
@@ -39716,8 +39783,7 @@
   {
     "attributes" : 
     [
-      "CI",
-      "WI"
+      "CI"
     ],
     "code" : "PSYC-4990",
     "credits" : "1-6 credits",
