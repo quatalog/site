@@ -15315,6 +15315,13 @@
     "name" : "Game Development II"
   },
   {
+    "attributes" : null,
+    "code" : "CSCI-4545",
+    "credits" : "? credits",
+    "description" : "Social computing is a research area at the intersection of computer science and social science, including psychology, sociology, communication, and linguistics. Its objective is to advance both fields by combining the power of data analytics, natural language processing, and artificial intelligence with the scientific method for studying human data and human behavior.",
+    "name" : "Social Computing"
+  },
+  {
     "attributes" : 
     [
       "CI"
