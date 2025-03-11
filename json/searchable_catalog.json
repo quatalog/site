@@ -828,7 +828,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-2941",
-    "credits" : "1-4 credits",
+    "credits" : "2 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -1094,7 +1094,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4075",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course introduces ecological and landscape thinking pertaining to the academic work of architecture, landscape architecture and art research undertaken at Rensselaer Polytechnic Institute. This course will investigate the history and theory of landscape architectural design, public space, and ecology, as a framework for the hybrid design thinking increasingly required of 21st century inhabitants.",
     "name" : "Geo-actors 1"
   },
@@ -1590,14 +1590,14 @@
   {
     "attributes" : null,
     "code" : "ARCH-4940",
-    "credits" : "0-6 credits",
+    "credits" : "2 credits",
     "description" : "Individual projects and readings adapted to the needs of individual students at the advanced level.",
     "name" : "Readings In Arch"
   },
   {
     "attributes" : null,
     "code" : "ARCH-4941",
-    "credits" : "2 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -1681,14 +1681,14 @@
   {
     "attributes" : null,
     "code" : "ARCH-4964",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
   {
     "attributes" : null,
     "code" : "ARCH-4965",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -2023,7 +2023,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6075",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course introduces ecological and landscape thinking pertaining to the academic work of architecture, landscape architecture and art research undertaken at Rensselaer Polytechnic Institute. This course will investigate the history and theory of landscape architectural design, public space, and ecology, as a framework for the hybrid design thinking increasingly required of 21st century inhabitants.",
     "name" : "Geo-actors 1"
   },
@@ -2422,7 +2422,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6964",
-    "credits" : "3 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -2896,6 +2896,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ARTS-2120",
+    "credits" : "4 credits",
+    "description" : "Concept Art is a digital painting course oriented towards quickly ideating and visualizing concepts such as characters, creatures, props, environments, and motion for games, film, and TV.",
+    "name" : "Concept Art"
+  },
+  {
+    "attributes" : null,
     "code" : "ARTS-2150",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -2941,6 +2948,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ARTS-2255",
+    "credits" : "4 credits",
+    "description" : "D",
+    "name" : "Available"
+  },
+  {
+    "attributes" : null,
     "code" : "ARTS-2300",
     "credits" : "1 credit",
     "description" : "Readings, rehearsals, and performances of works from the standard repertoire for orchestra from the Baroque through the 20th century.",
@@ -2970,7 +2984,7 @@
   {
     "attributes" : null,
     "code" : "ARTS-2340",
-    "credits" : "4 credits",
+    "credits" : "1 credit",
     "description" : "",
     "name" : "Intro To Afro-cuban Percussion"
   },
@@ -3143,10 +3157,7 @@
     "name" : "Undergraduate Research Proj"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "ARTS-2960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -3379,6 +3390,13 @@
     "name" : "Electronic Arts Theory"
   },
   {
+    "attributes" : null,
+    "code" : "ARTS-4115",
+    "credits" : "? credits",
+    "description" : "Environment art teaches students how to build visual, virtual spaces for games, film, and TV. Modelling, texturing, lighting, basic VFX/animation, and environment design principles are addressed.",
+    "name" : "Environment Art"
+  },
+  {
     "attributes" : 
     [
       "CI"
@@ -3387,6 +3405,13 @@
     "credits" : "4 credits",
     "description" : "Biopunk: Arts Lab Practice is a studio, lab and lecture class introducing students to bioart, and microbial life and resilient ecological practices. We use punk, queer and biological laboratory techniques to creatively produce science, design and art works. Students will be required to complete readings, experiment, and create their own visions of a speculative biofuture. Emphasis will be on the history and contemporary investigations of the microbiome and how to culturally explore these scenarios of how we live amongst multiple diverse communities and species.",
     "name" : "Biopunk: Arts Lab Practice"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARTS-4125",
+    "credits" : "? credits",
+    "description" : "Character Art focuses on digitally sculpting characters for 3D mediums like games, films, and TV. Students go through the practices of character design, concepting, modelling, texturing, UV\u2019s and retopology, and lighting/rendering.",
+    "name" : "Character Art"
   },
   {
     "attributes" : 
@@ -3467,7 +3492,7 @@
   {
     "attributes" : null,
     "code" : "ARTS-4250",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Through direct experience in the community, this course explores the complex roles and relationships of art, education, and technology. Students will develop a plan to work with a media arts center, community organization, or school; final teams will produce real-world arts and education projects that ultimately will be realized as significant additions to their professional portfolio. The projects can include a range from traditional arts practice to creative writing, creative IT models, to community art and activism.",
     "name" : "Arts, Community, And Tech"
   },
@@ -3531,9 +3556,12 @@
     "name" : "Topics In Deep Listening"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "ARTS-4440",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course examines how music and sound is heard, experienced, and circulated on screens across diverse media formats in contemporary society. This interdisciplinary course introduces students to a variety of analytical, historical, and theoretical approaches to the understanding of music, sound and interactive and non-interactive narrative screen media, including film, television, music  video, video games, apps and mobile media, Internet audiovisual & social media, VR/AR, and other screen formats of sound production, distribution, and consumption.  This course is open to sophomores, juniors, and seniors only.",
     "name" : "Music, Sound & Screen Media"
   },
@@ -4546,7 +4574,7 @@
   {
     "attributes" : null,
     "code" : "ASTR-2150",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Cosmology is the study of origin and development of the Universe as a whole. It addressing questions including: What is the structure and content of the Universe? What is our understanding of the beginning and evolution of the Universe? It is expected that students will have good working knowledge of algebra and scientific representation of data.",
     "name" : "Cosmology: Our Universe"
   },
@@ -4714,7 +4742,7 @@
   {
     "attributes" : null,
     "code" : "ASTR-4110",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Cosmology is the study of origin and development of the Universe as a whole. In this course we will address the theoretical foundations of our understanding of the Universe, addressing questions including: What are the contents of the Universe? How has the history of the Universe looked until now and how will it evolve? Why one location or direction in the Universe is not more special than another?",
     "name" : "Cosmology"
   },
@@ -4770,7 +4798,7 @@
   {
     "attributes" : null,
     "code" : "ASTR-4941",
-    "credits" : "2 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -5411,7 +5439,7 @@
   {
     "attributes" : null,
     "code" : "BCBP-4941",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -5918,6 +5946,13 @@
   },
   {
     "attributes" : null,
+    "code" : "BIOL-1550",
+    "credits" : "? credits",
+    "description" : "This course examines how biology and biotechnology are represented in popular works of fiction. Explored themes include genome modification, eugenics, restorative medicine, brain-computer interfaces, xenografts/synthetic organ transplants, and pandemic disease. Through class discussions and projects, students will learn about the latest advances in biology, assess the plausibility of fictional depictions of biology and biotechnology, and explore the future applications of biotechnology and the bioethical implications of such technologies. To this end, students will learn how to formulate hypotheses, find and analyze peer-reviewed scientific articles, and become familiar with other means of communication used by scientists.",
+    "name" : "Biology In Popular Fiction"
+  },
+  {
+    "attributes" : null,
     "code" : "BIOL-1940",
     "credits" : "4 credits",
     "description" : "",
@@ -6037,6 +6072,13 @@
   },
   {
     "attributes" : null,
+    "code" : "BIOL-2300",
+    "credits" : "? credits",
+    "description" : "This course provides students with an introduction to the biology and ecology of aquatic habitats found in upstate New York, with a focus on field sampling techniques and data analysis. Topics covered may include lakes, rivers, wetlands, and other inland water bodies, as well as the unique flora and fauna that inhabit these systems. Rensselaer Polytechnic Institute\u2019s Troy, NY campus is uniquely situated near the Hudson Valley, an aquatic ecosystem with both urban and rural land use. This location can provide excellent research opportunities for students who are interested in biotic responses to environmental stressors.",
+    "name" : "Field Experiences Aquatic Biol"
+  },
+  {
+    "attributes" : null,
     "code" : "BIOL-2310",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -6115,14 +6157,14 @@
   {
     "attributes" : null,
     "code" : "BIOL-2963",
-    "credits" : "? credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BIOL"
   },
   {
     "attributes" : null,
     "code" : "BIOL-2964",
-    "credits" : "? credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BIOL"
   },
@@ -6260,7 +6302,7 @@
     "attributes" : null,
     "code" : "BIOL-4050",
     "credits" : "1 credit",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "description" : "Cells, the fundamental unit of life, exhibit astounding diversity of form and function. This course will explore the evolutionary basis of this diversity. Topics include the origin of life, organelles and their origins, constraints on cellular evolution, the origin of eukaryotes, complex cellular life cycles, and multicellularity, among others. Students will have the opportunity to evaluate and discuss cutting-edge scientific literature and practice interdisciplinary critical thinking and communication while being introduced to this emerging field.",
     "name" : "Literature Search Strategies In Biology"
   },
   {
@@ -6684,7 +6726,7 @@
       "CulmExp"
     ],
     "code" : "BIOL-4900",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "Independent research by teams under the supervision of a faculty member, including literature search, brief proposal of project design, conduct of project to completion, and writing of a formal report in the form of a scientific paper and presentation of a seminar or poster on the project.",
     "name" : "Team Research"
   },
@@ -6811,7 +6853,7 @@
       "CulmExp"
     ],
     "code" : "BIOL-4990",
-    "credits" : "1-4 credits",
+    "credits" : "3 credits",
     "description" : "Independent research, supervised by a faculty member, culminating in a written thesis and oral presentation.",
     "name" : "Senior Research Thesis"
   },
@@ -6884,6 +6926,13 @@
     "credits" : "? credits",
     "description" : "",
     "name" : "Consortia Course At Alb. Pharm"
+  },
+  {
+    "attributes" : null,
+    "code" : "BIOL-6050",
+    "credits" : "? credits",
+    "description" : "Cells, the fundamental unit of life, exhibit astounding diversity of form and function. This course will explore the evolutionary basis of this diversity. Topics include the origin of life, organelles and their origins, constraints on cellular evolution, the origin of eukaryotes, complex cellular life cycles, and multicellularity, among others. Students will have the opportunity to evaluate and discuss cutting-edge scientific literature and practice interdisciplinary critical thinking and communication while being introduced to this emerging field.",
+    "name" : "Evolutionary Cell Biology"
   },
   {
     "attributes" : null,
@@ -7133,7 +7182,7 @@
   {
     "attributes" : null,
     "code" : "BIOL-6960",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BIOL"
   },
@@ -7511,7 +7560,7 @@
   {
     "attributes" : null,
     "code" : "BMED-2941",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -7944,14 +7993,14 @@
   {
     "attributes" : null,
     "code" : "BMED-4941",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
   {
     "attributes" : null,
     "code" : "BMED-4960",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
@@ -8279,6 +8328,13 @@
   },
   {
     "attributes" : null,
+    "code" : "BMED-6770",
+    "credits" : "? credits",
+    "description" : "This course enables participants to learn about entrepreneurship and business fundamentals for the process of commercializing biomedical innovation, primarily through the \u201clean launchpad\u201d method (aka, I-Corps\u00ae method). Students engage in ideation sessions and then choose to join projects and work in small teams.",
+    "name" : "Commclzn Of Biomed Innovation"
+  },
+  {
+    "attributes" : null,
     "code" : "BMED-6800",
     "credits" : "0 credits",
     "description" : "This is a seminar based graduate level course that provides (a) a broad exposure to contemporary topics of research in biomedical engineering by recognized experts in the field and; (b) hands-on exposure on various aspects of professional development to Ph.D. students including conference/thesis presentations, writing scientific manuscripts and pre-doctoral and post-doctoral fellowship grant applications. Students are required to attend and participate in the departmental seminar and present their own research and grant proposals.",
@@ -8308,7 +8364,7 @@
   {
     "attributes" : null,
     "code" : "BMED-6960",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
@@ -8986,6 +9042,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CHEM-2800",
+    "credits" : "? credits",
+    "description" : "Introduction to computer architecture, assembler and C programming, and operating systems. Coverage includes numeric representations, processors, memory, I/O, digital logic gates, digital logic circuits, machine-level instruction formats, addressing modes, instruction types, and flow of control. Operating systems coverage includes memory management, processes, interprocess communication (IPC), system calls, synchronization, parallel programming, and network programming. Programming projects are required.",
+    "name" : "Comp Architecture & Os (caos)"
+  },
+  {
+    "attributes" : null,
     "code" : "CHEM-2830",
     "credits" : "2 credits",
     "description" : "This course is a discussion-based investigation of the history of chemistry, from its earliest beginnings until the middle of the 20th Century.  Emphasis on the thought processes that transformed the art into the science, the transition from alchemy to chemistry, the insights that gave rise to what might be called \u201cModern Chemistry\u201d, and an in-depth analysis of the personalities of the main players involved in the development of the field will be covered.",
@@ -9387,6 +9450,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CHEM-4630",
+    "credits" : "? credits",
+    "description" : "Segmented into four modules; grant writing, project management, statistical tools, and intellectual property, students are introduced to an industrial scientist's perspective to: (i) garner funding for R&D projects (proposal writing, general PI training), (ii) effectively manage project work (administrative/programmatic aspects/tools), (iii) execute on a project/problem leveraging so-called \u2018Design of Experiment\u2019 (DoE) tools, and (iv) protect project work-products through intellectual property (IP) filings. May not receive credit for both 4000 and 6000 level versions of this course. 3cr.",
+    "name" : "Tech & Ldrshp Skills: Academia"
+  },
+  {
+    "attributes" : null,
     "code" : "CHEM-4640",
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -9458,7 +9528,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4820",
-    "credits" : "? credits",
+    "credits" : "2 credits",
     "description" : "Understanding of the chemical aspects of food composition with emphasis on the functional properties and chemical reactions of the major constituents of foods: Water, carbohydrates, proteins, and fats/oils (lipids). Several food-related concepts such as Gelation, Browning and the Maillard reactions, Meat glue, Food texture and Mouth feel, Emulsions, Sous-vide cooking, Thickening, etc. will be introduced.",
     "name" : "Food Chemistry & Technology"
   },
@@ -9500,7 +9570,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4941",
-    "credits" : "? credits",
+    "credits" : "0-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -9830,8 +9900,8 @@
     "attributes" : null,
     "code" : "CHEM-6630",
     "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Synthesis Of High Polymers"
+    "description" : "Segmented into four modules; grant writing, project management, statistical tools, and intellectual property, students are introduced to an industrial scientist's perspective to: (i) garner funding for R&D projects (proposal writing, general PI training), (ii) effectively manage project work (administrative/programmatic aspects/tools), (iii) execute on a project/problem leveraging so-called \u2018Design of Experiment\u2019 (DoE) tools, and (iv) protect project work-products through intellectual property (IP) filings. May not receive credit for both 4000 and 6000 level versions of this course. 3cr.",
+    "name" : "Tech & Ldrshp Skills: Academia"
   },
   {
     "attributes" : null,
@@ -10577,7 +10647,7 @@
   {
     "attributes" : null,
     "code" : "CHME-4610",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course covers structure, processing, and property relationships for industrially important plastic materials.  Fundamentals of fluid flow, rheology, heat transfer, and transport phenomena are applied to analyze polymer processing operations including extrusion, multi-phase mixing, calendering, blow molding, thermoforming, fiber spinning, compression molding, injection molding, and recycling.",
     "name" : "Polymer Procss & Plstc Tech"
   },
@@ -10605,21 +10675,21 @@
   {
     "attributes" : null,
     "code" : "CHME-4941",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
   {
     "attributes" : null,
     "code" : "CHME-4960",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
   {
     "attributes" : null,
     "code" : "CHME-4961",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -10640,7 +10710,7 @@
   {
     "attributes" : null,
     "code" : "CHME-4964",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -10941,14 +11011,14 @@
   {
     "attributes" : null,
     "code" : "CHME-6960",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
   {
     "attributes" : null,
     "code" : "CHME-6961",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -11574,7 +11644,7 @@
   {
     "attributes" : null,
     "code" : "CIVL-4961",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CIVL"
   },
@@ -12216,6 +12286,13 @@
   },
   {
     "attributes" : null,
+    "code" : "COGS-4280",
+    "credits" : "4 credits",
+    "description" : "This course will explore research on canine cognition and the application of these findings to dog training, behavior modification, and creating a positive dog-human bond. Topics include domestication, development, socialization, communication, olfaction, emotions, training philosophies, learning theory, play, problem solving, dopamine, neuroimaging, breed differences, and more. The course is communication intensive with communication-oriented foci including writing, cognitive modeling, visually representing models, translating scientific findings to the broader public, and the role of stories in learning.",
+    "name" : "Canine Cogtn & Science Trning"
+  },
+  {
+    "attributes" : null,
     "code" : "COGS-4320",
     "credits" : "4 credits",
     "description" : "",
@@ -12381,12 +12458,9 @@
     "name" : "Undegraduate Research Project"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COGS-4960",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COGS"
   },
@@ -12474,8 +12548,8 @@
     "attributes" : null,
     "code" : "COGS-6100",
     "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Cognitive Engineering"
+    "description" : "The course offers a survey of topics in cognitive science that are actively researched by COGS members. Students are acquainted with the latest advances in the field which also facilitates their choice of topic for graduate work.",
+    "name" : "Professional Seminar"
   },
   {
     "attributes" : null,
@@ -12549,6 +12623,20 @@
   },
   {
     "attributes" : null,
+    "code" : "COGS-6440",
+    "credits" : "? credits",
+    "description" : "This course reviews the fundamental epistemological, metaphysical, and logical challenges in the foundations of mathematics. Historical discussions of the paradoxes arising during the foundational crisis in mathematics, e.g., the inconsistency of class theory, the discovery of G\u00f6del's incompleteness theorems, and the collapse of the Hilbert program set the stage for investigation into what mathematical entities are, how we can come to have reliable knowledge of them, and what choices we ought to make in the face of paradoxes or contradictions in our representations of mathematical truth.",
+    "name" : "Philosophy Of Mathematic"
+  },
+  {
+    "attributes" : null,
+    "code" : "COGS-6450",
+    "credits" : "? credits",
+    "description" : "This course provides an introduction to the philosophical and formal aspects of several families of non-classical logics that provide alternatives to classical (Russell-Frege) logic. Emphases will include philosophical objections to particular components of classical logic and how alternative formalizations of reasoning have emerged in order to accommodate these objections. In particular, topics to be covered will include logics of strict implication, intuitionistic logic, relevant logic, and fuzzy logic.",
+    "name" : "Non-classical Logic"
+  },
+  {
+    "attributes" : null,
     "code" : "COGS-6540",
     "credits" : "4 credits",
     "description" : "Social computing is a research area at the intersection of computer science and social science, including psychology, sociology, communication, and linguistics. Its objective is to advance both fields by combining the power of data analytics, natural language processing, and artificial intelligence with the scientific method for studying human data and human behavior.",
@@ -12592,7 +12680,7 @@
   {
     "attributes" : null,
     "code" : "COGS-6800",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "",
     "name" : "Open To Use"
   },
@@ -12620,14 +12708,14 @@
   {
     "attributes" : null,
     "code" : "COGS-6961",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COGS"
   },
   {
     "attributes" : null,
     "code" : "COGS-6962",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COGS"
   },
@@ -13546,6 +13634,13 @@
   },
   {
     "attributes" : null,
+    "code" : "COMM-4567",
+    "credits" : "? credits",
+    "description" : "This course explores practices of adaptation across media formats and genres, with a particular focus on what happens in transmedial adaptation processes between narrative and ludic modes (i.e., between stories and games). Students will trace historical trends in adaptation studies, consider various theoretical models, and undertake critical analyses of adaptations and/or produce creative works of adaptation in a medium of their choosing.",
+    "name" : "Adaptations In Games & Media"
+  },
+  {
+    "attributes" : null,
     "code" : "COMM-4570",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -13589,8 +13684,15 @@
     "attributes" : null,
     "code" : "COMM-4650",
     "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Intermediate Visual Comm"
+    "description" : "This co-listed undergraduate and graduate course explores major approaches to studying\u2013\u2013and debates about stopping\u2013\u2013the spread of dis/misinformation, \u201cfake news,\u201d and conspiracy theories in media. Topics we will consider include: news gathering and publishing practices in both legacy and digital journalism, including fact checking; public relations and marketing; pre-digital \u201cfake news\u201d and conspiracy theories; propaganda and authoritarianism; and \u201cmedia manipulation\u201d and dis/misinformation on social media platforms.",
+    "name" : "Media And Mis/disinformation"
+  },
+  {
+    "attributes" : null,
+    "code" : "COMM-4655",
+    "credits" : "? credits",
+    "description" : "This co-listed undergraduate and graduate course explores major approaches to studying\u2013\u2013and debates about stopping\u2013\u2013the spread of dis/misinformation, \u201cfake news,\u201d and conspiracy theories in media. Topics we will consider include: news gathering and publishing practices in both legacy and digital journalism, including fact checking; public relations and marketing; pre-digital \u201cfake news\u201d and conspiracy theories; propaganda and authoritarianism; and \u201cmedia manipulation\u201d and dis/misinformation on social media platforms.",
+    "name" : "Media And Mis / Disinformation"
   },
   {
     "attributes" : null,
@@ -13723,6 +13825,13 @@
     "credits" : "4 credits",
     "description" : "The course covers interactive, multimedia interface design (for Web sites and apps) for data visualization or other forms of interactive information design. Innovative designs that explore new directions in interactive data design are highlighted. Topics include multisensory information design using graphics, sound, touch, and large-scale data projection. Interface design topics include user-centered design, information architecture, rapid prototyping, cross-cultural design, and intellectual property. Students may choose the applications they want to design for the class project.",
     "name" : "Interactive Data Visualization"
+  },
+  {
+    "attributes" : null,
+    "code" : "COMM-4897",
+    "credits" : "4 credits",
+    "description" : "Social media impacts our everyday lives; it affects how we develop our sense of identity, how we communicate with others and develop relationships, and how we find information about topics, products, pop culture, and politics. Simultaneously, social media reciprocally reflects existing social dynamics. This course explores those dynamics and that reciprocal relationship. Specifically, rather than a \u201chow-to\u201d course, this course explores theoretical approaches to social media, including identity formation, community formation, surveillance, and digital labor.",
+    "name" : "Social Media & Society"
   },
   {
     "attributes" : null,
@@ -14092,6 +14201,13 @@
   },
   {
     "attributes" : null,
+    "code" : "COMM-6567",
+    "credits" : "? credits",
+    "description" : "This course explores practices of adaptation across media formats and genres, with a particular focus on what happens in transmedial adaptation processes between narrative and ludic modes (i.e., between stories and games). Students will trace historical trends in adaptation studies, consider various theoretical models, and undertake critical analyses of adaptations and/or produce creative works of adaptation in a medium of their choosing.",
+    "name" : "Adaptations In Games & Media"
+  },
+  {
+    "attributes" : null,
     "code" : "COMM-6570",
     "credits" : "3 credits",
     "description" : "",
@@ -14124,6 +14240,13 @@
     "credits" : "3 credits",
     "description" : "",
     "name" : "Commun Research Design"
+  },
+  {
+    "attributes" : null,
+    "code" : "COMM-6650",
+    "credits" : "? credits",
+    "description" : "This co-listed undergraduate and graduate course explores major approaches to studying\u2013\u2013and debates about stopping\u2013\u2013the spread of dis/misinformation, \u201cfake news,\u201d and conspiracy theories in media. Topics we will consider include: news gathering and publishing practices in both legacy and digital journalism, including fact checking; public relations and marketing; pre-digital \u201cfake news\u201d and conspiracy theories; propaganda and authoritarianism; and \u201cmedia manipulation\u201d and dis/misinformation on social media platforms.",
+    "name" : "Media And Mis / Disinformation"
   },
   {
     "attributes" : null,
@@ -14232,6 +14355,13 @@
     "credits" : "3 credits",
     "description" : "This course covers interactive, multimedia interface design (for Web sites and apps) for data visualization or other forms of interactive information design. Innovative designs that explore new directions in interactive data design are highlighted. Topics include multisensory information design using graphics, sound, touch, and large-scale data projection. Interface design topics include user-centered design, information architecture, rapid prototyping, cross-cultural design, and intellectual property. Students may choose the applications they want to design for the class project.",
     "name" : "Interactive Data Visualization"
+  },
+  {
+    "attributes" : null,
+    "code" : "COMM-6897",
+    "credits" : "4 credits",
+    "description" : "Social media impacts our everyday lives; it affects how we develop our sense of identity, how we communicate with others and develop relationships, and how we find information about topics, products, pop culture, and politics. Simultaneously, social media reciprocally reflects existing social dynamics. This course explores those dynamics and that reciprocal relationship. Specifically, rather than a \u201chow-to\u201d course, this course explores theoretical approaches to social media, including identity formation, community formation, surveillance, and digital labor.",
+    "name" : "Social Media & Society"
   },
   {
     "attributes" : null,
@@ -14809,6 +14939,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CSCI-2800",
+    "credits" : "4 credits",
+    "description" : "Introduction to computer architecture, assembler and C programming, and operating systems. Coverage includes numeric representations, processors, memory, I/O, digital logic gates, digital logic circuits, machine-level instruction formats, addressing modes, instruction types, and flow of control. Operating systems coverage includes memory management, processes, interprocess communication (IPC), system calls, synchronization, parallel programming, and network programming. Programming projects are required.",
+    "name" : "Computer Architecture And Operating Systems (Caos)"
+  },
+  {
+    "attributes" : null,
     "code" : "CSCI-2940",
     "credits" : "1-12 credits",
     "description" : "",
@@ -15069,7 +15206,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4180",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This seminar course introduces students with knowledge of machine learning to modern desiderata for trustworthy machine learning, including alignment, fairness, adversarial robustness, privacy, and their interrelations. Students read, present, and discuss seminal and influential recent papers in the field. The course includes a project component aimed at synthesizing the students\u2019 learning.",
     "name" : "Trustworthy Machine Learning"
   },
@@ -15077,8 +15214,8 @@
     "attributes" : null,
     "code" : "CSCI-4190",
     "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Robotic Algorithms"
+    "description" : "This course explores the synergistic combination of Artificial Intelligence (AI) and Blockchain technologies. A primary focus of this course is to identify the disruptors in the two technologies from a critical research lens. We discuss how leveraging blockchain technology can benefit AI and how applying AI can enhance the capabilities of blockchain technology. Further, students are encouraged to think about the impact these two technologies have on society. Topics include blockchain fundamentals, smart contracts, web3, federated machine learning, and decentralized applications that combine AI and blockchain technologies.",
+    "name" : "Decentralized Ai"
   },
   {
     "attributes" : null,
@@ -15108,7 +15245,7 @@
     "attributes" : null,
     "code" : "CSCI-4240",
     "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "description" : "Time series (TS) are found in a wide range of applications, including economics and finance, biomedical domains, etc. This course introduces the theory and practice of statistical TS analysis. We study how TS data are sampled and how to resample, which relates to the missing data problem. We also analyze TS data to identify deterministic and nondeterministic components, fitting a model to such data for prediction. Topics covered include stationary and non-stationary stochastic processes, autoregressive and moving average (ARMA) models, state-space models and the Kalman filter, forecasting and forecast evaluation, and an outline of spectral techniques. We also cover deep neural networks relevant to TS data, including RNN and LSTM. Course activities include programming and analytical assignments, a term project with a presentation, and exams.",
     "name" : "Cryptography And Network Security II"
   },
   {
@@ -15134,6 +15271,13 @@
     "credits" : "4 credits",
     "description" : "The goal of this course is to introduce students to the problems, challenges, and applications of computer vision from a computational perspective. Topics include camera modeling and image formation, feature extraction, object and face recognition, image mosaic construction, stereo and three-dimensional imaging, motion, and tracking. Machine learning methods, including deep convolutional neural networks, will be studied and applied throughout the course.",
     "name" : "Computational Vision"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-4280",
+    "credits" : "? credits",
+    "description" : "This class is an introduction to graph processing and mining. Students will learn about research and analytical challenges related to the study of real-world graphs. Course topics may include, but are not limited to: general graph processing techniques, connectivity and centrality algorithms, recommender systems, link prediction, community detection, subgraph mining, graph neural networks, random graph models, random walks, and the interplay between graphs and linear algebra. Course activities include programming assignments, paper presentations, and a semester-long project involving a proposal presentation, update presentation, and final presentation and writeup.",
+    "name" : "Graph Mining"
   },
   {
     "attributes" : null,
@@ -15350,6 +15494,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CSCI-4610",
+    "credits" : "? credits",
+    "description" : "A course on computing and quantum computing emphasizing the theory and foundations. The course begins with advanced topics in the theory of computing (Turing Machines, undecidability, complexity and Boolean circuits, NP-completeness). The course then covers the foundations of Quantum Computing addressing the fundamental questions of \u201cWhat is quantum computing and how do we do it?\u201d before moving on to exploring quantum algorithm design by covering standard design techniques as well as the quantum algorithms for gatekeeper problems (quantum search, quantum counting, quantum approximate optimization, quantum machine learning, etc.). Students cannot receive credit for both CSCI 4610 and CSCI 6610.",
+    "name" : "Computing & Quantum Computing"
+  },
+  {
+    "attributes" : null,
     "code" : "CSCI-4650",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -15379,9 +15530,16 @@
   {
     "attributes" : null,
     "code" : "CSCI-4700",
+    "credits" : "1-4 credits",
+    "description" : "The mission of the Rensselaer Center for Open Source (RCOS) is to cultivate an inclusive, creative, and entrepreneurial community that seeks to empower students to develop open-source solutions to real-world problems. RCOS is a project-based course in which students join a project team and work primarily on one open-source project throughout the semester. Projects must be open source but can be existing external projects, internal (RCOS) projects, or new endeavors. Collaborative and cross-disciplinary projects are encouraged. Students are required to consistently contribute to their open source projects, in particular through multiple commits (commit early, commit often), presenting their work and/or specific technical talks, mentoring other projects, and generally contributing to the open source community.",
+    "name" : "Rcos Open Source Development"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-4710",
     "credits" : "? credits",
-    "description" : "The course is intended to provide a computational perspective on one or more topics chosen from theory and algorithms; systems and software; artificial intelligence and data; or vision, graphics, robotics, and games. Students will read classic and recent research results in the field, write critical reviews of these publications, engage in in-class presentations and discussions, and/or write a publication-quality report on an innovative final project of their choice.",
-    "name" : "Technical Writing & Comm In Cs"
+    "description" : "The mission of the Rensselaer Center for Open Source (RCOS) is to cultivate an inclusive, creative, and entrepreneurial community that seeks to empower students to develop open-source solutions to real-world problems. In this course, students lead a project team and work on an open source project that they have initially worked on in CSCI 4700. Students are required to manage this project, substantially contribute to this project, and present their project work as a final oral presentation. This course may not be repeated, with final grades based on effort, contributions, presentation, and the success of the given project. To register for this course, students must provide an individual project proposal to the instructor prior to the start of the semester.",
+    "name" : "Rcos Senior Project Leader"
   },
   {
     "attributes" : null,
@@ -15421,7 +15579,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4941",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -15454,10 +15612,7 @@
     "name" : "Topics in CSCI"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "CSCI-4963",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -15494,21 +15649,21 @@
   {
     "attributes" : null,
     "code" : "CSCI-4968",
-    "credits" : "1-4 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
   {
     "attributes" : null,
     "code" : "CSCI-4969",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
   {
     "attributes" : null,
     "code" : "CSCI-4970",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15738,6 +15893,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CSCI-6190",
+    "credits" : "? credits",
+    "description" : "This course explores the synergistic combination of Artificial Intelligence (AI) and Blockchain technologies. A primary focus of this course is to identify the disruptors in the two technologies from a critical research lens. We discuss how leveraging blockchain technology can benefit AI and how applying AI can enhance the capabilities of blockchain technology. Further, students are encouraged to think about the impact these two technologies have on society. Topics include blockchain fundamentals, smart contracts, web3, federated machine learning, and decentralized applications that combine AI and blockchain technologies.",
+    "name" : "Decentralized Ai"
+  },
+  {
+    "attributes" : null,
     "code" : "CSCI-6210",
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -15761,7 +15923,7 @@
     "attributes" : null,
     "code" : "CSCI-6240",
     "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "description" : "Time series (TS) are found in a wide range of applications, including economics and finance, biomedical domains, etc. This course introduces the theory and practice of statistical TS analysis. We study how TS data are sampled and how to resample, which relates to the missing data problem. We also analyze TS data to identify deterministic and nondeterministic components, fitting a model to such data for prediction. Topics covered include stationary and non-stationary stochastic processes, autoregressive and moving average (ARMA) models, state-space models and the Kalman filter, forecasting and forecast evaluation, and an outline of spectral techniques. We also cover deep neural networks relevant to TS data, including RNN and LSTM. Course activities include programming and analytical assignments, a term project with a presentation, and exams.",
     "name" : "Cryptography And Network Security II"
   },
   {
@@ -15782,8 +15944,8 @@
     "attributes" : null,
     "code" : "CSCI-6280",
     "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Mobile Robotics"
+    "description" : "This class is an introduction to graph processing and mining. Students will learn about research and analytical challenges related to the study of real-world graphs. Course topics may include, but are not limited to: general graph processing techniques, connectivity and centrality algorithms, recommender systems, link prediction, community detection, subgraph mining, graph neural networks, random graph models, random walks, and the interplay between graphs and linear algebra. Course activities include programming assignments, paper presentations, and a semester-long project involving a proposal presentation, update presentation, and final presentation and writeup.",
+    "name" : "Graph Mining"
   },
   {
     "attributes" : null,
@@ -15944,6 +16106,13 @@
     "credits" : "4 credits",
     "description" : "We will study theoretical and practical solutions to computational geometry problems found in computer graphics, visualization, vision, robotics, engineering, manufacturing, and geographic information systems.  Topics include convex hulls, half-planes, Voronoi diagrams, Delaunay triangulations, binary space partitions, motion planning, visibility, and meshes. Course activities include programming assignments, written homework with proofs of computational complexity, and a term project with presentation.",
     "name" : "Computational Geometry"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-6610",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Computing & Quantum Computing"
   },
   {
     "attributes" : null,
@@ -17387,6 +17556,16 @@
     "name" : "Labor Mrkts & Discrimination"
   },
   {
+    "attributes" : 
+    [
+      "CI"
+    ],
+    "code" : "ECON-4390",
+    "credits" : "4 credits",
+    "description" : "This course applies economic analysis to explore the intersection of energy systems and societal values, investigating global energy consumption, climate change impacts, energy poverty and inequality, and strategies for decarbonization. We will explore the dynamics of nonrenewable and renewable energy markets, the implications of market failures, the role of policy interventions, and the evaluation of energy policies through cost-benefit analyses.",
+    "name" : "Energy Economics & Policy"
+  },
+  {
     "attributes" : null,
     "code" : "ECON-4410",
     "credits" : "4 credits",
@@ -17877,7 +18056,7 @@
   {
     "attributes" : null,
     "code" : "ECON-6750",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Develops econometric models for causal inference using tools for big data. Machine learning and other resource-intensive modeling techniques are integrated into traditional economic approaches. Also covers procedures for the development, processing, and combination of novel data sources; methods to process extremely large datasets; data exploration and development tools; nonparametric methods. Economics applications are considered throughout.",
     "name" : "Econ Data Analytics & Modling"
   },
@@ -17905,7 +18084,7 @@
   {
     "attributes" : null,
     "code" : "ECON-6800",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course introduces experimental methods in economics and related social sciences, with a focus on choice behavior experiments, field experiments, and survey methods. It also covers econometric techniques commonly applied to experimental data. Students gain a comprehensive understanding of the research landscape in experimental and behavioral economics. By the end of the course, students will have the skills and knowledge required to design their own experiments and conduct high-quality research using experimental methods.",
     "name" : "Behavrl & Expermntl Econ 1"
   },
@@ -17919,7 +18098,7 @@
   {
     "attributes" : null,
     "code" : "ECON-6820",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Study the economic theory of health and health care, and its applications. Topics include the measurement and determinants of health; economics of uncertainty, adverse selection, and moral hazard; economic models of demand for healthcare and demand for insurance; key markets in the healthcare sector such as physicians, hospitals, and insurance companies; policy effects on the matching between health care demand and supply; and political economy and organizational reform in medical care.",
     "name" : "Health Economics & Policy 1"
   },
@@ -17947,7 +18126,7 @@
   {
     "attributes" : null,
     "code" : "ECON-6860",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Covers the economics of conventional and alternative energy sources. Topics in energy economics such as the demand for energy, supply of energy, evolving alternative energy sources, consumption, efficiency, adoption, and diffusion of new energy technologies, externalities, and the economics of climate change. The course will examine environmental impacts and their analysis, and introduce models and methods of analysis including cost-benefit analysis, discounting, the value of a statistical life, and health as human capital.",
     "name" : "Energy & Environmtl Econ 1"
   },
@@ -18685,8 +18864,8 @@
     "attributes" : null,
     "code" : "ECSE-4470",
     "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Appl Linear Sys Analysis"
+    "description" : "This course provides an introduction to Robot Operating System (ROS), a widely used middleware for robot programming. Students will learn the basic components of ROS, how to utilize and write ROS packages, gain experience utilizing simulation software, and apply the concepts to physical platforms.",
+    "name" : "Intro To Robot Programming"
   },
   {
     "attributes" : null,
@@ -18878,6 +19057,13 @@
     "name" : "Introduction To Deep Learning"
   },
   {
+    "attributes" : null,
+    "code" : "ECSE-4880",
+    "credits" : "? credits",
+    "description" : "This is a course about theory, algorithms and applications of distributed optimization and learning. The course covers the basics of distributed optimization and learning algorithms and their performance analyses when they are used to solve large-scale distributed problems arising in signal and image processing, communication networks and control systems.",
+    "name" : "Dist Optimization & Learning"
+  },
+  {
     "attributes" : 
     [
       "CI",
@@ -18905,7 +19091,7 @@
   {
     "attributes" : null,
     "code" : "ECSE-4960",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ECSE"
   },
@@ -18926,7 +19112,7 @@
   {
     "attributes" : null,
     "code" : "ECSE-4963",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ECSE"
   },
@@ -19236,6 +19422,69 @@
   },
   {
     "attributes" : null,
+    "code" : "ECSE-6301",
+    "credits" : "? credits",
+    "description" : "In this survey level course students study the structures of silicon and its properties, including the manufacturing of wafers. Students explore structures and properties of other thin films and metals needed to manufacture devices.",
+    "name" : "Semiconductor Materials"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECSE-6302",
+    "credits" : "? credits",
+    "description" : "In this survey level course students explore the design of silicon devices, including capacitors, diodes, n-type and p-type Metal-Oxide Semiconductor Field-Effect Transistors (MOSFET), and a system of devices combined to perform specific functions.",
+    "name" : "Semiconductor Devices"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECSE-6303",
+    "credits" : "? credits",
+    "description" : "In this survey level course students explore fabrication of complementary metal-oxide semiconductor field-effect transistor (CMOS) and related unit process steps, including the photolithographic process, metallization, etching, ion implantation, as well as the conditions required for each of the techniques.",
+    "name" : "Semiconductor Processing"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECSE-6304",
+    "credits" : "? credits",
+    "description" : "In this survey level course students learn to build sequential process steps to achieve specific results, creating a final production flow. Students analyze process controls and cleanroom requirements to minimize variability and limit defects to achieve the target yield.",
+    "name" : "Intro To Semiconductor Mfg"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECSE-6305",
+    "credits" : "? credits",
+    "description" : "In this survey level course students develop the knowledge for the design of integrated circuits (IC) compatible with production. Students design an IC and work through the design rule verification, yield and manufacturability checks, making it ready for actual prototyping.",
+    "name" : "Introduction To Ic Design"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECSE-6306",
+    "credits" : "? credits",
+    "description" : "In this survey level course students explore packaging as the final element in the IC production processes. Students evaluate packaging types, design, processes, reliability and challenges. Students research different advanced packaging options and future trends for a variety of applications.",
+    "name" : "Integrated Circuit Packaging"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECSE-6307",
+    "credits" : "? credits",
+    "description" : "In this survey level course students learn common metrology and inspection techniques for semiconductor manufacturing and yield enhancement. Students evaluate multiple techniques including optical and scanning electronic microscope (SEM) as well as automated techniques, for different stages of manufacturing from wafer processes to chip packaging.",
+    "name" : "Ic Metrology And Inspection"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECSE-6308",
+    "credits" : "? credits",
+    "description" : "In this survey level course students explore the challenges in regulating and managing power in semiconductors and high-power electronics. Students determine how converters impact stress, loss, and efficiency. Students develop use cases for power electronics in complex systems",
+    "name" : "Semiconductor Power Elctrncs"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECSE-6309",
+    "credits" : "? credits",
+    "description" : "In this survey level course students explore photonic communication and the photonic device manufacturing processes, including the foundations of light-matter interactions. Students take basic photonic measurements, using simulation techniques to predict and analyze photonic components.",
+    "name" : "Photonics"
+  },
+  {
+    "attributes" : null,
     "code" : "ECSE-6310",
     "credits" : "3 credits",
     "description" : "Study of transmission lines, impedance matching, passive and active microwave systems. Work with S-parameters and experiment with the use of Smith chart. Introduction to microwave CAD tools for 2D electromagnetic (EM) simulations and microwave testing. Emphasis on physical understanding, quantitative performance evaluation using both hand calculations and EM simulations.",
@@ -19254,6 +19503,13 @@
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Plasma Diagnostics"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECSE-6370",
+    "credits" : "? credits",
+    "description" : "The nature of optics, physics, and operation principles of optoelectronic devices and systems for communication, display, lighting, and computing. Topics include optics fundamentals, optical cavity, waveguides and fibers, light emitting diodes, laser diodes, photodetectors, solar cells, liquid crystal, birefringent materials, properties and devices, modulators and optical display. Several complex optoelectronic systems will also be used.",
+    "name" : "Fundmtls Optoelectronics Tech"
   },
   {
     "attributes" : null,
@@ -20901,6 +21157,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ENGR-4370",
+    "credits" : "? credits",
+    "description" : "The nature of optics, physics, and operation principles of optoelectronic devices and systems for communication, display, lighting, and computing. Topics include optics fundamentals, optical cavity, waveguides and fibers, light emitting diodes, laser diodes, photodetectors, solar cells, liquid crystal, birefringent materials, properties and devices, modulators and optical display. Several complex optoelectronic systems will also be used.",
+    "name" : "Fndmtls Optoelectronic Tech"
+  },
+  {
+    "attributes" : null,
     "code" : "ENGR-4440",
     "credits" : "4 credits",
     "description" : "The study of the link between engineering and management. Students will gain an in-depth understanding of the foundations of engineering management. Topics covered include the concept of engineering management, its relationship to engineering, and its historical underpinnings, and the traditional roles of management with a particular emphasis on leadership skills. The course examines the difference between managerial vs. leadership roles in organizational settings. Furthermore, attention is given to evaluating risk, and other organizational and administrative capabilities.  The ethical dimensions of the organization and the engineering community are also explored.",
@@ -20993,7 +21256,7 @@
   {
     "attributes" : null,
     "code" : "ENGR-4962",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ENGR"
   },
@@ -21007,7 +21270,7 @@
   {
     "attributes" : null,
     "code" : "ENGR-4964",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ENGR"
   },
@@ -21223,6 +21486,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ENGR-6370",
+    "credits" : "? credits",
+    "description" : "The nature of optics, physics, and operation principles of optoelectronic devices and systems for communication, display, lighting, and computing. Topics include optics fundamentals, optical cavity, waveguides and fibers, light emitting diodes, laser diodes, photodetectors, solar cells, liquid crystal, birefringent materials, properties and devices, modulators and optical display. Several complex optoelectronic systems will also be used.",
+    "name" : "Fndmtls Optoelectronic Tech"
+  },
+  {
+    "attributes" : null,
     "code" : "ENGR-6420",
     "credits" : "? credits",
     "description" : "The course covers matrix algebra and decompositions, including eigenvalue and generalized eigenvalue problems, solving multivariate constraint and unconstraint optimization problems, gradient-based optimization for solving nonlinear optimization problems, and regression analysis. Concepts that are discussed include solving nonlinear optimization problems, first- and second-order gradient-based methods, estimating parameters for multiple linear regression and mechanistic first-principle models. The course also introduces important data science tasks: data analysis, regression, classification and presents application studies related to biomedical engineering.",
@@ -21258,7 +21528,21 @@
   },
   {
     "attributes" : null,
+    "code" : "ENGR-6962",
+    "credits" : "? credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ENGR"
+  },
+  {
+    "attributes" : null,
     "code" : "ENGR-6963",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in ENGR"
+  },
+  {
+    "attributes" : null,
+    "code" : "ENGR-6964",
     "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ENGR"
@@ -23116,7 +23400,7 @@
   {
     "attributes" : null,
     "code" : "ERTH-1125",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course introduces students to the scientific principles, concepts and methodologies required to understand the interrelationships of the natural world, as well as to identify and analyze environmental problems and think critically about solutions for addressing them. Topics covered will include ecosystems, water quality, soil sustainability, air quality and climate. Case studies and projects will emphasize the investigation of local environmental problems and solutions. Labs include exposure to field equipment, techniques and analysis of data. This course is intended for first- and second-year students and includes a weekend field trip.",
     "name" : "Intro To Environmental Science"
   },
@@ -23126,6 +23410,13 @@
     "credits" : "1 credit",
     "description" : "This lab focuses on geological processes in the interior of Earth and how they are manifested at the surface: age and origin of Earth, how rocks form, large scale Earth processes, and energy sources. Review plate tectonics and the evolution of the main features of Earth\u2019s surface. Physical and chemical composition of Earth and the large-scale dynamics of the planet.",
     "name" : "Geology I: Lab"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-1155",
+    "credits" : "? credits",
+    "description" : "From disaster movies to sci-fi thrillers, pop culture frequently brings Earth Science into the spotlight\u2014but how accurate are these portrayals? This course explores the intersection of Earth Science and media, critically analyzing how topics like natural disasters, climate change, space exploration, and geologic phenomena are represented in films, television, video games, and literature. Through case studies of popular works such as The Day After Tomorrow, Dante\u2019s Peak, Interstellar, The Core, Don't Look Up, etc. students will compare fictional depictions with real scientific principles. We will look at the literature underpinning the science in these works and examine how entertainment shapes public perception, influences policy discussions, and sometimes spreads misinformation.",
+    "name" : "Earth Science In Pop Culture"
   },
   {
     "attributes" : null,
@@ -23322,6 +23613,13 @@
     "credits" : "4 credits",
     "description" : "An introduction to the application of chemistry to problems in the Earth and Environmental Sciences. Topics include thermodynamics and phase equilibria as applied to mineral stability, rock evolution, and water chemistry; stable isotope systematics; radiogenic isotope systematics; trace element geochemistry, organic geochemistry, and geochemical cycles.",
     "name" : "Intro To Geochemistry"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-2155",
+    "credits" : "? credits",
+    "description" : "This course provides an introductory exploration of planetary science, focusing on the study of planets, moons, and other bodies within our solar system and beyond. Students will learn about the fundamental processes that shape planetary bodies, including their formation, geology, atmospheres, and potential for habitability. Topics covered include planetary orbits, surface features, tectonics, volcanic activity, and the presence of water.",
+    "name" : "Intro To Planetary Science"
   },
   {
     "attributes" : null,
@@ -23545,6 +23843,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ERTH-4080",
+    "credits" : "4 credits",
+    "description" : "This course provides an in depth overview of geochemistry at both the advanced undergraduate and graduate level.  It provides students to the scientific principles, concepts and methodologies required to understand the chemistry of the natural world, as well as to identify and analyze geological, planetary, and environmental problems and think critically about solutions for addressing them. Topics covered will include element formation and distribution, thermodynamics, isotopic geochemistry, and identifies long standing issues in geology. Case studies and projects will emphasize the investigation of geochemical questions and solutions. Labs include exposure to field equipment, techniques and analysis of data. This course is intended for fourth-year and grad students and includes a weekend field trip.",
+    "name" : "Advanced Geochemistry"
+  },
+  {
+    "attributes" : null,
     "code" : "ERTH-4180",
     "credits" : "4 credits",
     "description" : "A consideration of technical and scientific aspects of key geo-societal issues. Case studies and analysis of current and historic data bases will be used to illustrate topics including, but not limited to, climate modification, energy resources, future energy, water resources, water pollution, and health risks posed by lead, mercury, and emerging pollutants.",
@@ -23563,6 +23868,13 @@
     "credits" : "4 credits",
     "description" : "This course will encompass marine, freshwater, and terrestrial microfossils (with emphasis on foraminifera), including taxonomy, evolutionary history, ecology and paleoenvironments, and a broad spectrum of micropaleontological applications, such as sea-level and climate reconstructions, geochemical analyses, oil industry research and production, and forensic geology. This course will also cover concepts of biostratigraphy and micropaleontological applications to stratigraphic correlation and time scale construction. Extensive hands-on microscope and lab work will be required.",
     "name" : "Applied Micropaleontology"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-4300",
+    "credits" : "? credits",
+    "description" : "This advanced seminar guides students through the process of developing and executing an original research project based on analysis of primary literature in Earth Sciences. Students will learn to analyze and synthesize primary literature from various geoscience disciplines, identify knowledge gaps in our understanding of Earth systems, and contribute meaningful insights to ongoing discussions in their chosen area of Earth Sciences.",
+    "name" : "Erth Sci Lit Research Synthsis"
   },
   {
     "attributes" : null,
@@ -23686,7 +23998,7 @@
   {
     "attributes" : null,
     "code" : "ERTH-4940",
-    "credits" : "1-6 credits",
+    "credits" : "2 credits",
     "description" : "Credit Hours: 1 to 4",
     "name" : "Readings In Erth"
   },
@@ -23843,6 +24155,13 @@
     "credits" : "? credits",
     "description" : "",
     "name" : "Consortia Course At Alb. Pharm"
+  },
+  {
+    "attributes" : null,
+    "code" : "ERTH-6080",
+    "credits" : "4 credits",
+    "description" : "This course provides an in depth overview of geochemistry at both the advanced undergraduate and graduate level.  It provides students to the scientific principles, concepts and methodologies required to understand the chemistry of the natural world, as well as to identify and analyze geological, planetary, and environmental problems and think critically about solutions for addressing them. Topics covered will include element formation and distribution, thermodynamics, isotopic geochemistry, and identifies long standing issues in geology. Case studies and projects will emphasize the investigation of geochemical questions and solutions.",
+    "name" : "Advanced Geochemistry"
   },
   {
     "attributes" : null,
@@ -24487,6 +24806,27 @@
   },
   {
     "attributes" : null,
+    "code" : "GSAS-2120",
+    "credits" : "? credits",
+    "description" : "Concept Art is a digital painting course oriented towards quickly ideating and visualizing concepts such as characters, creatures, props, environments, and motion for games, film, and TV.",
+    "name" : "Concept Art"
+  },
+  {
+    "attributes" : null,
+    "code" : "GSAS-2255",
+    "credits" : "4 credits",
+    "description" : "UI Art is a production course that looks at creating user interface art for primarily video games, but has transference into graphic design, web design, and other UI spaces like automobiles, phones, and other digital devices. Health bars, menus, inventory screens, start screens, and logos are all examples that would follow under the purview of a UI UX Artist.",
+    "name" : "Ui Art"
+  },
+  {
+    "attributes" : null,
+    "code" : "GSAS-2265",
+    "credits" : "? credits",
+    "description" : "This course provides an overview of the art of developing, maintaining, and expanding imagined worlds, with special emphasis on worldbuilding for games. Students will be equipped with tools for collaboratively imagining worlds, presenting those worlds through interactive media, and using worldbuilding techniques to promote positive social change.",
+    "name" : "Introduction To World Building"
+  },
+  {
+    "attributes" : null,
     "code" : "GSAS-2510",
     "credits" : "4 credits",
     "description" : "This course introduces students to foundational game mechanics, rule clarity, aesthetic design, and player interaction. Students build a shared vocabulary, analyze games, and create their own analog games. Various design perspectives and some psychological/behavioral theory will be incorporated into the class. Through the projects, students will participate in design thinking, organizational methodologies, teamwork, iterative design, and playtesting (including heuristic testing).",
@@ -24591,6 +24931,27 @@
   },
   {
     "attributes" : null,
+    "code" : "GSAS-4100",
+    "credits" : "? credits",
+    "description" : "This course examines games from a psychological perspective, including, analyzing the psychology behind game design and player experience, examining the ethics of game design and play, and looking at how social psychology affects player identity both in and out of the game.",
+    "name" : "Psychology Of Games"
+  },
+  {
+    "attributes" : null,
+    "code" : "GSAS-4115",
+    "credits" : "? credits",
+    "description" : "Environment art teaches students how to build visual, virtual spaces for games, film, and TV. Modelling, texturing, lighting, basic VFX/animation, and environment design principles are addressed.",
+    "name" : "Environment Art"
+  },
+  {
+    "attributes" : null,
+    "code" : "GSAS-4125",
+    "credits" : "? credits",
+    "description" : "Character Art focuses on digitally sculpting characters for 3D mediums like games, films, and TV. Students go through the practices of character design, concepting, modelling, texturing, UV\u2019s and retopology, and lighting/rendering.",
+    "name" : "Character Art"
+  },
+  {
+    "attributes" : null,
     "code" : "GSAS-4200",
     "credits" : "4 credits",
     "description" : "A course exploring methods for 3D computer lighting, rendering, and camera authoring.  We will discuss strong foundational theory from film in regards to lighting and cinematography.  The course will focus on producing high fidelity rendered images and video for animation, games, and digital art.",
@@ -24614,7 +24975,10 @@
     "name" : "Writing For Games I"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "GSAS-4250",
     "credits" : "4 credits",
     "description" : "This project-based course introduces students to the tools and concepts used to create levels for games and simulations. It explores how various fields and theories (architecture, psychogeography, and theory of the D\u00e9rive, player psychology), influence the level design and alter or enhance the ludic concepts (flow and critical path, risks-rewards, tutoring, balance of difficulty, and storytelling). Level analysis will help students to recall these concepts. Students will demonstrate their understanding by designing three \u201cpaper\u201d maps (stealth, puzzle adventure, 3rd person) and implementing two developed levels (2D and 3D).",
@@ -24635,9 +24999,12 @@
     "name" : "Level Design"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "GSAS-4440",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course examines how music and sound is heard, experienced, and circulated on screens across diverse media formats in contemporary society. This interdisciplinary course introduces students to a variety of analytical, historical, and theoretical approaches to the understanding of music, sound and interactive and non-interactive narrative screen media, including film, television, music  video, video games, apps and mobile media, Internet audiovisual & social media, VR/AR, and other screen formats of sound production, distribution, and consumption.  This course is open to sophomores, juniors, and seniors only.",
     "name" : "Music, Sound & Screen Media"
   },
@@ -24805,7 +25172,7 @@
   {
     "attributes" : null,
     "code" : "GSAS-6980",
-    "credits" : "1-9 credits",
+    "credits" : "3 credits",
     "description" : "The CGD Master\u2019s Project is an independent, individual student project undertaken throughout the student\u2019s Master\u2019s education. Master\u2019s Projects include a production aspect, such as a deliverable game, interactive installation, or tech demo, as well as a written document that firmly establishes the project\u2019s methods and grounding as research-driven through an academic literature review and design document. The design document and literature review may pull from disciplines that contribute to game design, including, but not limited to, Visual Arts, Humanities and Media Studies, Social Science, Psychology, and Computer Science. The student will be advised by a member of the GSAS faculty. A committee of the student\u2019s advisor, a second GSAS faculty member, and a third faculty member from outside the program or Institution will approve the student\u2019s Master\u2019s Proposal document, which contains the literature review and design proposal, and is to be completed no later than the end of",
     "name" : "Master's Project"
   },
@@ -25552,6 +25919,13 @@
   },
   {
     "attributes" : null,
+    "code" : "IHSS-6050",
+    "credits" : "3 credits",
+    "description" : "This course supports interdisciplinary humanities and social science graduate students in preparing strong proposals for external funding and providing a structured process for turning course papers into journal articles. The assignments and feedback will also support STS graduate students\u2019 comprehensive examination process, which requires a preliminary plan for dissertation research and preparation of a publication-ready paper. STS PhD students are required to take this course in their first year. It is suggested that they take it as an elective in their second or third year as well.",
+    "name" : "Quanlitative Research Writing"
+  },
+  {
+    "attributes" : null,
     "code" : "IHSS-6410",
     "credits" : "3 credits",
     "description" : "This course focuses on methods, theories, and perspectives of ethnography, and on their applications to the various disciplines in which graduate students are working. Students will undertake original field research. Emphasis is given to foundational activities: defining a problem, research design, proposal writing, field methods, qualitative data analysis, writing ethnography, and protection of human subjects.",
@@ -25563,6 +25937,13 @@
     "credits" : "3 credits",
     "description" : "This seminar is an investigation of creative, theoretical, and historical research methods in the interdisciplinary arts. Students will be introduced to arts practice-based research discourses and will gain competence in writing and research techniques, conventions, and methods. This course is a requirement for all Arts Department doctoral students.",
     "name" : "Research Methods"
+  },
+  {
+    "attributes" : null,
+    "code" : "IHSS-6770",
+    "credits" : "? credits",
+    "description" : "Although digital content only exists \u201con the computer,\u201d it has real-world consequences. It can persuade people to change their behaviors, purchase products, vote, participate in protests. Yet, it can also deceive people and persuade them to participate in toxic activities. Why is this content so powerful, and how does it persuade people to do helpful and harmful things? Broadly, digital rhetoric analyzes and assesses these persuasive techniques and processes to understand how they make meaning.",
+    "name" : "Digital Rhetoric"
   },
   {
     "attributes" : null,
@@ -25727,7 +26108,7 @@
     "code" : "INQR-1010",
     "credits" : "4 credits",
     "description" : "This course, which is the prerequisite for further courses in music theory and in computer music, is an introduction to the materials of music. Using a variety of examples from classical, popular, and non-western music, the class will introduce concepts of melody, harmony, rhythm, and musical form. Students will use their laptop computers for aural skills practice, notation, and basic recording exercises. Although no musical experience is required for this course, sight singing is one of the important skills to be developed.",
-    "name" : "Exploring Music @ Rensselaer"
+    "name" : "Exploring Music @ Rpi"
   },
   {
     "attributes" : 
@@ -25946,6 +26327,13 @@
     "name" : "Designing Climate Justice"
   },
   {
+    "attributes" : null,
+    "code" : "INQR-1260",
+    "credits" : "4 credits",
+    "description" : "This undergraduate course is an introduction to ethical and legal frameworks currently being applied in the business environment in the United States. The course looks to engage with moral and legal challenges that businesses currently face and may face in the future, such as threats to data privacy and security, issues pertaining to climate justice and environmental sustainability, employee surveillance mediated through digitization, among others.",
+    "name" : "Business Ethics & Law"
+  },
+  {
     "attributes" : 
     [
       "CI"
@@ -26106,9 +26494,13 @@
     "name" : "Past, Present, And Future"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI",
+      "HInq"
+    ],
     "code" : "INQR-1580",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course compares and contrasts various revolutions and revolutionary movements throughout history. The revolutions we will discuss range in nature from political and military revolutions, to technological revolutions, to cultural and intellectual revolutions. The core goals of the course include understanding what defines a revolution, why revolutions start, which factors shape their course and how they end (or fail to end, as the case may be).",
     "name" : "Revolutions In Comp Perspctive"
   },
@@ -26218,7 +26610,6 @@
   {
     "attributes" : 
     [
-      "CI",
       "HInq"
     ],
     "code" : "INQR-1960",
@@ -27802,6 +28193,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ISYE-4700",
+    "credits" : "3 credits",
+    "description" : "This course introduces methods, tools, and technologies for describing human performance via various types of models, and supporting this performance via tools and advanced technologies. The course is hands-on, involving student projects that investigate human performance in challenging domains as well as direct engagement with technologies for decision support.",
+    "name" : "Game Theory & App Supply Chn"
+  },
+  {
+    "attributes" : null,
     "code" : "ISYE-4750",
     "credits" : "4 credits",
     "description" : "",
@@ -27845,14 +28243,14 @@
   {
     "attributes" : null,
     "code" : "ISYE-4941",
-    "credits" : "1 credit",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
   {
     "attributes" : null,
     "code" : "ISYE-4960",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ISYE"
   },
@@ -27866,7 +28264,7 @@
   {
     "attributes" : null,
     "code" : "ISYE-4962",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ISYE"
   },
@@ -28047,6 +28445,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ISYE-6260",
+    "credits" : "3 credits",
+    "description" : "This course introduces methods, tools, and technologies for describing human performance via various types of models, and supporting this performance via tools and advanced technologies. The course is hands-on, involving student projects that investigate human performance in challenging domains as well as direct engagement with technologies for decision support.",
+    "name" : "Human Perf Modeling & Support"
+  },
+  {
+    "attributes" : null,
     "code" : "ISYE-6340",
     "credits" : "? credits",
     "description" : "An introduction to Cyber-Physical Systems (CPS) focuses on mechanisms that are controlled or monitored by computer-based algorithms, tightly integrated with the physical environment or a biological system. This course provides a step-by-step approach to one of those systems (e.g., brain-machine interfaces) to emphasize the importance of interdisciplinary work and understanding of the system as a whole.",
@@ -28114,6 +28519,13 @@
     "credits" : "? credits",
     "description" : "",
     "name" : "Systems Modeling And Dec Sci"
+  },
+  {
+    "attributes" : null,
+    "code" : "ISYE-6700",
+    "credits" : "3 credits",
+    "description" : "This course introduces methods, tools, and technologies for describing human performance via various types of models, and supporting this performance via tools and advanced technologies. The course is hands-on, involving student projects that investigate human performance in challenging domains as well as direct engagement with technologies for decision support.",
+    "name" : "Game Theory & Appl Supply Chai"
   },
   {
     "attributes" : null,
@@ -28445,6 +28857,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ITWS-4320",
+    "credits" : "? credits",
+    "description" : "This course presents an overview of ethics and policy and explore their relationships within the world of data and\u00a0informatics. In conjunction with the concept of data dexterity, the\u00a0ethical\u00a0use of data to address societal issues requires an awareness of both the implications and consequences inherent is any solution. Through readings, lectures, and group projects, students will learn the basics of ethics and of policy approaches as they apply to current issues.\u00a0 They will learn to approach data-intensive problems through common Western ethical frameworks to reach an informed conclusion.  Examples are taken from such fields as AI, health, cybersecurity, and finance, with the goal of developing reasonable and ethical responses to those issues.",
+    "name" : "Ethical Informatics"
+  },
+  {
+    "attributes" : null,
     "code" : "ITWS-4350",
     "credits" : "3 credits",
     "description" : "Data science is advancing the inductive conduct of science and is driven by the greater volumes, complexity, and heterogeneity of data being made available over the Internet. It combines aspects of data management, library science, computer science, and physical science. It is changing the way all of these disciplines do both their individual and collaborative work. Key methodologies in application areas based on real research experience are taught.",
@@ -28638,6 +29057,13 @@
     "credits" : "3 credits",
     "description" : "This course teaches students about the roles and infrastructure of IT departments in modern organizations, IT software engineering technologies and methodologies for software development life cycle through hands-on experience. The course is for students with software development background to enhance their knowledge of software development and management, the software development industry, open source community, etc.",
     "name" : "Software Development"
+  },
+  {
+    "attributes" : null,
+    "code" : "ITWS-6710",
+    "credits" : "? credits",
+    "description" : "Students will integrate topics of database systems, networking, software design, web science and business strategies, to develop digital solutions for value creating opportunities utilizing the network effects expressed in Platform Business Models.   Students will work on project opportunities of their own creation, develop a digital solution prototype and write a short business plan on these innovations.\u00a0\u00a0 In some cases, the students will be asked to present their solution to members of the investment community for evaluation and possible future funding.",
+    "name" : "Platform Business Engr & Scnts"
   },
   {
     "attributes" : null,
@@ -29348,7 +29774,7 @@
   {
     "attributes" : null,
     "code" : "LANG-4480",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course is designed for students with some foundation in Chinese to further develop their proficiency in the Chinese language and culture. It will cover six well-known Chinese films produced by internationally acclaimed directors. Students will learn the language (listening, speaking, reading, and writing) in a fun, meaningful, authentic, and contextualized way through \u201creal world\u201d scenarios, and gain a more in-depth understanding of Chinese history, society, customs, cultural nuances, and people\u2019s thoughts and lives. This course is intended only for Chinese language learners.",
     "name" : "Chinese Lang, Culture & Film"
   },
@@ -29586,7 +30012,7 @@
   {
     "attributes" : null,
     "code" : "LGHT-4960",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in LGHT"
   },
@@ -29613,8 +30039,15 @@
   },
   {
     "attributes" : null,
+    "code" : "LGHT-6230",
+    "credits" : "? credits",
+    "description" : "An advanced design studio that explores the roles of light and dark in architecture and their application by design. Students conceive, evaluate, and synthesize projects that contribute to thoughtful, sustainable, research-enhanced illumination in architecture and urban design.",
+    "name" : "Advanced Lighting Design"
+  },
+  {
+    "attributes" : null,
     "code" : "LGHT-6750",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "An introduction to the philosophy of research and different approaches to it. Emphasis is placed on planning, executing, analyzing, and describing experiments. Each student is required to keep a laboratory notebook and to perform statistical tests in concert with assigned research projects.",
     "name" : "Lighting Research Design"
   },
@@ -29631,6 +30064,13 @@
     "credits" : "4 credits",
     "description" : "This course will explore the effects of light and lighting on people\u2019s physical and psychological health and well-being. Lectures will focus on the physiology of the visual and circadian systems, the relationship between lighting and visual performance and circadian photobiology, including the relationship between lighting and Alzheimer\u2019s disease, sleep disorder, alertness, seasonal affective disorder (SAD), and breast cancer. The course will conclude with a research project studying the interaction of light and human health in the built environment. Students will learn to apply their newly acquired knowledge of the health effects of light to lighting design and application.",
     "name" : "Light And Health"
+  },
+  {
+    "attributes" : null,
+    "code" : "LGHT-6775",
+    "credits" : "? credits",
+    "description" : "This course provides students with an in-depth understanding of the components of advanced lighting systems and enables them to critically explore applications of those components. Through lectures, readings, assignments, and application projects, students acquire working knowledge of the relevant products and techniques for lighting application and develop solutions to lighting problems. Students will undertake practical applications of advanced lighting technologies and develop skills in the application of photometric data, use of manual and computer-based lighting calculations, and the development of lighting specifications.",
+    "name" : "Lighting Tech & Applications"
   },
   {
     "attributes" : null,
@@ -29659,6 +30099,13 @@
     "credits" : "1 credit",
     "description" : "This laboratory course reiterates the important concepts learned in the Physics of Light class and provides hands on experience to instruct students in the use of different types of light meters and laboratory instruments.",
     "name" : "Physics Of Light Laboratory"
+  },
+  {
+    "attributes" : null,
+    "code" : "LGHT-6845",
+    "credits" : "? credits",
+    "description" : "An introduction to lighting and human factors, including classical literature and contemporary studies and development of skills needed to conduct and evaluate human factors research. This course will also include an overview of relevant materials of the effects of light on human health.",
+    "name" : "Human Factors In Lighting"
   },
   {
     "attributes" : null,
@@ -29995,6 +30442,13 @@
   },
   {
     "attributes" : null,
+    "code" : "LITR-2880",
+    "credits" : "? credits",
+    "description" : "Utilizing the lens of literature and film, students will explore how the American Dream, understood as a broad, enduring, illusory, and contested narrative, has influenced creators worldwide. Themes of origins, access, home, landscape, community, and self-actualization will be examined as represented across various historical and cultural contexts within and beyond national borders. Engaging with a diverse selection of U.S. and diasporic voices prepares students to critically examine how narratives can shape both imaginations and nations.",
+    "name" : "American Dream"
+  },
+  {
+    "attributes" : null,
     "code" : "LITR-2940",
     "credits" : "4 credits",
     "description" : "Readings and projects adapted to the needs of individual students.",
@@ -30216,6 +30670,13 @@
     "name" : "Women Writers"
   },
   {
+    "attributes" : null,
+    "code" : "LITR-4826",
+    "credits" : "? credits",
+    "description" : "Using a world-building and storytelling framework similar to a table-top roleplaying game, students create characters that become vampires shortly after the invention of the photographic image. They come together as covens and witness the evolution of motion pictures through the present day, encountering media and culture spanning 200 years. The semester culminates in a festival of the history of images and motion pictures, recounting the un-life of images as it relates to living cultural histories.",
+    "name" : "200 Yr Old Vampires Movie Hist"
+  },
+  {
     "attributes" : 
     [
       "CI"
@@ -30377,6 +30838,13 @@
   },
   {
     "attributes" : null,
+    "code" : "LITR-6826",
+    "credits" : "? credits",
+    "description" : "Using a world-building and storytelling framework similar to a table-top roleplaying game, students create characters that become vampires shortly after the invention of the photographic image. They come together as covens and witness the evolution of motion pictures through the present day, encountering media and culture spanning 200 years. The semester culminates in a festival of the history of images and motion pictures, recounting the un-life of images as it relates to living cultural histories.",
+    "name" : "200 Yr Old Vampires Movie Hist"
+  },
+  {
+    "attributes" : null,
     "code" : "LITR-6940",
     "credits" : "1-3 credits",
     "description" : "Readings and projects adapted to the needs of individual students.",
@@ -30385,7 +30853,7 @@
   {
     "attributes" : null,
     "code" : "LITR-6960",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in LITR"
   },
@@ -30461,6 +30929,13 @@
   },
   {
     "attributes" : null,
+    "code" : "MANE-1010",
+    "credits" : "? credits",
+    "description" : "Intrinsic to engineering design are modeling and analysis, introduced here in the context of mechanics:  the action of forces on material systems.  Starting from undeformable bodies in static equilibrium we build to introduce the concepts of stress, traction, and force/displacement boundary conditions to model the mechanics of elementary structures in static equilibrium.  Vector and matrix algebra will be fundamental to the computational thinking for analyzing our mechanics models of real world systems.",
+    "name" : "Essence Engring Mechanics"
+  },
+  {
+    "attributes" : null,
     "code" : "MANE-1060",
     "credits" : "1 credit",
     "description" : "A seminar based course providing an overview of the aerospace engineering field. Emerging and existing aerospace engineering technologies found in aircraft, rotorcraft, rockets, and spacecraft, and the engineering sciences relevant to aerospace engineering are introduced. This course is graded Satisfactory/Unsatisfactory.",
@@ -30504,7 +30979,7 @@
   {
     "attributes" : null,
     "code" : "MANE-1962",
-    "credits" : "1 credit",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
@@ -30514,6 +30989,13 @@
     "credits" : "? credits",
     "description" : "",
     "name" : "Mech, Aero, Nucl, Envir Eng"
+  },
+  {
+    "attributes" : null,
+    "code" : "MANE-2010",
+    "credits" : "? credits",
+    "description" : "Fundamentals of the mechanics of deformable bodies: concepts of traction, stress, strain, the formulation of linear solid mechanics, including equilibrium and constitutive equations. Analytic and numerical solutions for axial, bending, torsion, and combined loading of beams and beam structures are presented in tandem. Numerical solutions obtained with the finite elements method are compared with analytic solutions. Other problems discussed include pressure vessels, deflection and stability of beam models, and thermal stress.",
+    "name" : "Solid Mechanics"
   },
   {
     "attributes" : null,
@@ -30574,7 +31056,7 @@
   {
     "attributes" : null,
     "code" : "MANE-2941",
-    "credits" : "? credits",
+    "credits" : "1-12 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -30700,7 +31182,7 @@
   {
     "attributes" : null,
     "code" : "MANE-4150",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Introductory materials of engineering acoustics for students with basic knowledge in mathematics (at least one level of first-year college). Much of the course material is taken from the textbook \"Acoustics for Engineers\" by Blauert and Xiang (2nd Ed.). The course includes mechanic and acoustic oscillations, the wave equations in fluids,  governing equations for horns and ducts, spherical sound sources and arrays, piston membranes, diffraction and scattering, dissipation, reflection, refraction and absorption, isolation of air- and structure-borne sounds, noise propagation and noise control. B.S. and B.Arch. students can only register for the 4000 level of this course and M.S.Arch. Acoustics students must register only for the 6000 level of this course",
     "name" : "Acoustics Engineering"
   },
@@ -31172,14 +31654,14 @@
   {
     "attributes" : null,
     "code" : "MANE-4940",
-    "credits" : "1-4 credits",
+    "credits" : "3 credits",
     "description" : "Prerequisites/Corequisites: Permission of instructor.",
     "name" : "Independent Study In Mane"
   },
   {
     "attributes" : null,
     "code" : "MANE-4941",
-    "credits" : "3 credits",
+    "credits" : "1-12 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -31200,7 +31682,7 @@
   {
     "attributes" : null,
     "code" : "MANE-4961",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
@@ -31347,7 +31829,7 @@
   {
     "attributes" : null,
     "code" : "MANE-6150",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Introductory materials of engineering acoustics for students with basic knowledge in mathematics (at least one level of first-year college). Much of the course material is taken from the textbook \"Acoustics for Engineers\" by Blauert and Xiang (2nd Ed.). The course includes mechanic and acoustic oscillations, the wave equations in fluids,  governing equations for horns and ducts, spherical sound sources and arrays, piston membranes, diffraction and scattering, dissipation, reflection, refraction and absorption, isolation of air- and structure-borne sounds, noise propagation and noise control.",
     "name" : "Acoustics Engineering"
   },
@@ -34131,7 +34613,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-4225",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "The course is designed to introduce students to the discipline of sports management and provide a basic understanding of the principles and issues in the field. Different types of organizations in the sports industry will be studied, the role they play in the field and what differentiates them from each other. There will be a particular emphasis in the areas of professional and intercollegiate athletics. The role sports play in social issues will be discussed. The different functions in the sports industry will be discussed to provide information about career opportunities in the industry.",
     "name" : "Intro To Sports Management"
   },
@@ -36527,7 +37009,7 @@
   {
     "attributes" : null,
     "code" : "MTLE-4960",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MTLE"
   },
@@ -36898,7 +37380,7 @@
   {
     "attributes" : null,
     "code" : "MTLE-6960",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MTLE"
   },
@@ -37559,8 +38041,15 @@
     "attributes" : null,
     "code" : "PHIL-4440",
     "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Knowledge And Rationality"
+    "description" : "This course reviews the fundamental epistemological, metaphysical, and logical challenges in the foundations of mathematics. Historical discussions of the paradoxes arising during the foundational crisis in mathematics, e.g., the inconsistency of class theory, the discovery of G\u00f6del's incompleteness theorems, and the collapse of the Hilbert program set the stage for investigation into what mathematical entities are, how we can come to have reliable knowledge of them, and what choices we ought to make in the face of paradoxes or contradictions in our representations of mathematical truth.",
+    "name" : "Philosophy Of Mathematics"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHIL-4450",
+    "credits" : "? credits",
+    "description" : "This course provides an introduction to the philosophical and formal aspects of several families of non-classical logics that provide alternatives to classical (Russell-Frege) logic. Emphases will include philosophical objections to particular components of classical logic and how alternative formalizations of reasoning have emerged in order to accommodate these objections. In particular, topics to be covered will include logics of strict implication, intuitionistic logic, relevant logic, and fuzzy logic.",
+    "name" : "Non-classical Logic"
   },
   {
     "attributes" : 
@@ -37707,7 +38196,7 @@
       "CI"
     ],
     "code" : "PHIL-4990",
-    "credits" : "1-6 credits",
+    "credits" : "4 credits",
     "description" : "Students conduct original scholarly projects: original research, theoretical or analytical reviews of the literature, or computer simulations. Working either alone or in groups, students prepare written reports relating to this project, under the supervision of a faculty member.",
     "name" : "Capstone Exper In Philosophy"
   },
@@ -37798,7 +38287,7 @@
   {
     "attributes" : null,
     "code" : "PHIL-6960",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHIL"
   },
@@ -37994,7 +38483,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-1141",
-    "credits" : "? credits",
+    "credits" : "0 credits",
     "description" : "A corequisite to PHYS 1140 to support first semester students. Students will learn best practices for success in STEM courses with an emphasis on collaborative problem solving in mechanics. Fall first-semester students taking PHYS-1140 are required to co-register for PHYS-1141.",
     "name" : "Phys Mentoring: Modern Physics"
   },
@@ -38326,7 +38815,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-2941",
-    "credits" : "? credits",
+    "credits" : "2 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -38494,7 +38983,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-4110",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Cosmology is the study of origin and development of the Universe as a whole. In this course we will address the theoretical foundations of our understanding of the Universe, addressing questions including: What are the contents of the Universe? How has the history of the Universe looked until now and how will it evolve? Why one location or direction in the Universe is not more special than another?",
     "name" : "Cosmology"
   },
@@ -38542,6 +39031,20 @@
   },
   {
     "attributes" : null,
+    "code" : "PHYS-4225",
+    "credits" : "? credits",
+    "description" : "This course is intended to provide an introductory overview of the field of quantum information science. It will cover the basic concepts of quantum computation and information, including entanglement and quantum communication, quantum circuit models, quantum algorithms/simulation, as well as gain an understanding of physical implementations of qubits and practical concerns (e.g, decoherence and error-correction)",
+    "name" : "Quantum Computing & Informatio"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHYS-4230",
+    "credits" : "? credits",
+    "description" : "This course will introduce students to group theory and its application fundamental Physics of matter and space-time. Topics will include symmetries of space-time, crystalline structures, the quantum mechanics of spin, particle physics, the Standard Model, and Grand Unifying Theories.",
+    "name" : "Group Theory For Physicists"
+  },
+  {
+    "attributes" : null,
     "code" : "PHYS-4240",
     "credits" : "4 credits",
     "description" : "Introduction to the physics of gravitation and spacetime. Special relativity, tensor calculus, and relativistic electrodynamics. General relativity with selected applications of Einstein\u2019s field equations (gravitational time dilation; gravitational lensing; frame dragging; gravitational radiation). The physics of nonrotating and rotating black holes. Relativistic models for the large-scale structure of the Universe. Observational constraints on the cosmological parameters. Big Bang nucleosynthesis, the Cosmic Background Radiation. A culminating experience project is required. (Meets with ASTR 4240).",
@@ -38570,6 +39073,13 @@
   },
   {
     "attributes" : null,
+    "code" : "PHYS-4450",
+    "credits" : "? credits",
+    "description" : "This course will introduce students to group theory and its application fundamental Physics of matter and space-time. Topics will include symmetries of space-time, crystalline structures, the quantum mechanics of spin, particle physics, the Standard Model, and Grand Unifying Theories.",
+    "name" : "Group Theory For Physicists"
+  },
+  {
+    "attributes" : null,
     "code" : "PHYS-4510",
     "credits" : "4 credits",
     "description" : "",
@@ -38595,6 +39105,13 @@
     "credits" : "4 credits",
     "description" : "Phenomena, materials, and devices for optical communications and computing. Topics include: guided wave and fiber optics, integrated optics, electro-optic and nonlinear optical switching, pulse and soliton propagation, sources and detectors.",
     "name" : "Optical Comm & Integrated Opt"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHYS-4665",
+    "credits" : "4 credits",
+    "description" : "This course is intended to provide an introductory overview of the field of quantum information science. It will cover the basic concepts of quantum computation and information, including entanglement and quantum communication, quantum circuit models, quantum algorithms/simulation, as well as gain an understanding of physical implementations of qubits and practical concerns (e.g, decoherence and error-correction)",
+    "name" : "Quantum Computing & Informatio"
   },
   {
     "attributes" : null,
@@ -38634,21 +39151,21 @@
   {
     "attributes" : null,
     "code" : "PHYS-4941",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
   {
     "attributes" : null,
     "code" : "PHYS-4960",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
   {
     "attributes" : null,
     "code" : "PHYS-4961",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -38879,14 +39396,14 @@
   {
     "attributes" : null,
     "code" : "PHYS-6960",
-    "credits" : "2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
   {
     "attributes" : null,
     "code" : "PHYS-6961",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -39476,8 +39993,8 @@
     "attributes" : null,
     "code" : "PSYC-4280",
     "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Human-computer Interaction"
+    "description" : "This course will explore research on canine cognition and the application of these findings to dog training, behavior modification, and creating a positive dog-human bond. Topics include domestication, development, socialization, communication, olfaction, emotions, training philosophies, learning theory, play, problem solving, dopamine, neuroimaging, breed differences, and more. The course is communication intensive with communication-oriented foci including writing, cognitive modeling, visually representing models, translating scientific findings to the broader public, and the role of stories in learning.",
+    "name" : "Canine Cogtn & Science Trning"
   },
   {
     "attributes" : 
@@ -39600,8 +40117,8 @@
     "attributes" : null,
     "code" : "PSYC-4520",
     "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Game Development"
+    "description" : "This course explores the intersection of psychology and economics, a field recognized in the 2002 Nobel Prize awarded to Daniel Kahneman. Topics include theories of rationality, psychological perspectives on market behavior, and the cognitive underpinnings of economic decision-making. The course also introduces dynamic systems including market, sub-economic, economic externality, and inequality dynamics. These systems are grounded in psychological concepts such as intentional charge, cognitive fields, consciousness, impulse control, and Freudian personality theory.",
+    "name" : "Psychology & Economics"
   },
   {
     "attributes" : null,
@@ -39621,8 +40138,8 @@
     "attributes" : null,
     "code" : "PSYC-4620",
     "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Cognitive Engineering"
+    "description" : "This course explores three major subdomains of higher cognition: the logic and psychology of reasoning, decision theory and the psychology of decision-making, and game theory, including behavioral game theory. This course takes an integrated approach to provide a unified account of these topics. It also covers the psychological lifecycle across 14 phases. Emphasizing mathematical modeling, the course introduces theories such as mental logic theory, mental models theory, mental metalogic, mental decision logic, and reasoning dynamics.",
+    "name" : "Higher Cognition"
   },
   {
     "attributes" : null,
@@ -39748,7 +40265,7 @@
   {
     "attributes" : null,
     "code" : "PSYC-4964",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PSYC"
   },
@@ -40318,7 +40835,7 @@
     "code" : "STSO-2009",
     "credits" : "0-6 credits",
     "description" : "",
-    "name" : "Consortia Course At Sage"
+    "name" : "Consortia Course (at Sage)"
   },
   {
     "attributes" : null,
@@ -40788,10 +41305,7 @@
     "name" : "Bioethics"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "STSO-4260",
     "credits" : "4 credits",
     "description" : "This course provides students with a wide-ranging understanding of the environmental and social context of food, agriculture, and hunger. Drawing primarily on sociological concepts and research, the class will take a \u201cfood systems\u201d approach, analyzing food as it travels from farm to table as part of an interconnected process. Students will examine why humans eat the way they do and how individuals\u2019 food choices affect other people and the environment.",
@@ -40844,10 +41358,7 @@
     "name" : "Energy Politics"
   },
   {
-    "attributes" : 
-    [
-      "WI"
-    ],
+    "attributes" : null,
     "code" : "STSO-4320",
     "credits" : "4 credits",
     "description" : "In this course, students will explore how a very wide variety of data and media relate to our ever-evolving environment. We will build critical media literacy through encounters with media as both consumers and producers, learning along the way about how media literacy relates to other forms of literacy: ecological, political, scientific, historical, epistemological, etc.",
