@@ -26031,6 +26031,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ILEA-4400",
+    "credits" : "0-12 credits",
+    "description" : "",
+    "name" : "Independent Learning Exp"
+  },
+  {
+    "attributes" : null,
     "code" : "INQR-1000",
     "credits" : "? credits",
     "description" : "",
