@@ -12285,7 +12285,10 @@
     "name" : "Human & Machine Learning"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "COGS-4280",
     "credits" : "4 credits",
     "description" : "This course will explore research on canine cognition and the application of these findings to dog training, behavior modification, and creating a positive dog-human bond. Topics include domestication, development, socialization, communication, olfaction, emotions, training philosophies, learning theory, play, problem solving, dopamine, neuroimaging, breed differences, and more. The course is communication intensive with communication-oriented foci including writing, cognitive modeling, visually representing models, translating scientific findings to the broader public, and the role of stories in learning.",
@@ -32387,7 +32390,10 @@
     "name" : "Topics in MANE"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "MANE-6980",
     "credits" : "1-9 credits",
     "description" : "Active participation in a master\u2019s-level project, under the supervision of a faculty adviser, leading to a master\u2019s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master\u2019s project may be accepted by the Office of Graduate Education to be archived in the library.",
