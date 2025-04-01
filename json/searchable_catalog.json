@@ -30954,7 +30954,7 @@
   {
     "attributes" : null,
     "code" : "MANE-1010",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Intrinsic to engineering design are modeling and analysis, introduced here in the context of mechanics:  the action of forces on material systems.  Starting from undeformable bodies in static equilibrium we build to introduce the concepts of stress, traction, and force/displacement boundary conditions to model the mechanics of elementary structures in static equilibrium.  Vector and matrix algebra will be fundamental to the computational thinking for analyzing our mechanics models of real world systems.",
     "name" : "Essence Engring Mechanics"
   },
@@ -31003,7 +31003,7 @@
   {
     "attributes" : null,
     "code" : "MANE-1962",
-    "credits" : "4 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
