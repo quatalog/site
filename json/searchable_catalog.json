@@ -33667,6 +33667,13 @@
   },
   {
     "attributes" : null,
+    "code" : "MATP-2941",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Undergraduate Research Project"
+  },
+  {
+    "attributes" : null,
     "code" : "MATP-2950",
     "credits" : "1-4 credits",
     "description" : "",
@@ -33797,6 +33804,13 @@
     "credits" : "1-4 credits",
     "description" : "Credit Hours: 1 to 4",
     "name" : "Readings In Mpst"
+  },
+  {
+    "attributes" : null,
+    "code" : "MATP-4941",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Undergraduate Research Project"
   },
   {
     "attributes" : null,
@@ -37837,8 +37851,8 @@
     "attributes" : null,
     "code" : "PHIL-2941",
     "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Ethical Dilemmas In Mil Ldrshp"
+    "description" : "",
+    "name" : "Undergraduate Research Project"
   },
   {
     "attributes" : null,
@@ -39844,6 +39858,13 @@
   },
   {
     "attributes" : null,
+    "code" : "PSYC-2941",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Undergraduate Research Project"
+  },
+  {
+    "attributes" : null,
     "code" : "PSYC-2950",
     "credits" : "1-4 credits",
     "description" : "",
@@ -40513,8 +40534,8 @@
     "attributes" : null,
     "code" : "PSYC-6940",
     "credits" : "1-12 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Team & Leadership Research"
+    "description" : "",
+    "name" : "Grad Independent Study"
   },
   {
     "attributes" : null,
@@ -43861,6 +43882,13 @@
   },
   {
     "attributes" : null,
+    "code" : "WRIT-2941",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Undergraduate Research Project"
+  },
+  {
+    "attributes" : null,
     "code" : "WRIT-2950",
     "credits" : "1-4 credits",
     "description" : "",
@@ -44096,6 +44124,13 @@
     "credits" : "1-4 credits",
     "description" : "Credit Hours: 1 to 4",
     "name" : "Readings In Writing"
+  },
+  {
+    "attributes" : null,
+    "code" : "WRIT-4941",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Undergraduate Research Project"
   },
   {
     "attributes" : 
