@@ -28822,6 +28822,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ITWS-2941",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Undergraduate Research Project"
+  },
+  {
+    "attributes" : null,
     "code" : "ITWS-2961",
     "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -29965,6 +29972,13 @@
   },
   {
     "attributes" : null,
+    "code" : "LGHT-2941",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Undergraduate Research Project"
+  },
+  {
+    "attributes" : null,
     "code" : "LGHT-4000",
     "credits" : "? credits",
     "description" : "",
@@ -30032,6 +30046,13 @@
     "credits" : "1-6 credits",
     "description" : "Individual projects and readings adapted to the needs of individual students at the advanced level.",
     "name" : "Adv Ind Projects In Lght"
+  },
+  {
+    "attributes" : null,
+    "code" : "LGHT-4941",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Undergraduate Research Project"
   },
   {
     "attributes" : null,
@@ -32706,6 +32727,13 @@
     "credits" : "1-6 credits",
     "description" : "Credit Hours: 1 to 4",
     "name" : "Ugrad Independent Study"
+  },
+  {
+    "attributes" : null,
+    "code" : "MATH-2941",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Undergraduate Research Project"
   },
   {
     "attributes" : null,
