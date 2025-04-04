@@ -310,7 +310,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-1940",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Proj In Arch & Environ Design"
   },
@@ -27164,6 +27164,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ISCI-2941",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Ugrad Independent Study"
+  },
+  {
+    "attributes" : null,
     "code" : "ISCI-2960",
     "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -30508,6 +30515,13 @@
   },
   {
     "attributes" : null,
+    "code" : "LITR-2941",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Undergraduate Research Project"
+  },
+  {
+    "attributes" : null,
     "code" : "LITR-2950",
     "credits" : "1-4 credits",
     "description" : "",
@@ -30744,6 +30758,13 @@
     "credits" : "1-4 credits",
     "description" : "",
     "name" : "Readings In Litr"
+  },
+  {
+    "attributes" : null,
+    "code" : "LITR-4941",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Undergraduate Research Project"
   },
   {
     "attributes" : 
