@@ -5954,7 +5954,7 @@
   {
     "attributes" : null,
     "code" : "BIOL-1940",
-    "credits" : "4 credits",
+    "credits" : "1-6 credits",
     "description" : "",
     "name" : "Readings In Biol"
   },
@@ -6115,14 +6115,14 @@
   {
     "attributes" : null,
     "code" : "BIOL-2940",
-    "credits" : "2 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Ugrad Independent Study"
   },
   {
     "attributes" : null,
     "code" : "BIOL-2941",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -6747,7 +6747,7 @@
   {
     "attributes" : null,
     "code" : "BIOL-4941",
-    "credits" : "2 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -7175,7 +7175,7 @@
   {
     "attributes" : null,
     "code" : "BIOL-6940",
-    "credits" : "1-6 credits",
+    "credits" : "1-9 credits",
     "description" : "Readings in the current literature designed to supplement the background of the student and provide greater depth in the area of a students specialty.",
     "name" : "Readings In Biol"
   },
