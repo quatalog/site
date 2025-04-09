@@ -2373,7 +2373,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6940",
-    "credits" : "1-6 credits",
+    "credits" : "1-9 credits",
     "description" : "Individual projects and readings adapted to the needs of individual students at the advanced level.",
     "name" : "Adv Ind Proj In Arch/env Desgn"
   },
@@ -3138,7 +3138,7 @@
   {
     "attributes" : null,
     "code" : "ARTS-2940",
-    "credits" : "1 credit",
+    "credits" : "1-4 credits",
     "description" : "Individual and collaborative projects and assignments at the 2000 level adapted to the needs of individual students.",
     "name" : "Studies In The Arts"
   },
@@ -3731,7 +3731,7 @@
   {
     "attributes" : null,
     "code" : "ARTS-4940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "Individual and collaborative projects and assignments at the 4000 level adapted to the needs of individual students.",
     "name" : "Studies In The Arts"
   },
@@ -4196,7 +4196,7 @@
   {
     "attributes" : null,
     "code" : "ARTS-6940",
-    "credits" : "1-6 credits",
+    "credits" : "1-9 credits",
     "description" : "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
     "name" : "Studies In Electronic Arts"
   },
@@ -4791,7 +4791,7 @@
   {
     "attributes" : null,
     "code" : "ASTR-4940",
-    "credits" : "1-12 credits",
+    "credits" : "1-4 credits",
     "description" : "Study and research in various fields of astronomy to demonstrate interest in and ability for independent work.",
     "name" : "Special Projects In Astronomy"
   },
@@ -5218,7 +5218,7 @@
   {
     "attributes" : null,
     "code" : "BCBP-2941",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -5439,7 +5439,7 @@
   {
     "attributes" : null,
     "code" : "BCBP-4941",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
