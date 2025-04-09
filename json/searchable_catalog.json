@@ -40094,7 +40094,10 @@
     "name" : "Psychol  Tests & Measurement"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "PSYC-4280",
     "credits" : "4 credits",
     "description" : "This course will explore research on canine cognition and the application of these findings to dog training, behavior modification, and creating a positive dog-human bond. Topics include domestication, development, socialization, communication, olfaction, emotions, training philosophies, learning theory, play, problem solving, dopamine, neuroimaging, breed differences, and more. The course is communication intensive with communication-oriented foci including writing, cognitive modeling, visually representing models, translating scientific findings to the broader public, and the role of stories in learning.",
