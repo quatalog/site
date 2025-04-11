@@ -11623,7 +11623,7 @@
   {
     "attributes" : null,
     "code" : "CIVL-4940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "Credit Hours: 1 to 3",
     "name" : "Readings In Civl"
   },
@@ -12046,7 +12046,7 @@
   {
     "attributes" : null,
     "code" : "CIVL-6940",
-    "credits" : "1-6 credits",
+    "credits" : "1-9 credits",
     "description" : "Credit Hours: 1 to 3",
     "name" : "Rdgs In Civil Engr"
   },
@@ -12456,7 +12456,7 @@
   {
     "attributes" : null,
     "code" : "COGS-4941",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undegraduate Research Project"
   },
@@ -12697,7 +12697,7 @@
   {
     "attributes" : null,
     "code" : "COGS-6940",
-    "credits" : "1-6 credits",
+    "credits" : "1-9 credits",
     "description" : "An individually arranged independent study course under the supervision of a member of the Cognitive Science Department. The topic is selected by consultation between student and faculty member.",
     "name" : "Readings In Cognitive Science"
   },
