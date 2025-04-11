@@ -8721,7 +8721,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-1940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Readings In Chemistry"
   },
@@ -9078,7 +9078,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-2941",
-    "credits" : "1 credit",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -9563,7 +9563,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4940",
-    "credits" : "2 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Readings In Chem"
   },
