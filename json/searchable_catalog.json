@@ -17630,7 +17630,7 @@
   {
     "attributes" : null,
     "code" : "ECON-4941",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -18150,7 +18150,7 @@
   {
     "attributes" : null,
     "code" : "ECON-6940",
-    "credits" : "1-6 credits",
+    "credits" : "1-9 credits",
     "description" : "Credit Hours: 3",
     "name" : "Readings In Economics"
   },
@@ -18514,7 +18514,7 @@
   {
     "attributes" : null,
     "code" : "ECSE-2941",
-    "credits" : "2 credits",
+    "credits" : "1-12 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -19828,7 +19828,7 @@
   {
     "attributes" : null,
     "code" : "ECSE-6940",
-    "credits" : "3 credits",
+    "credits" : "1-9 credits",
     "description" : "Supervised reading and problems, by individual arrangement.",
     "name" : "Readings In Ecse"
   },
@@ -20934,14 +20934,14 @@
   {
     "attributes" : null,
     "code" : "ENGR-2940",
-    "credits" : "1-12 credits",
+    "credits" : "1-4 credits",
     "description" : "Credit Hours: 1 to 3",
     "name" : "Ugrad Independent Study"
   },
   {
     "attributes" : null,
     "code" : "ENGR-2941",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Readings In Engr"
   },
@@ -21245,7 +21245,7 @@
   {
     "attributes" : null,
     "code" : "ENGR-4941",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -21742,7 +21742,7 @@
   {
     "attributes" : null,
     "code" : "ENVE-2940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "Credit Hours: 1 to 3",
     "name" : "Ugrad Independent Study"
   },
@@ -24008,7 +24008,7 @@
   {
     "attributes" : null,
     "code" : "ERTH-4940",
-    "credits" : "2 credits",
+    "credits" : "1-4 credits",
     "description" : "Credit Hours: 1 to 4",
     "name" : "Readings In Erth"
   },
@@ -25070,7 +25070,7 @@
   {
     "attributes" : null,
     "code" : "GSAS-4941",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -25154,7 +25154,7 @@
   {
     "attributes" : null,
     "code" : "GSAS-6940",
-    "credits" : "6 credits",
+    "credits" : "1-9 credits",
     "description" : "Credit Hours: 1 to 4",
     "name" : "Readings In Gsas"
   },
@@ -28610,7 +28610,7 @@
   {
     "attributes" : null,
     "code" : "ISYE-6940",
-    "credits" : "1-12 credits",
+    "credits" : "1-9 credits",
     "description" : "Credit Hours: 3 to 6",
     "name" : "Readings In Isye"
   },
@@ -28959,14 +28959,14 @@
   {
     "attributes" : null,
     "code" : "ITWS-4940",
-    "credits" : "3 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Independent Study In Itec"
   },
   {
     "attributes" : null,
     "code" : "ITWS-4941",
-    "credits" : "2 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Proj"
   },
@@ -29826,7 +29826,7 @@
   {
     "attributes" : null,
     "code" : "LANG-4940",
-    "credits" : "2 credits",
+    "credits" : "1-4 credits",
     "description" : "Readings and projects adapted to the needs of individual students.",
     "name" : "Language Studies"
   },
@@ -30057,7 +30057,7 @@
   {
     "attributes" : null,
     "code" : "LGHT-4940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "Individual projects and readings adapted to the needs of individual students at the advanced level.",
     "name" : "Adv Ind Projects In Lght"
   },
@@ -33091,7 +33091,7 @@
   {
     "attributes" : null,
     "code" : "MATH-4941",
-    "credits" : "3 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -33423,7 +33423,7 @@
   {
     "attributes" : null,
     "code" : "MATH-6940",
-    "credits" : "1-6 credits",
+    "credits" : "1-9 credits",
     "description" : "Credit Hours: 1 to 4",
     "name" : "Readings In Math"
   },
@@ -34039,7 +34039,7 @@
   {
     "attributes" : null,
     "code" : "MATP-6940",
-    "credits" : "1-6 credits",
+    "credits" : "1-9 credits",
     "description" : "Credit Hours: 1 to 4",
     "name" : "Readings In Mpst"
   },
@@ -34972,7 +34972,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-4940",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "Credit Hours: 1 to 8",
     "name" : "Studies In Management"
   },
@@ -35829,7 +35829,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-6940",
-    "credits" : "0-6 credits",
+    "credits" : "0-9 credits",
     "description" : "Credit Hours: 1 to 6",
     "name" : "Independent Study"
   },
@@ -36739,7 +36739,7 @@
   {
     "attributes" : null,
     "code" : "MTLE-2941",
-    "credits" : "2 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -37092,14 +37092,14 @@
   {
     "attributes" : null,
     "code" : "MTLE-4940",
-    "credits" : "1-12 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Readings In Mtse"
   },
   {
     "attributes" : null,
     "code" : "MTLE-4941",
-    "credits" : "3 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
