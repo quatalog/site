@@ -13853,7 +13853,7 @@
   {
     "attributes" : null,
     "code" : "COMM-4940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "Readings and projects adapted to the needs of individual students.",
     "name" : "Readings In Comm"
   },
@@ -14376,7 +14376,7 @@
   {
     "attributes" : null,
     "code" : "COMM-6940",
-    "credits" : "1-6 credits",
+    "credits" : "1-9 credits",
     "description" : "Readings and projects adapted to the needs of individual students.",
     "name" : "Studies In Communication"
   },
@@ -14950,7 +14950,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-2940",
-    "credits" : "1-12 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Ugrad Independent Study"
   },
@@ -15575,7 +15575,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "Credit Hours: 1 to 4",
     "name" : "Readings In Csci"
   },
@@ -16169,7 +16169,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6940",
-    "credits" : "1-12 credits",
+    "credits" : "1-9 credits",
     "description" : "Credit Hours: 1 to 3",
     "name" : "Readings In Csci"
   },
@@ -17623,7 +17623,7 @@
   {
     "attributes" : null,
     "code" : "ECON-4940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "Credit Hours: 3 to 4",
     "name" : "Readings In Economics"
   },
