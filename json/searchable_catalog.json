@@ -29113,7 +29113,7 @@
   {
     "attributes" : null,
     "code" : "ITWS-6940",
-    "credits" : "3 credits",
+    "credits" : "1-9 credits",
     "description" : "",
     "name" : "Independent Study In Itec"
   },
@@ -32343,7 +32343,7 @@
   {
     "attributes" : null,
     "code" : "MANE-6940",
-    "credits" : "1-12 credits",
+    "credits" : "1-9 credits",
     "description" : "Prerequisites/Corequisites: Permission of instructor.",
     "name" : "Independent Study In Mane"
   },
