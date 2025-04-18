@@ -12046,7 +12046,7 @@
   {
     "attributes" : null,
     "code" : "CIVL-6940",
-    "credits" : "1-9 credits",
+    "credits" : "1-6 credits",
     "description" : "Credit Hours: 1 to 3",
     "name" : "Rdgs In Civil Engr"
   },
@@ -32343,7 +32343,7 @@
   {
     "attributes" : null,
     "code" : "MANE-6940",
-    "credits" : "1-9 credits",
+    "credits" : "1-12 credits",
     "description" : "Prerequisites/Corequisites: Permission of instructor.",
     "name" : "Independent Study In Mane"
   },
@@ -35829,7 +35829,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-6940",
-    "credits" : "1-9 credits",
+    "credits" : "0-6 credits",
     "description" : "Credit Hours: 1 to 6",
     "name" : "Independent Study"
   },
