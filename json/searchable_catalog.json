@@ -4196,7 +4196,7 @@
   {
     "attributes" : null,
     "code" : "ARTS-6940",
-    "credits" : "1-9 credits",
+    "credits" : "1-6 credits",
     "description" : "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
     "name" : "Studies In Electronic Arts"
   },
@@ -7175,7 +7175,7 @@
   {
     "attributes" : null,
     "code" : "BIOL-6940",
-    "credits" : "1-9 credits",
+    "credits" : "1-6 credits",
     "description" : "Readings in the current literature designed to supplement the background of the student and provide greater depth in the area of a students specialty.",
     "name" : "Readings In Biol"
   },
