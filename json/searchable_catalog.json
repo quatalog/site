@@ -12697,7 +12697,7 @@
   {
     "attributes" : null,
     "code" : "COGS-6940",
-    "credits" : "1-9 credits",
+    "credits" : "1-6 credits",
     "description" : "An individually arranged independent study course under the supervision of a member of the Cognitive Science Department. The topic is selected by consultation between student and faculty member.",
     "name" : "Readings In Cognitive Science"
   },
@@ -14376,7 +14376,7 @@
   {
     "attributes" : null,
     "code" : "COMM-6940",
-    "credits" : "1-9 credits",
+    "credits" : "1-6 credits",
     "description" : "Readings and projects adapted to the needs of individual students.",
     "name" : "Studies In Communication"
   },
@@ -18150,7 +18150,7 @@
   {
     "attributes" : null,
     "code" : "ECON-6940",
-    "credits" : "1-9 credits",
+    "credits" : "1-6 credits",
     "description" : "Credit Hours: 3",
     "name" : "Readings In Economics"
   },
@@ -19828,7 +19828,7 @@
   {
     "attributes" : null,
     "code" : "ECSE-6940",
-    "credits" : "1-9 credits",
+    "credits" : "3 credits",
     "description" : "Supervised reading and problems, by individual arrangement.",
     "name" : "Readings In Ecse"
   },
@@ -28610,7 +28610,7 @@
   {
     "attributes" : null,
     "code" : "ISYE-6940",
-    "credits" : "1-9 credits",
+    "credits" : "1-12 credits",
     "description" : "Credit Hours: 3 to 6",
     "name" : "Readings In Isye"
   },
@@ -33423,7 +33423,7 @@
   {
     "attributes" : null,
     "code" : "MATH-6940",
-    "credits" : "1-9 credits",
+    "credits" : "1-6 credits",
     "description" : "Credit Hours: 1 to 4",
     "name" : "Readings In Math"
   },
@@ -34039,7 +34039,7 @@
   {
     "attributes" : null,
     "code" : "MATP-6940",
-    "credits" : "1-9 credits",
+    "credits" : "1-6 credits",
     "description" : "Credit Hours: 1 to 4",
     "name" : "Readings In Mpst"
   },
@@ -39486,7 +39486,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-6940",
-    "credits" : "1-9 credits",
+    "credits" : "1-12 credits",
     "description" : "Supervised reading and study in various fields of physics.",
     "name" : "Readings In Phys"
   },
@@ -42068,7 +42068,7 @@
   {
     "attributes" : null,
     "code" : "STSO-6940",
-    "credits" : "1-9 credits",
+    "credits" : "3 credits",
     "description" : "With an individual faculty member on an agreed-upon topic.",
     "name" : "Readings In Stso"
   },
