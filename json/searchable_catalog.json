@@ -12173,10 +12173,7 @@
     "name" : "Intro To Cognitive Science"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COGS-2340",
     "credits" : "4 credits",
     "description" : "This course offers a survey of scientific and applied approaches to the study of human language, highlighting the endlessly surprising nature of this sophisticated mode of communication. A sampling of the topics to be covered: phonology, morphology, syntax, semantics, lexicography, psycholinguistics, and historical linguistics. Lecture course.",
@@ -13297,7 +13294,10 @@
     "name" : "Topics in COMM"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "COMM-2961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -15611,7 +15611,10 @@
     "name" : "Topics in CSCI"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "CSCI-4962",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -26045,7 +26048,7 @@
   {
     "attributes" : null,
     "code" : "ILEA-4400",
-    "credits" : "0-12 credits",
+    "credits" : "0-1 credit",
     "description" : "",
     "name" : "Independent Learning Exp"
   },
