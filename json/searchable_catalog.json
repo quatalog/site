@@ -9085,7 +9085,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-2950",
-    "credits" : "1-6 credits",
+    "credits" : "1-3 credits",
     "description" : "Hands-on research in a faculty research laboratory.",
     "name" : "Undergraduate Research"
   },
@@ -9654,7 +9654,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4970",
-    "credits" : "1-4 credits",
+    "credits" : "1-3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
