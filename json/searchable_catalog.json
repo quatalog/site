@@ -2492,7 +2492,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6990",
-    "credits" : "1-12 credits",
+    "credits" : "1-9 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation.  Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester.  Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
     "name" : "Master's Thesis"
   },
@@ -3145,7 +3145,7 @@
   {
     "attributes" : null,
     "code" : "ARTS-2941",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -3738,7 +3738,7 @@
   {
     "attributes" : null,
     "code" : "ARTS-4941",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
