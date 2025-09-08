@@ -34430,14 +34430,14 @@
   {
     "attributes" : null,
     "code" : "MGMT-2940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "Student plans a course of selected topics in management theory or practice not listed in this catalog. The instructor who will supervise and grade the student must approve the plan. Lectures, discussions, conferences, or seminars may be used in conjunction with the independent study.",
     "name" : "Ugrad Independent Study"
   },
   {
     "attributes" : null,
     "code" : "MGMT-2941",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergradute Research Project"
   },
@@ -41184,7 +41184,7 @@
   {
     "attributes" : null,
     "code" : "STSO-2940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "With an individual faculty member on an agreed-upon topic.",
     "name" : "Ugrad Independent Study"
   },
@@ -41755,7 +41755,7 @@
   {
     "attributes" : null,
     "code" : "STSO-4940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "With an individual faculty member on an agreed-upon topic.",
     "name" : "Readings In Stso"
   },
