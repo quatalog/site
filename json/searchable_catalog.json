@@ -18510,7 +18510,7 @@
   {
     "attributes" : null,
     "code" : "ECSE-2940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Ugrad Independent Study"
   },
@@ -19083,7 +19083,7 @@
   {
     "attributes" : null,
     "code" : "ECSE-4940",
-    "credits" : "1-12 credits",
+    "credits" : "1-4 credits",
     "description" : "Supervised reading and research.",
     "name" : "Indep. Studies In Ecse"
   },
