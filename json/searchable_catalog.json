@@ -11354,14 +11354,14 @@
   {
     "attributes" : null,
     "code" : "CIVL-2940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "Credit Hours: 1 to 3",
     "name" : "Ugrad Independent Study"
   },
   {
     "attributes" : null,
     "code" : "CIVL-2941",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -11630,7 +11630,7 @@
   {
     "attributes" : null,
     "code" : "CIVL-4941",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
