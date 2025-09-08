@@ -24882,14 +24882,14 @@
   {
     "attributes" : null,
     "code" : "GSAS-2940",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "Credit Hours: 1 to 4",
     "name" : "Readings In Gsas"
   },
   {
     "attributes" : null,
     "code" : "GSAS-2941",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Independent Study"
   },
@@ -25066,7 +25066,7 @@
   {
     "attributes" : null,
     "code" : "GSAS-4940",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "When Offered: Fall and spring terms annually.",
     "name" : "Gsas Research Project"
   },
