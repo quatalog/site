@@ -10333,7 +10333,7 @@
   {
     "attributes" : null,
     "code" : "CHME-2940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "Credit Hours: 1 to 3",
     "name" : "Ugrad Independent Study"
   },
@@ -10668,7 +10668,7 @@
   {
     "attributes" : null,
     "code" : "CHME-4940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "Credit Hours: 1 to 3",
     "name" : "Rdgs In Chemical Engr"
   },
