@@ -183,6 +183,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ADMN-6401",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Grad Final Admin Reg R@w"
+  },
+  {
+    "attributes" : null,
     "code" : "ADMN-6500",
     "credits" : "0 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
