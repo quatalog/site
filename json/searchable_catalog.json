@@ -835,7 +835,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-2941",
-    "credits" : "2 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -4595,7 +4595,7 @@
   {
     "attributes" : null,
     "code" : "ASTR-2941",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
@@ -30116,7 +30116,7 @@
   {
     "attributes" : null,
     "code" : "LGHT-6230",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "An advanced design studio that explores the roles of light and dark in architecture and their application by design. Students conceive, evaluate, and synthesize projects that contribute to thoughtful, sustainable, research-enhanced illumination in architecture and urban design.",
     "name" : "Advanced Lighting Design"
   },
