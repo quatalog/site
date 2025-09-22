@@ -4420,7 +4420,7 @@
   {
     "attributes" : null,
     "code" : "ASTR-1940",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Readings In Astr"
   },
@@ -4588,7 +4588,7 @@
   {
     "attributes" : null,
     "code" : "ASTR-2940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "Study and research in various fields of astronomy to demonstrate interest in and ability for independent work.",
     "name" : "Ugrad Independent Study"
   },
@@ -5218,7 +5218,7 @@
   {
     "attributes" : null,
     "code" : "BCBP-2940",
-    "credits" : "1-6 credits",
+    "credits" : "1-4 credits",
     "description" : "Independent study of selected readings in the fields of biochemistry and biophysics, supervised by a faculty member.",
     "name" : "Ugrad Independent Study"
   },
@@ -5446,7 +5446,7 @@
   {
     "attributes" : null,
     "code" : "BCBP-4941",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "",
     "name" : "Undergraduate Research Project"
   },
