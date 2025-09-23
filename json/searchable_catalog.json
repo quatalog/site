@@ -1080,7 +1080,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4060",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Drawing from areas of their own interest, students create unique data sets and design simple games that address little-known or at-risk urban culture and phenomena. Urban Data II brings together a multitude of skills including research, design, game logic, and web creation. The ability to effectively combine the ideas and techniques taught in this course offers students uniquely relevant skills in an era where architects are constantly adapting to ever-changing technology.",
     "name" : "Urban Data 2"
   },
@@ -1688,7 +1688,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4964",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -6329,7 +6329,7 @@
       "CulmExp"
     ],
     "code" : "BIOL-4070",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "The goal of this course is to provide both biology majors and non-majors with a solid foundation in the physical and biological aspects of the marine environment.  With this foundation, we will delve into a discussion-based investigation in current topics in marine biology.",
     "name" : "Principles Of Research Culminating Experience"
   },
@@ -6944,7 +6944,7 @@
   {
     "attributes" : null,
     "code" : "BIOL-6070",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "The goal of this course is to provide both biology majors and non-majors with a solid foundation in the physical and biological aspects of the marine environment.  With this foundation, we will delve into a discussion-based investigation in current topics in marine biology.",
     "name" : "Marine Biology"
   },
