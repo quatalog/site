@@ -1695,7 +1695,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4964",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -2023,7 +2023,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6060",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Drawing from areas of their own interest, students create unique data sets and design simple games that address little-known or at-risk urban culture and phenomena. Urban Data II brings together a multitude of skills including research, design, game logic, and web creation. The ability to effectively combine the ideas and techniques taught in this course offers students uniquely relevant skills in an era where architects are constantly adapting to ever-changing technology.",
     "name" : "Urban Data 2"
   },
