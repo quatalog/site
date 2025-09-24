@@ -232,6 +232,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ADMN-7002",
+    "credits" : "1 credit",
+    "description" : "",
+    "name" : "Research Skills"
+  },
+  {
+    "attributes" : null,
     "code" : "ARCH-1000",
     "credits" : "? credits",
     "description" : "",
