@@ -12467,7 +12467,7 @@
   {
     "attributes" : null,
     "code" : "COGS-4940",
-    "credits" : "2 credits",
+    "credits" : "1-4 credits",
     "description" : "An individually arranged independent study course under the supervision of a member of the Cognitive Science Department. The topic is selected by consultation between student and faculty member.",
     "name" : "Ugrad Independent Study"
   },
@@ -32818,7 +32818,7 @@
   {
     "attributes" : null,
     "code" : "MATH-2965",
-    "credits" : "? credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MATH"
   },
@@ -33118,7 +33118,7 @@
   {
     "attributes" : null,
     "code" : "MATH-4960",
-    "credits" : "0-4 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MATH"
   },
