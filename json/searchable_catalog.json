@@ -28912,7 +28912,7 @@
   {
     "attributes" : null,
     "code" : "ITWS-4320",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course presents an overview of ethics and policy and explore their relationships within the world of data and\u00a0informatics. In conjunction with the concept of data dexterity, the\u00a0ethical\u00a0use of data to address societal issues requires an awareness of both the implications and consequences inherent is any solution. Through readings, lectures, and group projects, students will learn the basics of ethics and of policy approaches as they apply to current issues.\u00a0 They will learn to approach data-intensive problems through common Western ethical frameworks to reach an informed conclusion.  Examples are taken from such fields as AI, health, cybersecurity, and finance, with the goal of developing reasonable and ethical responses to those issues.",
     "name" : "Ethical Informatics"
   },
@@ -29115,7 +29115,7 @@
   {
     "attributes" : null,
     "code" : "ITWS-6710",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Students will integrate topics of database systems, networking, software design, web science and business strategies, to develop digital solutions for value creating opportunities utilizing the network effects expressed in Platform Business Models.   Students will work on project opportunities of their own creation, develop a digital solution prototype and write a short business plan on these innovations.\u00a0\u00a0 In some cases, the students will be asked to present their solution to members of the investment community for evaluation and possible future funding.",
     "name" : "Platform Business Engr & Scnts"
   },
