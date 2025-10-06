@@ -9475,7 +9475,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4630",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Segmented into four modules; grant writing, project management, statistical tools, and intellectual property, students are introduced to an industrial scientist's perspective to: (i) garner funding for R&D projects (proposal writing, general PI training), (ii) effectively manage project work (administrative/programmatic aspects/tools), (iii) execute on a project/problem leveraging so-called \u2018Design of Experiment\u2019 (DoE) tools, and (iv) protect project work-products through intellectual property (IP) filings. May not receive credit for both 4000 and 6000 level versions of this course. 3cr.",
     "name" : "Tech & Ldrshp Skills: Academia"
   },
@@ -18151,7 +18151,7 @@
   {
     "attributes" : null,
     "code" : "ECON-6870",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Study environmental economics and its relation to energy systems. Analyzes environmental externalities and regulatory solutions through theoretical models and empirical evidence. Study government responses related to regulations, taxes, and subsidies to address problems of market failure, and tools to evaluate the costs and benefits of environmental policies. Examine optimal environmental regulations and the trade-offs between market and regulatory imperfections. Methods are developed with applications to topics including health and climate impacts of emissions and their regulatory policies.",
     "name" : "Energy & Environmtl Econ 2"
   },
@@ -34737,7 +34737,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-4235",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "The course is designed to be discussion driven while introducing the students to strategies and techniques to market sports and sports products (teams, events, participants, businesses) and marketing through sports (sponsorships, co-branding). Various topics such as what drives affinity between fans and organizations, multi-media rights, licensing, emerging businesses relate to sports, etc. will be discussed. Revenue producing strategies to include in-venue revenue streams, cobranding and sponsorship relationships, and other forms of external revenue will be discussed.",
     "name" : "Sports Marketing"
   },
@@ -35569,7 +35569,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-6565",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "The primary objective of this course is to provide the first or second semester financial engineering or business analytics student with applied quantitative skills in the areas of artificial intelligence and machine learning for finance applications. The course material will involve hands-on use of real data and focus on various AI/ML algorithms common in the finance industry.",
     "name" : "Advanced Ai / Ml For Finance"
   },
