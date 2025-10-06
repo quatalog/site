@@ -34688,7 +34688,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-4180",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "The objective of this course is to apply a systematic and analytical approach to marketing decision-making, and to build skills and confidence in undertaking such analyses on your own. We will study tools for generating marketing insights from empirical data in such areas as segmentation, targeting, positioning, customer choice, new product design, and forecasting. This will be a hands-on course in which you apply the tools studied to actual business cases. We will cover analytical techniques typically bundled under \"marketing analytics\" such as regression, cluster analysis, discriminant analysis, logit model, conjoint analysis, bass model, etc. We will NOT be approaching these topics theoretically, that is, via equations or proofs. Instead, we'll learn how and when to apply each model and what they tell marketers.",
     "name" : "Marketing Analytics"
   },
@@ -35730,7 +35730,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-6775",
-    "credits" : "? credits",
+    "credits" : "2 credits",
     "description" : "This lecture course, developed jointly between Icahn School of Medicine at Mount Sinai (ISMMS) and Rensselaer Polytechnic Institute (RPI), explores the relationship between academic research, intellectual property, and commercialization. Participants will learn about the nuances of intellectual property, with a focus on biomedical applications, and how the products of academic research and related innovations can be protected and commercialized.  The course will cover experimental design, patent strategy, interaction with regulatory agencies, and the transactions related to the performance of research and commercializing an invention.",
     "name" : "Protect & Commclze Innovation"
   },
@@ -36066,7 +36066,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-7000",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "",
     "name" : "Comm, Technology, & Change"
   },
