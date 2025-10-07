@@ -31813,7 +31813,7 @@
   {
     "attributes" : null,
     "code" : "MANE-4967",
-    "credits" : "1-4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
@@ -32443,7 +32443,7 @@
   {
     "attributes" : null,
     "code" : "MANE-6969",
-    "credits" : "1-4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
