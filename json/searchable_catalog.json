@@ -18112,7 +18112,7 @@
   {
     "attributes" : null,
     "code" : "ECON-6810",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course expands on material covered in Behavioral Economics I by studying the latest and more advanced modeling and experimental approaches for individuals' decision-making and empirical applications. Specific advanced topics include the role of habit formation on intertemporal choice and limited attention models for complex decisions. The course will additionally cover recent literature and findings from cognitive and computational psychology.",
     "name" : "Behavrl & Expermntl Econ 2"
   },
@@ -18126,7 +18126,7 @@
   {
     "attributes" : null,
     "code" : "ECON-6830",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Study topics such as markets for pharmaceuticals, medical devices, medical technology, and health innovation; FDA and other types of regulations in pharmaceuticals and medical devices; models of hospital competition and provider incentives; health information technologies and their adoption and diffusion; advances in personalized healthcare; and externalities in health.",
     "name" : "Health Economics & Policy 2"
   },
@@ -42009,8 +42009,8 @@
     "attributes" : null,
     "code" : "STSO-6120",
     "credits" : "3 credits",
-    "description" : "",
-    "name" : "Adv Research Methods Sts"
+    "description" : "This course provides a foundation for professional-level research in science and technology studies. Through group research exercises, students explore the intersection between research issues (ethics, reliability, validity, quantification) and types of observation.",
+    "name" : "Advanced Research Methods"
   },
   {
     "attributes" : null,
