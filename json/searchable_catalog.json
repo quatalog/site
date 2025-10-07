@@ -26617,6 +26617,13 @@
   },
   {
     "attributes" : null,
+    "code" : "INQR-1940",
+    "credits" : "1-4 credits",
+    "description" : "",
+    "name" : "Ugrad Independent Study"
+  },
+  {
+    "attributes" : null,
     "code" : "INQR-1941",
     "credits" : "? credits",
     "description" : "",
