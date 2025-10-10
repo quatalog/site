@@ -39113,7 +39113,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-4150",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This is introductory course to Particle Astrophysics at the advanced  undergraduate level. It will focus on modern topics at the forefront of the field. An emphasis will be given on the overlap of s=astrophysics questions with theoretical and experimental techniques in particle physics.",
     "name" : "Particle Astrophysics"
   },
@@ -39281,7 +39281,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-4961",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -39519,7 +39519,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-6961",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
