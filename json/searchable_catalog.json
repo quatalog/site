@@ -22714,7 +22714,7 @@
   {
     "attributes" : null,
     "code" : "ENVE-9990",
-    "credits" : "1-15 credits",
+    "credits" : "1-16 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
     "name" : "Dissertation"
   },
@@ -24393,7 +24393,7 @@
   {
     "attributes" : null,
     "code" : "ERTH-6990",
-    "credits" : "1-9 credits",
+    "credits" : "1-12 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a master\u2019s thesis. Grades of S or U are assigned by the adviser each term to reflect the student\u2019s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
     "name" : "Master's Thesis"
   },
@@ -24729,7 +24729,7 @@
   {
     "attributes" : null,
     "code" : "ESCI-9990",
-    "credits" : "1-15 credits",
+    "credits" : "1-16 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
     "name" : "Doctor's Thesis In Engrng Sci"
   },
@@ -25210,7 +25210,7 @@
   {
     "attributes" : null,
     "code" : "GSAS-9990",
-    "credits" : "1-15 credits",
+    "credits" : "1-16 credits",
     "description" : "",
     "name" : "Dissertation"
   },
@@ -27732,7 +27732,7 @@
   {
     "attributes" : null,
     "code" : "ISCI-9990",
-    "credits" : "1-15 credits",
+    "credits" : "1-16 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
     "name" : "Dissertation"
   },
@@ -28722,14 +28722,14 @@
   {
     "attributes" : null,
     "code" : "ISYE-6990",
-    "credits" : "1-9 credits",
+    "credits" : "1-12 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a master\u2019s thesis. Grades of S or U are assigned by the adviser each term to reflect the student\u2019s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
     "name" : "Master's Thesis"
   },
   {
     "attributes" : null,
     "code" : "ISYE-9990",
-    "credits" : "1-15 credits",
+    "credits" : "1-16 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
     "name" : "Dissertation"
   },
