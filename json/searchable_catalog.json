@@ -33547,14 +33547,14 @@
   {
     "attributes" : null,
     "code" : "MATH-6980",
-    "credits" : "1-6 credits",
+    "credits" : "1-9 credits",
     "description" : "Active participation in a master\u2019s-level project, under the supervision of a faculty adviser, leading to a master\u2019s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master\u2019s project may be accepted by the Office of Graduate Education to be archived in the library.",
     "name" : "Master's Project"
   },
   {
     "attributes" : null,
     "code" : "MATH-6990",
-    "credits" : "1-9 credits",
+    "credits" : "1-12 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a master\u2019s thesis. Grades of S or U are assigned by the adviser each term to reflect the student\u2019s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
     "name" : "Master's Thesis"
   },
@@ -33568,7 +33568,7 @@
   {
     "attributes" : null,
     "code" : "MATH-9990",
-    "credits" : "1-15 credits",
+    "credits" : "1-16 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
     "name" : "Dissertation"
   },
@@ -36569,7 +36569,7 @@
   {
     "attributes" : null,
     "code" : "MGMT-9990",
-    "credits" : "1-15 credits",
+    "credits" : "1-16 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
     "name" : "Dissertation"
   },
@@ -37580,14 +37580,14 @@
   {
     "attributes" : null,
     "code" : "MTLE-6980",
-    "credits" : "1-12 credits",
+    "credits" : "1-9 credits",
     "description" : "Active participation in a master\u2019s-level project, under the supervision of a faculty adviser, leading to a master\u2019s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master\u2019s project may be accepted by the Office of Graduate Education to be archived in the library.",
     "name" : "Master's Project"
   },
   {
     "attributes" : null,
     "code" : "MTLE-6990",
-    "credits" : "1-15 credits",
+    "credits" : "1-12 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a master\u2019s thesis. Grades of S or U are assigned by the adviser each term to reflect the student\u2019s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
     "name" : "Master's Thesis"
   },
@@ -37629,7 +37629,7 @@
   {
     "attributes" : null,
     "code" : "MTLE-9990",
-    "credits" : "1-15 credits",
+    "credits" : "1-16 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a master\u2019s thesis. Grades of S or U are assigned by the adviser each term to reflect the student\u2019s research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
     "name" : "Dissertation"
   },
@@ -39582,7 +39582,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-6970",
-    "credits" : "1-4 credits",
+    "credits" : "1-9 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -39603,7 +39603,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-9990",
-    "credits" : "1-15 credits",
+    "credits" : "1-16 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
     "name" : "Dissertation"
   },
@@ -42172,14 +42172,14 @@
   {
     "attributes" : null,
     "code" : "STSO-6990",
-    "credits" : "1-9 credits",
+    "credits" : "1-12 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a master\u2019s thesis. Grades of S or U are assigned by the adviser each term to reflect the student\u2019s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
     "name" : "Masters Thesis"
   },
   {
     "attributes" : null,
     "code" : "STSO-9990",
-    "credits" : "1-15 credits",
+    "credits" : "1-16 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
     "name" : "Dissertation"
   },
