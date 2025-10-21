@@ -15645,7 +15645,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4964",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -16232,7 +16232,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6964",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -26063,7 +26063,7 @@
   {
     "attributes" : null,
     "code" : "ILEA-4400",
-    "credits" : "0-12 credits",
+    "credits" : "0-1 credit",
     "description" : "",
     "name" : "Independent Learning Exp"
   },
