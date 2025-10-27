@@ -12552,10 +12552,7 @@
     "name" : "Topics in COGS"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COGS-4990",
     "credits" : "2-6 credits",
     "description" : "Students conduct original scholarly projects: original research, theoretical or analytical reviews of the literature, or computer simulations. Students prepare written reports relating to this project, under the supervision of a faculty member.",
