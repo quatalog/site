@@ -16403,6 +16403,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CSCI-ITWS",
+    "credits" : "? credits",
+    "description" : "A structured, intensive research experience for students interested in Machine Learning, AI and Data. Students will focus on a single research project through the semester to answer a novel research question within an open source, open science framework. Projects will use data from a variety of application domains including medical (e.g. disease modeling), environment, finance, text, image, etc. The primary outcomes for students will be open source tools and research publications in peer-reviewed venues.",
+    "name" : "Machine Learning Open Source, Open Science -- Ml(Os)^2"
+  },
+  {
+    "attributes" : null,
     "code" : "DSES-2010",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
