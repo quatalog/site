@@ -17093,6 +17093,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ECON-1940",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Ugrad Independent Study"
+  },
+  {
+    "attributes" : null,
     "code" : "ECON-1960",
     "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -24638,6 +24645,13 @@
     "credits" : "? credits",
     "description" : "",
     "name" : "Consortia Course At Alb. Pharm"
+  },
+  {
+    "attributes" : null,
+    "code" : "ESCI-4940",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Ugrad Independent Study"
   },
   {
     "attributes" : null,
