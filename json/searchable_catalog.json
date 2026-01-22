@@ -52,7 +52,7 @@
     "attributes" : null,
     "code" : "ADMN-1100",
     "credits" : "0 credits",
-    "description" : "",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Portfolio Development"
   },
   {
@@ -159,6 +159,13 @@
     "credits" : "? credits",
     "description" : "",
     "name" : "Field Work Registration"
+  },
+  {
+    "attributes" : null,
+    "code" : "ADMN-6170",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Grad Study Abroad Kings"
   },
   {
     "attributes" : null,
@@ -1639,7 +1646,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4956",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "",
     "name" : "Topics In Architecture"
   },
@@ -1653,7 +1660,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4958",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "",
     "name" : "Topics Course In Architecture"
   },
@@ -4439,7 +4446,7 @@
     "code" : "ASTR-1940",
     "credits" : "1-4 credits",
     "description" : "",
-    "name" : "Readings In Astr"
+    "name" : "Ugrad Independent Study"
   },
   {
     "attributes" : null,
@@ -5845,7 +5852,7 @@
   {
     "attributes" : null,
     "code" : "BCBP-6990",
-    "credits" : "1-9 credits",
+    "credits" : "1-12 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a master\u2019s thesis. Grades of S or U are assigned by the adviser each term to reflect the student\u2019s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
     "name" : "Master's Thesis"
   },
@@ -5980,7 +5987,7 @@
     "code" : "BIOL-1940",
     "credits" : "1-4 credits",
     "description" : "",
-    "name" : "Readings In Biol"
+    "name" : "Ugrad Independent Study"
   },
   {
     "attributes" : null,
@@ -6348,7 +6355,7 @@
     "code" : "BIOL-4070",
     "credits" : "4 credits",
     "description" : "The goal of this course is to provide both biology majors and non-majors with a solid foundation in the physical and biological aspects of the marine environment.  With this foundation, we will delve into a discussion-based investigation in current topics in marine biology.",
-    "name" : "Principles Of Research Culminating Experience"
+    "name" : "Marine Biology"
   },
   {
     "attributes" : 
@@ -7924,7 +7931,7 @@
     "attributes" : null,
     "code" : "BMED-4560",
     "credits" : "3 credits",
-    "description" : "",
+    "description" : "This course reviews relevant core skills within this new biomedical engineering sub-field, including therapeutic modulation of non-neuromuscular nerve pathways to peripheral organs. Special focus is on important neuroimmune pathways discovered within the spleen and lymphoid tissues, and neurometabolic pathways within the liver, pancreas, and gastrointestinal tissues. New tools for recording and stimulating nerves are discussed, including non-invasive ultrasonic and electromagnetic devices, and how to test these tools for clinical use.",
     "name" : "Biomaterial Applications In Medicine"
   },
   {
@@ -8298,7 +8305,7 @@
     "attributes" : null,
     "code" : "BMED-6560",
     "credits" : "3 credits",
-    "description" : "",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Biomaterial Applications In Medicine"
   },
   {
@@ -8482,6 +8489,41 @@
     "credits" : "1-16 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
     "name" : "Dissertation"
+  },
+  {
+    "attributes" : null,
+    "code" : "BUSN-3150",
+    "credits" : "? credits",
+    "description" : "In this course, students evaluate an organization considering its strategic mission and vision.  Students map the value creation process in the context of a dynamic client and market.  Students make recommendations for improvements and then evaluate those from market, competition, and financial perspectives.",
+    "name" : "Creating Value: Business Model"
+  },
+  {
+    "attributes" : null,
+    "code" : "BUSN-3155",
+    "credits" : "? credits",
+    "description" : "In this course, students evaluate how to implement performance improvements and change within an organization, learning how to manage teams and individuals to achieve specific outcomes and metrics.  Students plan for particular performance improvements and evaluate how that change will impact/be impacted by culture and organizational structure.  Students practice crucial conversations to improve interpersonal communication.",
+    "name" : "Managing To Achieve Goals"
+  },
+  {
+    "attributes" : null,
+    "code" : "BUSN-3170",
+    "credits" : "? credits",
+    "description" : "In this course, students evaluate a variety of information and data sources relevant to a problem, question, or decision.  Students perform research, use data visualization techniques, deploy AI tools, and perform structured internet searches to gather relevant information.  Students evaluate and weigh the collected information, utilize root cause analysis, develop structured decision trees and logic chains, and then choose a response that they can support.  Students prepare formal presentations in which they demonstrate their solutions.",
+    "name" : "Decision Making / Problem Solv"
+  },
+  {
+    "attributes" : null,
+    "code" : "BUSN-3175",
+    "credits" : "? credits",
+    "description" : "In this course, students build their capacity to be effective managers and supervisors, practicing the techniques that bring the best results in units and organizations.   Students facilitate meetings, perform negotiations, hold crucial conversations, utilize project management facilitation techniques, and learn to coach those they supervise. Students learn how to establish personal and professional SMART goals and then facilitate discussions to ensure goals are achieved.   Students use assessments to determine their management strengths and challenges, then develop personal professional plans to become the manager they aspire to be.",
+    "name" : "Mgmt Communication & Practices"
+  },
+  {
+    "attributes" : null,
+    "code" : "BUSN-4185",
+    "credits" : "? credits",
+    "description" : "In this course, students apply value stream mapping, forecasting, and data analysis to align internal operations with both upstream suppliers and downstream customers. Students extend their analysis to include external partners, identifying bottlenecks, sources of waste, and risks to on-time delivery. They make targeted improvements to inventory management policies, adjust schedules to mitigate late deliveries, and enhance supplier management plans. By creating extended value stream maps, students improve forecasting accuracy for customer delivery dates and strengthen supply chain performance across the entire network.",
+    "name" : "Evaluating Syst & Supply Chain"
   },
   {
     "attributes" : null,
@@ -9643,7 +9685,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4965",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -10070,7 +10112,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-6965",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -11056,7 +11098,7 @@
   {
     "attributes" : null,
     "code" : "CHME-6963",
-    "credits" : "1 credit",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -12484,7 +12526,7 @@
   {
     "attributes" : null,
     "code" : "COGS-4960",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in COGS"
   },
@@ -12552,7 +12594,10 @@
     "name" : "Topics in COGS"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "COGS-4990",
     "credits" : "2-6 credits",
     "description" : "Students conduct original scholarly projects: original research, theoretical or analytical reviews of the literature, or computer simulations. Students prepare written reports relating to this project, under the supervision of a faculty member.",
@@ -12940,7 +12985,7 @@
     "code" : "COMM-1940",
     "credits" : "1-6 credits",
     "description" : "",
-    "name" : "Studies In Communications"
+    "name" : "Ugrad Independent Study"
   },
   {
     "attributes" : null,
@@ -13285,7 +13330,7 @@
     "code" : "COMM-2941",
     "credits" : "1-4 credits",
     "description" : "",
-    "name" : "Undergraduate Research Project"
+    "name" : "Ugrad Research Project"
   },
   {
     "attributes" : null,
@@ -13883,7 +13928,7 @@
     "code" : "COMM-4941",
     "credits" : "1-4 credits",
     "description" : "",
-    "name" : "Undergraduate Research Project"
+    "name" : "Ugrad Research Project"
   },
   {
     "attributes" : 
@@ -14977,7 +15022,7 @@
     "code" : "CSCI-2941",
     "credits" : "1-4 credits",
     "description" : "",
-    "name" : "Undergraduate Research Project"
+    "name" : "Ugrad Research Project"
   },
   {
     "attributes" : null,
@@ -14989,7 +15034,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-2960",
-    "credits" : "1-4 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15459,7 +15504,7 @@
     "attributes" : null,
     "code" : "CSCI-4520",
     "credits" : "4 credits",
-    "description" : "Building\u00a0on the technology covered in Web Systems Development, students will be exposed to current technologies, frameworks, and practices in the area of Web development. Types of topics included will be HTML5/CSS3, API\u2019s for data, node.js, MongoDB, and Angular. Methodology to be explored will be application design, software versioning, and team development. Lab intensive, this course is intended to complete a foundation for the advanced courses in Data Science and Advanced Web Science.",
+    "description" : "Building on the technology covered in Web Systems Development, students will be exposed to current technologies, frameworks, and practices in the area of Web development. Types of topics included will be HTML5/CSS3, API's for data, node.js, MongoDB, and Angular. Methodology to be explored will be application design, software versioning, and team development. Lab intensive, this course is intended to complete a foundation for the advanced courses in Data Science and Advanced Web Science.",
     "name" : "Web Science Systems Develpment"
   },
   {
@@ -15602,7 +15647,7 @@
     "code" : "CSCI-4941",
     "credits" : "1-4 credits",
     "description" : "",
-    "name" : "Undergraduate Research Project"
+    "name" : "Ugrad Research Project"
   },
   {
     "attributes" : null,
@@ -15626,7 +15671,10 @@
     "name" : "Topics in CSCI"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "CSCI-4962",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -15642,7 +15690,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4964",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15656,7 +15704,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4966",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15677,7 +15725,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4969",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -16229,7 +16277,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6964",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -16243,7 +16291,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6966",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -16264,7 +16312,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6969",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -16400,13 +16448,6 @@
     "credits" : "1-16 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
     "name" : "Dissertation"
-  },
-  {
-    "attributes" : null,
-    "code" : "CSCI-ITWS",
-    "credits" : "? credits",
-    "description" : "A structured, intensive research experience for students interested in Machine Learning, AI and Data. Students will focus on a single research project through the semester to answer a novel research question within an open source, open science framework. Projects will use data from a variety of application domains including medical (e.g. disease modeling), environment, finance, text, image, etc. The primary outcomes for students will be open source tools and research publications in peer-reviewed venues.",
-    "name" : "Machine Learning Open Source, Open Science -- Ml(Os)^2"
   },
   {
     "attributes" : null,
@@ -18803,7 +18844,7 @@
     "code" : "ECSE-4210",
     "credits" : "3 credits",
     "description" : "An introduction to emerging electronic and optoelectronics technology. Topics cover cutting-edge technologies and novel device concepts, such as quantum devices, silicon-on-insulators (SOI), compound semiconductor devices and technologies, thin film transistors (TFTs), wide band gap semiconductor devices and technologies, Si-Ge devices, solar cells, photodetectors, semiconductor lasers, optoelectronic ICs, optical interconnects, and display technologies.",
-    "name" : "Advanced Design Concepts"
+    "name" : "Advanced Device Concepts"
   },
   {
     "attributes" : null,
@@ -18862,7 +18903,7 @@
     "code" : "ECSE-4370",
     "credits" : "3 credits",
     "description" : "The nature of optics, physics, and operation principles of optoelectronic devices and systems for communication, display, lighting, and computing. Topics include optics fundamentals, optical cavity, waveguides and fibers, light emitting diodes, laser diodes, photodetectors, solar cells, liquid crystal, birefringent materials, properties and devices, modulators and optical display. Several complex optoelectronic systems will also be used.",
-    "name" : "Introduction To Optoelectronics Technology"
+    "name" : "Fundmtls Optoelectronics Tech"
   },
   {
     "attributes" : null,
@@ -19161,7 +19202,7 @@
   {
     "attributes" : null,
     "code" : "ECSE-4965",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ECSE"
   },
@@ -20674,7 +20715,7 @@
     "code" : "ENGR-1940",
     "credits" : "1 credit",
     "description" : "",
-    "name" : "Readings In Engr"
+    "name" : "Ugrad Independent Study"
   },
   {
     "attributes" : null,
@@ -20940,7 +20981,7 @@
     "code" : "ENGR-2700",
     "credits" : "3 credits",
     "description" : "Overview of methods used in the design and operation of production and service systems and basic cost accounting. Topics include forecasting, capacity planning, line balancing, production scheduling, staff scheduling, inventory control, just in time, time study, project planning, and discrete item cost accounting. Goal of course is to educate students in basic operations management principles and models and in discrete goods cost accounting. Students cannot receive credit for this course and ISYE 2210.",
-    "name" : "Intro Manufacturing Planning"
+    "name" : "Prod And Operations Mgmt"
   },
   {
     "attributes" : null,
@@ -21173,7 +21214,7 @@
     "attributes" : null,
     "code" : "ENGR-4200",
     "credits" : "1 credit",
-    "description" : "This course provides a practical introduction to computer programming in Classical Fortran, emphasizing selected language features that are useful in performing numerical calculations. It is intended mainly for graduate students in engineering and science who need to use Fortran in research projects and in courses that assume a knowledge of the language or of programming. Grading is based primarily on the student\u2019s use of Fortran in a significant project, which may be for thesis research or for another course. Required reading (about 17 pages per week) is assigned from the textbook \u201cClassical Fortran Second Edition\u201d and there might be short in-class quizzes on the reading.",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Fortran Programming"
   },
   {
@@ -21257,7 +21298,7 @@
     "attributes" : null,
     "code" : "ENGR-4750",
     "credits" : "4 credits",
-    "description" : "This course deals with cost analysis in engineering decision making and the management and control of complex projects. Engineering economics topics include interest formulas and equivalence calculations, inflation, measures of investment worth, after tax analysis, depreciation accounting and replacement analyses, life-cycle costing and design economics, risk analysis and cost-benefit analysis. Engineering project management topics include methods for planning, evaluation, organization, budgeting, cost estimating, scheduling, expediting, reporting, monitoring, and implementation of projects. Students cannot obtain credit for both this course and either ENGR 4760 or ISYE 4240.",
+    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Engineer Eco & Project Mgmt"
   },
   {
@@ -21678,7 +21719,7 @@
     "code" : "ENVE-1940",
     "credits" : "? credits",
     "description" : "",
-    "name" : "Readings In Enee"
+    "name" : "Ugrad Independent Study"
   },
   {
     "attributes" : null,
@@ -22270,7 +22311,7 @@
   {
     "attributes" : null,
     "code" : "ENVE-4960",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ENVE"
   },
@@ -23493,7 +23534,7 @@
     "code" : "ERTH-1940",
     "credits" : "? credits",
     "description" : "",
-    "name" : "Readings In Erth"
+    "name" : "Ugrad Independent Study"
   },
   {
     "attributes" : null,
@@ -24645,6 +24686,48 @@
     "credits" : "? credits",
     "description" : "",
     "name" : "Consortia Course At Alb. Pharm"
+  },
+  {
+    "attributes" : null,
+    "code" : "ESCI-4100",
+    "credits" : "? credits",
+    "description" : "In this course, students analyze and evaluate the manufacturing process of physical products to ensure efficient and repeatable operations that produce high-quality outputs.  They create process maps for standardizing work and refining work instructions. Using process data, they identify and characterize the key variables that drive operational performance, examine how those variables relate to business metrics, and assess the tradeoffs required to achieve both operational and business goals.",
+    "name" : "Process & Quality Engring 1"
+  },
+  {
+    "attributes" : null,
+    "code" : "ESCI-4105",
+    "credits" : "? credits",
+    "description" : "In this course, students tackle the complexities of defining and managing quality in a manufacturing environment. They assess and enhance total quality management (TQM) plans and apply process improvement techniques to evaluate both process and product quality. Students refine quality standards, analyze qualitative and quantitative data to investigate quality issues, and employ statistical measures to characterize and address variability. Through statistical process control strategies and root cause analysis, they identify sources of quality problems stemming from both management practices and process-related factors.",
+    "name" : "Process & Quality Engring 2"
+  },
+  {
+    "attributes" : null,
+    "code" : "ESCI-4120",
+    "credits" : "? credits",
+    "description" : "In this course, students evaluate the use of statistics to inform questions and solve problems.  Students use probability and distribution theory to determine likely outcomes, construct spreadsheet-based models with identified risk and variable elements, calculate probabilities around risk variables to determine most likely outcomes, determine confidence intervals around unknowns, use solver to determine likely outcomes in their spreadsheet models, and calculate descriptive statistics and ranges around basic data sets.",
+    "name" : "Production Data & Statistics"
+  },
+  {
+    "attributes" : null,
+    "code" : "ESCI-4125",
+    "credits" : "? credits",
+    "description" : "In this course, students deploy the RPI Analytical framework to inform questions, solve problems, and make decisions.  Students deploy decision-making and problem-solving frameworks, adding data visualization, summarization, and statistical testing techniques.  Students clean and prepare data, use graphical and summarization table analysis, including the use of AI, and test data hypotheses, using results to inform decisions and solutions so that the likelihood of making the best decision possible is enhanced.",
+    "name" : "Data Visualization & Analytics"
+  },
+  {
+    "attributes" : null,
+    "code" : "ESCI-4180",
+    "credits" : "? credits",
+    "description" : "In this course, students facilitate, plan, and coordinate the implementation of projects using a blend and traditional and agile approaches to ensure the project is completed on time, on budget, and on specification. They develop project charters, vision statements, requirements, and stakeholder engagement plans, along with refined schedules, budgets, and resource allocation strategies. Students practice methods to track project progress, report to customers, and keep projects on track.",
+    "name" : "Project Planning & Execution"
+  },
+  {
+    "attributes" : null,
+    "code" : "ESCI-4200",
+    "credits" : "? credits",
+    "description" : "In this capstone course, students work individually with a Faculty Mentor to define and execute a project that brings together the 5 program certificates in a manner that demonstrates their learning mastery and their abilities to manage in the professional realm.  Students define the project, plan its completion, and execute to achieve specific results within the semester.  Students present their results to a panel of Faculty Members as the culminating activity in their program. Note: this is a communications-intensive course.",
+    "name" : "Capstone Project"
   },
   {
     "attributes" : null,
@@ -28904,8 +28987,7 @@
   {
     "attributes" : 
     [
-      "CI",
-      "WI"
+      "CI"
     ],
     "code" : "ITWS-4100",
     "credits" : "4 credits",
@@ -28979,7 +29061,7 @@
     "attributes" : null,
     "code" : "ITWS-4500",
     "credits" : "4 credits",
-    "description" : "Building\u00a0on the technology covered in Web Systems Development, students will be exposed to current technologies, frameworks, and practices in the area of Web development. Types of topics included will be HTML5/CSS3, API\u2019s for data, node.js, MongoDB, and Angular. Methodology to be explored will be application design, software versioning, and team development. Lab intensive, this course is intended to complete a foundation for the advanced courses in Data Science and Advanced Web Science.",
+    "description" : "Building on the technology covered in Web Systems Development, students will be exposed to current technologies, frameworks, and practices in the area of Web development. Types of topics included will be HTML5/CSS3, API's for data, node.js, MongoDB, and Angular. Methodology to be explored will be application design, software versioning, and team development. Lab intensive, this course is intended to complete a foundation for the advanced courses in Data Science and Advanced Web Science.",
     "name" : "Web Science Systems Dev"
   },
   {
@@ -29174,7 +29256,7 @@
   {
     "attributes" : null,
     "code" : "ITWS-6960",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ITWS"
   },
@@ -30125,7 +30207,7 @@
   {
     "attributes" : null,
     "code" : "LGHT-4960",
-    "credits" : "4 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in LGHT"
   },
@@ -32493,7 +32575,10 @@
     "name" : "Topics in MANE"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "MANE-6980",
     "credits" : "1-9 credits",
     "description" : "Active participation in a master\u2019s-level project, under the supervision of a faculty adviser, leading to a master\u2019s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master\u2019s project may be accepted by the Office of Graduate Education to be archived in the library.",
@@ -34326,7 +34411,7 @@
     "code" : "MGMT-1940",
     "credits" : "1-6 credits",
     "description" : "",
-    "name" : "Readings In Mgmt"
+    "name" : "Ugrad Independent Study"
   },
   {
     "attributes" : null,
@@ -35700,7 +35785,7 @@
     "code" : "MGMT-6690",
     "credits" : "3 credits",
     "description" : "This course is designed to help develop essential expertise in managing negotiations that occur in a broad array of settings. Students will learn to recognize types of negotiation, and gain proficiency in helping to shape beneficial outcomes. Students will develop negotiation skills experientially using a variety of exercises and case studies while implementing useful analytical frameworks.",
-    "name" : "Negotiation"
+    "name" : "Negotiations"
   },
   {
     "attributes" : null,
@@ -39165,6 +39250,13 @@
   },
   {
     "attributes" : null,
+    "code" : "PHYS-4171",
+    "credits" : "? credits",
+    "description" : "Students will engage in technical team leadership practice by leading collaborative teams of students in problem solving and online activities in introductory and intermediate Physics courses. The student will also provide individual problem-solving help and tutorials and may lead teams of classroom aides as agreed with faculty supervisor.",
+    "name" : "Physics Teaching Practicum"
+  },
+  {
+    "attributes" : null,
     "code" : "PHYS-4210",
     "credits" : "4 credits",
     "description" : "Field theory of electricity and magnetism with emphasis on solving boundary value problems. Dielectric and magnetic materials. Maxwell's equations and wave propagation with applications to optics. Relativistic electrodynamics.",
@@ -39306,14 +39398,14 @@
   {
     "attributes" : null,
     "code" : "PHYS-4961",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
   {
     "attributes" : null,
     "code" : "PHYS-4962",
-    "credits" : "4 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -39544,7 +39636,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-6961",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -39714,7 +39806,7 @@
     "code" : "PSYC-1940",
     "credits" : "2 credits",
     "description" : "",
-    "name" : "Independant Studies In Psyc"
+    "name" : "Ugrad Independent Study"
   },
   {
     "attributes" : null,
@@ -40249,6 +40341,13 @@
     "credits" : "4 credits",
     "description" : "The first half of this course is devoted to presentation of traditional theories of learning. Classical and operant conditioning and single-subject methodology are studied in depth. During the second half of the course, students apply their knowledge of operant conditioning principles in the context of a group-based field study.",
     "name" : "Learning"
+  },
+  {
+    "attributes" : null,
+    "code" : "PSYC-4460",
+    "credits" : "? credits",
+    "description" : "This course examines in detail theories and studies about the acquisition, storage, and retrieval processes of knowledge. Major topics are working memory, sensory and short-term memory, information coding and retrieval processes, implicit and explicit memory, long-term memory, knowledge representation, memory for space and time, reconstruction in memory, eye-witness memory, memory deficits, neural bases and computational models of memory.",
+    "name" : "Human Memory"
   },
   {
     "attributes" : null,
@@ -40843,7 +40942,7 @@
     "code" : "STSO-1940",
     "credits" : "1-6 credits",
     "description" : "",
-    "name" : "Readings In Stso"
+    "name" : "Ugrad Independent Study"
   },
   {
     "attributes" : null,
@@ -41457,10 +41556,7 @@
     "name" : "Bioethics"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "STSO-4260",
     "credits" : "4 credits",
     "description" : "This course provides students with a wide-ranging understanding of the environmental and social context of food, agriculture, and hunger. Drawing primarily on sociological concepts and research, the class will take a \"food systems\" approach, analyzing food as it travels from farm to table as part of an interconnected process. Students will examine why humans eat the way they do and how individuals' food choices affect other people and the environment.",
