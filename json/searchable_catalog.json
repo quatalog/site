@@ -6131,6 +6131,13 @@
   },
   {
     "attributes" : null,
+    "code" : "BIOL-2555",
+    "credits" : "? credits",
+    "description" : "The pace of advances in the biological sciences is brisk. In order to continually understand these advances, the habit of attending and engaging in biological presentations is essential.  This course offers a framework for student to participate in a seminar series.  This course is graded S/U. This course cannot count towards the Math/Science Core.",
+    "name" : "Biology Colloquium"
+  },
+  {
+    "attributes" : null,
     "code" : "BIOL-2900",
     "credits" : "1-4 credits",
     "description" : "Independent study program for the purpose of developing research skills under the guidance of a faculty member. This course may be repeated, and it cannot count as a biology elective.",
@@ -8305,7 +8312,7 @@
     "attributes" : null,
     "code" : "BMED-6560",
     "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
+    "description" : "This course reviews relevant core skills within this new biomedical engineering sub-field, including therapeutic modulation of non-neuromuscular nerve pathways to peripheral organs. Special focus is on important neuroimmune pathways discovered within the spleen and lymphoid tissues, and neurometabolic pathways within the liver, pancreas, and gastrointestinal tissues. New tools for recording and stimulating nerves are discussed, including non-invasive ultrasonic and electromagnetic devices, and how to test these tools for clinical use.",
     "name" : "Biomaterial Applications In Medicine"
   },
   {
