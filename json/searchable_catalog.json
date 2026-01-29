@@ -25212,6 +25212,13 @@
   },
   {
     "attributes" : null,
+    "code" : "GSAS-4567",
+    "credits" : "? credits",
+    "description" : "This course explores practices of adaptation across media formats and genres, with a particular focus on what happens in transmedial adaptation processes between narrative and ludic modes (i.e., between stories and games). Students will trace historical trends in adaptation studies, consider various theoretical models, and undertake critical analyses of adaptations and/or produce creative works of adaptation in a medium of their choosing.",
+    "name" : "Adaptations In Games & Media"
+  },
+  {
+    "attributes" : null,
     "code" : "GSAS-4940",
     "credits" : "1-4 credits",
     "description" : "When Offered: Fall and spring terms annually.",
