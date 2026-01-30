@@ -18558,6 +18558,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ECSE-2470",
+    "credits" : "? credits",
+    "description" : "This course provides an introduction to Robot Operating System (ROS), a widely used middleware for robot programming. Students will learn the basic components of ROS, how to utilize and write ROS packages, gain experience utilizing simulation software, and apply the concepts to physical platforms.",
+    "name" : "Intro To Robot Programming"
+  },
+  {
+    "attributes" : null,
     "code" : "ECSE-2500",
     "credits" : "3 credits",
     "description" : "Axioms of probability, joint and conditional probability, random variables, probability density, mass, and distribution functions, functions of one and two random variables, characteristic functions, sequences of independent random variables, central limit theorem, and laws of large numbers. Applications to electrical and computer engineering problems.",
