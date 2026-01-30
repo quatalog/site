@@ -31278,6 +31278,13 @@
   },
   {
     "attributes" : null,
+    "code" : "MANE-2550",
+    "credits" : "? credits",
+    "description" : "This course provides an introduction to Robot Operating System (ROS), a widely used middleware for robot programming. Students will learn the basic components of ROS, how to utilize and write ROS packages, gain experience utilizing simulation software, and apply the concepts to physical platforms.",
+    "name" : "Intro To Robot Programming"
+  },
+  {
+    "attributes" : null,
     "code" : "MANE-2710",
     "credits" : "3 credits",
     "description" : "Introduction to the First and Second Laws of Thermodynamics for open and closed systems. Thermodynamic properties of solids, liquids, and gases. Elementary power and refrigeration cycles.",
