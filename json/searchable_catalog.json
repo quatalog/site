@@ -6339,7 +6339,7 @@
   {
     "attributes" : null,
     "code" : "BIOL-4050",
-    "credits" : "1 credit",
+    "credits" : "4 credits",
     "description" : "Cells, the fundamental unit of life, exhibit astounding diversity of form and function. This course will explore the evolutionary basis of this diversity. Topics include the origin of life, organelles and their origins, constraints on cellular evolution, the origin of eukaryotes, complex cellular life cycles, and multicellularity, among others. Students will have the opportunity to evaluate and discuss cutting-edge scientific literature and practice interdisciplinary critical thinking and communication while being introduced to this emerging field.",
     "name" : "Literature Search Strategies In Biology"
   },
@@ -6968,7 +6968,7 @@
   {
     "attributes" : null,
     "code" : "BIOL-6050",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Cells, the fundamental unit of life, exhibit astounding diversity of form and function. This course will explore the evolutionary basis of this diversity. Topics include the origin of life, organelles and their origins, constraints on cellular evolution, the origin of eukaryotes, complex cellular life cycles, and multicellularity, among others. Students will have the opportunity to evaluate and discuss cutting-edge scientific literature and practice interdisciplinary critical thinking and communication while being introduced to this emerging field.",
     "name" : "Evolutionary Cell Biology"
   },
@@ -40613,8 +40613,7 @@
   {
     "attributes" : 
     [
-      "CI",
-      "WI"
+      "CI"
     ],
     "code" : "PSYC-4990",
     "credits" : "1-6 credits",
