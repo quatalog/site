@@ -28774,7 +28774,7 @@
   {
     "attributes" : null,
     "code" : "ISYE-6940",
-    "credits" : "1-12 credits",
+    "credits" : "1-9 credits",
     "description" : "Credit Hours: 3 to 6",
     "name" : "Graduate Independent Study"
   },
@@ -39363,7 +39363,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-4450",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course will introduce students to group theory and its application fundamental Physics of matter and space-time. Topics will include symmetries of space-time, crystalline structures, the quantum mechanics of spin, particle physics, the Standard Model, and Grand Unifying Theories.",
     "name" : "Group Theory For Physicists"
   },
