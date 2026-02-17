@@ -7409,7 +7409,7 @@
   {
     "attributes" : null,
     "code" : "BMED-1960",
-    "credits" : "? credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in BMED"
   },
@@ -24974,7 +24974,7 @@
   {
     "attributes" : null,
     "code" : "GSAS-2120",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Concept Art is a digital painting course oriented towards quickly ideating and visualizing concepts such as characters, creatures, props, environments, and motion for games, film, and TV.",
     "name" : "Concept Art"
   },
