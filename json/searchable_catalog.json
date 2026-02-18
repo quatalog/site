@@ -4975,6 +4975,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ASTR-6260",
+    "credits" : "? credits",
+    "description" : "This course will explore the structure, dynamics, and content of galaxies such as the Milky Way, as well as stellar and Galactic evolution. Students will learn methods to gather information about stars, the Milky Way galaxy in particular, and galaxies in general. Students will master the mathematical foundations that will enable more complex calculations of the interactions of stars, gas, and dark matter in galaxies.",
+    "name" : "Astrophysics: Galaxies"
+  },
+  {
+    "attributes" : null,
     "code" : "ASTR-6900",
     "credits" : "1 credit",
     "description" : "",
