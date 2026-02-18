@@ -30249,7 +30249,7 @@
   {
     "attributes" : null,
     "code" : "LGHT-4960",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in LGHT"
   },
@@ -30945,12 +30945,9 @@
     "name" : "Undergraduate Research Project"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "LITR-4960",
-    "credits" : "4 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in LITR"
   },
@@ -34231,7 +34228,7 @@
   {
     "attributes" : null,
     "code" : "MATP-6960",
-    "credits" : "4 credits",
+    "credits" : "1-6 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MATP"
   },
