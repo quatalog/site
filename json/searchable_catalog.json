@@ -3713,7 +3713,7 @@
   {
     "attributes" : null,
     "code" : "ARTS-4820",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Advanced Studio is for visual arts students working towards an EARTS Major and their culminating experience in Creative Seminar.  The studio provides the space and opportunity to pursue independent research in parallel with established coursework. Students gain a greater understanding of the quality of research and skills necessary for effective project management required by the Creative Seminar and the professional gallery exhibition experience.",
     "name" : "Advanced Studio"
   },
@@ -12774,7 +12774,7 @@
   {
     "attributes" : null,
     "code" : "COGS-6800",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "The research problems in cognitive sciences seminar is aimed to provide graduate students with in-depth information concerning a broad range of research problems and domains in cognitive sciences. It includes talks by invited speakers, as well as research progress reports by graduate students and faculty. Its goal is to establish some broad understanding of current, ongoing cognitive sciences research and to stimulate further research.",
     "name" : "Research Problems In Cog Sci"
   },
@@ -33283,6 +33283,13 @@
     "credits" : "4 credits",
     "description" : "The focus of the course is on fundamental algorithms in computational linear algebra and their applications in science and engineering. These algorithms involve QR and SVD factorizations, the computation of eigenvalues and eigenvectors, basic optimization methods, and iterative methods for sparse systems. Applications will be considered in areas such as data analysis and compression, principal component and spectral analysis, solutions of large sparse systems, among others.",
     "name" : "Numerical Linear Algebra With Applications"
+  },
+  {
+    "attributes" : null,
+    "code" : "MATH-4910",
+    "credits" : "? credits",
+    "description" : "The math mentor program is an e\ufb00ort to help students improve their basic mathematical skills and mathematical accuracy while making Rensselaer academics friendlier as mentors help Freshman make the transition to college academics.",
+    "name" : "Calculus Mentoring II"
   },
   {
     "attributes" : null,
