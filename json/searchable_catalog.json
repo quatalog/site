@@ -12725,7 +12725,7 @@
   {
     "attributes" : null,
     "code" : "COGS-6450",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course provides an introduction to the philosophical and formal aspects of several families of non-classical logics that provide alternatives to classical (Russell-Frege) logic. Emphases will include philosophical objections to particular components of classical logic and how alternative formalizations of reasoning have emerged in order to accommodate these objections. In particular, topics to be covered will include logics of strict implication, intuitionistic logic, relevant logic, and fuzzy logic.",
     "name" : "Non-classical Logic"
   },
@@ -25036,7 +25036,7 @@
   {
     "attributes" : null,
     "code" : "GSAS-2610",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Students will explore the artistic role of music and sound in gaming by building their own interactive sound and music-rich games and 2D/3D rendered environments. Within the context of their own creative game projects, students will learn the basics of designing sound and composing music for interactive game spaces. Using workflow programming languages and software tools, students will program basic gaming interactions, link them to interactive audio software, and create musical gaming experiences.",
     "name" : "Designing Musical Games"
   },
@@ -25106,7 +25106,7 @@
   {
     "attributes" : null,
     "code" : "GSAS-4100",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "This course examines games from a psychological perspective, including, analyzing the psychology behind game design and player experience, examining the ethics of game design and play, and looking at how social psychology affects player identity both in and out of the game.",
     "name" : "Psychology Of Games"
   },
@@ -38354,7 +38354,7 @@
   {
     "attributes" : null,
     "code" : "PHIL-4450",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course provides an introduction to the philosophical and formal aspects of several families of non-classical logics that provide alternatives to classical (Russell-Frege) logic. Emphases will include philosophical objections to particular components of classical logic and how alternative formalizations of reasoning have emerged in order to accommodate these objections. In particular, topics to be covered will include logics of strict implication, intuitionistic logic, relevant logic, and fuzzy logic.",
     "name" : "Non-classical Logic"
   },
@@ -40433,7 +40433,7 @@
   {
     "attributes" : null,
     "code" : "PSYC-4460",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course examines in detail theories and studies about the acquisition, storage, and retrieval processes of knowledge. Major topics are working memory, sensory and short-term memory, information coding and retrieval processes, implicit and explicit memory, long-term memory, knowledge representation, memory for space and time, reconstruction in memory, eye-witness memory, memory deficits, neural bases and computational models of memory.",
     "name" : "Human Memory"
   },
