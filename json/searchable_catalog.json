@@ -15596,7 +15596,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4610",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "A course on computing and quantum computing emphasizing the theory and foundations. The course begins with advanced topics in the theory of computing (Turing Machines, undecidability, complexity and Boolean circuits, NP-completeness). The course then covers the foundations of Quantum Computing addressing the fundamental questions of \u201cWhat is quantum computing and how do we do it?\u201d before moving on to exploring quantum algorithm design by covering standard design techniques as well as the quantum algorithms for gatekeeper problems (quantum search, quantum counting, quantum approximate optimization, quantum machine learning, etc.). Students cannot receive credit for both CSCI 4610 and CSCI 6610.",
     "name" : "Computing & Quantum Computing"
   },
@@ -16214,7 +16214,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6610",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "A course on computing and quantum computing emphasizing the theory and foundations. The course begins with advanced topics in the theory of computing (Turing Machines, undecidability, complexity and Boolean circuits, NP-completeness). The course then covers the foundations of Quantum Computing addressing the fundamental questions of \u201cWhat is quantum computing and how do we do it?\u201d before moving on to exploring quantum algorithm design by covering standard design techniques as well as the quantum algorithms for gatekeeper problems (quantum search, quantum counting, quantum approximate optimization, quantum machine learning, etc.). Students cannot receive credit for both CSCI 4610 and CSCI 6610.",
     "name" : "Computing & Quantum Computing"
   },
@@ -16340,7 +16340,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6968",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
