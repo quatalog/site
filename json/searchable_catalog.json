@@ -4234,7 +4234,7 @@
   {
     "attributes" : null,
     "code" : "ARTS-6960",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARTS"
   },
@@ -10783,7 +10783,7 @@
   {
     "attributes" : null,
     "code" : "CHME-4961",
-    "credits" : "1 credit",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHME"
   },
@@ -25120,7 +25120,7 @@
   {
     "attributes" : null,
     "code" : "GSAS-4125",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Character Art focuses on digitally sculpting characters for 3D mediums like games, films, and TV. Students go through the practices of character design, concepting, modelling, texturing, UV\u2019s and retopology, and lighting/rendering.",
     "name" : "Character Art"
   },
