@@ -41645,7 +41645,8 @@
   {
     "attributes" : 
     [
-      "CI"
+      "CI",
+      "PDII"
     ],
     "code" : "STSO-4260",
     "credits" : "4 credits",
