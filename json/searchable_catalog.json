@@ -40645,7 +40645,8 @@
   {
     "attributes" : 
     [
-      "CI"
+      "CI",
+      "WI"
     ],
     "code" : "PSYC-4990",
     "credits" : "1-6 credits",
