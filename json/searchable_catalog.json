@@ -12696,6 +12696,13 @@
   },
   {
     "attributes" : null,
+    "code" : "COGS-6335",
+    "credits" : "? credits",
+    "description" : "Feminist critiques of many disciplines have led to deep and radical revisions to their foundational assumptions. In the case of the a priori disciplines---mathematics, computation, engineering---critiques tend to be less foundational. There exist, however, threads of literature debating the role that feminist theory plays in determining the bounds of reason itself and, consequently, the contours of disciplines like mathematics. The thesis that oppressive themes are baked into the foundations of logic leads to important questions: Can the many fruits of logic (engineering, medicine, computers) be balanced with a revision of its foundation? Does a more inclusive epistemology of logical reasoning conflict with the idea that mathematical truths (for example) are necessary and eternal?",
+    "name" : "Feminist Critiques Of Logic"
+  },
+  {
+    "attributes" : null,
     "code" : "COGS-6340",
     "credits" : "4 credits",
     "description" : "This course will explore how linguistics, the scientific study of the properties of human language and languages, can be applied to the development of intelligent agents that can fluently and meaningfully communicate with people in natural language. It will focus on linguistic phenomena that have so far been particularly resistant to effective machine processing, such as lexical ambiguity resolution, reference resolution, ellipsis, indirect speech acts, implicature, and non-literal language (e.g., metaphor and irony).",
@@ -38323,6 +38330,13 @@
     "credits" : "4 credits",
     "description" : "What is progress in science? How has the concept of progress been influenced by science? Are there significant differences between scientific and technological revolutions? These questions are explored in order to shed light on the complex dynamics of academic and industrial research.",
     "name" : "Scientific Revolutions"
+  },
+  {
+    "attributes" : null,
+    "code" : "PHIL-4335",
+    "credits" : "? credits",
+    "description" : "Feminist critiques of many disciplines have led to deep and radical revisions to their foundational assumptions. In the case of the a priori disciplines---mathematics, computation, engineering---critiques tend to be less foundational. There exist, however, threads of literature debating the role that feminist theory plays in determining the bounds of reason itself and, consequently, the contours of disciplines like mathematics. The thesis that oppressive themes are baked into the foundations of logic leads to important questions: Can the many fruits of logic (engineering, medicine, computers) be balanced with a revision of its foundation? Does a more inclusive epistemology of logical reasoning conflict with the idea that mathematical truths (for example) are necessary and eternal?",
+    "name" : "Feminist Critiques Of Logic"
   },
   {
     "attributes" : 
