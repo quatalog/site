@@ -3360,6 +3360,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ARTS-4025",
+    "credits" : "? credits",
+    "description" : "From immersive concerts to film soundtracks and video games, 3D audio has become an essential part of how we experience sound. This seminar explores the creative, historical, and technical dimensions of spatial sound, tracing how composers and artists have shaped our listening experience from antiquity to today. After a brief introduction to the psychoacoustics of sound localization, the course surveys works ranging from Renaissance polychoral masses and multi-ensemble compositions to contemporary electronic works, sound installations, and multi-location projects. In collaboration with EMPAC, students will engage with current and emerging 3D sound technologies and formats, including surround sound, ambisonics, wavefield synthesis, binaural audio, and virtual environments. Students will also have access to the Spatial Music Lab, a multichannel workspace featuring an extensive repertoire of historical and contemporary spatial works for creative and research projects.",
+    "name" : "Spatial Music And Sound"
+  },
+  {
+    "attributes" : null,
     "code" : "ARTS-4030",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
