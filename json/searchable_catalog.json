@@ -12710,6 +12710,13 @@
   },
   {
     "attributes" : null,
+    "code" : "COGS-6380",
+    "credits" : "? credits",
+    "description" : "Do you want to move beyond traditional statistics? This course introduces the emerging field of Behavioral Data Science, blending theory-driven insights from the social sciences with computational tools from data science, machine learning, and statistics. Students will learn to analyze behavioral data to solve complex problems, such as modeling user behavior, identifying patterns in social networks, uncovering personality structures, and applying deep learning for behavioral prediction and uncertainty quantification. Graduates will be well-equipped to address data challenges across industries, helping shape a diverse and interdisciplinary data science workforce.",
+    "name" : "Behavioral Data Science"
+  },
+  {
+    "attributes" : null,
     "code" : "COGS-6410",
     "credits" : "4 credits",
     "description" : "This course is a graduate course that teaches Cognitive Science and Artificial Intelligence concepts by enabling the student to develop and understand computer programs that implement them. It covers data collection and analysis, task environments, natural language, cognitive architectures, and learning. Some previous programming experience is very beneficial but not required.",
@@ -40399,6 +40406,13 @@
     "credits" : "4 credits",
     "description" : "The focus of this course is on the flow of information from sensory input to retrieval from long-term memory. Within this framework, topics such as mnemonics, pattern recognition, attention, computer simulation, reasoning, and the relationship between culture and thought are discussed.",
     "name" : "Cognitive Psychology"
+  },
+  {
+    "attributes" : null,
+    "code" : "PSYC-4380",
+    "credits" : "? credits",
+    "description" : "Do you want to move beyond traditional statistics? This course introduces the emerging field of Behavioral Data Science, blending theory-driven insights from the social sciences with computational tools from data science, machine learning, and statistics. Students will learn to analyze behavioral data to solve complex problems, such as modeling user behavior, identifying patterns in social networks, uncovering personality structures, and applying deep learning for behavioral prediction and uncertainty quantification. Graduates will be well-equipped to address data challenges across industries, helping shape a diverse and interdisciplinary data science workforce.",
+    "name" : "Behavioral Data Science"
   },
   {
     "attributes" : 
