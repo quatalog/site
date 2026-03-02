@@ -40495,6 +40495,13 @@
   },
   {
     "attributes" : null,
+    "code" : "PSYC-4530",
+    "credits" : "? credits",
+    "description" : "This course introduces the principles and methods of Bayesian statistics and probabilistic modeling, with an emphasis on practical application to real-world problems. The course provides a self-contained foundation in probability theory, Bayesian estimation, model comparison, and decision theory, and contrasts Bayesian and non-Bayesian approaches with a focus on uncertainty quantification and interpretation. Students will learn modern computational techniques for Bayesian inference, including MCMC, hierarchical models, and simulation-based methods, and will engage in hands-on sessions using R to implement principled Bayesian workflows such as prior checking, sensitivity analysis, and model validation. Advanced topics, including approximate Bayesian computation, variational inference, and generative neural networks, are also introduced, equipping students with the skills needed to apply contemporary Bayesian methods in practice.",
+    "name" : "Appl Data Analysis & Prob Mod"
+  },
+  {
+    "attributes" : null,
     "code" : "PSYC-4600",
     "credits" : "4 credits",
     "description" : "Perception and thought are considered in terms of processes represented in the brain. The localization and lateralization of function are examined, drawing upon research on the behavioral effects of brain damage as well as brain-imaging studies and other approaches. Examples of topics include object recognition, memory, language, emotion, spatial ability, and motor processes.",
