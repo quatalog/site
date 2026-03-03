@@ -12711,7 +12711,7 @@
   {
     "attributes" : null,
     "code" : "COGS-6380",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Do you want to move beyond traditional statistics? This course introduces the emerging field of Behavioral Data Science, blending theory-driven insights from the social sciences with computational tools from data science, machine learning, and statistics. Students will learn to analyze behavioral data to solve complex problems, such as modeling user behavior, identifying patterns in social networks, uncovering personality structures, and applying deep learning for behavioral prediction and uncertainty quantification. Graduates will be well-equipped to address data challenges across industries, helping shape a diverse and interdisciplinary data science workforce.",
     "name" : "Behavioral Data Science"
   },
@@ -14331,7 +14331,7 @@
   {
     "attributes" : null,
     "code" : "COMM-6567",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "This course explores practices of adaptation across media formats and genres, with a particular focus on what happens in transmedial adaptation processes between narrative and ludic modes (i.e., between stories and games). Students will trace historical trends in adaptation studies, consider various theoretical models, and undertake critical analyses of adaptations and/or produce creative works of adaptation in a medium of their choosing.",
     "name" : "Adaptations In Games & Media"
   },
@@ -25262,7 +25262,7 @@
   {
     "attributes" : null,
     "code" : "GSAS-4567",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course explores practices of adaptation across media formats and genres, with a particular focus on what happens in transmedial adaptation processes between narrative and ludic modes (i.e., between stories and games). Students will trace historical trends in adaptation studies, consider various theoretical models, and undertake critical analyses of adaptations and/or produce creative works of adaptation in a medium of their choosing.",
     "name" : "Adaptations In Games & Media"
   },
@@ -40459,7 +40459,7 @@
   {
     "attributes" : null,
     "code" : "PSYC-4380",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Do you want to move beyond traditional statistics? This course introduces the emerging field of Behavioral Data Science, blending theory-driven insights from the social sciences with computational tools from data science, machine learning, and statistics. Students will learn to analyze behavioral data to solve complex problems, such as modeling user behavior, identifying patterns in social networks, uncovering personality structures, and applying deep learning for behavioral prediction and uncertainty quantification. Graduates will be well-equipped to address data challenges across industries, helping shape a diverse and interdisciplinary data science workforce.",
     "name" : "Behavioral Data Science"
   },
