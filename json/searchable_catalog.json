@@ -12697,7 +12697,7 @@
   {
     "attributes" : null,
     "code" : "COGS-6335",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Feminist critiques of many disciplines have led to deep and radical revisions to their foundational assumptions. In the case of the a priori disciplines---mathematics, computation, engineering---critiques tend to be less foundational. There exist, however, threads of literature debating the role that feminist theory plays in determining the bounds of reason itself and, consequently, the contours of disciplines like mathematics. The thesis that oppressive themes are baked into the foundations of logic leads to important questions: Can the many fruits of logic (engineering, medicine, computers) be balanced with a revision of its foundation? Does a more inclusive epistemology of logical reasoning conflict with the idea that mathematical truths (for example) are necessary and eternal?",
     "name" : "Feminist Critiques Of Logic"
   },
@@ -38390,7 +38390,7 @@
   {
     "attributes" : null,
     "code" : "PHIL-4335",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Feminist critiques of many disciplines have led to deep and radical revisions to their foundational assumptions. In the case of the a priori disciplines---mathematics, computation, engineering---critiques tend to be less foundational. There exist, however, threads of literature debating the role that feminist theory plays in determining the bounds of reason itself and, consequently, the contours of disciplines like mathematics. The thesis that oppressive themes are baked into the foundations of logic leads to important questions: Can the many fruits of logic (engineering, medicine, computers) be balanced with a revision of its foundation? Does a more inclusive epistemology of logical reasoning conflict with the idea that mathematical truths (for example) are necessary and eternal?",
     "name" : "Feminist Critiques Of Logic"
   },
@@ -38685,7 +38685,7 @@
   {
     "attributes" : null,
     "code" : "PHIL-6962",
-    "credits" : "4 credits",
+    "credits" : "? credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHIL"
   },
