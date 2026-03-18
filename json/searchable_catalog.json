@@ -33383,6 +33383,13 @@
   },
   {
     "attributes" : null,
+    "code" : "MATH-4911",
+    "credits" : "? credits",
+    "description" : "The math mentor program is an e\ufb00ort to help students improve their basic mathematical skills and mathematical accuracy while making Rensselaer academics friendlier as mentors help Freshman make the transition to college academics.",
+    "name" : "Calculus Mentoring III"
+  },
+  {
+    "attributes" : null,
     "code" : "MATH-4940",
     "credits" : "1-4 credits",
     "description" : "Credit Hours: 1 to 4",
@@ -34090,6 +34097,13 @@
     "credits" : "3 credits",
     "description" : "The world at-large is confronted with increasingly larger and complex sets of structured/unstructured information; from cyber and human sources. Traditional enterprises are moving toward analytics-driven approaches for core business functions. Data and information analytics extends analysis (descriptive models of data) by using data mining and machine learning methods, with optimization and validation, to recommend action or guide and communicate decision-making. Thus, analytics in an entire methodology rather than individual analyses or analysis steps.",
     "name" : "Data Analytics"
+  },
+  {
+    "attributes" : null,
+    "code" : "MATP-4530",
+    "credits" : "? credits",
+    "description" : "This course introduces the principles and methods of Bayesian statistics and probabilistic modeling, with an emphasis on practical application to real-world problems. The course provides a self-contained foundation in probability theory, Bayesian estimation, model comparison, and decision theory, and contrasts Bayesian and non-Bayesian approaches with a focus on uncertainty quantification and interpretation. Students will learn modern computational techniques for Bayesian inference, including MCMC, hierarchical models, and simulation-based methods, and will engage in hands-on sessions using R to implement principled Bayesian workflows such as prior checking, sensitivity analysis, and model validation. Advanced topics, including approximate Bayesian computation, variational inference, and generative neural networks, are also introduced, equipping students with the skills needed to apply contemporary Bayesian methods in practice.",
+    "name" : "Appld Data Analysis Prob Modlg"
   },
   {
     "attributes" : null,
