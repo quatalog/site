@@ -5991,6 +5991,13 @@
   },
   {
     "attributes" : null,
+    "code" : "BIOL-1155",
+    "credits" : "? credits",
+    "description" : "This course is designed to give students entering the department of biological sciences the opportunities to explore the potential of a major in the department.   We will focus on biology's role in society by delving into faculty research and will resources that will allow you to advance your career in the biological sciences.",
+    "name" : "Welcome To Biological Science"
+  },
+  {
+    "attributes" : null,
     "code" : "BIOL-1550",
     "credits" : "? credits",
     "description" : "This course examines how biology and biotechnology are represented in popular works of fiction. Explored themes include genome modification, eugenics, restorative medicine, brain-computer interfaces, xenografts/synthetic organ transplants, and pandemic disease. Through class discussions and projects, students will learn about the latest advances in biology, assess the plausibility of fictional depictions of biology and biotechnology, and explore the future applications of biotechnology and the bioethical implications of such technologies. To this end, students will learn how to formulate hypotheses, find and analyze peer-reviewed scientific articles, and become familiar with other means of communication used by scientists.",
@@ -9462,8 +9469,8 @@
     "attributes" : null,
     "code" : "CHEM-4340",
     "credits" : "1 credit",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Drug Discovery Laboratory"
+    "description" : "Organic Chemistry III is an advanced organic chemistry course that develops a mechanistic and strategic understanding of modern synthetic chemistry. Topics include stereochemistry and stereochemical control, conformational analysis, aromaticity and molecular orbital theory, pericyclic reactions, organometallic chemistry and catalytic cycles, retrosynthetic analysis, heterocyclic chemistry, and asymmetric synthesis.",
+    "name" : "Organic Chemistry III"
   },
   {
     "attributes" : null,
@@ -9926,6 +9933,13 @@
     "credits" : "3 credits",
     "description" : "This course will examine how bioinformatics, functional genomics, and other modern biotechnologies are used to speed the discovery of new drugs, especially those small organic molecules to treat human diseases with large unmet therapeutic need. Special emphasis will be placed on molecular target identification and validation as well as high-throughput screening to identify a lead. Topics to be discussed will include transgenic mice, RNA interference, DNA and protein microarrays, homogenous time-resolved fluorescence bioassays, phage-display, combinatorial chemistry, and parallel synthesis.",
     "name" : "Drug Discovery"
+  },
+  {
+    "attributes" : null,
+    "code" : "CHEM-6340",
+    "credits" : "? credits",
+    "description" : "Organic Synthesis & Stereochemistry is an advanced organic chemistry course that develops a mechanistic and strategic understanding of modern synthetic chemistry. Topics include stereochemistry and stereochemical control, conformational analysis, aromaticity and molecular orbital theory, pericyclic reactions, organometallic chemistry and catalytic cycles, retrosynthetic analysis, heterocyclic chemistry, and asymmetric synthesis. Emphasis is placed on predicting reaction outcomes, analyzing mechanisms, and designing efficient synthetic routes to complex molecules. Students also engage in critical analysis of current research literature and gain structured training in scientific writing and the research publication process.",
+    "name" : "Organic Sythesis & Stereochem"
   },
   {
     "attributes" : null,
