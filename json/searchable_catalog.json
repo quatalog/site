@@ -41003,6 +41003,34 @@
   },
   {
     "attributes" : null,
+    "code" : "ROBT-1010",
+    "credits" : "4 credits",
+    "description" : "This course introduces the fundamentals of robotics, providing students with a broad understanding of how robots sense, think, and act, and how their mechanical structures support these functions. Topics include the history and applications of robotics, robot subsystems (sensing, computation, actuation), statics and structural analysis of robotic systems, basic kinematics, control principles, perception, and autonomous decision-making.",
+    "name" : "Introduction To Robotics"
+  },
+  {
+    "attributes" : null,
+    "code" : "ROBT-2010",
+    "credits" : "? credits",
+    "description" : "This course provides an introduction to Robot Operating System (ROS), a widely used middleware for robot programming. Students will learn the basic components of ROS, how to utilize and write ROS packages, gain experience utilizing simulation software, and apply the concepts to physical platforms.",
+    "name" : "Intro To Robot Programming"
+  },
+  {
+    "attributes" : null,
+    "code" : "ROBT-4010",
+    "credits" : "? credits",
+    "description" : "A survey of the fundamental issues necessary for the design, analysis, control, and implementation of robotic systems. The mathematical description of robot manipulators in terms of kinematics and dynamics. Path following, control, and sensing. Examples of several currently available manipulators.",
+    "name" : "Manipulator Kinematics & Dynmc"
+  },
+  {
+    "attributes" : null,
+    "code" : "ROBT-4020",
+    "credits" : "? credits",
+    "description" : "This course introduces methods to develop numerical and algorithmic techniques necessary for mobile robots to navigate and coordinate. Topics include mobile robot kinematics and dynamics, control, localization, mapping, path planning, and multi-robot systems.",
+    "name" : "Mobile Robotics & Planning"
+  },
+  {
+    "attributes" : null,
     "code" : "STSO-1000",
     "credits" : "? credits",
     "description" : "",
