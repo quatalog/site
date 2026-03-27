@@ -15340,7 +15340,10 @@
     "name" : "Reinforcement Learning"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "CSCI-4170",
     "credits" : "4 credits",
     "description" : "We will study machine learning and AI solutions to real world problems using publicly available datasets. Topics include Deep Learning, Training Neural Networks (NN), Recurrent NN, Convolution NN, Auto-encoders, Generative Models, Natural Language processing (NLP), Reinforcement Learning, Diffusion models, Recommender Systems.",
@@ -16031,7 +16034,10 @@
     "name" : "Computer Operating Systems"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "CSCI-6170",
     "credits" : "4 credits",
     "description" : "We will study machine learning and AI solutions to real world problems using publicly available datasets. Topics include Deep Learning, Training Neural Networks (NN), Recurrent NN, Convolution NN, Auto-encoders, Generative Models, Natural Language processing (NLP), Reinforcement Learning, Diffusion models, Recommender Systems.",
