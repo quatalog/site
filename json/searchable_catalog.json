@@ -1198,6 +1198,20 @@
   },
   {
     "attributes" : null,
+    "code" : "ARCH-4222",
+    "credits" : "? credits",
+    "description" : "System Prototyping 1 introduces students to constructing and analyzing complex systems through advanced computation, with applications in architecture, urban systems, the built environment, and other interdependent systems. Students leverage data mining, ML models, and other optimization techniques to uncover system mechanisms, interdependencies, and feedback loops, then translate insights into architectural representations (drawings, diagrams, and computational workflows) and prototype interfaces/models that visualize system dynamics.",
+    "name" : "Systems Prototyping 1"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-4223",
+    "credits" : "? credits",
+    "description" : "This seminar introduces the design and prototyping of smart systems for the built environment\u2014including smart cities/building control and IoT\u2014through the lenses of cybernetics and human\u2013building/human\u2013computer interaction (HBI/HCI). Students prototype real\u2011world events as inputs, process data, and design outputs (light, motion, sound, visualization) using Arduino\u2011class microcontrollers and introductory communication protocols. In the second half, students connect physical prototypes to Unity3D for digital\u2011twin/XR workflows and explore photogrammetry/point\u2011cloud and basic computer\u2011vision methods to stage responsive, post\u2011human interaction scenarios.",
+    "name" : "Systems Prototyping 2"
+  },
+  {
+    "attributes" : null,
     "code" : "ARCH-4230",
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
@@ -1247,6 +1261,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ARCH-4321",
+    "credits" : "? credits",
+    "description" : "A seminar course that establishes an understanding and sense of urgency around the impact of building design on climate change. The course introduces fundamental theory and simulation tools for calculating energy flows, passive and active systems, and operational carbon in the built environment, preparing researchers and advanced professionals to analyze and improve their designs using various analytical tools.",
+    "name" : "Built Ecologies 1"
+  },
+  {
+    "attributes" : null,
     "code" : "ARCH-4325",
     "credits" : "3 credits",
     "description" : "This course provides consultation with experts to prepare students with the necessary leadership skills for collaborative practice through lectures and skill building workshops. This course will provide access to professional disciplines typically engaged in the building design process as consultants, including sustainable practice, structural, mechanical, environmental, and high-performance facade design to support the integration of of technical knowledge and to promote innovation in current and future best practices, and stewardship of resources within architecture.",
@@ -1258,6 +1279,27 @@
     "credits" : "3 credits",
     "description" : "This course builds on the material presented in ARCH 2330, with the analysis and design of structures comprising steel, concrete, timber, and masonry. The theoretical concepts covered in the introductory course form the conceptual basis for work in Structures 2, with relevant new concepts/techniques covered. Students will explore load transfer in different structural assemblies and consider how seismic and other complex loading can impact architectural considerations. Innovative, non-normative structural systems are investigated and discussed. Design optimization approaches are introduced and explored as avenues to accomplish more optimum design conditions under increasingly strict design constraints. The course approach will involve in class presentations, homework, exams, worked problems, and case studies.",
     "name" : "Structures 2"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-4332",
+    "credits" : "? credits",
+    "description" : "A seminar course that provides foundational knowledge and practical simulation tools for daylighting analysis and embodied carbon assessment as essential building blocks for designing healthy, high-performance and low carbon buildings.",
+    "name" : "Built Ecologies 2"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-4333",
+    "credits" : "? credits",
+    "description" : "Environmental Parametrics 1: This course is an intensive workshop in parametric modeling with specialized focus on environmental simulation and sustainable design. Students learn tools to navigate the intersection of environmental design and computational workflows by mastering parametric modeling and optimization for sustainability. Students gain proficiency in using parametric applications as both an analytical tool and a generative design device. The course exposes students to feedback loops between environmental analysis and design decision, fostering performance-based design strategies. Students explore the integration of parametric modeling with building energy modeling and bioclimatic analysis. Project based exercises are developed to address ecological design principles and optimize systems for multivariable trade-offs.",
+    "name" : "Environmental Parametrics 1"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-4334",
+    "credits" : "? credits",
+    "description" : "Environmental Parametrics 2 explores the integration of parametric modeling and digital fabrication through the lens of the building skin. Students will develop computational design workflows in Rhino/Grasshopper, focusing on how digital logic can be translated into physical reality using technologies such as laser cutting, 3D printing, CNC routing, and vacuum forming. The curriculum emphasizes \"File-to-Factory\" workflows, material agency, and the development of assembly systems. Students will move from abstract geometric studies to the production of a high-fidelity, multi-material facade prototype.",
+    "name" : "Environmental Parametrics 2"
   },
   {
     "attributes" : null,
@@ -1293,6 +1335,20 @@
     "credits" : "4 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
     "name" : "Elect Media: Phys Des Proc"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-4444",
+    "credits" : "? credits",
+    "description" : "Material Systems 1 examines materials through first principles, material classification, material production, and material impacts. Students develop criteria to make reasoned choices for the implementation of materials in the built environment. The course is organized in four interconnected sections:",
+    "name" : "Material Systems 1"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-4445",
+    "credits" : "? credits",
+    "description" : "Operating at the intersection of material science, sustainability and design for the built environment, in Material Systems 2 students interrogate the performance of materials for design goals, analyze their life cycles and produce material prototypes viewing them across scales from material composition to supply chain. The course is organized into three interconnected sections:",
+    "name" : "Material Systems 2"
   },
   {
     "attributes" : null,
@@ -2092,6 +2148,20 @@
   },
   {
     "attributes" : null,
+    "code" : "ARCH-6222",
+    "credits" : "? credits",
+    "description" : "System Prototyping 1 introduces students to constructing and analyzing complex systems through advanced computation, with applications in architecture, urban systems, the built environment, and other interdependent systems. Students leverage data mining, ML models, and other optimization techniques to uncover system mechanisms, interdependencies, and feedback loops, then translate insights into architectural representations (drawings, diagrams, and computational workflows) and prototype interfaces/models that visualize system dynamics.",
+    "name" : "Systems Prototyping 1"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-6223",
+    "credits" : "? credits",
+    "description" : "",
+    "name" : "Systems Prototyping 2"
+  },
+  {
+    "attributes" : null,
     "code" : "ARCH-6310",
     "credits" : "3 credits",
     "description" : "This course has been conceived together with Material Systems and Productions and the Design Research Studio, such that each student will develop a complementary written analysis that critically situates the new material system that the student is developing in design studio within historical, socio-political, and economic flows. The written analysis will directly reference key themes contained within the required readings, lectures, and seminar discussions. Course taught in New York City.",
@@ -2110,6 +2180,20 @@
     "credits" : "3 credits",
     "description" : "In this seminar, students develop and analyze an ecologically sensitive built system related to their thesis topic with particular attention to the architectural, social, and political implications of the work and their inter-relationships. An awareness of the political and economic forces that are instrumental in the development of contemporary built ecologies creates opportunities for innovation in the cultures of making. Course taught in New York City.",
     "name" : "Built Ecologies 2"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-6333",
+    "credits" : "? credits",
+    "description" : "This course is an intensive workshop in parametric modeling with specialized focus on environmental simulation and sustainable design. Students learn tools to navigate the intersection of environmental design and computational workflows by mastering parametric modeling and optimization for sustainability. Students gain proficiency in using parametric applications as both an analytical tool and a generative design device. The course exposes students to feedback loops between environmental analysis and design decision, fostering performance-based design strategies. Students explore the integration of parametric modeling with building energy modeling and bioclimatic analysis. Project based exercises are developed to address ecological design principles and optimize systems for multivariable trade-offs.",
+    "name" : "Environmental Parametrics 1"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-6334",
+    "credits" : "? credits",
+    "description" : "Environmental Parametrics 2: explores the integration of parametric modeling and digital fabrication through the lens of the building skin. Students will develop computational design workflows in Rhino/Grasshopper, focusing on how digital logic can be translated into physical reality using technologies such as laser cutting, 3D printing, CNC routing, and vacuum forming. The curriculum emphasizes \"File-to-Factory\" workflows, material agency, and the development of assembly systems. Students will move from abstract geometric studies to the production of a high-fidelity, multi-material facade prototype.",
+    "name" : "Environmental Parametrics 2"
   },
   {
     "attributes" : null,
@@ -2166,6 +2250,20 @@
     "credits" : "2 credits",
     "description" : "",
     "name" : "Methods I"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-6444",
+    "credits" : "? credits",
+    "description" : "Material Systems 1 examines materials through first principles, material classification, material production, and material impacts. Students develop criteria to make reasoned choices for the implementation of materials in the built environment. The course is organized in four interconnected sections:",
+    "name" : "Material Systems 1"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-6445",
+    "credits" : "? credits",
+    "description" : "Operating at the intersection of material science, sustainability and design for the built environment, in Material Systems 2 students interrogate the performance of materials for design goals, analyze their life cycles and produce material prototypes viewing them across scales from material composition to supply chain. The course is organized into three interconnected sections:",
+    "name" : "Material Systems 2"
   },
   {
     "attributes" : null,
@@ -15457,8 +15555,15 @@
     "attributes" : null,
     "code" : "CSCI-4290",
     "credits" : "4 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Robot Motion Planning"
+    "description" : "This course provides an in-depth exploration of operating system concepts and mechanisms beyond the introductory level. Students will study the design, implementation, and evaluation of modern operating systems, with a focus on advanced topics such as system calls, CPU scheduling, concurrency, synchronization, memory management, file systems, virtual memory, and device drivers. The course combines theoretical foundations with practical experience, including programming assignments that involve developing and analyzing operating system components. By the end of the course, students will gain a thorough understanding of the principles and challenges in building robust, efficient, and secure operating systems, preparing them for research or careers in systems software development.",
+    "name" : "Advanced Operating Systems"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-4300",
+    "credits" : "? credits",
+    "description" : "This course expands upon topics covered in CSCI 2800.  Specifically, this course covers advanced topics in computer hardware, including processor and memory design, as well as performance evaluation.  The course provides a mix of theoretical and mathematical foundations with hands-on assignments.  This course is appropriate for students interested in computer hardware and high-performance computing, including students exploring career paths in hardware design and analysis.",
+    "name" : "Advanced Computer Architecture"
   },
   {
     "attributes" : 
@@ -15661,6 +15766,13 @@
   },
   {
     "attributes" : null,
+    "code" : "CSCI-4570",
+    "credits" : "? credits",
+    "description" : "This course will enable students to understand and apply software verification techniques with a particular emphasis on fundamental proof methods. The course will cover proof methods including implication chaining, applied to equational reasoning, sentential logic, and first-order logic. The course will also cover proofs about fundamental data types and algorithms. The course will use the Athena dual computation/deduction language, and the MIT Press book \"Fundamental Proof Methods in Computer Science\" by Konstantine Arkoudas and David Musser. Students will also review current research on software verification on topics of their interest, for example: model checking, symbolic testing, temporal logic, modal logics, formal programming language semantics, proof-carrying code, dependent types, and session types. Contingent on time availability, the course will study proofs at an abstract level for reusability and proofs about concurrent actor programs.",
+    "name" : "Software Verification"
+  },
+  {
+    "attributes" : null,
     "code" : "CSCI-4600",
     "credits" : "3 credits",
     "description" : "The world at-large is confronted with increasingly larger and complex sets of structured/unstructured information; from cyber and human sources. Traditional enterprises are moving toward analytics-driven approaches for core business functions. Data and information analytics extends analysis (descriptive models of data) by using data mining and machine learning methods, with optimization and validation, to recommend action or guide and communicate decision-making. Thus, analytics is an entire methodology rather than individual analyses or analysis steps.",
@@ -15672,6 +15784,13 @@
     "credits" : "4 credits",
     "description" : "A course on computing and quantum computing emphasizing the theory and foundations. The course begins with advanced topics in the theory of computing (Turing Machines, undecidability, complexity and Boolean circuits, NP-completeness). The course then covers the foundations of Quantum Computing addressing the fundamental questions of \u201cWhat is quantum computing and how do we do it?\u201d before moving on to exploring quantum algorithm design by covering standard design techniques as well as the quantum algorithms for gatekeeper problems (quantum search, quantum counting, quantum approximate optimization, quantum machine learning, etc.). Students cannot receive credit for both CSCI 4610 and CSCI 6610.",
     "name" : "Computing & Quantum Computing"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-4620",
+    "credits" : "? credits",
+    "description" : "This course introduces quantum computing through the lens of classic CS computer organization and software engineering. The course is guided by the principle that \"you don't really understand something until you can code it\"; every concept covered in class will be reinforced by hands-on implementation. Students will not only study the theoretical foundations of quantum computation but will also build software artifacts that translate theory into practice. Participants will learn how to design and implement the abstractions that connect low-level hardware with high-level applications, forming the essential layers of the quantum computer and its associated software stack. Through a combination of lectures, coding projects, and real-world case studies, students will (a) build a solid understanding of quantum computing theory toward more advanced studies, (b) implement foundational data structures for quantum computing, as well as key quantum algorithms in software, (c) explore workload optimization, compilation, error mitigation, result validation and resource management in quantum systems, and (d) gain experience with modern quantum programming frameworks and hardware backends. By the end of the course, students will have developed the technical skills and practical experience necessary to become the workforce powering the next generation of quantum computing, creating tools, frameworks, and platforms that enable application developers, researchers, and domain experts to fully leverage quantum technologies.",
+    "name" : "Quantum Computer Organization"
   },
   {
     "attributes" : null,
@@ -16286,6 +16405,13 @@
     "credits" : "4 credits",
     "description" : "We will study theoretical and practical solutions to computational geometry problems found in computer graphics, visualization, vision, robotics, engineering, manufacturing, and geographic information systems.  Topics include convex hulls, half-planes, Voronoi diagrams, Delaunay triangulations, binary space partitions, motion planning, visibility, and meshes. Course activities include programming assignments, written homework with proofs of computational complexity, and a term project with presentation.",
     "name" : "Computational Geometry"
+  },
+  {
+    "attributes" : null,
+    "code" : "CSCI-6570",
+    "credits" : "? credits",
+    "description" : "This course will enable students to understand and apply software verification techniques with a particular emphasis on fundamental proof methods. The course will cover proof methods including implication chaining, applied to equational reasoning, sentential logic, and first-order logic. The course will also cover proofs about fundamental data types and algorithms. The course will use the Athena dual computation/deduction language, and the MIT Press book \"Fundamental Proof Methods in Computer Science\" by Konstantine Arkoudas and David Musser. Students will also review current research on software verification on topics of their interest, for example: model checking, symbolic testing, temporal logic, modal logics, formal programming language semantics, proof-carrying code, dependent types, and session types. Contingent on time availability, the course will study proofs at an abstract level for reusability and proofs about concurrent actor programs.",
+    "name" : "Software Verification"
   },
   {
     "attributes" : null,
@@ -19052,6 +19178,13 @@
     "name" : "Control Systems Engineering"
   },
   {
+    "attributes" : null,
+    "code" : "ECSE-4450",
+    "credits" : "? credits",
+    "description" : "This course introduces methods for automating the process of decision-making. Starting with the foundations of probabilistic reasoning, this course will cover Markov decision processes, which is a mathematical foundation for a sequential decision-making. Then it will focus on state uncertainty and introduce partially observable Markov decision processes and finally cover multi-agent reasoning.",
+    "name" : "Decision Making Under Uncrtnty"
+  },
+  {
     "attributes" : 
     [
       "WI"
@@ -19746,6 +19879,13 @@
     "credits" : "3 credits",
     "description" : "The concepts, techniques, and tools related to optimal control for dynamical systems. Major topics include calculus of variation, minimum principle, dynamic programming, optimal estimation, and differential games. Both discrete time systems and continuous times are addressed. Particular consideration is given to linear time invariant systems in terms of linear quadratic regulator and Kalman filter.",
     "name" : "Optimal Control Theory"
+  },
+  {
+    "attributes" : null,
+    "code" : "ECSE-6450",
+    "credits" : "? credits",
+    "description" : "This course introduces methods for automating the process of decision-making. Starting with the foundations of probabilistic reasoning, this course will cover Markov decision processes, which is a mathematical foundation for a sequential decision-making. Then it will focus on state uncertainty and introduce partially observable Markov decision processes and finally cover multi-agent reasoning.",
+    "name" : "Decision Making Under Uncrtnty"
   },
   {
     "attributes" : null,
@@ -30324,6 +30464,13 @@
   },
   {
     "attributes" : null,
+    "code" : "LGHT-4325",
+    "credits" : "? credits",
+    "description" : "This course provides an introduction to 3D printing for lighting and other light-related applications. The course uses instructional methodologies, including lectures, demonstrations, hands-on laboratory experimentation, reports, individual and group student projects, and presentations, to cover how 3D printing enables the making of light-related products and applications.",
+    "name" : "3d Printing For Lighting"
+  },
+  {
+    "attributes" : null,
     "code" : "LGHT-4760",
     "credits" : "4 credits",
     "description" : "The Lighting Workshop is a research and design studio integrating scholarship, technology, design, policy, and communication in an intensive, project specific context. The course includes a number of topics, selected each year by faculty. These topics are selected to emphasize scholarship; require a variety of written and verbal presentation techniques; increase synthesizing skills in design, applications, and visualization software; and require teamwork and individual efforts. The Lighting Workshop emphasizes studio and seminar work supplemented with lecture, class discussions, and individual and group research, design, writing, and reading assignments.",
@@ -30419,6 +30566,13 @@
     "credits" : "4 credits",
     "description" : "An advanced design studio that explores the roles of light and dark in architecture and their application by design. Students conceive, evaluate, and synthesize projects that contribute to thoughtful, sustainable, research-enhanced illumination in architecture and urban design.",
     "name" : "Advanced Lighting Design"
+  },
+  {
+    "attributes" : null,
+    "code" : "LGHT-6325",
+    "credits" : "? credits",
+    "description" : "This course provides an introduction to 3D printing for lighting and other light-related applications. The course uses instructional methodologies, including lectures, demonstrations, hands-on laboratory experimentation, reports, individual and group student projects, and presentations, to cover how 3D printing enables the making of light-related products and applications.",
+    "name" : "3d Printing For Lighting"
   },
   {
     "attributes" : null,
@@ -32645,6 +32799,13 @@
     "credits" : "3 credits",
     "description" : "Review of linear finite element concepts. Nonlinear continuum mechanics of solids: finite strain and stress measures, total and updated Lagrangian approaches, variational methods \u2013 virtual work principle. Non-linear finite element procedures: Incremental solution of nonlinear equations, Newton-Raphson method. Finite elements for elasto-plasticity. Finite elements for hyper-elasticity. Contact of solids using finite elements. Finite elements in dynamics.",
     "name" : "Intro Nonlinear Finite Elemnts"
+  },
+  {
+    "attributes" : null,
+    "code" : "MANE-6870",
+    "credits" : "? credits",
+    "description" : "System identification deals with building mathematical models of dynamical systems from observed data. Topics include linear time-invariant and time-varying systems; nonparametric time- and frequency-domain methods; parameter estimation and model validation; Gaussian process regression; supervised and unsupervised learning; hypothesis testing, and Bayesian inference. The course introduces transformer architectures for sequential data and time series foundation models, and probabilistic forecasting with uncertainty quantification. Emphasis is placed on practical engineering applications.",
+    "name" : "System Identification"
   },
   {
     "attributes" : null,
