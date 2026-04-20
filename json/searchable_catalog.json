@@ -1397,6 +1397,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ARCH-4555",
+    "credits" : "? credits",
+    "description" : "Design Programming 2  provides instruction in advanced capabilities of the Rhinocerous 3D and Grasshopper for automating design generation and analysis. Students are introduced to the ways in which geometry and data are managed in this modeling environment, how Python scripting can extend the base capabilities of both the parametric and command based interactions, and how to connect to information sources outside of the modeling environment to Web based resources. The course is structured through weekly lectures, bi-weekly assignments, and a final project in advanced generative modeling chosen by the student. Environmental Parametrics or strong experience in Grasshopper is required, basic familiarity with Python is recommended.",
+    "name" : "Design Programming 2"
+  },
+  {
+    "attributes" : null,
     "code" : "ARCH-4560",
     "credits" : "2 credits",
     "description" : "In a world of rapid technological change, this course aims to equip future architects with the ability to position, understand, and implement new materials and systems in meaningful ways. The working principles of selected advanced materials and systems are explained and issues of material development, applications, and integration into buildings systems are addressed. Emphasis is also placed on understanding the issues involved when combining and installing new materials or systems into buildings. Students are further introduced to detail development. Sustainability: New materials and systems are explored with the objective of formulating meaningful technological response to critical environmental and societal issues such as resource depletion, environmental degradation, and globalization.",
@@ -2134,6 +2141,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ARCH-6160",
+    "credits" : "? credits",
+    "description" : "How do we perform research? What is the relationship between research and design? How might they inform each other? How do we form and test hypotheses? What constitutes novelty in a research context? How does science relate to architecture vis-\u00e0-vis research?",
+    "name" : "Research Investigations"
+  },
+  {
+    "attributes" : null,
     "code" : "ARCH-6210",
     "credits" : "? credits",
     "description" : "",
@@ -2205,7 +2219,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6350",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "This initial studio segment will explore variable phases of data collection, processing, and synthesis through explorative visualization methods. These methods will bear the complexity of mapping dynamic forces present in nature juxtaposed to cultural and economical factors. Course taught in New York City.",
     "name" : "Design Research Studio"
   },
@@ -2292,6 +2306,13 @@
     "credits" : "? credits",
     "description" : "This is a seminar course restricted to students in their second year of doctoral study. It provides a critical forum for the discussion of issues from methods to sources confronting the students on the dissertation. This course will form the core of the interdisciplinary experience of the Doctor of Philosophy in Architectural Sciences. It supports the position that advanced work in architecture frequently builds on knowledge from several disciplines, and as such provides a model for encouraging cross disciplinary work in the Institute. It will involve a combination of senior faculty and visitors and regular presentation of dissertation work in progress.",
     "name" : "Interdisciplinary Phd Seminar"
+  },
+  {
+    "attributes" : null,
+    "code" : "ARCH-6555",
+    "credits" : "? credits",
+    "description" : "Design Programming 2  provides instruction in advanced capabilities of the Rhinocerous 3D and Grasshopper for automating design generation and analysis. Students are introduced to the ways in which geometry and data are managed in this modeling environment, how Python scripting can extend the base capabilities of both the parametric and command based interactions, and how to connect to information sources outside of the modeling environment to Web based resources. The course is structured through weekly lectures, bi-weekly assignments, and a final project in advanced generative modeling chosen by the student. Environmental Parametrics or strong experience in Grasshopper is required, basic familiarity with Python is recommended.",
+    "name" : "Design Programming 2"
   },
   {
     "attributes" : null,
@@ -37244,6 +37265,13 @@
     "credits" : "1 credit",
     "description" : "Elementary programming concepts, basic data analysis and visualization using the Python programming language for students with little or no prior programming experience. Topics covered include variables, control flow, arrays, plotting, curve fitting and basic numerical simulation, using examples based in materials engineering. Graded Satisfactory / Unsatisfactory",
     "name" : "Programming For Engineers"
+  },
+  {
+    "attributes" : null,
+    "code" : "MTLE-2050",
+    "credits" : "? credits",
+    "description" : "Introduction to programming, data analysis, and numerical simulations, along with underlying foundational concepts in linear algebra and multivariable calculus, applied to examples based in materials engineering. Topics include data structures, control flow, plotting, model fitting, matrix inversion, diagonalization, and partial differential equations.",
+    "name" : "Computational Analysis"
   },
   {
     "attributes" : null,
