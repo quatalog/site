@@ -4975,6 +4975,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ASTR-6110",
+    "credits" : "? credits",
+    "description" : "Cosmology is the study of the Universe as a whole. In this course we will try to answer the following questions (among others): What are the contents of the Universe? How has the history of the Universe looked until now? How will the Universe evolve from here? Why is one location in the Universe not more special than another? And why is one direction not more special than another? Students will write a paper based on an advanced topic related to this course, synthesizing information from multiple sources.",
+    "name" : "Cosmology"
+  },
+  {
+    "attributes" : null,
     "code" : "ASTR-6250",
     "credits" : "3 credits",
     "description" : "Thermal structure and dynamics of the interstellar medium. Topics include diffuse nebulae, composition of interstellar dust and relation to extinction and polarization, molecules and interstellar chemistry, physics of star-forming regions.",
@@ -25428,6 +25435,13 @@
   },
   {
     "attributes" : null,
+    "code" : "GSAS-6320",
+    "credits" : "? credits",
+    "description" : "One distinctive feature of games is that they are played.  While much can be learned by analyzing the texts, images, artifacts, and paratexts of games, if we ignore the humans that design and play the games our understanding will be limited. In this course, we will investigate and practice methods for learning about games from human participants. While methods cannot ultimately be isolated from broader questions of theory and research design, this course focuses primarily on the practical skills required to effectively create, organize, and analyze data created using ethnographic methods.",
+    "name" : "Ethnographic Methods Cgd"
+  },
+  {
+    "attributes" : null,
     "code" : "GSAS-6400",
     "credits" : "3 credits",
     "description" : "A seminar course that focuses on the history and theory of alternative and socially-engaged design for interactive media. Students will read and discuss design history, art history, conceptual artistic practice, and new and emerging theories about digital, critical, and speculative design and the digital humanities. The course is designed to advance students\u2019 understanding of bodies of academic literature and theory that explore the hybridization of hermeneutic analysis and design and making practice.",
@@ -39765,8 +39779,8 @@
     "attributes" : null,
     "code" : "PHYS-6110",
     "credits" : "3 credits",
-    "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
-    "name" : "Methods Theoretical Physics"
+    "description" : "",
+    "name" : "Cosmology"
   },
   {
     "attributes" : null,
