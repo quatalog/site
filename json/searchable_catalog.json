@@ -1199,7 +1199,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4222",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "System Prototyping 1 introduces students to constructing and analyzing complex systems through advanced computation, with applications in architecture, urban systems, the built environment, and other interdependent systems. Students leverage data mining, ML models, and other optimization techniques to uncover system mechanisms, interdependencies, and feedback loops, then translate insights into architectural representations (drawings, diagrams, and computational workflows) and prototype interfaces/models that visualize system dynamics.",
     "name" : "Systems Prototyping 1"
   },
@@ -1262,7 +1262,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4321",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "A seminar course that establishes an understanding and sense of urgency around the impact of building design on climate change. The course introduces fundamental theory and simulation tools for calculating energy flows, passive and active systems, and operational carbon in the built environment, preparing researchers and advanced professionals to analyze and improve their designs using various analytical tools.",
     "name" : "Built Ecologies 1"
   },
@@ -1290,7 +1290,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4333",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Environmental Parametrics 1: This course is an intensive workshop in parametric modeling with specialized focus on environmental simulation and sustainable design. Students learn tools to navigate the intersection of environmental design and computational workflows by mastering parametric modeling and optimization for sustainability. Students gain proficiency in using parametric applications as both an analytical tool and a generative design device. The course exposes students to feedback loops between environmental analysis and design decision, fostering performance-based design strategies. Students explore the integration of parametric modeling with building energy modeling and bioclimatic analysis. Project based exercises are developed to address ecological design principles and optimize systems for multivariable trade-offs.",
     "name" : "Environmental Parametrics 1"
   },
@@ -1339,7 +1339,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4444",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Material Systems 1 examines materials through first principles, material classification, material production, and material impacts. Students develop criteria to make reasoned choices for the implementation of materials in the built environment. The course is organized in four interconnected sections:",
     "name" : "Material Systems 1"
   },
@@ -1723,7 +1723,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4958",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "",
     "name" : "Topics Course In Architecture"
   },
@@ -2142,7 +2142,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6160",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "How do we perform research? What is the relationship between research and design? How might they inform each other? How do we form and test hypotheses? What constitutes novelty in a research context? How does science relate to architecture vis-\u00e0-vis research?",
     "name" : "Research Investigations"
   },
@@ -2163,7 +2163,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6222",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "System Prototyping 1 introduces students to constructing and analyzing complex systems through advanced computation, with applications in architecture, urban systems, the built environment, and other interdependent systems. Students leverage data mining, ML models, and other optimization techniques to uncover system mechanisms, interdependencies, and feedback loops, then translate insights into architectural representations (drawings, diagrams, and computational workflows) and prototype interfaces/models that visualize system dynamics.",
     "name" : "Systems Prototyping 1"
   },
@@ -2198,7 +2198,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6333",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course is an intensive workshop in parametric modeling with specialized focus on environmental simulation and sustainable design. Students learn tools to navigate the intersection of environmental design and computational workflows by mastering parametric modeling and optimization for sustainability. Students gain proficiency in using parametric applications as both an analytical tool and a generative design device. The course exposes students to feedback loops between environmental analysis and design decision, fostering performance-based design strategies. Students explore the integration of parametric modeling with building energy modeling and bioclimatic analysis. Project based exercises are developed to address ecological design principles and optimize systems for multivariable trade-offs.",
     "name" : "Environmental Parametrics 1"
   },
@@ -2268,7 +2268,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6444",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Material Systems 1 examines materials through first principles, material classification, material production, and material impacts. Students develop criteria to make reasoned choices for the implementation of materials in the built environment. The course is organized in four interconnected sections:",
     "name" : "Material Systems 1"
   },
