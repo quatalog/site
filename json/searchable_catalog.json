@@ -22502,6 +22502,13 @@
   },
   {
     "attributes" : null,
+    "code" : "ENVE-4800",
+    "credits" : "? credits",
+    "description" : "The design of processes and systems to protect public and ecosystem health using scientific, technological, and economic principles. Students formulate problems, develop requirements, and evaluate solutions against specifications, constraints, risks, and trade-offs. Students integrate background from previous courses and resources from the technical literature. The role of ethics and codes in professional practice is discussed. In this communication-intensive course, students write engineering proposals and reports, and present work orally.",
+    "name" : "Environmental Engring Capstone"
+  },
+  {
+    "attributes" : null,
     "code" : "ENVE-4810",
     "credits" : "3 credits",
     "description" : "This course is not in the most recent catalog. It may have been discontinued, had its course code changed, or just not be in the catalog for some other reason.",
