@@ -2541,7 +2541,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6960",
-    "credits" : "3 credits",
+    "credits" : "2 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ARCH"
   },
@@ -30563,7 +30563,7 @@
   {
     "attributes" : null,
     "code" : "LGHT-4960",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in LGHT"
   },
