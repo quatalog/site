@@ -9601,7 +9601,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4340",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Organic Chemistry III is an advanced organic chemistry course that develops a mechanistic and strategic understanding of modern synthetic chemistry. Topics include stereochemistry and stereochemical control, conformational analysis, aromaticity and molecular orbital theory, pericyclic reactions, organometallic chemistry and catalytic cycles, retrosynthetic analysis, heterocyclic chemistry, and asymmetric synthesis.",
     "name" : "Organic Chemistry III"
   },
@@ -10070,7 +10070,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-6340",
-    "credits" : "3 credits",
+    "credits" : "? credits",
     "description" : "Organic Synthesis & Stereochemistry is an advanced organic chemistry course that develops a mechanistic and strategic understanding of modern synthetic chemistry. Topics include stereochemistry and stereochemical control, conformational analysis, aromaticity and molecular orbital theory, pericyclic reactions, organometallic chemistry and catalytic cycles, retrosynthetic analysis, heterocyclic chemistry, and asymmetric synthesis. Emphasis is placed on predicting reaction outcomes, analyzing mechanisms, and designing efficient synthetic routes to complex molecules. Students also engage in critical analysis of current research literature and gain structured training in scientific writing and the research publication process.",
     "name" : "Organic Sythesis & Stereochem"
   },
