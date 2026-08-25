@@ -25625,7 +25625,7 @@
   {
     "attributes" : null,
     "code" : "GSAS-6940",
-    "credits" : "6 credits",
+    "credits" : "1-9 credits",
     "description" : "Credit Hours: 1 to 4",
     "name" : "Graduate Independent Study"
   },
@@ -42722,7 +42722,7 @@
   {
     "attributes" : null,
     "code" : "STSO-6940",
-    "credits" : "3 credits",
+    "credits" : "1-9 credits",
     "description" : "With an individual faculty member on an agreed-upon topic.",
     "name" : "Graduate Independent Study"
   },
