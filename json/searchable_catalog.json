@@ -31241,7 +31241,10 @@
     "name" : "Women Writers"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "LITR-4826",
     "credits" : "4 credits",
     "description" : "Using a world-building and storytelling framework similar to a table-top roleplaying game, students create characters that become vampires shortly after the invention of the photographic image. They come together as covens and witness the evolution of motion pictures through the present day, encountering media and culture spanning 200 years. The semester culminates in a festival of the history of images and motion pictures, recounting the un-life of images as it relates to living cultural histories.",
