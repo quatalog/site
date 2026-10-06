@@ -1206,7 +1206,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4223",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This seminar introduces the design and prototyping of smart systems for the built environment\u2014including smart cities/building control and IoT\u2014through the lenses of cybernetics and human\u2013building/human\u2013computer interaction (HBI/HCI). Students prototype real\u2011world events as inputs, process data, and design outputs (light, motion, sound, visualization) using Arduino\u2011class microcontrollers and introductory communication protocols. In the second half, students connect physical prototypes to Unity3D for digital\u2011twin/XR workflows and explore photogrammetry/point\u2011cloud and basic computer\u2011vision methods to stage responsive, post\u2011human interaction scenarios.",
     "name" : "Systems Prototyping 2"
   },
@@ -1297,7 +1297,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4334",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Environmental Parametrics 2 explores the integration of parametric modeling and digital fabrication through the lens of the building skin. Students will develop computational design workflows in Rhino/Grasshopper, focusing on how digital logic can be translated into physical reality using technologies such as laser cutting, 3D printing, CNC routing, and vacuum forming. The curriculum emphasizes \"File-to-Factory\" workflows, material agency, and the development of assembly systems. Students will move from abstract geometric studies to the production of a high-fidelity, multi-material facade prototype.",
     "name" : "Environmental Parametrics 2"
   },
@@ -1346,7 +1346,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4445",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Operating at the intersection of material science, sustainability and design for the built environment, in Material Systems 2 students interrogate the performance of materials for design goals, analyze their life cycles and produce material prototypes viewing them across scales from material composition to supply chain. The course is organized into three interconnected sections:",
     "name" : "Material Systems 2"
   },
@@ -1398,7 +1398,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-4555",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Design Programming 2  provides instruction in advanced capabilities of the Rhinocerous 3D and Grasshopper for automating design generation and analysis. Students are introduced to the ways in which geometry and data are managed in this modeling environment, how Python scripting can extend the base capabilities of both the parametric and command based interactions, and how to connect to information sources outside of the modeling environment to Web based resources. The course is structured through weekly lectures, bi-weekly assignments, and a final project in advanced generative modeling chosen by the student. Environmental Parametrics or strong experience in Grasshopper is required, basic familiarity with Python is recommended.",
     "name" : "Design Programming 2"
   },
@@ -2170,7 +2170,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6223",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This seminar introduces the design and prototyping of smart systems for the built environment\u2014including smart cities/building control and IoT\u2014through the lenses of cybernetics and human\u2013building/human\u2013computer interaction (HBI/HCI). Students prototype real\u2011world events as inputs, process data, and design outputs (light, motion, sound, visualization) using Arduino\u2011class microcontrollers and introductory communication protocols. In the second half, students connect physical prototypes to Unity3D for digital\u2011twin/XR workflows and explore photogrammetry/point\u2011cloud and basic computer\u2011vision methods to stage responsive, post\u2011human interaction scenarios.",
     "name" : "Systems Prototyping 2"
   },
@@ -2205,7 +2205,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6334",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Environmental Parametrics 2: explores the integration of parametric modeling and digital fabrication through the lens of the building skin. Students will develop computational design workflows in Rhino/Grasshopper, focusing on how digital logic can be translated into physical reality using technologies such as laser cutting, 3D printing, CNC routing, and vacuum forming. The curriculum emphasizes \"File-to-Factory\" workflows, material agency, and the development of assembly systems. Students will move from abstract geometric studies to the production of a high-fidelity, multi-material facade prototype.",
     "name" : "Environmental Parametrics 2"
   },
@@ -2275,7 +2275,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6445",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Operating at the intersection of material science, sustainability and design for the built environment, in Material Systems 2 students interrogate the performance of materials for design goals, analyze their life cycles and produce material prototypes viewing them across scales from material composition to supply chain. The course is organized into three interconnected sections:",
     "name" : "Material Systems 2"
   },
@@ -2310,7 +2310,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6555",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Design Programming 2  provides instruction in advanced capabilities of the Rhinocerous 3D and Grasshopper for automating design generation and analysis. Students are introduced to the ways in which geometry and data are managed in this modeling environment, how Python scripting can extend the base capabilities of both the parametric and command based interactions, and how to connect to information sources outside of the modeling environment to Web based resources. The course is structured through weekly lectures, bi-weekly assignments, and a final project in advanced generative modeling chosen by the student. Environmental Parametrics or strong experience in Grasshopper is required, basic familiarity with Python is recommended.",
     "name" : "Design Programming 2"
   },
@@ -2345,7 +2345,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6635",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course spans between architectural development and professional practice. The course focuses on a core of technical points central to the professional practice and fields of specialist expertise. The course integrates a professional review and development process of students' comprehensive design work combined with technical design workshops, including input from practicing architects, engineers and professional consultants. In addition to workshops, the format of the course will include lectures, site visits, and office visits with a variety of practitioners and specialist consultants engaged in the Architecture, Engineering and Construction (AEC) industries. The course will add depth, increase knowledge and provide critical feedback for the expanded role of the design professional in contemporary culture.",
     "name" : "Bridge To Practice"
   },
@@ -2639,7 +2639,7 @@
   {
     "attributes" : null,
     "code" : "ARCH-6990",
-    "credits" : "1-12 credits",
+    "credits" : "1-9 credits",
     "description" : "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation.  Grades of S or U are assigned by the adviser each term to reflect the student's research progress for the given semester.  Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
     "name" : "Master's Thesis"
   },
@@ -8077,7 +8077,7 @@
   {
     "attributes" : null,
     "code" : "BMED-4520",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course will cover the fundamentals of basic immunobiology and then describe engineering strategies to modulate, control, and exploit immune responses to improve human health. Through lectures, literature reviews, and group projects we will understand the principles of innate and adaptive immunology, explore the immunologist's toolkit to measure and assess immune cells and responses, and study new engineering approaches to modulate the immune system that have developed immunotherapies against cancer, autoimmunity, and other diseases.",
     "name" : "Immunoengineering"
   },
@@ -8465,7 +8465,7 @@
   {
     "attributes" : null,
     "code" : "BMED-6520",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course will cover the fundamentals of basic immunobiology and then describe engineering strategies to modulate, control, and exploit immune responses to improve human health. Through lectures, literature reviews, and group projects we will understand the principles of innate and adaptive immunology, explore the immunologist\u2019s toolkit to measure and assess immune cells and responses, and study new engineering approaches to modulate the immune system that have developed immunotherapies against cancer, autoimmunity, and other diseases.",
     "name" : "Immunoengineering"
   },
@@ -9692,7 +9692,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4630",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "Segmented into four modules; grant writing, project management, statistical tools, and intellectual property, students are introduced to an industrial scientist's perspective to: (i) garner funding for R&D projects (proposal writing, general PI training), (ii) effectively manage project work (administrative/programmatic aspects/tools), (iii) execute on a project/problem leveraging so-called \u2018Design of Experiment\u2019 (DoE) tools, and (iv) protect project work-products through intellectual property (IP) filings. May not receive credit for both 4000 and 6000 level versions of this course. 3cr.",
     "name" : "Tech & Ldrshp Skills: Academia"
   },
@@ -9860,7 +9860,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4965",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -10259,7 +10259,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-6960",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -10294,7 +10294,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-6965",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -15919,7 +15919,10 @@
     "name" : "Topics in CSCI"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "CSCI-4962",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -16532,7 +16535,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6964",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -16567,7 +16570,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6969",
-    "credits" : "3 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -18793,7 +18796,7 @@
   {
     "attributes" : null,
     "code" : "ECSE-2470",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course provides an introduction to Robot Operating System (ROS), a widely used middleware for robot programming. Students will learn the basic components of ROS, how to utilize and write ROS packages, gain experience utilizing simulation software, and apply the concepts to physical platforms.",
     "name" : "Intro To Robot Programming"
   },
@@ -19478,7 +19481,7 @@
   {
     "attributes" : null,
     "code" : "ECSE-4965",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ECSE"
   },
@@ -21538,7 +21541,7 @@
   {
     "attributes" : null,
     "code" : "ENGR-4460",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course is designed to prepare engineering students for success in professional environments by building essential workplace skills. Students will develop and refine their communication abilities, strengthen professional interactions, and craft effective career planning strategies. Through interactive modules and experiential learning, students will gain confidence in public speaking, enhance written and verbal communication, and master practical tools for navigating the workplace with professionalism and integrity. The course is open to undergraduate and graduate engineering students.",
     "name" : "Prof Skills For Engr Success"
   },
@@ -26609,7 +26612,6 @@
   {
     "attributes" : 
     [
-      "CI",
       "HInq"
     ],
     "code" : "INQR-1040",
@@ -29596,7 +29598,7 @@
   {
     "attributes" : null,
     "code" : "ITWS-6940",
-    "credits" : "3 credits",
+    "credits" : "1-9 credits",
     "description" : "",
     "name" : "Graduate Independent Study"
   },
@@ -31239,7 +31241,10 @@
     "name" : "Women Writers"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "LITR-4826",
     "credits" : "4 credits",
     "description" : "Using a world-building and storytelling framework similar to a table-top roleplaying game, students create characters that become vampires shortly after the invention of the photographic image. They come together as covens and witness the evolution of motion pictures through the present day, encountering media and culture spanning 200 years. The semester culminates in a festival of the history of images and motion pictures, recounting the unlife of images as it relates to living cultural histories.",
@@ -31604,7 +31609,7 @@
   {
     "attributes" : null,
     "code" : "MANE-2550",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course provides an introduction to Robot Operating System (ROS), a widely used middleware for robot programming. Students will learn the basic components of ROS, how to utilize and write ROS packages, gain experience utilizing simulation software, and apply the concepts to physical platforms.",
     "name" : "Intro To Robot Programming"
   },
@@ -39846,7 +39851,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-4962",
-    "credits" : "4 credits",
+    "credits" : "1 credit",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in PHYS"
   },
@@ -40070,7 +40075,7 @@
   {
     "attributes" : null,
     "code" : "PHYS-6940",
-    "credits" : "4 credits",
+    "credits" : "1-9 credits",
     "description" : "Supervised reading and study in various fields of physics.",
     "name" : "Graduate Independent Study"
   },
@@ -41261,7 +41266,7 @@
   {
     "attributes" : null,
     "code" : "ROBT-2010",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course provides an introduction to Robot Operating System (ROS), a widely used middleware for robot programming. Students will learn the basic components of ROS, how to utilize and write ROS packages, gain experience utilizing simulation software, and apply the concepts to physical platforms.",
     "name" : "Intro To Robot Programming"
   },
@@ -41275,7 +41280,7 @@
   {
     "attributes" : null,
     "code" : "ROBT-4020",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course introduces methods to develop numerical and algorithmic techniques necessary for mobile robots to navigate and coordinate. Topics include mobile robot kinematics and dynamics, control, localization, mapping, path planning, and multi-robot systems.",
     "name" : "Mobile Robotics & Planning"
   },
@@ -42045,7 +42050,8 @@
   {
     "attributes" : 
     [
-      "CI"
+      "CI",
+      "PDII"
     ],
     "code" : "STSO-4260",
     "credits" : "4 credits",
@@ -44791,7 +44797,10 @@
     "name" : "Video Art And Installation"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "WRIT-4750",
     "credits" : "4 credits",
     "description" : "Expert writers and speakers must convey complex technical information to non-specialist audiences with different knowledges, skills, assumptions, and goals. Therefore, this course is meant to (1) introduce students to major approaches to technical communication and (2) help students in technical professions or professional fields prepare for the types of research, writing, and information presentation that they may do in their careers after graduation. Moreover, students will learn about the basic social implications of technical communication.",
