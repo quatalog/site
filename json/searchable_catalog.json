@@ -15788,7 +15788,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4570",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course will enable students to understand and apply software verification techniques with a particular emphasis on fundamental proof methods. The course will cover proof methods including implication chaining, applied to equational reasoning, sentential logic, and first-order logic. The course will also cover proofs about fundamental data types and algorithms. The course will use the Athena dual computation/deduction language, and the MIT Press book \"Fundamental Proof Methods in Computer Science\" by Konstantine Arkoudas and David Musser. Students will also review current research on software verification on topics of their interest, for example: model checking, symbolic testing, temporal logic, modal logics, formal programming language semantics, proof-carrying code, dependent types, and session types. Contingent on time availability, the course will study proofs at an abstract level for reusability and proofs about concurrent actor programs.",
     "name" : "Software Verification"
   },
@@ -15919,10 +15919,7 @@
     "name" : "Topics in CSCI"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "CSCI-4962",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -15938,7 +15935,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4964",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15973,7 +15970,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-4969",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -16430,7 +16427,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6570",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "This course will enable students to understand and apply software verification techniques with a particular emphasis on fundamental proof methods. The course will cover proof methods including implication chaining, applied to equational reasoning, sentential logic, and first-order logic. The course will also cover proofs about fundamental data types and algorithms. The course will use the Athena dual computation/deduction language, and the MIT Press book \"Fundamental Proof Methods in Computer Science\" by Konstantine Arkoudas and David Musser. Students will also review current research on software verification on topics of their interest, for example: model checking, symbolic testing, temporal logic, modal logics, formal programming language semantics, proof-carrying code, dependent types, and session types. Contingent on time availability, the course will study proofs at an abstract level for reusability and proofs about concurrent actor programs.",
     "name" : "Software Verification"
   },
@@ -16535,7 +16532,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6964",
-    "credits" : "4 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -16563,14 +16560,14 @@
   {
     "attributes" : null,
     "code" : "CSCI-6968",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
   {
     "attributes" : null,
     "code" : "CSCI-6969",
-    "credits" : "1 credit",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -20243,7 +20240,7 @@
   {
     "attributes" : null,
     "code" : "ECSE-6967",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in ECSE"
   },
