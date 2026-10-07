@@ -16155,7 +16155,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6050",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "This course covers the formal foundations of computability and complexity. We aim to answer fundamental questions about what problems can be solved and what problems cannot be solved, and what problems can be solved given our limited resources. Topics include: the Church-Turing thesis; variations of Turing Machines; decidability; the Halting Problem; reducibility; the Recursion Theorem; time and space complexity; intractability; NP-completeness; and Cook\u2019s theorem. We will also discuss some emerging and unconventional computing models.",
     "name" : "Theory Of Computation"
   },
