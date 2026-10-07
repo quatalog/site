@@ -16532,7 +16532,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-6964",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -25317,7 +25317,10 @@
     "name" : "Topics in GSAS"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "GSAS-2961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -34597,7 +34600,7 @@
   {
     "attributes" : null,
     "code" : "MATP-6960",
-    "credits" : "4 credits",
+    "credits" : "1-6 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MATP"
   },
