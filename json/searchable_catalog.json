@@ -15062,7 +15062,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-1969",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -15272,7 +15272,7 @@
   {
     "attributes" : null,
     "code" : "CSCI-2961",
-    "credits" : "1-2 credits",
+    "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CSCI"
   },
@@ -32284,14 +32284,14 @@
   {
     "attributes" : null,
     "code" : "MANE-4962",
-    "credits" : "3 credits",
+    "credits" : "1-6 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
   {
     "attributes" : null,
     "code" : "MANE-4963",
-    "credits" : "3 credits",
+    "credits" : "0-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
@@ -32312,7 +32312,7 @@
   {
     "attributes" : null,
     "code" : "MANE-4966",
-    "credits" : "2 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
@@ -32900,21 +32900,21 @@
   {
     "attributes" : null,
     "code" : "MANE-6961",
-    "credits" : "3 credits",
+    "credits" : "1-6 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
   {
     "attributes" : null,
     "code" : "MANE-6962",
-    "credits" : "3 credits",
+    "credits" : "1-6 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
   {
     "attributes" : null,
     "code" : "MANE-6963",
-    "credits" : "3 credits",
+    "credits" : "1-3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
@@ -32928,35 +32928,35 @@
   {
     "attributes" : null,
     "code" : "MANE-6965",
-    "credits" : "3 credits",
+    "credits" : "1-3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
   {
     "attributes" : null,
     "code" : "MANE-6966",
-    "credits" : "3 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
   {
     "attributes" : null,
     "code" : "MANE-6967",
-    "credits" : "3 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
   {
     "attributes" : null,
     "code" : "MANE-6968",
-    "credits" : "3 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
   {
     "attributes" : null,
     "code" : "MANE-6969",
-    "credits" : "3 credits",
+    "credits" : "1-4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in MANE"
   },
