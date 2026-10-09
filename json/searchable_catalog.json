@@ -25324,10 +25324,7 @@
     "name" : "Topics in GSAS"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "GSAS-2961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -25576,7 +25573,7 @@
   {
     "attributes" : null,
     "code" : "GSAS-6120",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "This course is the second in a two-semester graduate-level studio course sequence in development and production of games. Students work in teams, going through the game production cycle across two semesters, from ideation and production planning to development and public release of one or more game projects. Creativity, technical implementation, interdisciplinary teamwork, and production practices are emphasized, to prepare students for professional studio environments. Graduate Game Studio 2 covers the second half of the development cycle, leading to a completed, releasable product.",
     "name" : "Graduate Game Studio 2"
   },
