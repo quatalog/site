@@ -9832,7 +9832,7 @@
   {
     "attributes" : null,
     "code" : "CHEM-4961",
-    "credits" : "2 credits",
+    "credits" : "3 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in CHEM"
   },
@@ -14148,10 +14148,7 @@
     "name" : "Ugrad Research Project"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "COMM-4960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -22493,7 +22490,7 @@
   {
     "attributes" : null,
     "code" : "ENVE-4690",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Fundamentals of aqueous chemistry as applied to the evolution of natural waters. The course covers principles of chemical equilibrium, activity models for solutes, pH as a master variable, concentration and Eh-pH diagrams, mineral solubility, aqueous complexes, ion exchange, and stable isotopes. The carbonate system, weathering reactions, and acid rain are examined in detail. Emphasis is on the chemical reactions that control surface and groundwater evolution in natural and engineered (treatment process) settings. Students learn theory, computation methods, and the use of computer programs for calculation of speciation and mass balance.",
     "name" : "Aqueous Goechemistry"
   },
@@ -22923,7 +22920,7 @@
   {
     "attributes" : null,
     "code" : "ENVE-6690",
-    "credits" : "3 credits",
+    "credits" : "4 credits",
     "description" : "",
     "name" : "Aqueous Geochemistry"
   },
@@ -31031,20 +31028,14 @@
     "name" : "Undergraduate Research Proj"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "LITR-2960",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
     "name" : "Topics in LITR"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "LITR-2961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -41277,7 +41268,7 @@
   {
     "attributes" : null,
     "code" : "ROBT-4010",
-    "credits" : "? credits",
+    "credits" : "3 credits",
     "description" : "A survey of the fundamental issues necessary for the design, analysis, control, and implementation of robotic systems. The mathematical description of robot manipulators in terms of kinematics and dynamics. Path following, control, and sensing. Examples of several currently available manipulators.",
     "name" : "Manipulator Kinematics & Dynmc"
   },
