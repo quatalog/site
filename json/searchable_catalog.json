@@ -6841,6 +6841,16 @@
     [
       "CI"
     ],
+    "code" : "BIOL-4730",
+    "credits" : "6 credits",
+    "description" : "Computational Biology Laboratory is a hands-on, project-based laboratory course in which students build reproducible computational pipelines, apply modern machine-learning and AI methods to real biological data, personally train and fine-tune an AI model on research-grade compute infrastructure, and orchestrate an agentic AI research system. Students will be exposed to a number of core algorithmic ideas \u2014 sequence analysis and variant calling, natural language processing of biomedical text, molecular docking, immunoinformatics, systems pharmacology, biomedical knowledge graphs, and genome editing \u2014 that will be taught through applied, hands-on modules rather than lecture.",
+    "name" : "Computational Biology Adv Lab"
+  },
+  {
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "BIOL-4740",
     "credits" : "6 credits",
     "description" : "Students will learn a variety of modern cell biology techniques such as cell culture, genetic analysis, immunocytochemistry, fluorescence microscopy, and live cell imaging. Using these techniques, students will investigate the function of genetically manipulated proteins in cells. In the last third of the semester, students will develop independent experimental research plans to address questions of interest to the student. This is a communication-intensive course.",
