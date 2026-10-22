@@ -25331,7 +25331,10 @@
     "name" : "Topics in GSAS"
   },
   {
-    "attributes" : null,
+    "attributes" : 
+    [
+      "CI"
+    ],
     "code" : "GSAS-2961",
     "credits" : "4 credits",
     "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
@@ -25418,10 +25421,7 @@
     "name" : "Writing For Games I"
   },
   {
-    "attributes" : 
-    [
-      "CI"
-    ],
+    "attributes" : null,
     "code" : "GSAS-4250",
     "credits" : "4 credits",
     "description" : "This is the third course in the central track of the Writing concentration for GSAS students. In this course, students gain exposure to elements of the bigger creative picture, including intellectual property (IP) development, world-building, and original character design. Students also continue to refine their competency in game writing essentials while exploring complex game narrative challenges such as branching, open-world, and other non-linear structures.",
