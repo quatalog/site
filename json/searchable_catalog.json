@@ -32974,6 +32974,13 @@
   },
   {
     "attributes" : null,
+    "code" : "MANE-6971",
+    "credits" : "3 credits",
+    "description" : "Course codes between X960 and X979 are for topics courses. They are often recycled and used for new or experimental courses.",
+    "name" : "Topics in MANE"
+  },
+  {
+    "attributes" : null,
     "code" : "MANE-6980",
     "credits" : "1-9 credits",
     "description" : "Active participation in a master\u2019s-level project, under the supervision of a faculty adviser, leading to a master\u2019s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master\u2019s project may be accepted by the Office of Graduate Education to be archived in the library.",
@@ -37291,7 +37298,7 @@
   {
     "attributes" : null,
     "code" : "MTLE-2050",
-    "credits" : "? credits",
+    "credits" : "4 credits",
     "description" : "Introduction to programming, data analysis, and numerical simulations, along with underlying foundational concepts in linear algebra and multivariable calculus, applied to examples based in materials engineering. Topics include data structures, control flow, plotting, model fitting, matrix inversion, diagonalization, and partial differential equations.",
     "name" : "Computational Analysis"
   },
