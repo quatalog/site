@@ -22972,7 +22972,7 @@
   {
     "attributes" : null,
     "code" : "ENVE-6940",
-    "credits" : "1-6 credits",
+    "credits" : "1-9 credits",
     "description" : "Credit Hours: 1 to 4",
     "name" : "Graduate Independent Study"
   },
@@ -33926,7 +33926,7 @@
   {
     "attributes" : null,
     "code" : "MATH-6790",
-    "credits" : "1-4 credits",
+    "credits" : "4 credits",
     "description" : "Advanced methods and/or applications of mathematics. Possible topics include: nonlinear continuum mechanics, nonlinear waves, inverse problems, nonlinear optics, combustion, acoustic wave propagation, similarity methods for differential equations, quantum field theory and statistical mechanics, stability of fluid flows, biomathematics, and finance.",
     "name" : "Topics In Applied Math"
   },
